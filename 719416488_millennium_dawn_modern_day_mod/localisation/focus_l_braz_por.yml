@@ -1,5 +1,5 @@
 l_english:
- WHILE_FOCUSING: "Ao focar nisso, haverá os seguintes efeitos: \ n $ EFF $"
+ WHILE_FOCUSING: "Ao focar nisso, haverá os seguintes efeitos:\n$ EFF $"
  generic_focus: "Foco Nacional"
  NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE: "Os ramos são mutuamente exclusivos."
  NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Mutuamente exclusivo com"

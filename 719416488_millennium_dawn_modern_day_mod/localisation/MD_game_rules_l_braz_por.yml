@@ -2,12 +2,12 @@ l_english:
  MD_RULES: "Regras do Millennium Dawn"
 
  RULE_REMOVE_MICRO_STATES: "Rremove Micro States"
- RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "A remoção dos microestados deve ajudar no desempenho das máquinas de baixo custo. \ NA maioria das nações do Caribe está anexada ao Reino Unido, Bahamas aos EUA, Trinidad a Venezeula e todos os micro estados da Europa ao seu benfeitor mais próximo."
- RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Remover microestados deve ajudar no desempenho de máquinas de baixo custo. \ N"
+ RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "A remoção dos microestados deve ajudar no desempenho das máquinas de baixo custo.\nA maioria das nações do Caribe está anexada ao Reino Unido, Bahamas aos EUA, Trinidad a Venezeula e todos os micro estados da Europa ao seu benfeitor mais próximo."
+ RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Remover microestados deve ajudar no desempenho de máquinas de baixo custo.\n"
 
  RULE_DISABLE_NUKES: "Habilitar Nukes"
- RULE_YES_DISABLE_NUKES_DESC: "Nukes serão permitidos. \ N"
- RULE_NO_DISABLE_NUKES_DESC: "Nukes não serão permitidos. \ N \ nAtivar este recurso não é recomendado, pois a IA e outras coisas podem se tornar estranhas. Este é apenas um porto normal para nukes."
+ RULE_YES_DISABLE_NUKES_DESC: "Nukes serão permitidos.\n"
+ RULE_NO_DISABLE_NUKES_DESC: "Nukes não serão permitidos.\n\nAtivar este recurso não é recomendado, pois a IA e outras coisas podem se tornar estranhas. Este é apenas um porto normal para nukes."
 
  RULE_DISABLE_NATO: "Desativar NATO"
  RULE_YES_DISABLE_NATO_DESC: "A OTAN será desativada ao carregar no jogo"
@@ -30,21 +30,21 @@ l_english:
  RULE_NO_MD_CHAOS_MODE_DESC: "Modo MD Chaos desativado"
 
  RULE_ENABLE_DIVISION_LIMITER: "Habilitar Limitador de Divisão AI"
- RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão AI desativado \ n \ nPor padrão, o AI não será limitado no número de unidades que pode produzir. Se você deseja limitar as divisões por motivos de desempenho, habilite-me!"
- RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão de IA habilitado \ n \ nQuando eu estiver habilitado, a IA terá menos probabilidade de produzir unidades permitindo uma experiência mais dinâmica para permitir que o jogador jogue com relativa paz!"
+ RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão AI desativado\n\nPor padrão, o AI não será limitado no número de unidades que pode produzir. Se você deseja limitar as divisões por motivos de desempenho, habilite-me!"
+ RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão de IA habilitado\n\nQuando eu estiver habilitado, a IA terá menos probabilidade de produzir unidades permitindo uma experiência mais dinâmica para permitir que o jogador jogue com relativa paz!"
  RULE_OPTION_POTATO_EDITION: "Potato Edition"
- RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Limitador de divisão AI Potato Edition habilitado \ n \ nAinda limita ainda mais a AI por motivos de desempenho. \ N"
+ RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Limitador de divisão AI Potato Edition habilitado\n\nAinda limita ainda mais a AI por motivos de desempenho.\n"
 
  RULE_ALLOW_CHEAT_DECISIONS: "Permitir decisões fraudulentas"
  RULE_YES_ALLOW_CHEAT_DECISIONS_DESC: "Decisões de trapaça habilitadas"
  RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Decisões de trapaça desativadas"
 
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y (Multijogador) §! Permitir a alternância de decisões de trapaça globalmente"
- RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (Opcional) §! \ N \ n Alternância de decisões globais de trapaça habilitada \ n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá em pop-up informando qual nação a alterna. \ n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §! \ n \ n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
- RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (opcional) §! \ N \ n Alternância de decisões de trapaça globais desativadas \ n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá informando qual nação a alterna. \ n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §! \ n \ n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
+ RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (Opcional) §!\n\nAlternância de decisões globais de trapaça habilitada\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá em pop-up informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
+ RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (opcional) §!\n\nAlternância de decisões de trapaça globais desativadas\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
 
  RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Permitir Chamada de Forças de Intervenção"
- RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTA: Isso não é equilibrado e é apenas uma medida temporária para fazer o que você quiser. Quaisquer problemas com voluntários e outros não são da nossa preocupação.§! Permite que você convoque as Forças de Intervenção dos países. \ N"
+ RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTA: Isso não é equilibrado e é apenas uma medida temporária para fazer o que você quiser. Quaisquer problemas com voluntários e outros não são da nossa preocupação.§! Permite que você convoque as Forças de Intervenção dos países.\n"
  RULE_NO_ALLOW_INTERVENTION_FORCES: "§YPadrão§ !. Não permite que você convoque forças de intervenção de conflitos estrangeiros."
 
  RULE_OPTION_MD_DEFAULT: "Comportamento AI padrão"
@@ -61,15 +61,15 @@ l_english:
  RULE_OPTION_PEACEFUL_REFORM: "Reforma da Rússia"
  RULE_OPTION_PEACEFUL_REFORM_AI_DESC: "A Rússia buscará criar formas liberais e buscar maiores laços com o Ocidente."
  RULE_OPTION_THE_RED_MENACE: "A Ameaça Vermelha"
- RULE_OPTION_THE_RED_MENACE_AI_DESC: "A Rússia começará a se inclinar para políticas marxistas e tentará restaurar a §YUnião Soviética§! \ N"
+ RULE_OPTION_THE_RED_MENACE_AI_DESC: "A Rússia começará a se inclinar para políticas marxistas e tentará restaurar a §YUnião Soviética§!\n"
  RULE_OPTION_RISE_OF_RUSSIA: "A ascensão da Rússia"
- RULE_OPTION_RISE_OF_RUSSIA_AI_DESC: "A Rússia começará a se inclinar para políticas nacionalistas e buscará uma política externa agressiva com o objetivo de proclamar §YA maior Rússia§!. \ N"
+ RULE_OPTION_RISE_OF_RUSSIA_AI_DESC: "A Rússia começará a se inclinar para políticas nacionalistas e buscará uma política externa agressiva com o objetivo de proclamar §YA maior Rússia§!.\n"
 
  USA_AI_BEHAVIOR: "@USA Estados Unidos da América"
  RULE_OPTION_STATUS_QUO: "Status quo"
  RULE_OPTION_STATUS_QUO_AI_DESC: "Os Estados Unidos buscarão manter seu status quo e manter o país sob controle."
  RULE_OPTION_POLITICAL_REFORM: "Reforma política"
- RULE_OPTION_POLITICAL_REFORM_AI_DESC: "Os Estados Unidos começarão a buscar reformas cada vez maiores no sistema político do país. Em última análise, permitindo que partidos menores participem das eleições em maior número. \ N"
+ RULE_OPTION_POLITICAL_REFORM_AI_DESC: "Os Estados Unidos começarão a buscar reformas cada vez maiores no sistema político do país. Em última análise, permitindo que partidos menores participem das eleições em maior número.\n"
  RULE_OPTION_POLITICAL_REVOULUTION: "Revolução Política"
  RULE_OPTION_POLITICAL_REVOULUTION_AI_DESC: "O fogo da revolução será aceso nas pessoas. Ela pode seguir um de dois caminhos: Nacionalismo e a ascensão dos populistas de direita nos Estados Unidos, ou a ascensão dos Estados comunistas da América."
 

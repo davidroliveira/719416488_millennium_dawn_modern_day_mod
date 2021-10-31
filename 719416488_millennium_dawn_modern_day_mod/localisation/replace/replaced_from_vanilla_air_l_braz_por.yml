@@ -1,8 +1,8 @@
 l_english:
  ROCKETSITE_CAPACITY_OK:00 "Este local de bateria de defesa aérea está totalmente operacional e tem $ CURR | H $ de no máximo $ MAX | H $ mísseis."
- ROCKETSITE_CAN_PRODUCE:00 "\ n§gExcedendo a capacidade limitará a eficiência dos mísseis e interromperá a produção de novos mísseis neste local.§!"
+ ROCKETSITE_CAN_PRODUCE:00 "\n§gExcedendo a capacidade limitará a eficiência dos mísseis e interromperá a produção de novos mísseis neste local.§!"
  ROCKETSITE_CAPACITY_FULL:00 "Esta bateria de defesa aérea está operando com $ PERC |% 0R $ de eficiência devido a muitos mísseis armazenados."
- ROCKETSITE_STOPPED_PRODUCTION:00 "\ n§RNenhum míssil adicional será produzido enquanto a capacidade estiver no máximo.§!"
+ ROCKETSITE_STOPPED_PRODUCTION:00 "\n§RNenhum míssil adicional será produzido enquanto a capacidade estiver no máximo.§!"
  AIR_SHOW_ROCKETSITES:00 "Locais de bateria de defesa aérea"
  AIR_BASE_RIGHT_CLICK_REASON_ROCKET_SITE:00 "§R $ COUNT | H $ Air Wings não podem ser transferidos entre locais de baterias de defesa aérea.§!"
  rocket_site:00 "Local da Bateria de Defesa Aérea"

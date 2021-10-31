@@ -96,7 +96,7 @@ l_english:
  GER_close_ranks_with_the_international_unions: "Fechar as fileiras com os sindicatos internacionais"
  GER_close_ranks_with_the_international_unions_desc: "Depois de restabelecer os sindicatos trabalhistas como a força dominante na vida pública alemã, a Alemanha precisa assumir uma posição dominante nas organizações trabalhistas internacionais para fazer cumprir padrões de trabalho de alta qualidade em toda a Europa e em todo o mundo. Contanto que haja mão-de-obra mais barata no UE, os padrões de vida da classe trabalhadora alemã estão ameaçados. "
  GER_economic_prosperity: "Prosperidade económica"
- GER_economic_prosperity_desc: "Crescimento! Crescimento! Crescimento! \ NA economia deve crescerooooooow!"
+ GER_economic_prosperity_desc: "Crescimento! Crescimento! Crescimento!\nA economia deve crescerooooooow!"
  GER_continental_education_investments: "Investimentos em educação continental"
  GER_continental_education_investments_desc: "Inspirando-se no Esquema de Ação da Comunidade Europeia para a Mobilidade de Estudantes Universitários (ERASMUS), o governo alemão precisa dar novos passos para unir os jovens da Europa em um grupo singular de talentos - um grupo que, após sua graduação, olharia para a Alemanha para os maiores salários possíveis para suas carreiras. "
  GER_return_to_old_social_democracy: "Retorno à velha social-democracia"
@@ -211,7 +211,7 @@ l_english:
  GER_interests_in_the_balkans_desc: ""
  
  ### Dica de ferramenta
- tooltip_HOL_invests_in_GER: "§Y [HOL.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!. \ N"
- tooltip_BEL_invests_in_GER: "§Y [BEL.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!. \ N"
- tooltip_LUX_invests_in_GER: "§Y [LUX.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!. \ N"
+ tooltip_HOL_invests_in_GER: "§Y [HOL.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!.\n"
+ tooltip_BEL_invests_in_GER: "§Y [BEL.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!.\n"
+ tooltip_LUX_invests_in_GER: "§Y [LUX.GetNameWithFlag] §! Investe em §Y [ROOT.GetNameWithFlag] §!.\n"
  

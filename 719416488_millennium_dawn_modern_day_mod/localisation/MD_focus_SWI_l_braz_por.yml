@@ -139,5 +139,5 @@ l_english:
  
  ### Dica de ferramenta
  
- tooltip_SWI_seek_eu_membership: "§Y [ROOT.GetNameWithFlag] §! Investe no Mercado Único Europeu: §Y [EUU.GetFlag] Líder da Política Comercial da União Europeia§! (Nesta ordem §YPresidente da Comissão Europeia§ !, §YPresidente da União Europeia Conselho§ !, §YPresidente do Parlamento Europeu§!) Recebe um §YInvestimento Internacional§! De §Y [ROOT.GetNameWithFlag] §!. \ N "
- tooltip_SWI_european_investment_opportunities: "§Y [EUU.GetFlag] Líder da Política Comercial da União Europeia§! (Nesta ordem §YPresidente da Comissão Europeia§ !, §YPresidente do Conselho Europeu§ !, §YPresidente do Parlamento Europeu§!) Investe em § Y [ROOT.GetNameWithFlag] §!. \ N "
+ tooltip_SWI_seek_eu_membership: "§Y [ROOT.GetNameWithFlag] §! Investe no Mercado Único Europeu: §Y [EUU.GetFlag] Líder da Política Comercial da União Europeia§! (Nesta ordem §YPresidente da Comissão Europeia§ !, §YPresidente da União Europeia Conselho§ !, §YPresidente do Parlamento Europeu§!) Recebe um §YInvestimento Internacional§! De §Y [ROOT.GetNameWithFlag] §!.\n"
+ tooltip_SWI_european_investment_opportunities: "§Y [EUU.GetFlag] Líder da Política Comercial da União Europeia§! (Nesta ordem §YPresidente da Comissão Europeia§ !, §YPresidente do Conselho Europeu§ !, §YPresidente do Parlamento Europeu§!) Investe em § Y [ROOT.GetNameWithFlag] §!.\n"

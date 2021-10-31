@@ -37,11 +37,11 @@ l_english:
  script.0.to: "para "
  script.0.of: "do "
  script.0.for: "para "
- script.0.newline: "\ n"
+ script.0.newline: "\n"
  script.0.semicolon: ":"
  script.0.dash: "-"
  script.0.dot: "."
- script.0.line: "------------- \ n"
+ script.0.line: "-------------\n"
  script.0.neg_01: "§R-1% §!"
  script.0.neg_02: "§R-2% §!"
  script.0.neg_03: "§R-3% §!"
@@ -138,8 +138,8 @@ l_english:
  script.0.wall_street: "§YWall Street§!"
  script.0.chaebols: "§YOs Chaebols§!"
 
- script.0.display_subtract_pp_100: "\ n§YPoder político§! §R-100§!"
- script.0.display_add_pp_100: "\ n§YPoder político§! §G + 100§!"
+ script.0.display_subtract_pp_100: "\n§YPoder político§! §R-100§!"
+ script.0.display_add_pp_100: "\n§YPoder político§! §G + 100§!"
 
 
  script.0.AFG_GetFlag: "[AFG.GetFlag]"

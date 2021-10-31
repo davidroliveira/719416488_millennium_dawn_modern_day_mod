@@ -2,7 +2,7 @@ l_english:
  ENG_vitalize_westminster: "Vitalize Westminster"
  ENG_vitalize_westminster_desc: "A Câmara dos Comuns, a câmara baixa britânica, às vezes é chamada de 'parlamento falante', onde a conversa é constante, mas a ação nem tanto. Os trabalhistas e conservadores deveriam tentar estabelecer posições novas e mais distintas a fim de permanecer atraentes aos homem comum."
  ENG_the_future_of_britain: "O Futuro da Grã-Bretanha"
- ENG_the_future_of_britain_desc: "A base ideológica da Grã-Bretanha é uma crença profunda nas liberdades pessoais e na democracia - em algo chamado de princípios anglo-saxões e admirado em todo o mundo. \ N \ nPrecisamos considerar se os princípios anglo-saxões são o caminho a seguir - ou se um novo caminho é necessário. "
+ ENG_the_future_of_britain_desc: "A base ideológica da Grã-Bretanha é uma crença profunda nas liberdades pessoais e na democracia - em algo chamado de princípios anglo-saxões e admirado em todo o mundo.\n\nPrecisamos considerar se os princípios anglo-saxões são o caminho a seguir - ou se um novo caminho é necessário. "
  ENG_british_armed_forces: "Forças Armadas Britânicas"
  ENG_british_armed_forces_desc: "As tropas da coroa marcharam pelo mundo nos últimos 500 anos. Precisamos enviar as Forças Armadas britânicas aos campos de treinamento novamente para que possamos estar prontos para o conflito futuro - tanto em autodefesa quanto no ataque . "
  ENG_economic_stimulus: "Estímulo Econômico"
@@ -160,7 +160,7 @@ l_english:
  ENG_realm_of_britain: "Reino da Grã-Bretanha"
  ENG_realm_of_britain_desc: "Embora não precisemos de um rei para nos guiar, um grande reino seria bom. Este reino britânico, um tributo à grandeza britânica, deve estender nosso alcance significativamente."
  ENG_national_militarism: "Nacional Militarismo"
- ENG_national_militarism_desc: "'A Grã-Bretanha é a maior potência que o mundo já viu.' \ NSe fizermos com que nossos filhos repitam esta frase com bastante frequência, eles podem simplesmente acreditar."
+ ENG_national_militarism_desc: "'A Grã-Bretanha é a maior potência que o mundo já viu.'\nSe fizermos com que nossos filhos repitam esta frase com bastante frequência, eles podem simplesmente acreditar."
  ENG_school_for_strategic_warfare: "Escola de Guerra Estratégica"
  ENG_school_for_strategic_warfare_desc: "Agora que temos soldados nos campos que são de alguma forma úteis, só precisamos de oficiais para orientá-los."
  ENG_ground_support_planes: "Aviões de Apoio Terrestre"
@@ -256,7 +256,7 @@ l_english:
  ENG_royal_army: "Exército Real"
  ENG_royal_army_desc: "Embora haja uma Marinha Real e uma Força Aérea Real, nosso exército ainda não é real. Vamos dar a eles essa designação, em homenagem às suas conquistas mais recentes."
  ENG_britannia_rules_the_waves: "Britannia governa as ondas"
- ENG_britannia_rules_the_waves_desc: "Governe, Britannia! Britannia governe as ondas! \ NBritões nunca, nunca, nunca serão escravos!"
+ ENG_britannia_rules_the_waves_desc: "Governe, Britannia! Britannia governe as ondas!\nBritões nunca, nunca, nunca serão escravos!"
  ENG_defensive_assistance: "Assistência defensiva"
  ENG_defensive_assistance_desc: "A melhor maneira de a Inglaterra se defender é reforçando nossos aliados na Europa. A melhor defesa é uma defesa estrangeira."
  ENG_prepare_unification_treaties: "Prepare Tratados de Unificação"
@@ -277,8 +277,8 @@ l_english:
  ENG_global_britain_desc: "Depois de resolvermos nossos problemas em casa e nos recuperarmos do Brexit, a Grã-Bretanha pode subir novamente."
  
  ### Dicas de ferramentas
- tooltip_ENG_irish_referendum: "§YIF§ !: §Y [EUU.GetFlag] A União Europeia§! Está em §Rbad§! (§YEuropeanism§! <§R60% §!): Remova §YIrish Nationalism§! \ N§YIF§! : §Y [EUU.GetFlag] A União Europeia§! Está em §Boa forma§! (§YEuropeanismo§!> §G90% §!): Um dos §Y2§! Duas coisas acontecerão. \ N§Y70% § ! chance: Remover §Nacionalismo irlandês§! \ n§Y30% §! chance: §Y [IRE.GetNameWithFlag] §! Torna-se proprietário e controlador de §Y [17.Estado.GetName] §! E remover §Nacionalismo irlandês§! . \ n§YOTHERWISE§ !: Uma das §Y2§! duas coisas acontecerão. \ n§Y90% §! chance: Remover §Nacionalismo irlandês§! \ n§Y10% §! chance: §Y [IRE.GetNameWithFlag] §! Torna-se proprietário e controlador de §Y [17.Estado.GetName] §! E remove §Nacionalismo irlandês§!. \ N "
- tooltip_ENG_scottish_referendum: "§YIF§ !: §Y [EUU.GetFlag] A União Europeia§! Está em §Rbad§! (§YEuropeanism§! <§R60% §!): Remova §YScottish Nationalism§! \ N§YIF§! : §Y [EUU.GetFlag] A União Europeia§! Está em §Boa forma§! (§YEuropeanismo§!> §G90% §!): Um dos §Y2§! Duas coisas acontecerão. \ N§Y70% § ! chance: Remover §Nacionalismo escocês§! \ n§Y30% §! chance: Liberar §Y [SCO.GetNameWithFlag] §! E remover §Nacionalismo escocês§!. \ n§YOTHERWISE§ !: Um de §Y2§! dois coisas vão acontecer. \ n§Y90% §! chance: Remover §YScottish Nationalism§! \ n§Y10% §! chance: Release §Y [SCO.GetNameWithFlag] §! E remover §YScottish Nationalism§!. \ n "
+ tooltip_ENG_irish_referendum: "§YIF§ !: §Y [EUU.GetFlag] A União Europeia§! Está em §Rbad§! (§YEuropeanism§! <§R60% §!): Remova §YIrish Nationalism§!\n§YIF§! : §Y [EUU.GetFlag] A União Europeia§! Está em §Boa forma§! (§YEuropeanismo§!> §G90% §!): Um dos §Y2§! Duas coisas acontecerão.\n§Y70% § ! chance: Remover §Nacionalismo irlandês§!\n§Y30% §! chance: §Y [IRE.GetNameWithFlag] §! Torna-se proprietário e controlador de §Y [17.Estado.GetName] §! E remover §Nacionalismo irlandês§! .\n§YOTHERWISE§ !: Uma das §Y2§! duas coisas acontecerão.\n§Y90% §! chance: Remover §Nacionalismo irlandês§!\n§Y10% §! chance: §Y [IRE.GetNameWithFlag] §! Torna-se proprietário e controlador de §Y [17.Estado.GetName] §! E remove §Nacionalismo irlandês§!.\n"
+ tooltip_ENG_scottish_referendum: "§YIF§ !: §Y [EUU.GetFlag] A União Europeia§! Está em §Rbad§! (§YEuropeanism§! <§R60% §!): Remova §YScottish Nationalism§!\n§YIF§! : §Y [EUU.GetFlag] A União Europeia§! Está em §Boa forma§! (§YEuropeanismo§!> §G90% §!): Um dos §Y2§! Duas coisas acontecerão.\n§Y70% § ! chance: Remover §Nacionalismo escocês§!\n§Y30% §! chance: Liberar §Y [SCO.GetNameWithFlag] §! E remover §Nacionalismo escocês§!.\n§YOTHERWISE§ !: Um de §Y2§! dois coisas vão acontecer.\n§Y90% §! chance: Remover §YScottish Nationalism§!\n§Y10% §! chance: Release §Y [SCO.GetNameWithFlag] §! E remover §YScottish Nationalism§!.\n"
  
  ##Ideias
  ENG_king_charles_3: "Rei Carlos III"
@@ -366,7 +366,7 @@ l_english:
  ENG_global_britain_idea: "Grã-Bretanha Global"
  ENG_global_britain_idea_desc: "Com a recuperação do Brexit, a Grã-Bretanha pode subir novamente!"
  ENG_merit_based_education_system_idea: "Sistema de Educação Meritocrática"
- ENG_merit_based_education_system_idea_desc: "A base da educação deve ser sempre meritocrática. Embora, as ideias às vezes possam levar à desestabilização. \ N"
+ ENG_merit_based_education_system_idea_desc: "A base da educação deve ser sempre meritocrática. Embora, as ideias às vezes possam levar à desestabilização.\n"
  ENG_race_based_education_system_idea: "Sistema de Educação Racial"
  ENG_race_based_education_system_idea_desc: "A base da educação deve ser a raça. Nada mais, nada menos."
  ENG_hybrid_based_education_system_idea: "Sistema de educação híbrido"

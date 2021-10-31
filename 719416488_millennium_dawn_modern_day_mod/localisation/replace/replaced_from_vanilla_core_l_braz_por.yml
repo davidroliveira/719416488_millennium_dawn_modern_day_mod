@@ -28,6 +28,6 @@ l_english:
  INIT_GAMESTATE:00 "Ignorando a corrupção ..."
  FLEET_NAME_SOV:00 "Grupo da Marinha Russa $ NUMBER $."
  LEADER_ENDLESS_CAPACITY_DESC:00 "$ NAME $ é um Geral e não tem limite de comando."
- CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT:11 "$ NAME | H $ já está atribuído a outro §GArmy§! Que foi enviado como uma §Yforça de intervenção§!. \ NTem certeza de que deseja §RRreatribuir§! O §GCommander§ !?"
+ CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT:11 "$ NAME | H $ já está atribuído a outro §GArmy§! Que foi enviado como uma §Yforça de intervenção§!.\nTem certeza de que deseja §RRreatribuir§! O §GCommander§ !?"
  FUEL_DAILY_GAIN_FROM_STATES:00 "De biocombustível: $ NUM | H $"
  DIPLOMACY_SEND_VOLUNTEERS_TITLE:00 "Enviar Força de Intervenção"

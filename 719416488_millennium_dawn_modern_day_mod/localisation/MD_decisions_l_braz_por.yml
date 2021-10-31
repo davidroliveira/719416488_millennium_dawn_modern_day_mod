@@ -2,7 +2,7 @@ l_english:
 
  ### Ajuda nas decisões ###
  Help_Decisions: "Seção de Ajuda"
- Help_Decisions_desc: "Esta seção inclui ajuda para várias alterações de jogabilidade do MD4. Você pode desativar esta seção escolhendo a decisão apropriada. Observe que você não poderá acessar esta seção durante o jogo se desativá-la. \ N \ nSe precisar de ajuda mais tarde no jogo, você pode acessar o MD4 Wiki clicando no ponto de interrogação no canto superior direito "
+ Help_Decisions_desc: "Esta seção inclui ajuda para várias alterações de jogabilidade do MD4. Você pode desativar esta seção escolhendo a decisão apropriada. Observe que você não poderá acessar esta seção durante o jogo se desativá-la.\n\nSe precisar de ajuda mais tarde no jogo, você pode acessar o MD4 Wiki clicando no ponto de interrogação no canto superior direito "
  disable_help: "Desativar Ajuda"
  disable_help_desc: "Desative a seção de ajuda. Você não poderá acessá-la novamente a menos que comece um novo jogo"
  expand_help: "Expandir Ajuda"
@@ -16,17 +16,17 @@ l_english:
 
  ### Eventos de ajuda ###
  help_events.0.t: "Economia"
- help_events.0.d: "No MD4, suas fábricas representam o PIB de seu país. Este é o valor total de todos os bens produzidos em seu país. \ N \ nParte de suas fábricas são usadas pelo governo para financiar as funções básicas do governo. Isso é chamado de Custo de Imposto (Bens de Consumo no jogo básico). Quanto mais alto seu Custo de Imposto, menos fábricas você tem disponíveis para investir em sua economia (isto é, construir novas fábricas). "
+ help_events.0.d: "No MD4, suas fábricas representam o PIB de seu país. Este é o valor total de todos os bens produzidos em seu país.\n\nParte de suas fábricas são usadas pelo governo para financiar as funções básicas do governo. Isso é chamado de Custo de Imposto (Bens de Consumo no jogo básico). Quanto mais alto seu Custo de Imposto, menos fábricas você tem disponíveis para investir em sua economia (isto é, construir novas fábricas). "
  help_events.0.a: "Para Indicadores Econômicos"
  help_events.1.t: "Indicadores econômicos"
- help_events.1.d: "Seus indicadores econômicos podem ser encontrados na tela de política. A riqueza do seu país é medida pelo seu PIB / C (PIB per capita). Quanto mais alto o valor, mais rica é a sua população. Aumentar seu PIB / C renderá mais construir vagas em seus estados e dar a você acesso a mais vagas de pesquisa (consulte a ajuda de 'Pesquisa'). Você pode aumentar seu PIB / C preenchendo as vagas de construção. Assim que não tiver mais vagas vazias, você poderá avançar para o próximo nível de PIB / C, que lhe dará mais slots, que você preenche e assim por diante. \ n \ nSeu Ciclo Econômico dita a velocidade com que sua economia está crescendo (velocidade de construção). Ter uma economia em rápido crescimento também tornará sua governo mais popular. Ciclos econômicos podem ser afetados por eventos e podem ser aumentados com o gasto de poder político. "
+ help_events.1.d: "Seus indicadores econômicos podem ser encontrados na tela de política. A riqueza do seu país é medida pelo seu PIB / C (PIB per capita). Quanto mais alto o valor, mais rica é a sua população. Aumentar seu PIB / C renderá mais construir vagas em seus estados e dar a você acesso a mais vagas de pesquisa (consulte a ajuda de 'Pesquisa'). Você pode aumentar seu PIB / C preenchendo as vagas de construção. Assim que não tiver mais vagas vazias, você poderá avançar para o próximo nível de PIB / C, que lhe dará mais slots, que você preenche e assim por diante.\n\nSeu Ciclo Econômico dita a velocidade com que sua economia está crescendo (velocidade de construção). Ter uma economia em rápido crescimento também tornará sua governo mais popular. Ciclos econômicos podem ser afetados por eventos e podem ser aumentados com o gasto de poder político. "
  help_events.1.a: "Para Orçamento do Governo"
  help_events.2.t: "Orçamento do Governo"
- help_events.2.d: "Seu Orçamento do Governo também pode ser encontrado na tela de política. Seu orçamento dita quanto seu governo gasta em várias funções governamentais, como defesa. Gastar mais dará a você vários bônus, mas aumentará seu Custo de Imposto. mais difícil para você expandir sua economia. Você pode compensar alguns desses gastos emprestando dinheiro com um saldo orçamentário negativo. \ n \ nO empréstimo de dinheiro aumentará lentamente sua dívida nacional, o que aumentará seu Custo de Imposto no longo prazo. para pagar juros. Você também pode ter um saldo orçamentário positivo, o que lentamente saldará sua dívida e aumentará suas reservas monetárias. No longo prazo, isso resultará em uma redução no custo de impostos, pois você pode usar algumas de suas reservas para financiar seu orçamento . "
+ help_events.2.d: "Seu Orçamento do Governo também pode ser encontrado na tela de política. Seu orçamento dita quanto seu governo gasta em várias funções governamentais, como defesa. Gastar mais dará a você vários bônus, mas aumentará seu Custo de Imposto. mais difícil para você expandir sua economia. Você pode compensar alguns desses gastos emprestando dinheiro com um saldo orçamentário negativo.\n\nO empréstimo de dinheiro aumentará lentamente sua dívida nacional, o que aumentará seu Custo de Imposto no longo prazo. para pagar juros. Você também pode ter um saldo orçamentário positivo, o que lentamente saldará sua dívida e aumentará suas reservas monetárias. No longo prazo, isso resultará em uma redução no custo de impostos, pois você pode usar algumas de suas reservas para financiar seu orçamento . "
  help_events.2.a: "Obrigado pela informação!"
  help_events.3.a: "Obrigado pela informação!"
  help_events.3.t: "Unidades"
- help_events.3.d: "No MD4, todas as suas unidades começam com a força 0. Isso é feito para que possamos adicionar equipamentos corretos da vida real às unidades por meio do estoque. Devido a isso, você deve evitar o treinamento de novas unidades na primeira semana ou depois para não para roubar equipamentos de suas unidades existentes. Não se assuste com o grande número de equipamentos disponíveis. A maioria das unidades básicas de infantaria pode ser implantada apenas com armas pequenas. Obviamente, não ter equipamento AA ou AT afetará a capacidade de suas unidades de lute contra aeronaves ou veículos blindados. Ao jogar como países menores, você terá que girar suas linhas de produção para obter todo o equipamento de que precisa. \ n \ nA maneira mais eficaz de ganhar mais mão de obra é aumentando seus gastos militares. "
+ help_events.3.d: "No MD4, todas as suas unidades começam com a força 0. Isso é feito para que possamos adicionar equipamentos corretos da vida real às unidades por meio do estoque. Devido a isso, você deve evitar o treinamento de novas unidades na primeira semana ou depois para não para roubar equipamentos de suas unidades existentes. Não se assuste com o grande número de equipamentos disponíveis. A maioria das unidades básicas de infantaria pode ser implantada apenas com armas pequenas. Obviamente, não ter equipamento AA ou AT afetará a capacidade de suas unidades de lute contra aeronaves ou veículos blindados. Ao jogar como países menores, você terá que girar suas linhas de produção para obter todo o equipamento de que precisa.\n\nA maneira mais eficaz de ganhar mais mão de obra é aumentando seus gastos militares. "
 
  ## Decisão Jihadista ##
  jihadist_decisions: "Jihad!"
@@ -116,21 +116,21 @@ l_english:
  GER_nationalist_claims_SWI_desc: "A maioria dos suíços são alemães. Essas partes devem ser reunidas em [GER.GetNameWithFlag]!"
 
  generic_coalition_politics_desicions: "[Root.GetAdjective] Decisões políticas"
- generic_coalition_politics_desicions_desc: "Leis políticas: \ n \ nTem eleições: [has_elections_check] \ nLimite de eleição: [? Eleições_threshold |% 0]"
+ generic_coalition_politics_desicions_desc: "Leis políticas:\n\nTem eleições: [has_elections_check]\nLimite de eleição: [? Eleições_threshold |% 0]"
  has_election_no: "Não"
  has_election_yes: "Sim"
  remove_usaid: "Solicitar a remoção da USAID"
 
  retire_current_leader: "[Root.GetLeader]: Retire-se como líder"
- retire_current_leader_desc: "Embora certamente fosse um choque, custasse um alto preço político e excluísse para sempre a possibilidade de [Root.GetLeader] retornar à política, existe a possibilidade de se aposentar para passar mais tempo com a família. \ N \ n§WEffect: §! \ n§H [Root.GetLeader] §! §Será que se aposentará como líder de [Root.GetName] §! \ n§H [show_ruling_party] §! §Selecionará um novo líder de dentro de suas fileiras .§! "
+ retire_current_leader_desc: "Embora certamente fosse um choque, custasse um alto preço político e excluísse para sempre a possibilidade de [Root.GetLeader] retornar à política, existe a possibilidade de se aposentar para passar mais tempo com a família.\n\n§WEffect: §!\n§H [Root.GetLeader] §! §Será que se aposentará como líder de [Root.GetName] §!\n§H [show_ruling_party] §! §Selecionará um novo líder de dentro de suas fileiras .§! "
 
  hold_reelections: "Realizar novas eleições extraordinárias"
  hold_reelections_desc: "Haverá novas eleições em 14 dias. Devido ao seu caráter extraordinário, as próximas eleições ainda serão realizadas na data futura planejada."
 
  increase_election_threshold: "Aumentar o limite eleitoral"
- increase_election_threshold_desc: "§Será que aumentará o limite eleitoral em: §! §H1% §!. \ NA mudança será aplicada na próxima eleição, tornando mais difícil para os pequenos partidos obterem o poder."
+ increase_election_threshold_desc: "§Será que aumentará o limite eleitoral em: §! §H1% §!.\nA mudança será aplicada na próxima eleição, tornando mais difícil para os pequenos partidos obterem o poder."
  decrease_election_threshold: "Diminuir o limite eleitoral"
- decrease_election_threshold_desc: "§Vai diminuir o limite eleitoral em§! §H1% §!. \ NA mudança será aplicada na próxima eleição, tornando mais fácil para os pequenos partidos obterem o poder."
+ decrease_election_threshold_desc: "§Vai diminuir o limite eleitoral em§! §H1% §!.\nA mudança será aplicada na próxima eleição, tornando mais fácil para os pequenos partidos obterem o poder."
 
  permanently_suspend_elections: "Suspender Eleições Permanentemente"
  permanently_suspend_elections_desc: "Como atualmente somos um governo inclinado à autocracia, seríamos tolos se nunca mais realizássemos eleições que pudessem ameaçar nosso controle do poder."
@@ -139,32 +139,32 @@ l_english:
  return_democracy_desc: "Podemos escolher democratizar o país e começar a realizar eleições reais. No entanto, embora ainda permaneçamos no poder por enquanto, pode ser perigoso permitir que o povo decida."
 
  fascism_extremist_civil_war: "[Nat_Fascism_L] ([? Party_pop_array ^ 21 |% 0]) lançar levante para derrubar o governo"
- fascism_extremist_civil_war_desc: "Forças extremistas na extrema direita, lideradas por [Nat_Fascism_L] têm ganhado força. Popular entre os soldados e alguns líderes militares, rumores sobre um levante para reduzir o poder estão começando a circular. \ N \ nEfeito: \ n§HInício da Guerra Civil: 50% da força§! \ N \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ fascism_extremist_civil_war_desc: "Forças extremistas na extrema direita, lideradas por [Nat_Fascism_L] têm ganhado força. Popular entre os soldados e alguns líderes militares, rumores sobre um levante para reduzir o poder estão começando a circular.\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  fascism_20_tt: "[Nat_Fascism_L] ([? Party_pop_array ^ 21 |% 1])> 20% popularidade"
 
  nat_autocracy_extremist_civil_war: "[Nat_Autocracy_L] ([? Party_pop_array ^ 22 |% 0]) lança um golpe militar para derrubar o governo"
- nat_autocracy_civil_war_desc: "Os militares estão ganhando poder no governo. Sob a liderança de [Nat_Autocracy_L], é provável que muitos elementos dos militares apoiassem um levante contra o governo para estabelecer uma junta. \ N \ nEfeito: \ n§HInício da Guerra Civil: 50% da força§! \ N \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ nat_autocracy_civil_war_desc: "Os militares estão ganhando poder no governo. Sob a liderança de [Nat_Autocracy_L], é provável que muitos elementos dos militares apoiassem um levante contra o governo para estabelecer uma junta.\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  nat_autocracy_20_tt: "[Nat_Autocracy_L] ([? Party_pop_array ^ 22 |% 1])> 20% popularidade"
 
  monarchist_extremist_civil_war: "[Monarchist_L] ([? Party_pop_array ^ 23 |% 0]) lançar levante para derrubar o governo"
- monarchist_extremist_civil_war_desc: "As forças monarquistas defendendo uma Monarquia Absoluta estão ganhando força sob a bandeira de [Monarquista_L]. Popular entre os soldados e certos líderes militares, rumores sobre uma revolta para reduzir o poder estão começando a circular. \ N \ nEfeito: \ n§HInício Civil Guerra: 50% da força§! \ N \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ monarchist_extremist_civil_war_desc: "As forças monarquistas defendendo uma Monarquia Absoluta estão ganhando força sob a bandeira de [Monarquista_L]. Popular entre os soldados e certos líderes militares, rumores sobre uma revolta para reduzir o poder estão começando a circular.\n\nEfeito:\n§HInício Civil Guerra: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  monarchist_20_tt: "[Monarchist_L] ([? Party_pop_array ^ 23 |% 1])> 20% popularidade"
 
  caliphate_extremist_civil_war: "[Caliphate_L] ([? Party_pop_array ^ 11 |% 0]) lançar um levante para derrubar o governo"
- caliphate_extremist_civil_war_desc: "O jihadismo salafista se tornou uma força significativa em [Root.GetName]. Estando fortemente organizados e com motivação religiosa fanática, eles estão mais do que dispostos a travar uma guerra longa e exaustiva para derrotar o \" governo corrupto e anti-islâmico \ "e configurar seu Califado. \ n \ nEfeito: \ n§HInício da Guerra Civil: 50% da força§! \ n \ n§RO gatilho fará com que você assuma o controle sobre a revolta§! "
+ caliphate_extremist_civil_war_desc: "O jihadismo salafista se tornou uma força significativa em [Root.GetName]. Estando fortemente organizados e com motivação religiosa fanática, eles estão mais do que dispostos a travar uma guerra longa e exaustiva para derrotar o \" governo corrupto e anti-islâmico \ "e configurar seu Califado.\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle sobre a revolta§! "
  caliphate_20_tt: "[Caliphate_L] ([? Party_pop_array ^ 11 |% 1])> 20% popularidade"
 
  communist_state_extremist_civil_war: "[Communist-State_L] ([? Party_pop_array ^ 4 |% 0]) lançar um levante para derrubar o governo"
- communist_state_extremist_civil_war_desc: "Os comunistas do [Estado-comunista] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez não é só conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada de classe -estabelecer para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución! \ n \ nEfeito: \ n§HInício da Guerra Civil: 50% da força§! \ n \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ communist_state_extremist_civil_war_desc: "Os comunistas do [Estado-comunista] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez não é só conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada de classe -estabelecer para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  communist_state_20_tt: "[Communist-State_L] ([? Party_pop_array ^ 4 |% 1])> 20% popularidade"
 
  neutral_communist_extremist_civil_war: "[Neutral_Communism_L] ([? Party_pop_array ^ 19 |% 0]) lançar um levante para derrubar o governo"
- neutral_communist_extremist_civil_war_desc: "Os comunistas do [Neutral_Communism_L] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez, não é apenas conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada da luta de classes para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución! \ n \ nEfeito: \ n §HInício da Guerra Civil: 50% da força§! \ N \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ neutral_communist_extremist_civil_war_desc: "Os comunistas do [Neutral_Communism_L] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez, não é apenas conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada da luta de classes para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  neutral_communist_20_tt: "[Neutral_Communism_L] ([? Party_pop_array ^ 19 |% 1])> 20% popularidade"
 
  #possible if autocratic:
  vilayat_e_faqih_extremist_civil_war: "[Vilayat_e_Faqih_L] ([? Party_pop_array ^ 9 |% 0]) lançar um levante para derrubar o governo"
- vilayat_e_faqih_extremist_civil_war_desc: "Inspirados pela Revolução Islâmica do Irã de 1979 e com o apoio ideológico das forças do Eixo da Resistência, os [Vilayat_e_Faqih_L] estão supostamente prontos para derrubar o governo, mesmo que isso signifique \" saborear o doce suco do Martírio \ "para a maioria dos Por serem rigidamente organizados e fortes fundações ideológicas e religiosas, buscam estabelecer um \ "Governo de Jurisprudência Islâmica \" que será um baluarte contra o sionismo e a influência ocidental. \ n \ nEfeito: \ n§HInício da Guerra Civil: 50 % Strength§! \ n \ n§RO gatilho fará com que você assuma o controle da revolta§! "
+ vilayat_e_faqih_extremist_civil_war_desc: "Inspirados pela Revolução Islâmica do Irã de 1979 e com o apoio ideológico das forças do Eixo da Resistência, os [Vilayat_e_Faqih_L] estão supostamente prontos para derrubar o governo, mesmo que isso signifique \" saborear o doce suco do Martírio \ "para a maioria dos Por serem rigidamente organizados e fortes fundações ideológicas e religiosas, buscam estabelecer um \ "Governo de Jurisprudência Islâmica \" que será um baluarte contra o sionismo e a influência ocidental.\n\nEfeito:\n§HInício da Guerra Civil: 50 % Strength§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  vilayat_e_faqih_20_tt: "[Vilayat_e_Faqih_L] ([? Party_pop_array ^ 9 |% 1])> 20% popularidade"
  #deve desencadear um evento para o Irã e o Hezbollah apoiá-los se o Irã ainda for a ideologia certa
 
@@ -187,7 +187,7 @@ l_english:
  rebuild_bosphorus_strait: "Reparar o Bósforo"
  rebuild_bosphorus_strait_desc: "O Bósforo foi bloqueado por destroços de um navio maciço e precisa de um tempo considerável para ser limpo."
 
- treasury_loss_2_bil_TT: "Custos de campanha: §HTreasury§! §R - $ [custo_variável] §! Bilhões \ n"
+ treasury_loss_2_bil_TT: "Custos de campanha: §HTreasury§! §R - $ [custo_variável] §! Bilhões\n"
  treasury_loss_project_TT: "Custo do projeto: §HTreasury§! §R - $ [custo_variável] §! Bilhões"
  treasury_loss_lease_mils_TT: "[variable_cost_lease_mils]"
  treasury_loss_lease_civs_TT: "[variable_cost_lease_civs]"
@@ -209,15 +209,15 @@ l_english:
  coalition_countdown: "Formar Novo Governo"
  coalition_countdown_desc: "Para evitar um perigoso vácuo de poder, precisaremos formar o novo governo o mais rápido possível."
  has_formed_coalition_TT: "Government Coalition ([? Government_coalition_strength_elect |% 1])> Limite de maioria ([? Major_threshold |% 1])"
- AI_form_government_TT: "A IA formará um governo para você \ n"
+ AI_form_government_TT: "A IA formará um governo para você\n"
 
  coalition_decisions: "Formar Novo Governo"
- coalition_decisions_desc: "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) não atingiu a maioria necessária na eleição para formar um governo sozinho. Precisamos convidar outros partidos para se juntarem. \ N \ nPartidos que obtiveram mais votos do que nós. não tem interesse em aderir. O custo em poder político para adicionar um partido ao governo depende do tamanho e da distância política deles em relação a nós. \ n \ n§Até agora, nossa coalizão consiste em: §! \ n [show_ruling_party] ([ show_ruling_elect_percentage]) [L_coal_elect_percent_0] [L_coal_elect_percent_1] [L_coal_elect_percent_2] [L_coal_elect_percent_3] [L_coal_elect_percent_4] [L_coal_elect_percent_5] [L_coal_elect_percent_6] [L_coal_elect_percent_7] [L_coal_elect_percent_8] [L_coal_elect_percent_9] [L_coal_elect_percent_10] [L_coal_elect_percent_11] [L_coal_elect_percent_12] [L_coal_elect_percent_13] [L_coal_elect_percent_14] [L_coal_elect_percent_15 ] [L_coal_elect_percent_16] [L_coal_elect_percent_17] [L_coal_elect_percent_18] [L_coal_elect_percent_19] [L_coal_elect_percent_20] [L_coal_el ect_percent_21] [L_coal_elect_percent_22] [L_coal_elect_percent_23] \ n \ n§HForça da coalizão atual: §! [? government_coalition_strength_elect |% 1]. \ n§RNecessária de força para formar um governo de maioria: §! [? major_threshold |% 1] \ nNosso limite de §H [? selection_threshold |% 0] §! torna os partidos com menos votos inelegíveis. \ n "
+ coalition_decisions_desc: "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) não atingiu a maioria necessária na eleição para formar um governo sozinho. Precisamos convidar outros partidos para se juntarem.\n\nPartidos que obtiveram mais votos do que nós. não tem interesse em aderir. O custo em poder político para adicionar um partido ao governo depende do tamanho e da distância política deles em relação a nós.\n\n§Até agora, nossa coalizão consiste em: §!\n[show_ruling_party] ([ show_ruling_elect_percentage]) [L_coal_elect_percent_0] [L_coal_elect_percent_1] [L_coal_elect_percent_2] [L_coal_elect_percent_3] [L_coal_elect_percent_4] [L_coal_elect_percent_5] [L_coal_elect_percent_6] [L_coal_elect_percent_7] [L_coal_elect_percent_8] [L_coal_elect_percent_9] [L_coal_elect_percent_10] [L_coal_elect_percent_11] [L_coal_elect_percent_12] [L_coal_elect_percent_13] [L_coal_elect_percent_14] [L_coal_elect_percent_15 ] [L_coal_elect_percent_16] [L_coal_elect_percent_17] [L_coal_elect_percent_18] [L_coal_elect_percent_19] [L_coal_elect_percent_20] [L_coal_el ect_percent_21] [L_coal_elect_percent_22] [L_coal_elect_percent_23]\n\n§HForça da coalizão atual: §! [? government_coalition_strength_elect |% 1].\n§RNecessária de força para formar um governo de maioria: §! [? major_threshold |% 1]\nNosso limite de §H [? selection_threshold |% 0] §! torna os partidos com menos votos inelegíveis.\n"
 
  give_up_coalition_0: "Desista: [show_biggest_party_elect] vai tentar"
- give_up_coalition_0_desc: "Admita a falha de [Root.GetLeader] e [show_ruling_party] em formar um governo. O trabalho agora irá para [show_biggest_party_elect] ([show_biggest_elect_percentage]). \ N \ n75% do poder político gasto até agora para formar a coalizão atual será ser reembolsado. "
+ give_up_coalition_0_desc: "Admita a falha de [Root.GetLeader] e [show_ruling_party] em formar um governo. O trabalho agora irá para [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\n75% do poder político gasto até agora para formar a coalizão atual será ser reembolsado. "
  give_up_coalition_1: "Desista: [show_second_biggest_party_elect] vai tentar"
- give_up_coalition_1_desc: "Admita a falha de [Root.GetLeader] e [show_ruling_party] em formar um governo. O trabalho agora irá para [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]). \ N \ n75% do poder político gasto até agora para formar a coalizão atual ser reembolsado. "
+ give_up_coalition_1_desc: "Admita a falha de [Root.GetLeader] e [show_ruling_party] em formar um governo. O trabalho agora irá para [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]).\n\n75% do poder político gasto até agora para formar a coalizão atual ser reembolsado. "
 
  #tooltips
  USA_dems_reps_tt: "[USA_dem_rep_loc]"
@@ -245,148 +245,148 @@ l_english:
 
  Western_Autocracy_invite: "Convide [Western_Autocracy_L] ([? Party_pop_elect_array ^ 0 |% 0])"
  Western_Autocracy_invite_desc: "Abrirá negociações com [Western_Autocracy_L]. [Western_Autocracy_cannot_invite]"
- Western_Autocracy_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Estado_válido_comunista] [anarquista_comunismo_válido] [Mod_Vilayat_e_Faqih_válido] [Vilayat_e_Faq_válido_válido_válido_válido_válido] [Válido_comunismo_comunista_válido] [Válido_válido_comunismo_Vilayat] [Válido_válido_comunista "
+ Western_Autocracy_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Estado_válido_comunista] [anarquista_comunismo_válido] [Mod_Vilayat_e_Faqih_válido] [Vilayat_e_Faq_válido_válido_válido_válido_válido] [Válido_comunismo_comunista_válido] [Válido_válido_comunismo_Vilayat] [Válido_válido_comunista "
  Western_Autocracy_remove: "Remover [Western_Autocracy_L] ([? Party_pop_elect_array ^ 0 |% 0])"
- Western_Autocracy_remove_desc: "Coalizão governamental: Remover [Western_Autocracy_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Western_Autocracy_remove_desc: "Coalizão governamental: Remover [Western_Autocracy_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  conservatism_invite: "Convide [conservadorismo_L] ([? Party_pop_elect_array ^ 1 |% 1])"
  conservatism_invite_desc: "Abrirá negociações com [conservatism_L]. [Conservatism_cannot_invite]"
- conservatism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Estado_válido_comunista] [anarquista_comunismo_válido] [Mod_Vilayat_e_Faqih_válido] [Vilayat_e_Faq_válido_válido_válido_válido_válido] [Válido_comunismo_comunista_válido] [Válido_válido_comunismo_Vilayat] [Válido_válido_comunista também participe. "
+ conservatism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Estado_válido_comunista] [anarquista_comunismo_válido] [Mod_Vilayat_e_Faqih_válido] [Vilayat_e_Faq_válido_válido_válido_válido_válido] [Válido_comunismo_comunista_válido] [Válido_válido_comunismo_Vilayat] [Válido_válido_comunista também participe. "
  conservatism_remove: "Remover [conservadorismo_L] ([? Party_pop_elect_array ^ 1 |% 1])"
- conservatism_remove_desc: "Coalizão governamental: Remover [conservadorismo_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ conservatism_remove_desc: "Coalizão governamental: Remover [conservadorismo_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  liberalism_invite: "Convide [liberalism_L] ([? Party_pop_elect_array ^ 2 |% 1])"
  liberalism_invite_desc: "Abrirá negociações com [liberalism_L]. [Liberalism_cannot_invite]"
- liberalism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §! \ n [Comunista-Estado_válido] [anarquista_comunismo_válido] [Conservador_válido] [Autocracia_válido] [Mod_Vilayat_e_Faq_válido_válido_válido_válido] [Vilayat_e_válido_válido_Faq] [Caliphate_valid] [Neutral_Communism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
+ liberalism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §!\n[Comunista-Estado_válido] [anarquista_comunismo_válido] [Conservador_válido] [Autocracia_válido] [Mod_Vilayat_e_Faq_válido_válido_válido_válido] [Vilayat_e_válido_válido_Faq] [Caliphate_valid] [Neutral_Communism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
  liberalism_remove: "Remover [liberalism_L] ([? Party_pop_elect_array ^ 2 |% 1])"
- liberalism_remove_desc: "Coalizão governamental: Remover [liberalismo_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ liberalism_remove_desc: "Coalizão governamental: Remover [liberalismo_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  socialism_invite: "Convide [socialism_L] ([? Party_pop_elect_array ^ 3 |% 1])"
  socialism_invite_desc: "Abrirá negociações com [socialism_L]. [Socialism_cannot_invite]"
- socialism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_válido_válido_válido_válido_válido_válito ] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
+ socialism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_válido_válido_válido_válido_válido_válito ] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
  socialism_remove: "Remover [socialism_L] ([? Party_pop_elect_array ^ 3 |% 1])"
- socialism_remove_desc: "Coalizão governamental: Remover [socialism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ socialism_remove_desc: "Coalizão governamental: Remover [socialism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Communist-State_invite: "Convide [Communist-State_L] ([? Party_pop_elect_array ^ 4 |% 1])"
  Communist-State_invite_desc: "Abrirá negociações com [Communist-State_L]. [Communist-State_cannot_invite]"
- Communist-State_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [Conservative_valid] [Mod_Vilayat_e_Faqih_valid_valid] [Vilayat_e_Falid] ] [Neutral_conservatism_valid] [Neutral_Libertarian_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Monarchist_valid] "
+ Communist-State_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [Conservative_valid] [Mod_Vilayat_e_Faqih_valid_valid] [Vilayat_e_Falid] ] [Neutral_conservatism_valid] [Neutral_Libertarian_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Monarchist_valid] "
  Communist-State_remove: "Remover [Communist-State_L] ([? Party_pop_elect_array ^ 4 |% 1])"
- Communist-State_remove_desc: "Coalizão governamental: Remover [Estado-Comunista_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Communist-State_remove_desc: "Coalizão governamental: Remover [Estado-Comunista_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  anarchist_communism_invite: "Convide [anarchist_communism_L] ([? Party_pop_elect_array ^ 5 |% 1])"
  anarchist_communism_invite_desc: "Abrirá negociações com [anarchist_communism_L]. [Anarchist_communism_cannot_invite]"
- anarchist_communism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §! \ n [Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilalidayat_e_Faqih_valid ] [Neutral_Libertarian_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
+ anarchist_communism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §!\n[Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilalidayat_e_Faqih_valid ] [Neutral_Libertarian_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
  anarchist_communism_remove: "Remover [anarchist_communism_L] ([? Party_pop_elect_array ^ 5 |% 1])"
- anarchist_communism_remove_desc: "Coalizão governamental: Remover [anarchist_communism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ anarchist_communism_remove_desc: "Coalizão governamental: Remover [anarchist_communism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Conservative_invite: "Convide [Conservative_L] ([? Party_pop_elect_array ^ 6 |% 1])"
  Conservative_invite_desc: "Abrirá negociações com [Conservative_L]. [Conservative_cannot_invite]"
- Conservative_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §! \ n [conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Reino_válido] [Califado_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Conservative_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §!\n[conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Reino_válido] [Califado_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Conservative_remove: "Remover [Conservative_L] ([? Party_pop_elect_array ^ 6 |% 1])"
- Conservative_remove_desc: "Coalizão governamental: Remover [Conservador_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Conservative_remove_desc: "Coalizão governamental: Remover [Conservador_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Autocracy_invite: "Convide [Autocracy_L] ([? Party_pop_elect_array ^ 7 |% 1])"
  Autocracy_invite_desc: "Abrirá negociações com [Autocracy_L]. [Autocracy_cannot_invite]"
- Autocracy_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido_válido] [Neutral_Muslim_Brotherhood_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Autocracy_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido_válido] [Neutral_Muslim_Brotherhood_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Autocracy_remove: "Remover [Autocracy_L] ([? Party_pop_elect_array ^ 7 |% 1])"
- Autocracy_remove_desc: "Coalizão governamental: Remover [Autocracy_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Autocracy_remove_desc: "Coalizão governamental: Remover [Autocracy_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Mod_Vilayat_e_Faqih_invite: "Convide [Mod_Vilayat_e_Faqih_L] ([? Party_pop_elect_array ^ 8 |% 1])"
  Mod_Vilayat_e_Faqih_invite_desc: "Abrirá negociações com [Mod_Vilayat_e_Faqih_L]. [Mod_Vilayat_e_Faqih_cannot_invite]"
- Mod_Vilayat_e_Faqih_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §! \ n [Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Kingdom_valid] [Califhate_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Monarchist_valid] "
+ Mod_Vilayat_e_Faqih_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §!\n[Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Kingdom_valid] [Califhate_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Monarchist_valid] "
  Mod_Vilayat_e_Faqih_remove: "Remover [Mod_Vilayat_e_Faqih_L] ([? Party_pop_elect_array ^ 8 |% 1])"
- Mod_Vilayat_e_Faqih_remove_desc: "Coalizão do governo: Remover [Mod_Vilayat_e_Faqih_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Mod_Vilayat_e_Faqih_remove_desc: "Coalizão do governo: Remover [Mod_Vilayat_e_Faqih_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Vilayat_e_Faqih_invite: "Convide [Vilayat_e_Faqih_L] ([? Party_pop_elect_array ^ 9 |% 1])"
  Vilayat_e_Faqih_invite_desc: "Abrirá negociações com [Vilayat_e_Faqih_L]. [Vilayat_e_Faqih_cannot_invite]"
- Vilayat_e_Faqih_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §! \ n [Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Kingdom_valid] [Califhate_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Monarchist_valid] "
+ Vilayat_e_Faqih_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes participe: §!\n[Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Kingdom_valid] [Califhate_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Monarchist_valid] "
  Vilayat_e_Faqih_remove: "Remover [Vilayat_e_Faqih_L] ([? Party_pop_elect_array ^ 9 |% 1])"
- Vilayat_e_Faqih_remove_desc: "Coalizão governamental: Remover [Vilayat_e_Faqih_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Vilayat_e_Faqih_remove_desc: "Coalizão governamental: Remover [Vilayat_e_Faqih_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Kingdom_invite: "Convide [Kingdom_L] ([? Party_pop_elect_array ^ 10 |% 1])"
  Kingdom_invite_desc: "Abrirá negociações com [Kingdom_L]. [Kingdom_cannot_invite]"
- Kingdom_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilay_Faqih_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Monarchist_valid] "
+ Kingdom_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilay_Faqih_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Monarchist_valid] "
  Kingdom_remove: "Remover [Kingdom_L] ([? Party_pop_elect_array ^ 10 |% 1])"
- Kingdom_remove_desc: "Coalizão governamental: Remover [Kingdom_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Kingdom_remove_desc: "Coalizão governamental: Remover [Kingdom_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Caliphate_invite: "Convide [Caliphate_L] ([? Party_pop_elect_array ^ 11 |% 1])"
  Caliphate_invite_desc: "Abrirá negociações com [Caliphate_L]. [Caliphate_cannot_invite]"
- Caliphate_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes tomar parte: §! \ n [conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Conservador_válido] [Modválido_válido] [Vilayat_e_Faqih_valid] [Neutral_conservatism_valid] [oligarchism_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Nat_Populism_valid] [Nat_Populism_valid] [Nat_Populism_valid] [Nat_Populism_valid]
+ Caliphate_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes tomar parte: §!\n[conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Conservador_válido] [Modválido_válido] [Vilayat_e_Faqih_valid] [Neutral_conservatism_valid] [oligarchism_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Nat_Populism_valid] [Nat_Populism_valid] [Nat_Populism_valid] [Nat_Populism_valid]
  Caliphate_remove: "Remover [Caliphate_L] ([? Party_pop_elect_array ^ 11 |% 1])"
- Caliphate_remove_desc: "Coalizão governamental: Remover [Caliphate_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Caliphate_remove_desc: "Coalizão governamental: Remover [Caliphate_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Neutral_Muslim_Brotherhood_invite: "Convide [Neutral_Muslim_Brotherhood_L] ([? Party_pop_elect_array ^ 12 |% 1])"
  Neutral_Muslim_Brotherhood_invite_desc: "Abrirá negociações com [Neutral_Muslim_Brotherhood_L]. [Neutral_Muslim_Brotherhood_cannot_invite]"
- Neutral_Muslim_Brotherhood_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão na qual qualquer um dos seguintes participe: §! \ n [Western_Autocracy_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Autocracy_valid] [Kingdom_valid] [Neutral_Autocracy_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
+ Neutral_Muslim_Brotherhood_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão na qual qualquer um dos seguintes participe: §!\n[Western_Autocracy_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [Autocracy_valid] [Kingdom_valid] [Neutral_Autocracy_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [Neutral_Communism_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid] "
  Neutral_Muslim_Brotherhood_remove: "Remover [Neutral_Muslim_Brotherhood_L] ([? Party_pop_elect_array ^ 12 |% 1])"
- Neutral_Muslim_Brotherhood_remove_desc: "Coalizão do governo: Remover [Neutral_Muslim_Brotherhood_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_Muslim_Brotherhood_remove_desc: "Coalizão do governo: Remover [Neutral_Muslim_Brotherhood_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Neutral_Autocracy_invite: "Convide [Neutral_Autocracy_L] ([? Party_pop_elect_array ^ 13 |% 1])"
  Neutral_Autocracy_invite_desc: "Abrirá negociações com [Neutral_Autocracy_L]. [Neutral_Autocracy_cannot_invite]"
- Neutral_Autocracy_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Neutral_Autocracy_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Neutral_Autocracy_remove: "Remover [Neutral_Autocracy_L] ([? Party_pop_elect_array ^ 13 |% 1])"
- Neutral_Autocracy_remove_desc: "Coalizão do governo: Remover [Neutral_Autocracy_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_Autocracy_remove_desc: "Coalizão do governo: Remover [Neutral_Autocracy_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Neutral_conservatism_invite: "Convide [Neutral_conservatism_L] ([? Party_pop_elect_array ^ 14 |% 1])"
  Neutral_conservatism_invite_desc: "Abrirá negociações com [Neutral_conservatism_L]. [Neutral_conservatism_cannot_invite]"
- Neutral_conservatism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes tome parte: §! \ n [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Kingdom_valid] [Caliphate_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] "
+ Neutral_conservatism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes tome parte: §!\n[socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Kingdom_valid] [Caliphate_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] "
  Neutral_conservatism_remove: "Remover [Neutral_conservatism_L] ([? Party_pop_elect_array ^ 14 |% 1])"
- Neutral_conservatism_remove_desc: "Coalizão do governo: Remover [Neutral_conservatism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_conservatism_remove_desc: "Coalizão do governo: Remover [Neutral_conservatism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  oligarchism_invite: "Convide [oligarchism_L] ([? Party_pop_elect_array ^ 15 |% 1])"
  oligarchism_invite_desc: "Abrirá negociações com [oligarchism_L]. [Oligarchism_cannot_invite]"
- oligarchism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
+ oligarchism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
  oligarchism_remove: "Remover [oligarquismo_L] ([? Party_pop_elect_array ^ 15 |% 1])"
- oligarchism_remove_desc: "Coalizão governamental: Remover [oligarquismo_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ oligarchism_remove_desc: "Coalizão governamental: Remover [oligarquismo_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Neutral_Libertarian_invite: "Convide [Neutral_Libertarian_L] ([? Party_pop_elect_array ^ 16 |% 1])"
  Neutral_Libertarian_invite_desc: "Abrirá negociações com [Neutral_Libertarian_L]. [Neutral_Libertarian_cannot_invite]"
- Neutral_Libertarian_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
+ Neutral_Libertarian_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
  Neutral_Libertarian_remove: "Remover [Neutral_Libertarian_L] ([? Party_pop_elect_array ^ 16 |% 1])"
- Neutral_Libertarian_remove_desc: "Coalizão governamental: Remover [Neutral_Libertarian_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_Libertarian_remove_desc: "Coalizão governamental: Remover [Neutral_Libertarian_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
  # [Western_Autocracy_valid] [conservatism_valid] [liberalism_valid] [socialism_valid] [Comunista-State_valid] [anarchist_communism_valid] [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid] [Caliphate_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Autocracy_valid] [Neutral_conservatism_valid] [oligarchism_valid ] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] [Nat_Populism_valid] [Nat_Fascism_valid] [Nat_Autocracy_valid] [Monarchist_valid]
 
  Neutral_green_invite: "Convide [Neutral_green_L] ([? Party_pop_elect_array ^ 17 |% 1])"
  Neutral_green_invite_desc: "Abrirá negociações com [Neutral_green_L]. [Neutral_green_cannot_invite]"
- Neutral_green_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
+ Neutral_green_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
  Neutral_green_remove: "Remover [Neutral_green_L] ([? Party_pop_elect_array ^ 17 |% 1])"
- Neutral_green_remove_desc: "Coalizão governamental: Remover [Neutral_green_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_green_remove_desc: "Coalizão governamental: Remover [Neutral_green_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  neutral_Social_invite: "Convide [neutral_Social_L] ([? Party_pop_elect_array ^ 18 |% 1])"
  neutral_Social_invite_desc: "Abrirá negociações com [neutral_Social_L]. [Neutral_Social_cannot_invite]"
- neutral_Social_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
+ neutral_Social_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
  neutral_Social_remove: "Remover [neutral_Social_L] ([? Party_pop_elect_array ^ 18 |% 1])"
- neutral_Social_remove_desc: "Coalizão governamental: Remover [neutral_Social_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ neutral_Social_remove_desc: "Coalizão governamental: Remover [neutral_Social_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Neutral_Communism_invite: "Convide [Neutral_Communism_L] ([? Party_pop_elect_array ^ 19 |% 1])"
  Neutral_Communism_invite_desc: "Abrirá negociações com [Neutral_Communism_L]. [Neutral_Communism_cannot_invite]"
- Neutral_Communism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
+ Neutral_Communism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[Conservative_valid] [Autocracy_valid] [Mod_Vilayat_e_Faqih_valid] [Vilayat_e_Faqih_valid] [Kingdom_valid_valid_valid] [Válido_válido_válido_de_Rinão] ] [Nat_Autocracy_valid] [Monarchist_valid] "
  Neutral_Communism_remove: "Remover [Neutral_Communism_L] ([? Party_pop_elect_array ^ 19 |% 1])"
- Neutral_Communism_remove_desc: "Coalizão governamental: Remover [Neutral_Communism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Neutral_Communism_remove_desc: "Coalizão governamental: Remover [Neutral_Communism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Nat_Populism_invite: "Convide [Nat_Populism_L] ([? Party_pop_elect_array ^ 20 |% 1])"
  Nat_Populism_invite_desc: "Abrirá negociações com [Nat_Populism_L]. [Nat_Populism_cannot_invite]"
- Nat_Populism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Kingdom_valid] [Caliphate_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Muslim_Brotherhood_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Nat_Populism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Kingdom_valid] [Caliphate_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Muslim_Brotherhood_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Nat_Populism_remove: "Remover [Nat_Populism_L] ([? Party_pop_elect_array ^ 20 |% 1])"
- Nat_Populism_remove_desc: "Coalizão do governo: Remover [Nat_Populism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Nat_Populism_remove_desc: "Coalizão do governo: Remover [Nat_Populism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Nat_Fascism_invite: "Convide [Nat_Fascism_L] ([? Party_pop_elect_array ^ 21 |% 1])"
  Nat_Fascism_invite_desc: "Abrirá negociações com [Nat_Fascism_L]. [Nat_Fascism_cannot_invite]"
- Nat_Fascism_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §! \ n [conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilay_Faqih_valid] [Kingdom_valid] [Caliphate_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_conservatism_valid] [oligarchism_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid]
+ Nat_Fascism_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão em que qualquer um dos seguintes tome parte: §!\n[conservatism_valid] [liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Faqih_valid] [Vilay_Faqih_valid] [Kingdom_valid] [Caliphate_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_conservatism_valid] [oligarchism_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid]
  Nat_Fascism_remove: "Remover [Nat_Fascism_L] ([? Party_pop_elect_array ^ 21 |% 1])"
- Nat_Fascism_remove_desc: "Coalizão do governo: Remover [Nat_Fascism_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Nat_Fascism_remove_desc: "Coalizão do governo: Remover [Nat_Fascism_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Nat_Autocracy_invite: "Convide [Nat_Autocracy_L] ([? Party_pop_elect_array ^ 22 |% 1])"
  Nat_Autocracy_invite_desc: "Abrirá negociações com [Nat_Autocracy_L]. [Nat_Autocracy_cannot_invite]"
- Nat_Autocracy_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §! \ n [conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Nat_Autocracy_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §!\n[conservadorismo_válido] [liberalismo_válido] [socialismo_válido] [Estado-comunista_válido] [anarquista_comunismo_válido] [Neutral_Muslim_Brotherhood_válido] [Neutral_Muslim_Brotherhood_valid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Nat_Autocracy_remove: "Remover [Nat_Autocracy_L] ([? Party_pop_elect_array ^ 22 |% 1])"
- Nat_Autocracy_remove_desc: "Coalizão governamental: Remover [Nat_Autocracy_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Nat_Autocracy_remove_desc: "Coalizão governamental: Remover [Nat_Autocracy_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
  Monarchist_invite: "Convide [Monarchist_L] ([? Party_pop_elect_array ^ 23 |% 1])"
  Monarchist_invite_desc: "Abrirá negociações com [Monarchist_L]. [Monarchist_cannot_invite]"
- Monarchist_invite_extra: "\ n \ n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §! \ n [liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Falidaqih_valid] [Vilayat_e_e_valid] Kingdomvalid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
+ Monarchist_invite_extra: "\n\n§REles se recusarão a fazer parte de uma coalizão onde qualquer um dos seguintes participe: §!\n[liberalism_valid] [socialism_valid] [Communist-State_valid] [anarchist_communism_valid] [Mod_Vilayat_e_Falidaqih_valid] [Vilayat_e_e_valid] Kingdomvalid] [Neutral_Muslim_Brotherhood_valid] [Neutral_Libertarian_valid] [Neutral_green_valid] [neutral_Social_valid] [Neutral_Communism_valid] "
  Monarchist_remove: "Remover [Monarchist_L] ([? Party_pop_elect_array ^ 23 |% 1])"
- Monarchist_remove_desc: "Coalizão governamental: Remover [Monarchist_L]. \ N \ n75% do poder político gasto para incluí-los será reembolsado."
+ Monarchist_remove_desc: "Coalizão governamental: Remover [Monarchist_L].\n\n75% do poder político gasto para incluí-los será reembolsado."
 
 
  #Purchase UI
@@ -397,7 +397,7 @@ l_english:
  #### - IU de compra de equipamentos - ####
  #Menu principal
  EP_main_cat: "Mercado de Armas Estrangeiras"
- EP_main_cat_desc: "Podemos comprar armas de potências estrangeiras aqui. Isso nos permitirá compensar rapidamente um déficit ou acessar equipamentos mais avançados que não somos capazes de produzir. Isso proporcionará uma vantagem sobre nossos adversários, mas também enriquecerá o vendedor. . \ nCada transação fornecerá equipamento equivalente a um batalhão. (O custo aumentará drasticamente com base no nível de tecnologia) "
+ EP_main_cat_desc: "Podemos comprar armas de potências estrangeiras aqui. Isso nos permitirá compensar rapidamente um déficit ou acessar equipamentos mais avançados que não somos capazes de produzir. Isso proporcionará uma vantagem sobre nossos adversários, mas também enriquecerá o vendedor. .\nCada transação fornecerá equipamento equivalente a um batalhão. (O custo aumentará drasticamente com base no nível de tecnologia) "
  EP_close_cats: "Recolher todas as guias"
  EP_infantry_open: "Abrir guia Infantaria"
  EP_arty_open: "Guia Artilharia Aberta"
@@ -1452,7 +1452,7 @@ l_english:
 
  ##### Argentina #####
  ARG_falklands_question_category: "A questão das Malvinas"
- ARG_falklands_question_category_desc: "Islas Malvinas é nosso direito de nascimento e nossa terra soberana. Não esqueceremos o sangue que nossos irmãos derramaram em nossas ilhas por sua pátria. \ NÉ hora de retomar nossa terra dos imperialistas que bebem chá!"
+ ARG_falklands_question_category_desc: "Islas Malvinas é nosso direito de nascimento e nossa terra soberana. Não esqueceremos o sangue que nossos irmãos derramaram em nossas ilhas por sua pátria.\nÉ hora de retomar nossa terra dos imperialistas que bebem chá!"
  ARG_second_falklands_war: "Retire as Malvinas!"
  ARG_second_falklands_war_desc: "§RIsso levará a uma guerra com [ENG.GetName] após 120 dias .§!"
 
@@ -1474,7 +1474,7 @@ l_english:
  TUR_afrin_d2_desc: "Eles chamam isso de \" Operação Ramo de Oliveira \ ", engraçado como se diz que o ramo de oliveira é uma oferta de paz. Os turcos não, não o significado da paz, e sua campanha de opressão curda continua contra o oponente errado. se quiserem continuar esta luta, devemos continuar a nos defender. "
 
  TUR_counter_terrorism_mil: "Operações de combate ao terrorismo - Ramo militar"
- TUR_counter_terrorism_mil_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos. \ N \ nA força do PKK ( chance de conduzir um novo ataque) §R [? Root.pkk_presence] §! \ n \ nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §! \ nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
+ TUR_counter_terrorism_mil_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos.\n\nA força do PKK ( chance de conduzir um novo ataque) §R [? Root.pkk_presence] §!\n\nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §!\nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
  strenghten_outposts_1: "Fortalecer Postos Avançados"
  strenghten_outposts_1_desc: "Nossos postos avançados na parte sudeste do nosso país se desenvolveram para impedir o contrabando de e para o norte do Iraque por volta de 1960. Agora, enfrentando ataques terroristas, eles são muito antigos ou estão em posições erradas e altamente vulneráveis a ataques assimétricos. Nós precisamos encontrar uma solução para isso, pode custar muito dinheiro, mas vai nos compensar com as vidas salvas. E a oposição certamente tentará desacreditar essa reforma como sempre faz, dizendo que desperdiçará nosso dinheiro para nenhum benefício, portanto, há pouco espaço para falhas. "
  strenghten_outposts_2: "Começando em Postos Avançados Fortes"
@@ -1491,27 +1491,27 @@ l_english:
  doing_ext_sec: "Já conduzindo uma operação transfronteiriça"
  doing_int_sec: "Já realizando uma varredura de segurança interna"
  airstrike_prepare: "Preparação para ataques aéreos"
- airstrike_prepare_desc: "Temos uma grande vantagem para os terroristas, é nossa força aérea. Embora exija algum tempo e capacidade de produção para ser capaz de executá-los. \ N \ nNosso número atual de mísseis: §G [? Root.air_strike_material] § !. Podemos estocar até 50. \ n \ nDesbloqueia a decisão real do ataque aéreo quando concluída. "
+ airstrike_prepare_desc: "Temos uma grande vantagem para os terroristas, é nossa força aérea. Embora exija algum tempo e capacidade de produção para ser capaz de executá-los.\n\nNosso número atual de mísseis: §G [? Root.air_strike_material] § !. Podemos estocar até 50.\n\nDesbloqueia a decisão real do ataque aéreo quando concluída. "
  airstrike_thingy: "Conduzindo ataques aéreos"
- airstrike_thingy_desc: "Usar nossa força aérea para atingi-los onde dói. Ou em seus esconderijos em montanhas despovoadas ou quando estão em movimento. Embora isso vá consumir alguns de nossos mísseis e teremos que esperar algum tempo entre os ataques. \ N \ nO nosso míssil restante contagem: §G [? Root.air_strike_material] §! "
+ airstrike_thingy_desc: "Usar nossa força aérea para atingi-los onde dói. Ou em seus esconderijos em montanhas despovoadas ou quando estão em movimento. Embora isso vá consumir alguns de nossos mísseis e teremos que esperar algum tempo entre os ataques.\n\nO nosso míssil restante contagem: §G [? Root.air_strike_material] §! "
  add_power_to_pkk: "Adicionar energia ao PKK (para depuração)"
  add_power_to_pkk_desc: "Adiciona energia ao PKK"
  internal_preparation_1: "Preparações normais para operações internas"
- internal_preparation_1_desc: "O mais rápido e mais barato. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 40%. Em termos de eficiência de custos, este é melhor. \ N \ n§R Não podemos fazer vários preparativos para um único tipo de operação!§!"
+ internal_preparation_1_desc: "O mais rápido e mais barato. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 40%. Em termos de eficiência de custos, este é melhor.\n\n§R Não podemos fazer vários preparativos para um único tipo de operação!§!"
  internal_preparation_2: "Preparações Medíocres para Operações Internas"
- internal_preparation_2_desc: "Normal. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de% 50. \ N \ n§RNão podemos fazer vários preparativos para um único tipo de operação! §!"
+ internal_preparation_2_desc: "Normal. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de% 50.\n\n§RNão podemos fazer vários preparativos para um único tipo de operação! §!"
  internal_preparation_3: "Boas preparações para operações internas"
- internal_preparation_3_desc: "O mais lento e caro. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 60%. Não é econômico, mas com resultados mais garantidos. \ N \ n§RNão podemos fazer vários preparativos para um único tipo de operação!§!"
+ internal_preparation_3_desc: "O mais lento e caro. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 60%. Não é econômico, mas com resultados mais garantidos.\n\n§RNão podemos fazer vários preparativos para um único tipo de operação!§!"
  internal_security: "Operações Internas"
- internal_security_desc: "A parte oriental do nosso país tem um terreno acidentado, contém muitas aldeias desertas, vales naturais semelhantes a castelos cheios de cavernas, passagens estreitas ao redor de montanhas onde ninguém vive. Esses recursos são muito úteis para insurgências e o PKK os usa. Precisamos constantemente atacam e arrasam suas bases improvisadas para reduzir seu poder e atrapalhar seus esforços de recrutamento. \ n \ nNão podemos fazer operações internacionais e internas ao mesmo tempo. "
+ internal_security_desc: "A parte oriental do nosso país tem um terreno acidentado, contém muitas aldeias desertas, vales naturais semelhantes a castelos cheios de cavernas, passagens estreitas ao redor de montanhas onde ninguém vive. Esses recursos são muito úteis para insurgências e o PKK os usa. Precisamos constantemente atacam e arrasam suas bases improvisadas para reduzir seu poder e atrapalhar seus esforços de recrutamento.\n\nNão podemos fazer operações internacionais e internas ao mesmo tempo. "
  external_preparation_1: "Preparações normais para operações externas"
- external_preparation_1_desc: "O mais rápido e mais barato. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 40%. Em termos de eficiência de custos, este é melhor. \ N \ n§R Não podemos fazer vários preparativos para um único tipo de operação!§!"
+ external_preparation_1_desc: "O mais rápido e mais barato. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 40%. Em termos de eficiência de custos, este é melhor.\n\n§R Não podemos fazer vários preparativos para um único tipo de operação!§!"
  external_preparation_2: "Preparações Medíocres para Operações Externas"
- external_preparation_2_desc: "Normal. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de% 50. \ N \ n§RNão podemos fazer vários preparativos para um único tipo de operação! §!"
+ external_preparation_2_desc: "Normal. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de% 50.\n\n§RNão podemos fazer vários preparativos para um único tipo de operação! §!"
  external_preparation_3: "Boas preparações para operações externas"
- external_preparation_3_desc: "O mais lento e caro. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 60%. Não é econômico, mas com resultados mais garantidos. \ N \ n§RNão podemos fazer vários preparativos para um único tipo de operação!§!"
+ external_preparation_3_desc: "O mais lento e caro. Se escolhermos este, a ofensiva real terá uma taxa de sucesso de 60%. Não é econômico, mas com resultados mais garantidos.\n\n§RNão podemos fazer vários preparativos para um único tipo de operação!§!"
  external_security: "Operações transfronteiriças"
- external_security_desc: "O PKK não existe apenas dentro de nossas fronteiras, uma boa parte de seus membros também tem bases no norte do Iraque, para aproveitar o mesmo terreno acidentado, estar um pouco mais seguro de nosso poderio militar, controlar o contrabando e para recrutamento. Precisamos atacar essas posições também, embora possamos enfrentar acusações de potências estrangeiras. \ n \ nNão podemos fazer operações internacionais e internas ao mesmo tempo. "
+ external_security_desc: "O PKK não existe apenas dentro de nossas fronteiras, uma boa parte de seus membros também tem bases no norte do Iraque, para aproveitar o mesmo terreno acidentado, estar um pouco mais seguro de nosso poderio militar, controlar o contrabando e para recrutamento. Precisamos atacar essas posições também, embora possamos enfrentar acusações de potências estrangeiras.\n\nNão podemos fazer operações internacionais e internas ao mesmo tempo. "
  prepping_ext: "Já estamos planejando uma operação transfronteiriça"
  prepping_int: "Já estamos planejando uma varredura interna"
  collapse_mil_branch: "Ocultar decisões de operação militar"
@@ -1520,17 +1520,17 @@ l_english:
  expand_civ_branch: "Mostrar decisões de reforma civil"
 
  TUR_counter_terrorism_civ: "Operações de combate ao terror - Filial civil"
- TUR_counter_terrorism_civ_desc: "O PKK não trata apenas de guerrilheiros armados ou terroristas, a autoridade do Estado não está sendo firme e a confiança das pessoas nos governos e Estados não é forte, agravou esse problema. Precisamos de novas soluções sociológicas sem sangue, pequenas ou grandes. \ N \ nA força do PKK (chance de conduzir um novo ataque) §R [? Root.pkk_presence] §! \ n \ nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §! \ nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
+ TUR_counter_terrorism_civ_desc: "O PKK não trata apenas de guerrilheiros armados ou terroristas, a autoridade do Estado não está sendo firme e a confiança das pessoas nos governos e Estados não é forte, agravou esse problema. Precisamos de novas soluções sociológicas sem sangue, pequenas ou grandes.\n\nA força do PKK (chance de conduzir um novo ataque) §R [? Root.pkk_presence] §!\n\nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §!\nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
  college_professors: "Lidando com professores universitários"
  college_professors_desc: "Temos uma luta em nossas mãos e essas pessoas que deveriam ser iluminadas, mas reclamam da situação e querem que o governo abdique sempre que um ataque terrorista acontece e chamam isso de genocídio ou xenofobia sempre que tentamos fazer algo contra o PKK . Isso precisa ser interrompido. Iremos eliminá-los ou garantir que eles não desacreditem mais nossas ações com afirmações infundadas "
  kurdish_language_1: "Problema de língua curda"
- kurdish_language_1_desc: "Durante anos, houve uma regra não escrita contra a língua curda. Não apenas a abertura de canais de televisão e universidades com a língua curda é proibida, mesmo se você estiver dizendo algo curdo em público ou na rua, pode ser atacado verbalmente. E quase 20 por cento dos nossos população tem o curdo como língua materna. Precisamos resolver isso. \ n \ nDesbloqueia a segunda decisão para mais reformas. "
+ kurdish_language_1_desc: "Durante anos, houve uma regra não escrita contra a língua curda. Não apenas a abertura de canais de televisão e universidades com a língua curda é proibida, mesmo se você estiver dizendo algo curdo em público ou na rua, pode ser atacado verbalmente. E quase 20 por cento dos nossos população tem o curdo como língua materna. Precisamos resolver isso.\n\nDesbloqueia a segunda decisão para mais reformas. "
  kurdish_language_2: "Acabando com a discriminação"
- kurdish_language_2_desc: "Em primeiro lugar, punir as pessoas que atacam os falantes do curdo. Ninguém merece ter medo de falar sua própria língua. \ N \ nDesbloqueia a terceira decisão para mais reformas."
+ kurdish_language_2_desc: "Em primeiro lugar, punir as pessoas que atacam os falantes do curdo. Ninguém merece ter medo de falar sua própria língua.\n\nDesbloqueia a terceira decisão para mais reformas."
  kurdish_language_3: "Escolas e universidades curdas"
- kurdish_language_3_desc: "Vamos permitir que a língua curda seja usada junto com o turco em escolas e cidades específicas, onde acharmos necessário. Isso será útil especialmente para os jovens, sejam eles criados bilíngues ou não. \ N \ nDesbloqueia a quarta decisão para mais reformas."
+ kurdish_language_3_desc: "Vamos permitir que a língua curda seja usada junto com o turco em escolas e cidades específicas, onde acharmos necessário. Isso será útil especialmente para os jovens, sejam eles criados bilíngues ou não.\n\nDesbloqueia a quarta decisão para mais reformas."
  kurdish_language_4: "Canais de TV curdos"
- kurdish_language_4_desc: "Vamos permitir que as pessoas abram canais curdos, não só desacreditará a propaganda do PKK sobre os curdos serem oprimidos, mas também conquistará os corações dos adultos que nasceram curdos e nunca tiveram a chance de aprender turco. Embora precisemos contratar pessoas para manter um olho nesses canais e evita que sejam usados para propaganda do PKK. \ n \ nDesbloqueia a quinta decisão para mais reformas. "
+ kurdish_language_4_desc: "Vamos permitir que as pessoas abram canais curdos, não só desacreditará a propaganda do PKK sobre os curdos serem oprimidos, mas também conquistará os corações dos adultos que nasceram curdos e nunca tiveram a chance de aprender turco. Embora precisemos contratar pessoas para manter um olho nesses canais e evita que sejam usados para propaganda do PKK.\n\nDesbloqueia a quinta decisão para mais reformas. "
  kurdish_language_5: "Canal do Estado Curdo"
  kurdish_language_5_desc: "TRT (abreviatura de Türkiye Radyo Televizyon, Rádio e Televisão Turca) tem sido nossa TV estatal oficial desde 68. Com os anos, seu número cresceu e agora existem vários canais de TRT, alguns deles são para assuntos gerais ou por exemplo TRT-Müzik transmite apenas música ou TRT-Belgesel transmite apenas documentários. Devemos abrir um novo que funcione em língua curda. Isso pode custar mais, mas vai desacreditar ainda mais a propaganda do PKK. "
  doing_counter_terror_op_civ: "Conduzindo outra reforma civil"
@@ -1645,11 +1645,11 @@ l_english:
  ETH_construct_addis_ababa_djibouti_railway: "Construção da ferrovia Adis Abeba-Djibouti"
  ETH_construct_addis_ababa_djibouti_railway_desc: "Começaram as obras de construção da Ferrovia Addis Ababa – Djibouti."
  ETH_eritrea_category: "Operações de contra-insurgência na Eritreia"
- ETH_eritrea_category_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos. \ N \ n Força da EPLF: §R [? Root.elpf_presence] §! \ N (Possibilidade de conduzir um novo ataque) \ n \ nSuporte da EPLF: §R [? Root.elpf_support] §! \ N (Se chegar a 100, os separatistas iniciarão uma guerra de independência ) "
+ ETH_eritrea_category_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos.\n\nForça da EPLF: §R [? Root.elpf_presence] §!\n(Possibilidade de conduzir um novo ataque)\n\nSuporte da EPLF: §R [? Root.elpf_support] §!\n(Se chegar a 100, os separatistas iniciarão uma guerra de independência ) "
  ETH_destroy_sudan_base: "Destrua a base EPLF no Sudão"
  ETH_destroy_sudan_base_desc: "Agora que temos acesso à região da fronteira com a Eritreia, podemos enviar tropas para lá para acabar com esta rebelião de uma vez por todas."
  ETH_eritrea_1_category: "Propaganda-Projetos na Eritreia"
- ETH_eritrea_1_category_desc: "Decisões relacionadas a projetos de propaganda quanto à nossa aceitação nas regiões anexadas. Uma grande parte da população ainda se lembra da época em que a Eritreia fazia parte da Etiópia e eles não consideram isso uma boa época. É nosso trabalho agora convencê-los de que fazer parte de nosso grande país não é tão ruim quanto antes. \ n \ nAceitação da anexação: §R [? Root.eritrean_acceptance] §! "
+ ETH_eritrea_1_category_desc: "Decisões relacionadas a projetos de propaganda quanto à nossa aceitação nas regiões anexadas. Uma grande parte da população ainda se lembra da época em que a Eritreia fazia parte da Etiópia e eles não consideram isso uma boa época. É nosso trabalho agora convencê-los de que fazer parte de nosso grande país não é tão ruim quanto antes.\n\nAceitação da anexação: §R [? Root.eritrean_acceptance] §! "
 
  ##### REINO UNIDO #####
  ENG_AFG: "Guerra Civil Afegã"
@@ -1733,7 +1733,7 @@ l_english:
 
  ### Anti Bully ###
  Anti_Bully: "Cansaço público de guerra"
- Anti_Bully_desc: "Nosso país está agora em guerra. As questões que acompanham o conflito são sempre importantes. A maneira mais eficaz de vencer uma guerra é manter o apoio do povo a ela. Uma vez que o povo perca o apoio a um conflito, já perdemos. \ n \ n§YNota: As pessoas não apreciam guerras longas. Quanto mais decisiva for a guerra, menos penalizará a guerra.§! \ n "
+ Anti_Bully_desc: "Nosso país está agora em guerra. As questões que acompanham o conflito são sempre importantes. A maneira mais eficaz de vencer uma guerra é manter o apoio do povo a ela. Uma vez que o povo perca o apoio a um conflito, já perdemos.\n\n§YNota: As pessoas não apreciam guerras longas. Quanto mais decisiva for a guerra, menos penalizará a guerra.§!\n"
  AB_offer_stalemate_Atk: "Ofereça um cessar-fogo"
  AB_offer_stalemate_Atk_desc: "A guerra se arrastou por muito tempo. O combate se desfez em nada mais do que um impasse prolongado. Foi um fracasso massivo e a melhor opção para nós é pedir a paz."
  AB_offer_stalemate_Def: "Ofereça um cessar-fogo"
@@ -1750,16 +1750,16 @@ l_english:
  confiscate_civilian_vehicles_desc: "Podemos confiscar e converter veículos civis em transportes técnicos e de tropas blindadas. Apesar da guerra, os veículos civis ainda são abundantes e novos podem ser facilmente contrabandeados através da fronteira".
  foreign_recruitment_campaign: "Campanha de Recrutamento Estrangeiro"
  foreign_recruitment_campaign_desc: "Uma grande parte de nossos combatentes é originária de outros países. Podemos realizar uma campanha de recrutamento temporária para reunir mais soldados possíveis para nossos exércitos."
- TT_FOREIGN_RECRUITMENT_CAMPAIGN: "§HTreasury§ !: §R- $ 0,5§! Bilhões \ n"
+ TT_FOREIGN_RECRUITMENT_CAMPAIGN: "§HTreasury§ !: §R- $ 0,5§! Bilhões\n"
  smuggle_small_arms: "Contrabandear Armas Pequenas"
  smuggle_small_arms_desc: "Além de produzir nossas próprias armas pequenas em oficinas locais, podemos tentar puxar alguns cordões e contrabandear armas do exterior."
- TT_SMUGGLE_SMALL_ARMS: "§HTreasury§ !: §R- $ 0.1§! Bilhões \ n"
+ TT_SMUGGLE_SMALL_ARMS: "§HTreasury§ !: §R- $ 0.1§! Bilhões\n"
  smuggle_heavy_weapons: "Contrabandear armas pesadas"
  smuggle_heavy_weapons_desc: "Além de produzir nossas próprias armas pesadas em oficinas locais, podemos tentar puxar alguns cordões e contrabandear armas do exterior. Claro, contrabandear mísseis pela fronteira é um pouco mais difícil do que rifles."
- TT_SMUGGLE_HEAVY_WEAPONS: "§HTreasury§ !: §R- $ 0,2§! Bilhões \ n"
+ TT_SMUGGLE_HEAVY_WEAPONS: "§HTreasury§ !: §R- $ 0,2§! Bilhões\n"
  Conscripting_Child_Soldiers: "Alistando Crianças Soldados"
  force_conscript_children: "Forçar crianças soldados recrutados"
- force_conscript_children_desc: "Podemos começar a recrutar crianças para o nosso exército. Em muitos conflitos assimétricos, as crianças são recrutadas à força para grupos rebeldes e insensíveis à violência. O destino dessas crianças é deprimente por terem sido traumatizadas para o resto da vida, muitas se transformando em mais violência, álcool e drogas mais tarde na vida. \ n \ nO recrutamento de crianças pela força reforça nossas forças, mas muitas vezes esses meninos agem como nada mais do que escudos de carne. "
+ force_conscript_children_desc: "Podemos começar a recrutar crianças para o nosso exército. Em muitos conflitos assimétricos, as crianças são recrutadas à força para grupos rebeldes e insensíveis à violência. O destino dessas crianças é deprimente por terem sido traumatizadas para o resto da vida, muitas se transformando em mais violência, álcool e drogas mais tarde na vida.\n\nO recrutamento de crianças pela força reforça nossas forças, mas muitas vezes esses meninos agem como nada mais do que escudos de carne. "
  buy_fuel_from_black_market: "Compre Combustível do Mercado Negro"
  buy_fuel_from_black_market_desc: "Nossa situação dificulta a aquisição legal de combustível. No entanto, existem muitas maneiras de comprar combustível ilegalmente."
 
@@ -1803,14 +1803,14 @@ l_english:
 
  ### Cheat Decision ###
  game_rule_toggle_cheat_decisions: "§Y [show_cheat_decision_status_3] Decisões de trapaça §RGlobally§!"
- game_rule_toggle_cheat_decisions_desc: "§NOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça, e os efeitos são §Rglobal§ !. Um evento aparecerá informando qual nação o alterna. \ N§YVocê deve ter certeza de que tem permissão para usar esta decisão em um jogo Multiplayer! §! "
+ game_rule_toggle_cheat_decisions_desc: "§NOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça, e os efeitos são §Rglobal§ !. Um evento aparecerá informando qual nação o alterna.\n§YVocê deve ter certeza de que tem permissão para usar esta decisão em um jogo Multiplayer! §! "
  cheat_decisions_disabled_TT: "Cheats: §RDisabled§!"
  cheat_decisions_enabled_TT: "Cheats: §GEnabled§!"
  cheat_decisions_disabled_2_TT: "Desativado"
  cheat_decisions_enabled_2_TT: "ativado"
  cheat_decisions_disabled_3_TT: "Permitir"
  cheat_decisions_enabled_3_TT: "Desativar"
- cheat_decisions_enabled_4_TT: "Status atual de [show_cheat_decision_status] \ n§YNOTE: §! Qualquer nação no mundo pode alternar os Cheats, e os efeitos são §Rglobal.§! \ N \ nUm evento aparecerá informando qual nação os alternou. \ N §YVocê deve certificar-se de que tem permissão para usar esta decisão em um jogo Multijogador! §! "
+ cheat_decisions_enabled_4_TT: "Status atual de [show_cheat_decision_status]\n§YNOTE: §! Qualquer nação no mundo pode alternar os Cheats, e os efeitos são §Rglobal.§!\n\nUm evento aparecerá informando qual nação os alternou.\n§YVocê deve certificar-se de que tem permissão para usar esta decisão em um jogo Multijogador! §! "
  cheat_decisions_disabled_4_TT: ""
  cheat_decision_categories: "Decisões de trapaça"
  cheat_decision_categories_desc: "[show_cheat_decision_status_4]"
@@ -1869,7 +1869,7 @@ l_english:
 
  ### Birmânia
  ethnic_insurgency_category: "O conflito interno em Mianmar"
- ethnic_insurgency_category_desc: "As últimas décadas foram marcadas por sucessivos cessar-fogo entre o governo birmanês e várias organizações armadas étnicas (EAOs). Esses cessar-fogo foram pontuados por violentos confrontos entre o Tatmadaw e os EAOs, confrontos que muitas vezes, mas nem sempre, resultaram em nada mais do que um retorno ao status quo. O equilíbrio entre paz e guerra é delicado, e ambos os lados devem lidar com cuidado. \ n \ nO nível de influência que Mianmar tem em qualquer EAO específico determina se Mianmar pode anexar o território rebelde ou se o estado separatista pode declarar independência. Os cessar-fogos permitirão que Mianmar acumule influência nos EAOs lentamente por um longo período de tempo. As operações militares dão a Mianmar uma influência significativa nos EAOs direcionados se forem bem-sucedidas, mas darão aos EAOs muito mais independência do birmanês influência se eles falharem. \ n \ n [BRM.GetFlag] [BRM.GetAdjective] influência em EAOs: [KAC.GetNamewithFlag] [KAC.BRM_influence_KAC_var] [KAC.BRM_i nfluence_KAC_var_integer] [KAR.GetNamewithFlag] [KAR.BRM_influence_KAR_var] [KAR.BRM_influence_KAR_var_integer] [SHN.GetNamewithFlag] [SHN.BRM_influence_SHN_var] [SHN.BRM_influence_SHN_var_integer] [WAA.GetNamewithFlag] [WAA.BRM_influence_WAA_var] [WAA.BRM_influence_WAA_var_integer]"
+ ethnic_insurgency_category_desc: "As últimas décadas foram marcadas por sucessivos cessar-fogo entre o governo birmanês e várias organizações armadas étnicas (EAOs). Esses cessar-fogo foram pontuados por violentos confrontos entre o Tatmadaw e os EAOs, confrontos que muitas vezes, mas nem sempre, resultaram em nada mais do que um retorno ao status quo. O equilíbrio entre paz e guerra é delicado, e ambos os lados devem lidar com cuidado.\n\nO nível de influência que Mianmar tem em qualquer EAO específico determina se Mianmar pode anexar o território rebelde ou se o estado separatista pode declarar independência. Os cessar-fogos permitirão que Mianmar acumule influência nos EAOs lentamente por um longo período de tempo. As operações militares dão a Mianmar uma influência significativa nos EAOs direcionados se forem bem-sucedidas, mas darão aos EAOs muito mais independência do birmanês influência se eles falharem.\n\n[BRM.GetFlag] [BRM.GetAdjective] influência em EAOs: [KAC.GetNamewithFlag] [KAC.BRM_influence_KAC_var] [KAC.BRM_i nfluence_KAC_var_integer] [KAR.GetNamewithFlag] [KAR.BRM_influence_KAR_var] [KAR.BRM_influence_KAR_var_integer] [SHN.GetNamewithFlag] [SHN.BRM_influence_SHN_var] [SHN.BRM_influence_SHN_var_integer] [WAA.GetNamewithFlag] [WAA.BRM_influence_WAA_var] [WAA.BRM_influence_WAA_var_integer]"
  BRM_propose_the_NCA: "Propor o acordo de cessar-fogo em todo o país"
  BRM_propose_the_NCA_desc: "O Acordo de Cessar-Fogo Nationwide é uma tentativa ambiciosa de alcançar uma paz duradoura com 15 dos mais poderosos EAOs de Mianmar. Devemos tentar garantir cessar-fogo bilateral com cada EAO individual antes de tentar isso."
  BRM_renegotiate_the_NCA: "Renegociar o acordo de cessar-fogo nacional"
@@ -1935,7 +1935,7 @@ l_english:
 
  ###China
  one_china_category: "Relações entre Estreito"
- one_china_category_desc: "A Guerra Civil Chinesa terminou com 2 governos alternativos afirmando liderar toda a nação chinesa, a RPC com sede em Pequim e a ROC com sede em Taipei. Enquanto em 1992 ambos os governos deixaram de lado a questão, concordando que havia apenas uma China, mas discordando sobre quem era o governante legítimo, figuras pró-independência em Taiwan criticaram esse consenso e pediram o estabelecimento de uma nação independente de Taiwan. \ n \ nA popularidade relativa da pró-reunificação §CPan-Blue Coalition§! e a pró-independência §GPan-Green Coalition§! em Taiwan serve como uma aproximação aproximada de oposição e apoio à independência, respectivamente. \ n \ n§Pan-Blue Coalition Support§! \ n £ TAI_conservatism Kuomintang: §Y [? TAI.party_pop_array ^ 1 |% 1] §! \ N £ TAI_communism_Conservative Nova Parte: §Y [? TAI.party_pop_array ^ 6 |% 1] §! \ N £ TAI_Neutral_conservatism Primeira Parte das Pessoas: §Y [? TAI.party_pop_array ^ 14 |% 1] §! \ N \ nSuporte total: §Y [? TAI.pan_blue_coalition_support |% 1] §! \ N \ n§GPan-Gre pt Apoio da Coalizão§! \ n £ TAI_liberalism Partido Democrático Progressivo: §Y [? TAI.party_pop_array ^ 2 |% 1] §! \ n £ TAI_neutral_Social Partido da Independência de Taiwan: §Y [? TAI.party_pop_array ^ 18 |% 1] § ! \ n \ nSuporte total: §Y [? TAI.pan_green_coalition_support |% 1] §! "
+ one_china_category_desc: "A Guerra Civil Chinesa terminou com 2 governos alternativos afirmando liderar toda a nação chinesa, a RPC com sede em Pequim e a ROC com sede em Taipei. Enquanto em 1992 ambos os governos deixaram de lado a questão, concordando que havia apenas uma China, mas discordando sobre quem era o governante legítimo, figuras pró-independência em Taiwan criticaram esse consenso e pediram o estabelecimento de uma nação independente de Taiwan.\n\nA popularidade relativa da pró-reunificação §CPan-Blue Coalition§! e a pró-independência §GPan-Green Coalition§! em Taiwan serve como uma aproximação aproximada de oposição e apoio à independência, respectivamente.\n\n§Pan-Blue Coalition Support§!\n£ TAI_conservatism Kuomintang: §Y [? TAI.party_pop_array ^ 1 |% 1] §!\n£ TAI_communism_Conservative Nova Parte: §Y [? TAI.party_pop_array ^ 6 |% 1] §!\n£ TAI_Neutral_conservatism Primeira Parte das Pessoas: §Y [? TAI.party_pop_array ^ 14 |% 1] §!\n\nSuporte total: §Y [? TAI.pan_blue_coalition_support |% 1] §!\n\n§GPan-Gre pt Apoio da Coalizão§!\n£ TAI_liberalism Partido Democrático Progressivo: §Y [? TAI.party_pop_array ^ 2 |% 1] §!\n£ TAI_neutral_Social Partido da Independência de Taiwan: §Y [? TAI.party_pop_array ^ 18 |% 1] § !\n\nSuporte total: §Y [? TAI.pan_green_coalition_support |% 1] §! "
  resubmit_roadmap: "Reenviar o Roteiro para a Reunificação"
  resubmit_roadmap_desc: "Embora nossos colegas em Taipei estejam rejeitando o Roteiro para a Reunificação por enquanto, se as condições mudarem, eles podem mudar sua postura."
  anti_DPP_media_campaign: "Campanha de mídia anti-DPP"
@@ -1958,7 +1958,7 @@ l_english:
  recalculate_coalition_support_taiwan: "Atualizar valores de suporte total"
 
  xinjiang_category: "Xinjiang"
- xinjiang_category_desc: "A minoria uigur de Xinjiang foi, por muito tempo, vista pelas autoridades chinesas com suspeita. Essa suspeita só se fortaleceu à medida que a atividade militante uigur cresceu como resultado da insatisfação com o domínio chinês. Essa ameaça militante não pode ser ignorada, no entanto devemos equilibrar a necessidade de combater o terrorismo com a necessidade de conquistar os corações e mentes da população local. \ n§YUigur Ameaça§! denota a força da militância uigur, com um nível de ameaça mais alto que leva a ataques mais mortais e destrutivos. §YUigur Opinião§! Determina a taxa em que §YUigur Ameaça§! Aumenta, com 100% representando o apoio esmagador Uigur do governo e 0% representando hostilidade universal. \ N \ n§YUigur Ameaça§ !: [? ROOT.uighur_threat] % \ n§YUighur Opinion§ !: [? ROOT.uighur_opinion]% "
+ xinjiang_category_desc: "A minoria uigur de Xinjiang foi, por muito tempo, vista pelas autoridades chinesas com suspeita. Essa suspeita só se fortaleceu à medida que a atividade militante uigur cresceu como resultado da insatisfação com o domínio chinês. Essa ameaça militante não pode ser ignorada, no entanto devemos equilibrar a necessidade de combater o terrorismo com a necessidade de conquistar os corações e mentes da população local.\n§YUigur Ameaça§! denota a força da militância uigur, com um nível de ameaça mais alto que leva a ataques mais mortais e destrutivos. §YUigur Opinião§! Determina a taxa em que §YUigur Ameaça§! Aumenta, com 100% representando o apoio esmagador Uigur do governo e 0% representando hostilidade universal.\n\n§YUigur Ameaça§ !: [? ROOT.uighur_threat] %\n§YUighur Opinion§ !: [? ROOT.uighur_opinion]% "
  promote_immigration: "Promova a imigração Han e Hui em Xinjiang"
  promote_immigration_desc: "Ao promover a imigração de outras províncias chinesas para Xinjiang, podemos reduzir a população relativa de uigures na província."
  raid_militant_hideouts: "Esconderijo do Militante Raid"
@@ -2007,7 +2007,7 @@ l_english:
  stop_the_protests_03_desc: "Se não aplacarmos os manifestantes atendendo às suas demandas ou enviarmos tropas para restaurar a ordem, a situação atual pode se deteriorar ainda mais."
 
  south_china_sea_category: "Mar da China Meridional"
- south_china_sea_category_desc: "Como a região através da qual um terço do comércio global flui e onde as bases militares estão para proteger os interesses de nossa nação, a importância do Mar da China Meridional, tanto estratégica quanto economicamente, não pode ser exagerada. Com disputas e tensões com outras nações ocorrendo com frequência, notavelmente sobre os vastos campos de petróleo recentemente descobertos no mar, superar nossos rivais e projetar nosso poder na região é de extrema importância. \ n \ n§YAgressão Chinesa§ !: [? CHI.chinese_aggression] "
+ south_china_sea_category_desc: "Como a região através da qual um terço do comércio global flui e onde as bases militares estão para proteger os interesses de nossa nação, a importância do Mar da China Meridional, tanto estratégica quanto economicamente, não pode ser exagerada. Com disputas e tensões com outras nações ocorrendo com frequência, notavelmente sobre os vastos campos de petróleo recentemente descobertos no mar, superar nossos rivais e projetar nosso poder na região é de extrema importância.\n\n§YAgressão Chinesa§ !: [? CHI.chinese_aggression] "
  oil_exploration_paracels: "Perfure para obter petróleo perto das Ilhas Paracel"
  oil_exploration_paracels_desc: "Segundo algumas estimativas, o Mar da China Meridional contém 17,7 bilhões de toneladas de petróleo bruto, uma reserva massiva comparável a partes do Oriente Médio. Devemos buscar explorar esta vasta riqueza de recursos."
  oil_exploration_chinese_spratlys: "Perfure para obter petróleo perto dos Spratlys chineses"
@@ -2038,7 +2038,7 @@ l_english:
  provoke_a_clash_vietnam_desc: "A presença de tropas de diferentes nacionalidades próximas umas das outras nas disputadas ilhas Spratly é a oportunidade perfeita para criar uma crise. Uma confrantação armada poderia ser explorada por nós a fim de estender nosso controle sobre o território no Mar da China Meridional. "
 
  sco_category: "Organização de Cooperação de Xangai"
- sco_category_desc: "A Organização de Cooperação de Xangai ou SCO é uma organização intergovernamental da Eurásia que se concentra principalmente em questões econômicas, políticas e de segurança. Seu predecessor, o Shanghai Five, foi formado pela Rússia, China, Cazaquistão, Quirguistão e Tajiquistão para resolver disputas e promover a cooperação . A SCO emergiu como uma ampliação e aprofundamento dessa visão original, facilitando não apenas uma melhoria nas relações entre seus estados membros, mas também um aumento notável na influência russa e chinesa na Ásia Central. \ N \ nA probabilidade de estados se candidatarem à adesão. é determinado pelo nível de §YAgressão Chinesa§!. \ nNo §G-20§! Agressão chinesa e abaixo de §YNeutral§! e §YNationalist§! os estados tentarão ingressar na SCO como membros plenos. \ nEm §G-10 §! Agressão chinesa e abaixo de §YNeutral§! E §YNationalist§! Os estados tentarão se juntar à SCO como observadores. \ NNa §R + 10§! Agressão chinesa e acima de §YNeutral§! E §YNationalist§! Os estados membros da SCO irão deixe o o rganização. \ nNo §R + 20§! Agressão chinesa e acima §YNeutral§! e §Nacionalista§! Os observadores da SCO desistirão de seu status. \ N \ n§YAgressão Chinesa§! [? CHI.chinese_aggression] "
+ sco_category_desc: "A Organização de Cooperação de Xangai ou SCO é uma organização intergovernamental da Eurásia que se concentra principalmente em questões econômicas, políticas e de segurança. Seu predecessor, o Shanghai Five, foi formado pela Rússia, China, Cazaquistão, Quirguistão e Tajiquistão para resolver disputas e promover a cooperação . A SCO emergiu como uma ampliação e aprofundamento dessa visão original, facilitando não apenas uma melhoria nas relações entre seus estados membros, mas também um aumento notável na influência russa e chinesa na Ásia Central.\n\nA probabilidade de estados se candidatarem à adesão. é determinado pelo nível de §YAgressão Chinesa§!.\nNo §G-20§! Agressão chinesa e abaixo de §YNeutral§! e §YNationalist§! os estados tentarão ingressar na SCO como membros plenos.\nEm §G-10 §! Agressão chinesa e abaixo de §YNeutral§! E §YNationalist§! Os estados tentarão se juntar à SCO como observadores.\nNa §R + 10§! Agressão chinesa e acima de §YNeutral§! E §YNationalist§! Os estados membros da SCO irão deixe o o rganização.\nNo §R + 20§! Agressão chinesa e acima §YNeutral§! e §Nacionalista§! Os observadores da SCO desistirão de seu status.\n\n§YAgressão Chinesa§! [? CHI.chinese_aggression] "
  apply_to_join_as_an_observer: "Inscreva-se para o status de observador"
  apply_to_join_as_a_member: "Candidatar-se ao Estatuto de Membro Pleno"
  give_up_observer_status: "Desistir do status de observador"
@@ -2051,7 +2051,7 @@ l_english:
 
  ###Crianças-soldados
  child_soldiers_category: "Crianças-soldados"
- child_soldiers_category_desc: "Múltiplas fontes de direito internacional, incluindo as Convenções de Genebra, proíbem o recrutamento de crianças para exércitos. Embora o uso de crianças soldados auxilie nosso esforço de guerra, fornecendo-nos mão de obra, isso corrói a eficácia de nossas forças armadas e prejudica nossa legitimidade internacional. \ n \ n§YO nível de recrutamento de crianças soldados§! determina a taxa de recrutamento de novas crianças soldados em nossas fileiras. Se ficar negativo, mais crianças soldados deixarão as forças armadas do que entrarão. \ n \ nNúmero de crianças soldados: §Y [? Root.child_soldiers] §! \ NNível de recrutamento do soldado infantil: §Y [? Root.child_soldiers_recruitment] §! "
+ child_soldiers_category_desc: "Múltiplas fontes de direito internacional, incluindo as Convenções de Genebra, proíbem o recrutamento de crianças para exércitos. Embora o uso de crianças soldados auxilie nosso esforço de guerra, fornecendo-nos mão de obra, isso corrói a eficácia de nossas forças armadas e prejudica nossa legitimidade internacional.\n\n§YO nível de recrutamento de crianças soldados§! determina a taxa de recrutamento de novas crianças soldados em nossas fileiras. Se ficar negativo, mais crianças soldados deixarão as forças armadas do que entrarão.\n\nNúmero de crianças soldados: §Y [? Root.child_soldiers] §!\nNível de recrutamento do soldado infantil: §Y [? Root.child_soldiers_recruitment] §! "
  Small_Scale_Demobilization: "Desmobilização em pequena escala de crianças-soldados"
  Small_Scale_Demobilization_desc: "Identificamos um pequeno número de crianças soldados em nosso exército que devemos retornar rapidamente para suas famílias."
  Child_Soldier_Demobilization: "Desmobilizar crianças soldados"
@@ -2119,7 +2119,7 @@ l_english:
  #Decisões da Ucrânia
  ### Estabilidade da Ucrânia / Decisões da Revolução
  UKR_stability_of_ukraine_decision_category: "Estabilidade na Ucrânia"
- UKR_stability_of_ukraine_decision_category_desc: "A Ucrânia é um país jovem. Ela passou por muitas coisas na vida. Ela está turbulenta e começando a se aproximar do limite. Os falantes de russo no Oriente falam de sedição. Os do Ocidente desejam estabelecer laços com a Europa. O país está no limite, e os próximos dias definirão um país e seu povo. \ n \ n§GSe a chance de revolta atingir as últimas 15, ocorrerá uma revolução.§! \ n \ n £ estabilidade_texticon §YEstabilidade do regime (SOR): §! [? UKR.UKR_stability_of_ukraine_var | 20]% \ n £ generic_anarchist_communism_small §YChances of Revolt (COR): §! [? UKR.UKR_chance_of_collapse_var | -9,0] "
+ UKR_stability_of_ukraine_decision_category_desc: "A Ucrânia é um país jovem. Ela passou por muitas coisas na vida. Ela está turbulenta e começando a se aproximar do limite. Os falantes de russo no Oriente falam de sedição. Os do Ocidente desejam estabelecer laços com a Europa. O país está no limite, e os próximos dias definirão um país e seu povo.\n\n§GSe a chance de revolta atingir as últimas 15, ocorrerá uma revolução.§!\n\n£ estabilidade_texticon §YEstabilidade do regime (SOR): §! [? UKR.UKR_stability_of_ukraine_var | 20]%\n£ generic_anarchist_communism_small §YChances of Revolt (COR): §! [? UKR.UKR_chance_of_collapse_var | -9,0] "
  UKR_help_decision_event: "Evento de Ajuda"
  UKR_help_decision_event_desc: "Clique aqui se precisar de mais informações sobre o sistema."
  UKR_decision_support_campaigns: "Campanhas de Apoio"
@@ -2147,7 +2147,7 @@ l_english:
 
  ## Decisões Econômicas Genéricas
  economy_decisions: "Decisões Econômicas"
- economy_decisions_desc: "A economia é uma das partes mais importantes de nossa nação. Investir dinheiro aqui e ali pode fazer com que nossa economia seja fortalecida quando mais precisamos. \ N \ n§gIndicadores econômicos§! \ N§Taxa de dívida§ !: § Y $$ §! §G [? ROOT.debt_rate] §! §YVerificação de falência§ !: §R [? ROOT.previous_bankruptcy_rate] §! \ N§YCheque de falência iminente§ !: §R [? ROOT.looming_bankruptcy_rate] §! \ n \ nO valor de §YCheque de falência§! não pode ser inferior à taxa da dívida. Se a sua §Ytaxa de dívida§! tornar-se maior do que §YCheque de falência iminente§! você tem uma falência iminente. No primeiro caso Neste limite, você solicitará um resgate de outra nação. Se a situação piorar, você cairá em §RBancosagem§! depois de passar no §YVerificação de falência§! \ nA §Ytaxa de dívida§! são os juros pagos em §RDívida§! \ n \ nCorrente §YDebt§ !: §Y $$ §! [? ROOT.debt] Atual §GInvestimentos§ !: §Y $$ §! [? ROOT.int_investments] Atual §YTreasury§ !: §Y $$ §! [? ROOT.treasury] "
+ economy_decisions_desc: "A economia é uma das partes mais importantes de nossa nação. Investir dinheiro aqui e ali pode fazer com que nossa economia seja fortalecida quando mais precisamos.\n\n§gIndicadores econômicos§!\n§Taxa de dívida§ !: § Y $$ §! §G [? ROOT.debt_rate] §! §YVerificação de falência§ !: §R [? ROOT.previous_bankruptcy_rate] §!\n§YCheque de falência iminente§ !: §R [? ROOT.looming_bankruptcy_rate] §!\n\nO valor de §YCheque de falência§! não pode ser inferior à taxa da dívida. Se a sua §Ytaxa de dívida§! tornar-se maior do que §YCheque de falência iminente§! você tem uma falência iminente. No primeiro caso Neste limite, você solicitará um resgate de outra nação. Se a situação piorar, você cairá em §RBancosagem§! depois de passar no §YVerificação de falência§!\nA §Ytaxa de dívida§! são os juros pagos em §RDívida§!\n\nCorrente §YDebt§ !: §Y $$ §! [? ROOT.debt] Atual §GInvestimentos§ !: §Y $$ §! [? ROOT.int_investments] Atual §YTreasury§ !: §Y $$ §! [? ROOT.treasury] "
  infrastructure_building_slot: "Incentivo Industrial Regional"
  infrastructure_building_slot_desc: "A infraestrutura local agora ultrapassa em muito a indústria local. Devemos rejeitar a indústria local para que mais dinheiro flua para esta região."
  war_building_slot: "Apropriação Industrial de Emergência"
