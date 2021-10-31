@@ -1,0 +1,50 @@
+
+state = {
+	id = 399
+	name = "STATE_399"
+	resources = {
+		oil = 23
+	}
+
+	history = {
+		owner = PER
+		victory_points = {
+			9060 5
+		}
+		victory_points = {
+			9059 4
+		}
+		victory_points = {
+			7953 1
+		}
+		buildings = {
+			infrastructure = 5
+			internet_station = 2
+			air_base = 2
+			arms_factory = 1
+			7953 = {
+				naval_base = 4
+
+			}
+
+		}
+		add_core_of = PER
+		add_core_of = ARA
+		2017.1.1 = {
+			add_manpower = 152117
+			buildings = {
+				internet_station = 4
+				industrial_complex = 1
+			}
+
+		}
+
+	}
+
+	provinces = {
+		5005 7953 9059 9060 10774
+	}
+	manpower = 4506882
+	buildings_max_level_factor = 1.000
+	state_category = state_05
+}

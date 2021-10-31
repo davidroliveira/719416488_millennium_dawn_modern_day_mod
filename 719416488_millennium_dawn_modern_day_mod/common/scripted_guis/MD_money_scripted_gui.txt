@@ -1,0 +1,1075 @@
+scripted_gui = {
+	hide_money = {
+		context_type = player_context
+
+		window_name = "hide_money_button"
+
+		visible = {
+			ROOT = { NOT = { has_country_flag = hide_money } }
+		}
+
+		effects = {
+			hide_money_bg_click = {
+				ROOT = { set_country_flag = hide_money }
+			}
+		}
+	}
+
+	show_money = {
+		context_type = player_context
+
+		window_name = "show_money_button"
+
+		visible = {
+			ROOT = { has_country_flag = hide_money }
+		}
+
+		effects = {
+			show_money_bg_click = {
+				ROOT = { clr_country_flag = hide_money }
+			}
+		}
+	}
+
+	debt = {
+		context_type = player_context
+
+		window_name = "debt_container"
+
+		visible = {
+			ROOT = { NOT = { has_country_flag = hide_money } }
+		}
+
+		effects = {
+			#Take debt
+			debt_bg_click = {
+				add_to_variable = { treasury = 1 }
+				add_to_variable = { debt = 1.01 }
+				ingame_calculate_size_modifier = yes
+				update_military_rate = yes
+				calculate_interest_rate = yes
+				calculate_debt_rate = yes
+				log = "[GetDateText]: [Root.GetName]: 1k debt taken ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+			}
+			debt_bg_control_click = {
+				add_to_variable = { treasury = 10 }
+				add_to_variable = { debt = 10.1 }
+				ingame_calculate_size_modifier = yes
+				update_military_rate = yes
+				calculate_interest_rate = yes
+				calculate_debt_rate = yes
+				log = "[GetDateText]: [Root.GetName]: 10k debt taken ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+			}
+			debt_bg_shift_click = {
+				add_to_variable = { treasury = 100 }
+				add_to_variable = { debt = 101 }
+				ingame_calculate_size_modifier = yes
+				update_military_rate = yes
+				calculate_interest_rate = yes
+				calculate_debt_rate = yes
+				log = "[GetDateText]: [Root.GetName]: 100k debt taken ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+			}
+
+		  	#Repay debt
+			debt_bg_right_click = {
+				if = {
+					limit = { check_variable = { treasury > 1 } }
+					subtract_from_variable = { treasury = 1 }
+					subtract_from_variable = { debt = 1 }
+					ingame_calculate_size_modifier = yes
+					update_military_rate = yes
+					calculate_interest_rate = yes
+					calculate_debt_rate = yes
+					log = "[GetDateText]: [Root.GetName]: 1k debt repayed ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+				}
+			}
+			debt_bg_control_right_click = {
+				if = {
+					limit = { check_variable = { treasury > 10 } }
+					subtract_from_variable = { treasury = 10 }
+					subtract_from_variable = { debt = 10 }
+					ingame_calculate_size_modifier = yes
+					update_military_rate = yes
+					calculate_interest_rate = yes
+					calculate_debt_rate = yes
+					log = "[GetDateText]: [Root.GetName]: 10k debt repayed ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+				}
+			}
+			debt_bg_shift_right_click = {
+				if = {
+					limit = { check_variable = { treasury > 100 } }
+					subtract_from_variable = { treasury = 100 }
+					subtract_from_variable = { debt = 100 }
+					update_military_rate = yes
+					ingame_calculate_size_modifier = yes
+					update_military_rate = yes
+					calculate_interest_rate = yes
+					calculate_debt_rate = yes
+					log = "[GetDateText]: [Root.GetName]: 100k debt repayed ([?debt]k, intrest: [?interest_rate]% balance:[?treasury_rate]k)"
+				}
+			}
+			#Pay off all debt
+			debt_bg_alt_right_click = {
+				if = {
+					limit = { check_variable = { treasury > debt } }
+					subtract_from_variable = { treasury = debt }
+					subtract_from_variable = { debt = debt }
+					update_military_rate = yes
+					ingame_calculate_size_modifier = yes
+					calculate_interest_rate = yes
+					calculate_debt_rate = yes
+				}
+			}
+		}
+		triggers = {
+			debt_bg_right_click_enabled = {
+				check_variable = { treasury > 1 }
+				check_variable = { debt > 1 }
+			}
+			debt_bg_control_right_click_enabled = {
+				check_variable = { treasury > 10 }
+				check_variable = { debt > 10 }
+			}
+			debt_bg_shift_right_click_enabled = {
+				check_variable = { treasury > 100 }
+				check_variable = { debt > 100 }
+			}
+			debt_bg_alt_right_click_enabled = {
+				check_variable = { treasury > debt }
+				NOT = { has_idea = bankrupcy }
+			}
+
+			debt_bg_click_enabled = {
+				NOT = { has_idea = bankrupcy }
+			}
+			debt_bg_control_click_enabled = {
+				NOT = { has_idea = bankrupcy }
+			}
+			debt_bg_shift_click_enabled = {
+				NOT = { has_idea = bankrupcy }
+			}
+		}
+
+		ai_enabled = { always = yes }
+		ai_test_interval = 96
+		ai_check = {
+			OR = {
+				has_available_treasury = yes
+
+				#Debt Conditions
+				needs_to_take_1_debt = yes
+				needs_to_take_10_debt = yes
+				needs_to_take_100_debt = yes
+				NOT = {
+					has_idea = depression
+					has_idea = recession
+				}
+			}
+		}
+
+		ai_weights = {
+			##Debt Adders!
+			debt_bg_shift_click = { #Adds debt -- 100 billion
+				ai_will_do = {
+					factor = 1
+					modifier = { # Generic Loan conditions
+						factor = 1.5
+						AND = {
+							check_variable = { interest_rate < 1.85 }
+							check_variable = { treasury_rate < -1.00 }
+							check_variable = { treasury < 50 }
+						}
+					}
+					modifier = { #Use big option if needed
+						factor = 1.45
+						num_of_factories > 49
+					}
+					modifier = {
+						factor = 1.80
+						num_of_factories > 75
+					}
+					modifier = {
+						factor = 2.0
+						num_of_factories > 125
+					}
+					modifier = {
+						factor = 100
+						OR = {
+							tag = USA
+							tag = CHI
+						}
+					}
+					modifier = {
+						factor = 1.5
+						check_variable = { treasury < -50.0 }
+					}
+					modifier = {
+						factor = 1.5
+						check_variable = { treasury < -100.0 }
+					}
+					modifier = {
+						factor = 0.10
+						has_country_flag = AI_economic_downspiral
+					}
+					#Debt Taking "Killswitches"
+					modifier = { #Don't take debt if bankruptcy is looming or already bankrupt.
+						factor = 0.0
+						OR = {
+							check_variable = { bankrupcy_check < debt_rate }
+							has_idea = bankrupcy
+						}
+					}
+					modifier = {
+						add = 5
+						ai_has_low_treasury = yes
+					}
+					modifier = { #If you have over -10 treasury. Don't take 100 debt. Kinda overkill
+						factor = 0
+						check_variable = { treasury > -10.0 }
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury_rate > 50 } #If you are making income. Don't take debt
+					}
+					modifier = {
+						factor = 0
+						num_of_factories < 50
+					}
+					modifier = {
+						factor = 0
+						has_country_flag = AI_economic_downspiral
+					}
+					modifier = {
+						factor = 1.20
+						has_war = yes
+					}
+					modifier = { #Puppets should be more caring about funding their economy by taking debt
+						factor = 1.20
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0.75
+						check_variable = { debt_rate > half_way_bankrupt }
+					}
+					modifier = {
+						factor = 0.10
+						check_variable = { debt_rate > looming_bankruptcy_rate }
+					}
+				}
+			}
+			debt_bg_control_click = { #Adds debt -- 10billion
+				ai_will_do = {
+					factor = 1
+					modifier = { # Take a loan
+						factor = 1.5
+						AND = {
+							check_variable = { interest_rate < 3.00 }
+							check_variable = { treasury_rate > -1.00 }
+							check_variable = { treasury < 25 }
+						}
+					}
+					modifier = {
+						factor = 1.5
+						num_of_factories > 10
+					}
+					modifier = {
+						factor = 1.5
+						num_of_factories > 49
+					}
+					modifier = {
+						factor = 1.5
+						check_variable = { treasury < 0 }
+					}
+					modifier = {
+						add = 5
+						ai_has_low_treasury = yes
+					}
+					#Debt Taking "Killswitches"
+					modifier = { #Don't take debt if bankruptcy is looming or already bankrupt.
+						factor = 0.0
+						OR = {
+							check_variable = { bankrupcy_check < debt_rate }
+							has_idea = bankrupcy
+						}
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury_rate > 25 } #If you are making income. Don't take debt
+					}
+					modifier = {
+						factor = 0
+						num_of_factories < 20
+					}
+					modifier = {
+						factor = 0
+						has_country_flag = AI_economic_downspiral
+					}
+					modifier = {
+						factor = 0.25
+						OR = {
+							tag = USA
+							tag = CHI
+						}
+					}
+					modifier = {
+						factor = 1.10
+						OR = {
+							tag = SOV
+							tag = FRA
+							tag = GER
+							tag = ENG
+							tag = ITA
+							tag = CAN
+							tag = MEX
+							tag = SPR
+						}
+					}
+					modifier = {
+						factor = 1.20
+						has_war = yes
+					}
+					modifier = { #Puppets should be more caring about funding their economy by taking debt
+						factor = 1.20
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0.75
+						check_variable = { debt_rate > half_way_bankrupt }
+					}
+					modifier = {
+						factor = 0.10
+						check_variable = { debt_rate > looming_bankruptcy_rate }
+					}
+					modifier = {
+						factor = 0
+						ai_has_high_treasury = yes
+					}
+				}
+			}
+			##Deleted 1 take debt. The AI should avoid taking the small amount of debt if they don't need it.
+			#Repaying Debt AI
+			debt_bg_right_click = {
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						check_variable = { treasury_rate < 0 }
+					}
+
+					modifier = {
+						factor = 2.0
+						check_variable = { treasury_rate > 0.50 }
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_high_intrest = yes
+					}
+					modifier = {
+						factor = 1.75
+						ai_has_major_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_moderate_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.25
+						ai_has_minor_economic_problems = yes
+					}
+					modifier = {
+						factor = 0.10
+						ai_has_acceptable_surplus = yes
+					}
+					modifier = {
+						factor = 0.50
+						ai_has_acceptable_deficit = yes
+					}
+					modifier = {
+						factor = 1.50
+						ai_has_low_intrest = yes
+					}
+					modifier = {
+						factor = 1.15
+						ai_has_low_treasury = yes
+					}
+					modifier = {
+						factor = 10
+						ai_has_high_treasury = yes
+					}
+					modifier = { #Try to focus on paying down debts if you have looming crisis
+						factor = 1.4
+						has_country_flag = AI_economic_downspiral
+					}
+					modifier = {
+						factor = 0.80
+						has_war = yes
+					}
+					modifier = { #Puppets should be less caring about buying all debt
+						factor = 0.75
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury < 1 }
+					}
+				}
+			}
+			debt_bg_control_right_click = { #Repay debt -- 10 debt
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						check_variable = { treasury_rate < 0 }
+					}
+					modifier = {
+						factor = 2.0
+						check_variable = { treasury_rate > 0.50 }
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_high_intrest = yes
+					}
+					modifier = {
+						factor = 1.75
+						ai_has_major_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_moderate_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.25
+						ai_has_minor_economic_problems = yes
+					}
+					modifier = {
+						factor = 2.0
+						ai_has_acceptable_surplus = yes
+					}
+					modifier = {
+						factor = 0.25
+						ai_has_acceptable_deficit = yes
+					}
+					modifier = {
+						factor = 0.50
+						ai_has_low_intrest = yes
+					}
+					modifier = {
+						factor = 25
+						ai_has_high_treasury = yes
+					}
+					modifier = {
+						factor = 0.80
+						has_war = yes
+					}
+					modifier = { #Puppets should be less caring about buying all debt
+						factor = 0.75
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury < 10 }
+					}
+				}
+			}
+			debt_bg_shift_right_click = { #should force the AI to repay 100 debt if they have the funds
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 10
+						check_variable = { treasury > 125 }
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury_rate < 0 }
+					}
+					modifier = {
+						factor = 2.0
+						check_variable = { treasury_rate > 0.50 }
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_high_intrest = yes
+					}
+					modifier = {
+						factor = 1.75
+						ai_has_major_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.5
+						ai_has_moderate_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.25
+						ai_has_minor_economic_problems = yes
+					}
+					modifier = {
+						factor = 2.0
+						ai_has_acceptable_surplus = yes
+					}
+					modifier = {
+						factor = 0.25
+						ai_has_acceptable_deficit = yes
+					}
+					modifier = {
+						factor = 0.50
+						ai_has_low_intrest = yes
+					}
+					modifier = {
+						factor = 25
+						ai_has_high_treasury = yes
+					}
+					modifier = {
+						factor = 0.80
+						has_war = yes
+					}
+					modifier = { #Puppets should be less caring about buying all debt
+						factor = 0.75
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury < 100 }
+					}
+				}
+			}
+			debt_bg_alt_right_click = { #Force repay debt if the AI has more then the treasury
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						add = 50
+						set_temp_variable = { 1_5_times_debt = debt }
+						multiply_temp_variable = { 1_5_times_debt = 2 }
+						check_variable = { treasury > 1_5_times_debt } #Wipe out debt if you have it
+					}
+					modifier = {
+						factor = 0.50
+						OR = {
+							ai_has_acceptable_surplus_factories = yes
+							ai_has_acceptable_surplus = yes
+							ai_has_acceptable_deficit = yes
+							ai_has_acceptable_deficit_factories = yes
+						}
+					}
+					modifier = {
+						factor = 0.80
+						has_war = yes
+					}
+					modifier = { #Puppets should be less caring about buying all debt
+						factor = 0.75
+						is_subject = yes
+					}
+					modifier = {
+						factor = 0
+						check_variable = { treasury < debt }
+					}
+				}
+			}
+		}
+	}
+	treasury = {
+		context_type = player_context
+
+		window_name = "treasury_container"
+
+		visible = {
+			ROOT = { NOT = { has_country_flag = hide_money } }
+		}
+	}
+
+	int_investments = {
+		context_type = player_context
+
+		window_name = "int_investments_container"
+
+		visible = {
+			ROOT = { NOT = { has_country_flag = hide_money } }
+		}
+
+		effects = {
+			#Sell off investments
+			int_investments_bg_right_click = {
+				if = {
+					limit = { check_variable = { int_investments > 1 } }
+					subtract_from_variable = { int_investments = 1 }
+					add_to_variable = { treasury = 0.60 }
+					calculate_int_investments_rate = yes
+				}
+			}
+			int_investments_bg_control_right_click = {
+				if = {
+					limit = { check_variable = { int_investments > 10 } }
+					subtract_from_variable = { int_investments = 10 }
+					add_to_variable = { treasury = 6.0 }
+					calculate_int_investments_rate = yes
+				}
+			}
+			int_investments_bg_shift_right_click = {
+				if = {
+					limit = { check_variable = { int_investments > 100 } }
+					subtract_from_variable = { int_investments = 100 }
+					add_to_variable = { treasury = 60 }
+					calculate_int_investments_rate = yes
+				}
+			}
+		}
+	}
+	### AC System ###
+	AC_treasury = {
+		context_type = selected_state_context
+
+		window_name = "AC_treasury_container"
+
+		parent_window_token = selected_state_view
+
+		visible = {
+			NOT = { is_owned_by = ROOT }
+			ROOT = { NOT = { has_country_flag = AC_hide_investment_window } }
+		}
+	}
+
+	AC_int_investments = {
+		context_type = selected_state_context
+
+		window_name = "AC_int_investments_container"
+
+		parent_window_token = selected_state_view
+
+		visible = {
+			NOT = { is_owned_by = ROOT }
+			ROOT = { NOT = { has_country_flag = AC_hide_investment_window } }
+		}
+	}
+	### Politics Screen ###
+	tax_rate = {
+		context_type = player_context
+
+		window_name = "tax_rate_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+		  always = yes
+		}
+	}
+	tax_rate_small_plus_button = {
+		context_type = player_context
+
+		window_name = "small_plus_button_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+		  always = yes
+		}
+		effects = {
+			small_plus_button_bg_click = {
+				ROOT = { add_political_power = -50 }
+				remove_tax_cost = yes
+				add_to_variable = { tax_rate = 1 }
+				set_tax_cost = yes
+				calculate_tax_gain = yes
+				update_military_rate = yes
+				ingame_calculate_size_modifier = yes
+				calculate_resource_sale_rate = yes
+				set_variable = { law_attitude = 0 } #index for taxes in #_law_change_attitude arrays
+				set_variable = { law_change = 1 } #-1 decrease, 1 for increase
+				law_attitude_change = yes
+				log = "[GetDateText]: [Root.GetName]: tax_rate increase [?tax_rate]% (balance:[?treasury_rate])"
+			}
+		}
+		triggers = {
+			small_plus_button_bg_click_enabled = {
+				check_variable = { tax_rate < 50 }
+				ROOT = { has_political_power > 50 }
+				if = {
+					limit = { original_tag = USA }
+					NOT = { has_decision = USA_give_tax_break }
+				}
+			}
+		}
+
+		ai_enabled = { always = yes }
+		ai_test_interval = 72
+		ai_check = {
+			has_political_power > 50
+			check_variable = { treasury_rate < 1.0 }
+		}
+		ai_weights = {
+			small_plus_button_bg_click = {
+				ai_will_do = {
+					factor = 1
+					modifier = { #Early on Killswitch if Nation is running a surplus.
+						factor = 0
+						ai_has_acceptable_deficit_factories = yes
+					}
+					modifier = {
+						factor = 0
+						ai_has_acceptable_surplus_factories = yes
+					}
+					modifier = { # If we have pp to spare consider
+						factor = 1.50
+						has_political_power > 100
+					}
+					modifier = { # If we have pp to spare consider
+						factor = 500
+						has_political_power > 50
+						check_variable = { treasury_rate < -2.10 }
+					}
+					modifier = {
+						factor = 100
+						check_variable = { treasury_rate < 0.0 }
+					}
+					modifier = {
+						factor = 5
+						ai_has_major_economic_problems = yes
+					}
+					modifier = {
+						factor = 2.5
+						ai_has_moderate_economic_problems = yes
+					}
+					modifier = {
+						factor = 1.25
+						ai_has_minor_economic_problems = yes
+					}
+					modifier = {
+						factor = 0.50
+						ai_has_acceptable_deficit_factories = yes
+					}
+					modifier = {
+						factor = 1.45
+						ai_has_low_taxes = yes
+					}
+					modifier = {
+						factor = 0.25
+						ai_has_high_taxes = yes
+					}
+					modifier = { # consider increase taxes if income is low and intrest is high
+						add = 1
+						OR = {
+							AND = {
+								has_communist_government = yes
+								check_variable = { interest_rate > 3.50 }
+								check_variable = { treasury_rate < 0.10 }
+							}
+							AND = {
+								has_socialist_government = yes
+								check_variable = { interest_rate > 3.75 }
+								check_variable = { treasury_rate < 0.08 }
+							}
+							AND = {
+								has_liberal_government = yes
+								check_variable = { interest_rate > 3.50 }
+								check_variable = { treasury_rate < 0.05 }
+							}
+							AND = {
+								has_conservative_government = yes
+								check_variable = { interest_rate > 3.75 }
+								check_variable = { treasury_rate < 0.01 }
+							}
+						}
+					}
+
+					modifier = { # increase taxes if our expenses is two high
+						add = 5
+						check_variable = { treasury_rate < -1.25 }
+					}
+
+					modifier = { # Dont increase taxes if our industry dont generate income
+						factor = 0.01
+						num_of_available_civilian_factories < 2
+					}
+					modifier = {
+						factor = 0.25
+						num_of_available_civilian_factories < 3
+					}
+					modifier = {
+						factor = 0.50
+						num_of_available_civilian_factories < 6
+					}
+					modifier = {
+						factor = 0.75
+						num_of_available_civilian_factories < 8
+					}
+					modifier = { ##Try to keep tax rate between 25-40% This should help assuage issues
+						factor = 0
+						check_variable = { tax_rate > 40 }
+					}
+
+					##Political Parties want lower taxes
+					modifier = {
+						factor = 0.25
+						OR = {
+							is_in_array = { ruling_party = 16 } #Neutral_Libertarian
+							is_in_array = { gov_coalition_array = 16 }
+						}
+					}
+					modifier = {
+						factor = 0.80
+						has_conservative_governemnt_or_in_coalition = yes
+					}
+					modifier = {
+						factor = 1.10
+						has_liberal_governemnt_or_in_coalition = yes
+					}
+				}
+			}
+		}
+	}
+	tax_rate_small_minus_button = {
+		context_type = player_context
+
+		window_name = "small_minus_button_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+		  always = yes
+		}
+		effects = {
+			small_minus_button_bg_click = {
+				ROOT = { add_political_power = -50 }
+				remove_tax_cost = yes
+				subtract_from_variable = { tax_rate = 1 }
+				set_tax_cost = yes
+				calculate_tax_gain = yes
+				update_military_rate = yes
+				ingame_calculate_size_modifier = yes
+				calculate_resource_sale_rate = yes
+				set_variable = { law_attitude = 0 } #index for taxes in #_law_change_attitude arrays
+				set_variable = { law_change = -1 } #-1 decrease, 1 for increase
+				law_attitude_change = yes
+				log = "[GetDateText]: [Root.GetName]: tax_rate decrease [?tax_rate]% (balance:[?treasury_rate])"
+			}
+		}
+		triggers = {
+			small_minus_button_bg_click_enabled = {
+				check_variable = { tax_rate > 0 }
+				ROOT = { has_political_power > 50 }
+			}
+		}
+
+		ai_enabled = { always = yes }
+		ai_check = {
+			check_variable = { treasury_rate > -2.0 }
+		}
+		ai_test_interval = 72
+		ai_weights = {
+			small_minus_button_bg_click = {
+				ai_will_do = {
+					factor = 1
+					modifier = { #Early on Killswitch if Nation is running a surplus or an acceptable deficit
+						factor = 0
+						ai_has_acceptable_deficit_factories = yes
+					}
+					modifier = {
+						add = 35
+						ai_has_acceptable_surplus_factories = yes
+					}
+					modifier = { # If we have pp to spare consider
+						factor = 1.50
+						has_political_power > 100
+					}
+					modifier = { # Dont decrease taxes if we have economic problems
+						factor = 0.01
+						ai_has_major_economic_problems = yes
+					}
+					modifier = {
+						factor = 0.05
+						ai_has_moderate_economic_problems = yes
+					}
+					modifier = {
+						factor = 0.10
+						ai_has_minor_economic_problems = yes
+					}
+					modifier = {
+						factor = 2.0
+						ai_has_high_taxes = yes
+					}
+					modifier = {
+						factor = 0.10
+						ai_has_low_taxes = yes
+					}
+					modifier = {
+						factor = 1.50
+						OR = {
+							ai_has_acceptable_deficit = yes
+							ai_has_acceptable_surplus = yes
+						}
+					}
+					modifier = { # consider lower taxes if income is high and intrest is low
+						factor = 2.5
+						OR = {
+							AND = {
+								has_communist_government = yes
+								check_variable = { interest_rate < 3.50 }
+								check_variable = { treasury_rate > 0.5 }
+							}
+							AND = {
+								has_socialist_government = yes
+								check_variable = { interest_rate < 3.75 }
+								check_variable = { treasury_rate > 0.2 }
+							}
+							AND = {
+								has_liberal_government = yes
+								check_variable = { interest_rate < 3.50 }
+								check_variable = { treasury_rate > 0.4 }
+							}
+							AND = {
+								has_conservative_government = yes
+								check_variable = { interest_rate < 3.75 }
+								check_variable = { treasury_rate > 0.2 }
+							}
+						}
+					}
+					modifier = { # Lower taxes if we don't have any available industry
+						factor = 1.25
+						num_of_available_civilian_factories < 2
+					}
+					modifier = {
+						factor = 1.45
+						num_of_available_civilian_factories < 3
+					}
+					modifier = {
+						factor = 1.55
+						num_of_available_civilian_factories < 6
+					}
+					modifier = {
+						factor = 1.6
+						num_of_available_civilian_factories < 8
+					}
+
+					modifier = { # lower taxes if the income is high
+						factor = 1.5
+						check_variable = { treasury_rate > 1.000 }
+					}
+
+					modifier = { # Ai like to have money before lowering taxes
+						factor = 0
+						check_variable = { treasury < 25 }
+					}
+					modifier = { ##Failsafe. AI should keep around 25%
+						factor = 0
+						check_variable = { tax_rate > 4 }
+					}
+
+					##Political Parties want lower taxes
+					modifier = {
+						add = 5
+						OR = {
+							is_in_array = { ruling_party = 16 } #Neutral_Libertarian
+							is_in_array = { gov_coalition_array = 16 }
+						}
+					}
+					modifier = {
+						add = 2
+						has_conservative_governemnt_or_in_coalition = yes
+					}
+					modifier = {
+						factor = 0.90
+						has_liberal_governemnt_or_in_coalition = yes
+					}
+				}
+			}
+		}
+	}
+	expense_gain = {
+		context_type = player_context
+
+		window_name = "expense_gain_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+		  always = yes
+		}
+	}
+	tax_gain = {
+		context_type = player_context
+
+		window_name = "tax_gain_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+			always = yes
+		}
+	}
+	refresh_tax_rates = {
+		context_type = player_context
+
+		window_name = "refresh_tax_rates_politics_tab"
+		parent_window_token = politics_tab
+
+		visible = {
+			always = yes
+		}
+		effects = {
+			refresh_tax_rates_bg_click = {
+				ingame_calculate_size_modifier = yes
+				update_military_rate = yes
+				calculate_interest_rate = yes
+				calculate_debt_rate = yes
+				calculate_int_investments_rate = yes
+				calculate_resource_sale_rate = yes
+				calculate_tax_gain = yes
+				init_expenses = yes
+			}
+		}
+	}
+	### Diplomacy view other countries ###
+	treasury_dip = {
+		context_type = selected_country_context
+
+		window_name = "diplo_treasury_container"
+		parent_window_token = selected_country_view
+
+		visible = {
+			always = yes
+		}
+	}
+	int_investments_dip = {
+		context_type = selected_country_context
+
+		window_name = "diplo_int_investments_container"
+		parent_window_token = selected_country_view
+
+		visible = {
+			always = yes
+		}
+	}
+	debt_dip = {
+		context_type = selected_country_context
+
+		window_name = "diplo_debt_container"
+		parent_window_token = selected_country_view
+
+		visible = {
+			always = yes
+		}
+	}
+	tax_rate_dip = {
+		context_type = selected_country_context
+
+		window_name = "tax_rate_diplo"
+		parent_window_token = selected_country_view_diplomacy
+
+		visible = {
+			always = yes
+		}
+	}
+	expense_gain_dip = {
+		context_type = selected_country_context
+
+		window_name = "expense_gain_diplo"
+		parent_window_token = selected_country_view_diplomacy
+
+		visible = {
+			always = yes
+		}
+	}
+	tax_gain_dip = {
+		context_type = selected_country_context
+
+		window_name = "tax_gain_diplo"
+		parent_window_token = selected_country_view_diplomacy
+
+		visible = {
+			always = yes
+		}
+	}
+}

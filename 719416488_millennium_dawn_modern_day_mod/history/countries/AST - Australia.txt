@@ -1,0 +1,915 @@
+﻿capital = 742
+set_research_slots = 6
+
+2000.1.1 = {
+	set_country_flag = dynamic_flag
+	set_country_flag = dynamic_rebel_flag
+
+	capital = 742
+	oob = "AST_2000"
+	set_cosmetic_tag = AST
+	if = {
+		limit = {
+			has_dlc = "Man the Guns"
+		}
+		set_naval_oob = "AST_2000_naval_mtg"
+		else = {
+			set_naval_oob = "AST_2000_naval_legacy"
+		}
+	}
+	set_convoys = 100
+
+	add_ideas = {
+		gdp_7
+		#tax_cost_23
+		#pop_050
+		modest_corruption
+		pluralist
+		stable_growth
+		defence_02
+		edu_04
+		export_economy
+		health_04
+		social_05
+		bureau_02
+		police_02
+		rentier_state
+		export_economy
+		volunteer_army
+		volunteer_women
+		Major_Non_NATO_Ally
+		intervention_limited_interventionism
+		western_country
+		medium_far_right_movement
+		industrial_conglomerates
+		landowners
+		small_medium_business_owners
+		#common_law
+		commonwealth_of_nations_member
+		officer_military_academy
+	}
+
+	#Cyber
+	add_to_array = { cyber_targets = CHI }
+	add_to_array = { cyber_targets = NKO }
+
+	#Influence system
+	init_influence = yes
+	set_variable = { domestic_influence_amount = 421 }
+	add_to_array = { influence_array = ENG.id }
+	add_to_array = { influence_array_val = 66 }
+	add_to_array = { influence_array = USA.id }
+	add_to_array = { influence_array_val = 63 }
+	add_to_array = { influence_array = RAJ.id }
+	add_to_array = { influence_array_val = 21 }
+	add_to_array = { influence_array = FRA.id }
+	add_to_array = { influence_array_val = 14 }
+	add_to_array = { influence_array = NZL.id }
+	add_to_array = { influence_array_val = 36 }
+	add_to_array = { influence_array = CHI.id }
+	add_to_array = { influence_array_val = 25 }
+	startup_influence = yes
+
+
+	add_opinion_modifier = { target = NZL modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = NZL modifier = english_speaking }
+	add_opinion_modifier = { target = USA modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = USA modifier = english_speaking }
+	add_opinion_modifier = { target = IRE modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = IRE modifier = english_speaking }
+	add_opinion_modifier = { target = BAH modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = BAH modifier = english_speaking }
+	add_opinion_modifier = { target = BAR modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = BAR modifier = english_speaking }
+	add_opinion_modifier = { target = BLZ modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = BLZ modifier = english_speaking }
+	add_opinion_modifier = { target = DMI modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = DMI modifier = english_speaking }
+	add_opinion_modifier = { target = GUY modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = GUY modifier = english_speaking }
+	add_opinion_modifier = { target = JAM modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = JAM modifier = english_speaking }
+	add_opinion_modifier = { target = GRA modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = GRA modifier = english_speaking }
+	add_opinion_modifier = { target = STK modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = STK modifier = english_speaking }
+	add_opinion_modifier = { target = STV modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = STV modifier = english_speaking }
+	add_opinion_modifier = { target = STL modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = STL modifier = english_speaking }
+	add_opinion_modifier = { target = TRI modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = TRI modifier = english_speaking }
+	add_opinion_modifier = { target = NIG modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = NIG modifier = english_speaking }
+	add_opinion_modifier = { target = GAH modifier = english_speaking }
+	reverse_add_opinion_modifier = { target = GAH modifier = english_speaking }
+
+
+	add_opinion_modifier = { target = SOL modifier = melanesian_diplomacy }
+	add_opinion_modifier = { target = PAP modifier = melanesian_diplomacy }
+	add_opinion_modifier = { target = FIJ modifier = melanesian_diplomacy }
+
+	add_opinion_modifier = { target = GAH modifier = economic_mission }
+	add_opinion_modifier = { target = CAN modifier = military_cooperation }
+	reverse_add_opinion_modifier = { target = CAN modifier = military_cooperation }
+	add_opinion_modifier = { target = ECU modifier = trade_mission }
+	reverse_add_opinion_modifier = { target = ECU modifier = trade_mission }
+	add_opinion_modifier = { target = RAJ modifier = large_commercial_relations }
+	reverse_add_opinion_modifier = { target = RAJ modifier = large_commercial_relations }
+	add_opinion_modifier = { target = USA modifier = large_commercial_relations }
+	reverse_add_opinion_modifier = { target = USA modifier = large_commercial_relations }
+	add_opinion_modifier = { target = SAU modifier = large_commercial_relations }
+	reverse_add_opinion_modifier = { target = SAU modifier = large_commercial_relations }
+
+
+	set_technology = {
+		legacy_doctrines = 1
+		modern_blitzkrieg = 1
+		forward_defense = 1
+		encourage_nco_iniative = 1
+		air_land_battle = 1
+
+		infantry_weapons = 1
+		infantry_weapons1 = 1
+		infantry_weapons2 = 1
+		infantry_weapons3 = 1
+
+		combat_eng_equipment = 1
+
+		night_vision_1 = 1
+		night_vision_2 = 1
+		night_vision_3 = 1 #1985
+
+		command_control_equipment = 1
+		command_control_equipment1 = 1
+		command_control_equipment2 = 1
+
+		support_weapons = 1
+		tandem_charge_warheads = 1
+		squad_automatic_weapon = 1
+		support_weapons2 = 1
+		support_weapons3 = 1
+
+		special_forces = 1
+		special_forces2 = 1
+
+		land_Drone_equipment = 1
+		land_Drone_equipment1 = 1
+		land_Drone_equipment2 = 1
+
+		Early_APC = 1 #Vehicle Design
+
+		APC_1 = 1
+
+		IFV_1 = 1
+		IFV_2 = 1
+		IFV_3 = 1
+
+		MBT_1 = 1
+
+		Rec_tank_0 = 1 #1965
+
+		util_vehicle_0 = 1
+		util_vehicle_1 = 1
+		util_vehicle_2 = 1
+		util_vehicle_3 = 1
+
+		artillery_0 = 1
+		SP_arty_0 = 1
+
+		Anti_tank_0 = 1
+		Heavy_Anti_tank_0 = 1
+
+		Anti_Air_0 = 1
+		SP_Anti_Air_0 = 1
+
+		L_Strike_fighter1 = 1
+
+		body_armor_1980 = 1
+		body_armor_2000 = 1
+		camouflage = 1
+		camouflage2 = 1
+
+		basic_computing = 1
+		integrated_circuit = 1
+		computing1 = 1
+		decryption1 = 1
+		encryption1 = 1
+		microprocessors = 1
+		computing2 = 1
+		decryption2 = 1
+		encryption2 = 1
+		computing3 = 1
+		decryption3 = 1
+		encryption3 = 1
+		DNA_fingerprinting = 1
+		radar = 1
+		internet1 = 1 	#1G
+		internet2 = 1 	#2G
+		gprs = 1
+		fuel_silos = 1
+	}
+	if = {
+		limit = {
+			not = { has_dlc = "Man the Guns" }
+		}
+		set_technology = {
+			destroyer_1 = 1
+			destroyer_2 = 1
+			missile_destroyer_1 = 1
+			missile_destroyer_2 = 1
+
+			#Anzac-Class
+			frigate_1 = 1
+			frigate_2 = 1
+			missile_frigate_1 = 1
+
+			#Collins-Class
+			diesel_attack_submarine_1 = 1
+			diesel_attack_submarine_2 = 1
+			diesel_attack_submarine_3 = 1
+
+			LHA_0 = 1
+			LHA_1 = 1
+
+			landing_craft = 1
+
+			early_helicopter = 1
+			transport_helicopter1 = 1
+			attack_helicopter1 = 1
+		}
+	}
+	if = {
+		limit = {
+			has_dlc = "Man the Guns"
+		}
+		set_technology = {
+			corvette_hull_1 = 1
+			corvette_hull_2 = 1
+			corvette_hull_3 = 1
+
+			frigate_hull_1 = 1
+			frigate_hull_2 = 1
+			frigate_hull_3 = 1
+
+			destroyer_hull_1 = 1
+			destroyer_hull_2 = 1
+			destroyer_hull_3 = 1
+
+			cruiser_hull_1 = 1
+
+			attack_submarine_hull_1 = 1
+			attack_submarine_hull_2 = 1
+			attack_submarine_hull_3 = 1
+
+			aircraft_carrier_engineering = 1
+			aircraft_heli_engineering_1 = 1
+
+			tech_submarine_engineering = 1
+
+			tech_naval_systems_engineering = 1
+			tech_power_systems = 1
+			tech_power_systems_1 = 1
+
+			tech_combat_support_systems = 1
+			tech_fire_control = 1
+			tech_fire_control_1 = 1
+			tech_combat_radar = 1
+			tech_combat_radar_1 = 1
+			tech_combat_radar_2 = 1
+			tech_combat_sonar = 1
+			tech_combat_sonar_1 = 1
+			tech_combat_sonar_2 = 1
+
+			tech_early_naval_weapon_systems = 1
+			tech_naval_weapon_systems = 1
+			tech_light_guns = 1
+			tech_light_guns_1 = 1
+			tech_heavy_guns = 1
+
+			tech_point_defense_system = 1
+			tech_point_defense_system_1 = 1
+			tech_point_defense_system_2 = 1
+			tech_point_defense_system_3 = 1
+
+
+			tech_missile_systems = 1
+			tech_turret_missiles_surface = 1
+			tech_turret_missiles_surface_1 = 1
+
+			tech_turret_missiles_aa = 1
+			tech_turret_missiles_aa_1 = 1
+
+			tech_vls_surface = 1
+			tech_vls_surface_1 = 1
+
+			tech_vls_aa = 1
+			tech_vls_aa_1 = 1
+
+			tech_torpedoes = 1
+			tech_torpedoes_1 = 1
+			tech_torpedoes_2 = 1
+
+			tech_asw_systems = 1
+			tech_asw_systems_1 = 1
+			tech_asw_systems_2 = 1
+			tech_mine_warfare = 1
+			tech_mine_warfare_1 = 1
+
+			tech_mtg_landing_craft = 1
+		}
+	}
+
+	set_variable = { var = debt value = 114 }
+	set_variable = { var = int_investments value = 0 }
+	set_variable = { var = treasury value = 27 }
+	set_variable = { var = tax_rate value = 23 }
+	#initial_money_setup = yes
+
+	set_popularities = {
+		democratic = 84.0
+		communism = 0.6
+		fascism = 0.0
+		neutrality = 6.9
+		nationalist = 8.5
+	}
+	set_politics = {
+		ruling_party = democratic
+		last_election = "1998.10.3"
+		election_frequency = 36
+		elections_allowed = yes
+	}
+
+	start_politics_input = yes
+
+	set_variable = { party_pop_array^0 = 0 } #Western_Autocracy
+	set_variable = { party_pop_array^1 = 0.4 } #conservatism
+	set_variable = { party_pop_array^2 = 0.05 } #liberalism
+	set_variable = { party_pop_array^3 = 0.39 } #socialism
+	set_variable = { party_pop_array^4 = 0.002 } #Communist-State
+	set_variable = { party_pop_array^5 = 0.002 } #anarchist_communism
+	set_variable = { party_pop_array^6 = 0.002 } #Conservative
+	set_variable = { party_pop_array^7 = 0 } #Autocracy
+	set_variable = { party_pop_array^8 = 0 } #Mod_Vilayat_e_Faqih
+	set_variable = { party_pop_array^9 = 0 } #Vilayat_e_Faqih
+	set_variable = { party_pop_array^10 = 0 } #Kingdom
+	set_variable = { party_pop_array^11 = 0 } #Caliphate
+	set_variable = { party_pop_array^12 = 0 } #Neutral_Muslim_Brotherhood
+	set_variable = { party_pop_array^13 = 0 } #Neutral_Autocracy
+	set_variable = { party_pop_array^14 = 0.04 } #Neutral_conservatism
+	set_variable = { party_pop_array^15 = 0 } #oligarchism
+	set_variable = { party_pop_array^16 = 0 } #Neutral_Libertarian
+	set_variable = { party_pop_array^17 = 0.02 } #Neutral_green
+	set_variable = { party_pop_array^18 = 0.009 } #neutral_Social
+	set_variable = { party_pop_array^19 = 0 } #Neutral_Communism
+	set_variable = { party_pop_array^20 = 0.082 } #Nat_Populism
+	set_variable = { party_pop_array^21 = 0.003 } #Nat_Fascism
+	set_variable = { party_pop_array^22 = 0 } #Nat_Autocracy
+	set_variable = { party_pop_array^23 = 0 } #Monarchist
+	add_to_array = { ruling_party = 1 }
+	startup_politics = yes
+
+	create_country_leader = {
+		name = "John Howard"
+		picture = "John_Howard.dds"
+		ideology = conservatism
+		traits = {
+			western_conservatism
+		}
+	}
+
+	#Unit Leader
+	create_field_marshal = {
+		name = "David Hurley"
+		picture = "David_Hurley.dds"		#wip-gfx
+		traits = { old_guard thorough_planner }
+		id = 261
+		skill = 6
+		attack_skill = 4
+		defense_skill = 5
+		planning_skill = 5
+		logistics_skill = 5
+	}
+
+	create_corps_commander = {
+		name = "Simone Wilkie"
+		picture = "Portrait_Simone_Wilkie.dds"
+		traits = { trait_engineer }
+		id = 262
+		skill = 5
+		attack_skill = 4
+		defense_skill = 2
+		planning_skill = 5
+		logistics_skill = 5
+	}
+
+	create_corps_commander = {
+		name = "Shane Caughey"
+		picture = "Portrait_Shane_Coughey.dds"
+		traits = { hill_fighter }
+		id = 263
+		skill = 5
+		attack_skill = 6
+		defense_skill = 4
+		planning_skill = 3
+		logistics_skill = 3
+	}
+
+	create_navy_leader = {
+		name = "Tim Barret"
+		picture = "adm_Tim_Barret.dds"
+		traits = {  }
+		id = 264
+	}
+	create_navy_leader = {
+		name = "Ray Griggs"
+		picture = "adm_Ray_Griggs.dds"
+		traits = {  }
+		id = 265
+	}
+
+	create_navy_leader = {
+		name = "Ray Griggs"
+		picture = "Portrait_Ray_Griggs.dds"
+		traits = { old_guard_navy superior_tactician }
+		id = 266
+	}
+
+	create_navy_leader = {
+		name = "Tim Barrett"
+		picture = "Portrait_Tim_Barrett.dds"
+		traits = { ironside }
+		id = 267
+	}
+
+	create_navy_leader = {
+		name = "Michael Noonan"
+		picture = "Portrait_Michael_Noonan.dds"
+		traits = { seawolf }
+		id = 268
+	}
+
+	create_navy_leader = {
+		name = "Stuart Mayer"
+		picture = "Portrait_Stuart_Mayer.dds"
+		traits = { spotter }
+		id = 269
+	}
+
+	create_navy_leader = {
+		name = "David Johnston"
+		picture = "Portrait_David_Johnston.dds"
+		traits = { air_controller }
+		id = 270
+	}
+
+	create_navy_leader = {
+		name = "Jonathan Mead"
+		picture = "Portrait_Jonathan_Mead.dds"
+		traits = { fly_swatter }
+		id = 271
+	}
+
+	create_navy_leader = {
+		name = "Michael Uzzell"
+		picture = "Portrait_Michael_Uzzell.dds"
+		traits = { blockade_runner }
+		id = 272
+	}
+
+	create_navy_leader = {
+		name = "Brett Brace"
+		picture = "Portrait_Brett_Brace.dds"
+		traits = { spotter }
+		id = 273
+	}
+
+	create_navy_leader = {
+		name = "Bruce Kafer"
+		picture = "Portrait_Bruce_Kafer.dds"
+		traits = { blockade_runner }
+		id = 274
+	}
+
+	create_navy_leader = {
+		name = "Gary Wight"
+		picture = "Portrait_Gary_Wight.dds"
+		traits = {  }
+		id = 275
+	}
+
+	#############################################
+	#MTG Variants
+	##############
+	if = {
+		limit = { has_dlc = "Man the Guns" }
+
+
+		#Perth Class
+		create_equipment_variant = {
+			name = "Perth Class"
+			type = destroyer_hull_1
+			#name_group = AUSTRALIA
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = module_surface_jet_turbine_power
+				fixed_ship_fire_control_system_slot = module_analog_fire_control
+				fixed_ship_radar_slot = module_radar_1
+				fixed_ship_auxillary_slot_3 = module_ciws_1
+				fixed_ship_auxillary_slot_2 = module_anti_submarine_missile_1
+				fixed_ship_auxillary_slot = module_light_guns_1
+				fixed_ship_battery_slot = module_light_guns_1
+				front_1_custom_slot = module_aa_missiles_1
+				mid_1_custom_slot = module_anti_submarine_missile_1
+				rear_1_custom_slot = module_anti_submarine_mortar_1
+			}
+		}
+		#Adelaide Class
+		create_equipment_variant = {
+			name = "Adelaide Class"
+			type = frigate_hull_2
+			#name_group = AUSTRALIA
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = module_light_surface_jet_turbine_power
+				fixed_ship_fire_control_system_slot = module_analog_fire_control
+				fixed_ship_radar_slot = module_radar_2
+				fixed_ship_asw_slot_1 = module_vls_sam_1
+				fixed_ship_asw_slot = module_torpedoes_1
+				fixed_ship_auxillary_slot = module_ciws_1
+				fixed_ship_battery_slot = module_light_guns_2
+				front_1_custom_slot = module_asm_2
+				rear_1_custom_slot = module_light_helipad_1
+
+			}
+		}
+		#Collins Class
+		create_equipment_variant = {
+			name = "Collins Class - Standard Package"
+			type = attack_submarine_hull_3
+			#name_group = AUSTRALIA
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = module_sub_diesel_electric_power
+				fixed_ship_radar_slot = module_sonar_2
+				fixed_ship_auxillary_slot_1 = module_fuel_tank
+				fixed_ship_auxillary_slot = module_minelaying_2
+				fixed_ship_battery_slot = module_torpedoes_2
+
+			}
+		}
+		#Collins Class
+		create_equipment_variant = {
+			name = "Collins Class - Mine Warfare Package"
+			type = attack_submarine_hull_3
+			#name_group = AUSTRALIA
+			parent_version = 1
+			modules = {
+				fixed_ship_engine_slot = module_sub_diesel_electric_power
+				fixed_ship_radar_slot = module_sonar_2
+				fixed_ship_auxillary_slot_1 = module_fuel_tank
+				fixed_ship_auxillary_slot = module_minelaying_2
+				fixed_ship_battery_slot = module_torpedoes_2
+
+			}
+		}
+	}
+	#############################################
+}
+
+2017.1.1 = {
+	capital = 742
+	oob = "AST_2017"
+	if = {
+		limit = {
+			has_dlc = "Man the Guns"
+		}
+		set_naval_oob = "AST_2017_naval_mtg"
+		else = {
+			set_naval_oob = "AST_2017_naval_legacy"
+		}
+	}
+	set_convoys = 20
+
+	remove_ideas = {
+		gdp_7
+		#tax_cost_23
+	}
+
+	add_ideas = {
+		gdp_9
+		#tax_cost_27
+		limited_power_projection
+	}
+
+	#Influence system
+	init_influence = yes
+	set_variable = { domestic_influence_amount = 421 }
+	add_to_array = { influence_array = ENG.id }
+	add_to_array = { influence_array_val = 66 }
+	add_to_array = { influence_array = USA.id }
+	add_to_array = { influence_array_val = 63 }
+	add_to_array = { influence_array = RAJ.id }
+	add_to_array = { influence_array_val = 21 }
+	add_to_array = { influence_array = FRA.id }
+	add_to_array = { influence_array_val = 14 }
+	add_to_array = { influence_array = NZL.id }
+	add_to_array = { influence_array_val = 31 }
+	add_to_array = { influence_array = CHI.id }
+	add_to_array = { influence_array_val = 60 }
+	startup_influence = yes
+
+	set_country_flag = TPP_Signatory
+	set_country_flag = Major_Non_NATO_Ally
+	set_country_flag = Major_Importer_US_Arms #Trends-in-international-arms-transfers-2016.pdf
+	set_country_flag = enthusiastic_industrial_conglomerates
+	set_country_flag = positive_landowners
+	set_country_flag = positive_small_medium_business_owners
+
+	set_country_flag = military_advisors_IRQ
+	IRQ = { add_to_variable = { foreign_advisors = 1 } }
+	set_country_flag = military_advisors_AFG
+	AFG = { add_to_variable = { foreign_advisors = 1 } }
+
+	set_variable = { power_projection = 1 }
+
+	set_variable = { var = debt value = 573 }
+	set_variable = { var = int_investments value = 135 }
+	set_variable = { var = treasury value = 55 }
+	set_variable = { var = tax_rate value = 27 }
+
+	#set_variable = { var = size_modifier value = 3.82 } #20 CIC
+	#initial_money_setup = yes
+
+	add_opinion_modifier = { target = SOV modifier = minor_sanctions }
+	set_country_flag = sanctions_against_SOV_flag
+
+	#Nat focus
+
+
+
+
+
+
+
+
+
+	# Starting tech
+	set_technology = {
+
+		infantry_weapons4 = 1
+
+		command_control_equipment3 = 1
+		command_control_equipment4 = 1 #2015
+
+		support_weapons4 = 1
+		special_forces4 = 1
+
+		land_Drone_equipment3 = 1 #2015
+
+		util_vehicle_4 = 1
+		util_vehicle_5 = 1
+
+		landing_craft = 1
+
+		body_armor_2010 = 1
+		camouflage3 = 1
+
+		modern_gmo = 1
+		gene_therapy = 1
+		genetically_modified_crops = 1
+		gene_targeting_pesticides = 1
+		human_genome_project = 1
+		crispr = 1
+		cas9_gene_editing = 1
+		wifi = 1
+		internet3 = 1	#3G
+		edge = 1
+		umts = 1
+		hsupa = 1
+		internet4 = 1	#4G
+		lte = 1
+
+	}
+	if = {
+		limit = {
+			has_dlc = "Man the Guns"
+		}
+		set_technology = {
+			corvette_hull_1 = 1
+			corvette_hull_2 = 1
+			corvette_hull_3 = 1
+			corvette_hull_4 = 1
+
+			frigate_hull_1 = 1
+			frigate_hull_2 = 1
+			frigate_hull_3 = 1
+			frigate_hull_4 = 1
+			frigate_hull_5 = 1
+
+			destroyer_hull_1 = 1
+			destroyer_hull_2 = 1
+			destroyer_hull_3 = 1
+			destroyer_hull_4 = 1
+			destroyer_hull_5 = 1
+
+			cruiser_hull_1 = 1
+
+			attack_submarine_hull_1 = 1
+			attack_submarine_hull_2 = 1
+			attack_submarine_hull_3 = 1
+			attack_submarine_hull_4 = 1
+			attack_submarine_hull_5 = 1
+
+			missile_submarine_hull_1 = 1
+			missile_submarine_hull_2 = 1
+			missile_submarine_hull_3 = 1
+			missile_submarine_hull_4 = 1
+
+			aircraft_carrier_engineering = 1
+
+			helicopter_operator_hull_1 = 1
+			helicopter_operator_hull_2 = 1
+			helicopter_operator_hull_3 = 1
+
+			aircraft_heli_engineering_1 = 1
+			aircraft_heli_engineering_2 = 1
+			aircraft_heli_engineering_3 = 1
+
+			tech_submarine_engineering = 1
+
+			tech_naval_systems_engineering = 1
+			tech_power_systems = 1
+			tech_power_systems_1 = 1
+
+			tech_combat_support_systems = 1
+			tech_fire_control = 1
+			tech_fire_control_1 = 1
+			tech_fire_control_2 = 1
+			tech_combat_radar = 1
+			tech_combat_radar_1 = 1
+			tech_combat_radar_2 = 1
+			tech_combat_radar_3 = 1
+			tech_combat_radar_4 = 1
+			tech_combat_sonar = 1
+			tech_combat_sonar_1 = 1
+			tech_combat_sonar_2 = 1
+			tech_combat_sonar_3 = 1
+			tech_combat_sonar_4 = 1
+
+			tech_early_naval_weapon_systems = 1
+			tech_naval_weapon_systems = 1
+			tech_light_guns = 1
+			tech_light_guns_1 = 1
+			tech_light_guns_2 = 1
+			tech_heavy_guns = 1
+			tech_heavy_guns_1 = 1
+			tech_heavy_guns_2 = 1
+
+			tech_point_defense_system = 1
+			tech_point_defense_system_1 = 1
+			tech_point_defense_system_2 = 1
+			tech_point_defense_system_3 = 1
+			tech_point_defense_system_4 = 1
+			tech_point_defense_system_5 = 1
+
+			tech_missile_systems = 1
+			tech_turret_missiles_surface = 1
+			tech_turret_missiles_surface_1 = 1
+			tech_turret_missiles_surface_2 = 1
+			tech_turret_missiles_surface_3 = 1
+
+			tech_turret_missiles_aa = 1
+			tech_turret_missiles_aa_1 = 1
+			tech_turret_missiles_aa_2 = 1
+			tech_turret_missiles_aa_3 = 1
+
+			tech_vls_surface = 1
+			tech_vls_surface_1 = 1
+			tech_vls_surface_2 = 1
+			tech_vls_surface_3 = 1
+
+			tech_vls_aa = 1
+			tech_vls_aa_1 = 1
+			tech_vls_aa_2 = 1
+			tech_vls_aa_3 = 1
+
+			tech_torpedoes = 1
+			tech_torpedoes_1 = 1
+			tech_torpedoes_2 = 1
+			tech_torpedoes_3 = 1
+			tech_torpedoes_4 = 1
+
+			tech_asw_systems = 1
+			tech_asw_systems_1 = 1
+			tech_asw_systems_2 = 1
+			tech_asw_systems_3 = 1
+			tech_mine_warfare = 1
+			tech_mine_warfare_1 = 1
+			tech_mine_warfare_2 = 1
+
+			tech_mtg_landing_craft = 1
+		}
+	}
+
+	set_popularities = {
+		democratic = 73.8
+		communism = 7.5
+		fascism = 0.0
+		neutrality = 18.7
+		nationalist = 0.0
+	}
+	set_politics = {
+		ruling_party = democratic
+		last_election = "2016.7.2"
+		election_frequency = 36
+		elections_allowed = yes
+	}
+
+	start_politics_input = yes
+
+	set_variable = { party_pop_array^0 = 0 } #Western_Autocracy
+	set_variable = { party_pop_array^1 = 0.372 } #conservatism
+	set_variable = { party_pop_array^2 = 0.019 } #liberalism
+	set_variable = { party_pop_array^3 = 0.347 } #socialism
+	set_variable = { party_pop_array^4 = 0 } #Communist-State
+	set_variable = { party_pop_array^5 = 0.07 } #anarchist_communism
+	set_variable = { party_pop_array^6 = 0.005 } #Conservative
+	set_variable = { party_pop_array^7 = 0 } #Autocracy
+	set_variable = { party_pop_array^8 = 0 } #Mod_Vilayat_e_Faqih
+	set_variable = { party_pop_array^9 = 0 } #Vilayat_e_Faqih
+	set_variable = { party_pop_array^10 = 0 } #Kingdom
+	set_variable = { party_pop_array^11 = 0 } #Caliphate
+	set_variable = { party_pop_array^12 = 0.003 } #Neutral_Muslim_Brotherhood
+	set_variable = { party_pop_array^13 = 0 } #Neutral_Autocracy
+	set_variable = { party_pop_array^14 = 0.048 } #Neutral_conservatism
+	set_variable = { party_pop_array^15 = 0 } #oligarchism
+	set_variable = { party_pop_array^16 = 0.034 } #Neutral_Libertarian
+	set_variable = { party_pop_array^17 = 0.102 } #Neutral_green
+	set_variable = { party_pop_array^18 = 0 } #neutral_Social
+	set_variable = { party_pop_array^19 = 0 } #Neutral_Communism
+	set_variable = { party_pop_array^20 = 0 } #Nat_Populism
+	set_variable = { party_pop_array^21 = 0 } #Nat_Fascism
+	set_variable = { party_pop_array^22 = 0 } #Nat_Autocracy
+	set_variable = { party_pop_array^23 = 0 } #Monarchist
+	add_to_array = { ruling_party = 1 }
+	startup_politics = yes
+
+	create_country_leader = {
+		name = "Malcolm Turnbull"
+		picture = "Malcolm_Turnbull.dds"
+		ideology = conservatism
+		traits = {
+			western_conservatism
+		}
+	}
+	#############################################
+	#MTG Variants
+	##############
+	if = {
+		limit = { has_dlc = "Man the Guns" }
+
+		#Canberra Class
+		create_equipment_variant = {
+			name = "Canberra Class - Flight I Block 1A"
+			type = helicopter_operator_hull_3
+			#name_group = AUSTRALIA
+			parent_version = 0
+			modules = {
+				fixed_ship_engine_slot = module_surface_oil_power
+				fixed_ship_fire_control_system_slot = module_digital_integrated_fire_control
+				fixed_ship_radar_slot = module_radar_4
+				fixed_ship_auxillary_slot_3 = module_fuel_tank
+				fixed_ship_auxillary_slot_2 = module_chain_gun_3
+				fixed_ship_auxillary_slot = module_chain_gun_3
+				fixed_ship_battery_slot = module_chain_gun_3
+				front_1_custom_slot = module_helipads_2
+				mid_1_custom_slot = module_helipads_2
+				rear_1_custom_slot = module_helipads_2
+
+			}
+		}
+		#Canberra Class
+		create_equipment_variant = {
+			name = "Canberra Class - Flight I Block 1B"
+			type = helicopter_operator_hull_3
+			#name_group = AUSTRALIA
+			parent_version = 1
+			modules = {
+				fixed_ship_engine_slot = module_surface_oil_power
+				fixed_ship_fire_control_system_slot = module_digital_integrated_fire_control
+				fixed_ship_radar_slot = module_radar_4
+				fixed_ship_auxillary_slot_3 = module_fuel_tank
+				fixed_ship_auxillary_slot_2 = module_chain_gun_3
+				fixed_ship_auxillary_slot = module_chain_gun_3
+				fixed_ship_battery_slot = module_chain_gun_3
+				front_1_custom_slot = module_helipads_3
+				mid_1_custom_slot = module_helipads_3
+				rear_1_custom_slot = module_helipads_3
+
+			}
+		}
+
+	}
+	#############################################
+}
