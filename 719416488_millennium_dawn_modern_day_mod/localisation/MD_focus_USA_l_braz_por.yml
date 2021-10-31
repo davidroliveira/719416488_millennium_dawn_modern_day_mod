@@ -5,7 +5,7 @@ l_english:
  USA_support_small_arms_companies: "Apoie Empresas de Armas Pequenas"
  USA_support_small_arms_companies_desc: "O livre acesso de cada cidadão americano a armas de fogo é importante. Removendo alguns impostos onerosos de empresas e vendedores de armas pequenas, podemos permitir que nossa população civil se arme com muito mais eficácia."
  USA_develop_artillery_models: "Plataformas de Artilharia Moderna"
- USA_develop_artillery_models_desc: "Os tanques são brilhantes e a infantaria recebe todo o crédito, mas a quantidade de trabalho realizado pela artilharia - o herói anônimo das forças armadas - não deve ser subestimada. Precisamos trabalhar em nossas plataformas de artilharia."
+ USA_develop_artillery_models_desc: "Os tanques são brilhantes e a infantaria recebe todo o crédito, mas a quantidade de trabalho realizado pela artilharia-o herói anônimo das forças armadas-não deve ser subestimada. Precisamos trabalhar em nossas plataformas de artilharia."
  USA_infantry_equipment_models_1: "Programa de rifle de combate avançado"
  USA_infantry_equipment_models_1_desc: "Para ficar à frente do jogo e garantir que tenhamos as armas de infantaria mais tecnologicamente avançadas do planeta, devemos investir em nossos fabricantes de armas pequenas."
  USA_strengthen_national_morale: "Fortalecer o moral nacional"
@@ -40,13 +40,13 @@ l_english:
  USA_destroyer_models_2: "Modelos de Destruidores Avançados"
  USA_destroyer_models_2_desc: "Nossas embarcações do legado da Guerra Fria estão mostrando sua idade, e mesmo as mais novas não estarão na vanguarda da tecnologia naval para sempre. Precisamos olhar ainda mais para o futuro para criar um destruidor verdadeiramente novo para um novo século. "
  USA_small_ship_models_2: "Navios de combate litorais"
- USA_small_ship_models_2_desc: "Embora tenhamos feito grandes avanços para melhorar nossas naves de apoio, ainda há muito espaço para progresso. A Nave de Combate Litoral e seus sucessores em potencial representam um grande salto à frente na capacidade de nossas naves menores - embora com nossas propostas mais recentes, \" menor \ "é uma espécie de termo relativo."
+ USA_small_ship_models_2_desc: "Embora tenhamos feito grandes avanços para melhorar nossas naves de apoio, ainda há muito espaço para progresso. A Nave de Combate Litoral e seus sucessores em potencial representam um grande salto à frente na capacidade de nossas naves menores-embora com nossas propostas mais recentes,\" menor\"é uma espécie de termo relativo."
  USA_submarine_models_1: "Além da classe de Los Angeles"
- USA_submarine_models_1_desc: "Nossa frota de superfície é importante, mas não devemos esquecer o Serviço Silencioso - nossos bravos submarinistas. Eles merecem os melhores barcos que podemos oferecer, mas nossos submarinos atuais estão começando a chegar ao fim de sua vida útil de serviço."
+ USA_submarine_models_1_desc: "Nossa frota de superfície é importante, mas não devemos esquecer o Serviço Silencioso-nossos bravos submarinistas. Eles merecem os melhores barcos que podemos oferecer, mas nossos submarinos atuais estão começando a chegar ao fim de sua vida útil de serviço."
  USA_carrier_models_1: "Novos designs de operadora"
  USA_carrier_models_1_desc: "Nossas enormes operadoras da classe Nimitz podem causar inveja em todo o mundo, mas essa atenção estimulou nossos rivais em potencial a iniciar seus próprios programas de operadoras. Não podemos nos dar ao luxo de ficar parados enquanto outras nações o alcançam. Vamos investir fortemente em carros-chefe mais novos e melhores para nossa grande Marinha. "
  USA_submarine_focus: "Reformar o Serviço Silencioso"
- USA_submarine_focus_desc: "Novas classes de submarinos só podem nos levar até certo ponto - agora devemos investir tempo para descobrir como usá-los adequadamente na era moderna."
+ USA_submarine_focus_desc: "Novas classes de submarinos só podem nos levar até certo ponto-agora devemos investir tempo para descobrir como usá-los adequadamente na era moderna."
  USA_naval_doctrine_1: "Reforma da Doutrina Naval"
  USA_naval_doctrine_1_desc: "Nossa estratégia atual de apenas ter mais navios do que sabemos o que fazer parece um tanto problemática. Talvez também possamos querer trabalhar em algumas novas táticas?"
  USA_submarine_models_2: "Novos submarinos para uma nova marinha"
@@ -95,7 +95,7 @@ l_english:
  USA_finance_private_space_ventures: "Finance Private Space Ventures"
  USA_finance_private_space_ventures_desc: "Empresas privadas, como a SpaceX, mostraram uma tremenda capacidade de reduzir custos e aumentar a eficiência das viagens espaciais. O futuro do espaço é privado."
  USA_asteroid_mining: "Mineração de Asteróides"
- USA_asteroid_mining_desc: "Os asteróides contêm muitos materiais raros ou difíceis de extrair aqui na Terra, como platina, ouro, iridum e os evasivos metais de terras raras - algo que desesperadamente carecemos internamente. É preciso um grande esforço para rebocar um asteróide para a órbita da Terra, mas as recompensas estarão além de nossos sonhos mais selvagens. "
+ USA_asteroid_mining_desc: "Os asteróides contêm muitos materiais raros ou difíceis de extrair aqui na Terra, como platina, ouro, iridum e os evasivos metais de terras raras-algo que desesperadamente carecemos internamente. É preciso um grande esforço para rebocar um asteróide para a órbita da Terra, mas as recompensas estarão além de nossos sonhos mais selvagens. "
  USA_establishment_of_the_space_force: "Estabelecimento da Força Espacial"
  USA_establishment_of_the_space_force_desc: "Por que não o chamamos de Fuzileiros Navais do Espaço? Esse seria um nome muito melhor."
  USA_launch_pad_in_brazil: "Plataforma de Lançamento no Brasil"
@@ -117,7 +117,7 @@ l_english:
  USA_deregulation: "Indústria Revitalizada"
  USA_deregulation_desc: "Os Estados Unidos têm sido um país de incrível crescimento econômico nos últimos cem anos. Eles emergiram da Segunda Guerra Mundial como a maior economia do mundo."
  USA_regulation: "Mercados Regulados"
- USA_regulation_desc: "A crença neoclássica na \" economia vodu \ "é perigosa. Embora o mercado livre seja importante, ele deve ser moderado pela supervisão federal para que não consiga corda suficiente para se enforcar."
+ USA_regulation_desc: "A crença neoclássica na\" economia vodu\"é perigosa. Embora o mercado livre seja importante, ele deve ser moderado pela supervisão federal para que não consiga corda suficiente para se enforcar."
  USA_aluminium_and_steel_production: "Produção de Metais Estruturais"
  USA_aluminium_and_steel_production_desc: "Temos a quarta maior indústria de aço e a sexta maior indústria de alumínio do mundo, mas podemos fazer ainda melhor. A bauxita está prontamente disponível para exploração em Arkansas e Alabama, se assim desejarmos."
  USA_reduce_market_regulations: "Liberte o Mercado Livre"
@@ -271,13 +271,13 @@ l_english:
  USA_question_the_constitution: "Questione a Constituição"
  USA_question_the_constitution_desc: "A Constituição é um mero pedaço de papel escrito por homens que conheciam apenas o mundo dos anos 1700, e o processo de emendas está deliberadamente fora do alcance de quem precisa, protegido por um governo corrupto. Só um tolo seguiria esse pedaço de papel como lei inquestionável. "
  USA_honor_the_confederacy: "Honra a Confederação"
- USA_honor_the_confederacy_desc: "A Confederação foi uma bela oportunidade de realmente fazer nossa própria nação - uma nação onde a tirania não existia. Infelizmente, esse sonho foi sangrado de nós pela intervenção federal. Agora temos a oportunidade de revivê-lo em toda a sua glória!"
+ USA_honor_the_confederacy_desc: "A Confederação foi uma bela oportunidade de realmente fazer nossa própria nação-uma nação onde a tirania não existia. Infelizmente, esse sonho foi sangrado de nós pela intervenção federal. Agora temos a oportunidade de revivê-lo em toda a sua glória!"
  USA_attack_the_financial_system: "Ataque o Sistema Financeiro"
- USA_attack_the_financial_system_desc: "A América tem sido o centro da hegemonia capitalista global corrupta. Isso levou à exploração em massa de bilhões. Precisamos destruir este sistema por todos os meios necessários - particularmente os financistas ricos que não contribuem com nada para o mundo, exceto a manipulação de dinheiro."
+ USA_attack_the_financial_system_desc: "A América tem sido o centro da hegemonia capitalista global corrupta. Isso levou à exploração em massa de bilhões. Precisamos destruir este sistema por todos os meios necessários-particularmente os financistas ricos que não contribuem com nada para o mundo, exceto a manipulação de dinheiro."
  USA_nationalistic_sentiment: "Sentimento Nacionalista"
  USA_nationalistic_sentiment_desc: "A Confederação foi quase completamente expulsa por amor à nossa nação. Devemos reacender este sentimento, pois agora é mais necessário do que nunca."
  USA_ministry_for_art_and_national_culture: "Ministério da Arte e Cultura Nacional"
- USA_ministry_for_art_and_national_culture_desc: "Os Estados Unidos tiveram muitos artistas, poetas, autores e visionários famosos ao longo de sua existência. Devemos celebrar essas pessoas incríveis - e tomar medidas para suprimir aqueles cujo trabalho se mostra subversivo aos valores americanos fundamentais."
+ USA_ministry_for_art_and_national_culture_desc: "Os Estados Unidos tiveram muitos artistas, poetas, autores e visionários famosos ao longo de sua existência. Devemos celebrar essas pessoas incríveis-e tomar medidas para suprimir aqueles cujo trabalho se mostra subversivo aos valores americanos fundamentais."
  USA_weaken_the_house: "Enfraquecer a Casa"
  USA_weaken_the_house_desc: "A Câmara dos Representantes é apenas um obstáculo aos nossos planos, controlados e totalmente comprados pelos corruptos. Deve se tornar obsoleta e desdentada se quisermos salvar nossa nação."
  USA_radical_taxation_reform: "Implementar o imposto sobre a riqueza"
@@ -305,7 +305,7 @@ l_english:
  USA_five_year_plans: "Planos de cinco anos"
  USA_five_year_plans_desc: "Vamos instituir planos de longo prazo para ajudar a converter nossa economia e ambiente político em um ambiente mais igualitário e amigável. Afinal, já temos vários modelos históricos para escolher ..."
  USA_censor_public_opinion: "Censurar a opinião pública"
- USA_censor_public_opinion_desc: "Fazer tudo o que fizemos nunca foi fácil. No entanto, tem havido uma imensa reação pública, ainda mais do que esperávamos, e para proteger o progresso, parece que não temos escolha a não ser tomar medidas extraordinárias para proteger nosso movimento de destruidores subversivos. É para o seu próprio bem - devemos sempre manter isso em mente. Nenhum custo muito alto. "
+ USA_censor_public_opinion_desc: "Fazer tudo o que fizemos nunca foi fácil. No entanto, tem havido uma imensa reação pública, ainda mais do que esperávamos, e para proteger o progresso, parece que não temos escolha a não ser tomar medidas extraordinárias para proteger nosso movimento de destruidores subversivos. É para o seu próprio bem-devemos sempre manter isso em mente. Nenhum custo muito alto. "
  USA_new_foreign_policy: "Política Externa Aventureira"
  USA_new_foreign_policy_desc: "Precisamente porque a América está em primeiro lugar, podemos precisar de uma política externa mais ... agressiva e dominadora, para realmente garantir que nossos interesses sejam mantidos seguros no exterior."
  USA_authoritarian_financial_control: "Reforce a lealdade dos bancos"
@@ -365,7 +365,7 @@ l_english:
  USA_american_chinese_alliance: "Aliança Americana-Chinesa"
  USA_american_chinese_alliance_desc: "Finalmente chegou a hora de formalizar a Aliança Sino-Americana! Juntas, as duas grandes superpotências do mundo se mostrarão invencíveis. Era natural neste novo mundo forte."
  USA_invite_taiwan_to_nato: "Convide Taiwan para a OTAN"
- USA_invite_taiwan_to_nato_desc: "Precisamos trabalhar ainda mais para conter a agressão crescente do continente chinês. A maneira perfeita de fazer isso é adicionar 'porta-aviões da América', nossos amigos na República da China, à OTAN. Isso irá irritar muito os continentais, mas devemos pergunte a nós mesmos - nós realmente nos importamos mais? "
+ USA_invite_taiwan_to_nato_desc: "Precisamos trabalhar ainda mais para conter a agressão crescente do continente chinês. A maneira perfeita de fazer isso é adicionar 'porta-aviões da América', nossos amigos na República da China, à OTAN. Isso irá irritar muito os continentais, mas devemos pergunte a nós mesmos-nós realmente nos importamos mais? "
  USA_us_military_assistance_for_south_korea: "Assistência Militar dos EUA para a Coreia do Sul"
  USA_us_military_assistance_for_south_korea_desc: "Com a Coreia do Norte ficando cada vez mais instável, devemos agir rapidamente para garantir que a Coreia do Sul permaneça segura e protegida de todas as ameaças, como um bom aliado deve fazer."
  USA_us_military_assistance_for_north_korea: "Assistência Militar dos EUA para a Coreia do Norte"
@@ -383,7 +383,7 @@ l_english:
  USA_invite_south_korea_to_nato: "Convide a Coreia do Sul para a OTAN"
  USA_invite_south_korea_to_nato_desc: "Por último, mas não menos importante, devemos adicionar a Coreia do Sul à OTAN. Nossos objetivos políticos se alinham muito bem, e uma cooperação militar mais estreita só pode servir para beneficiar a nós dois."
  USA_strike_china: "Strike China"
- USA_strike_china_desc: "Construímos parceiros e força suficientes para finalmente contestar a China continental. Esta é uma guerra pela alma da própria humanidade. Ela terminará com a destruição total do cruel pretendente ao regime em Pequim pelas mãos da maior coalizão desde o Guerras Napoleônicas e a dominação americana completa - ou talvez um retorno do continente chinês aos seus legítimos proprietários? A escolha é nossa. "
+ USA_strike_china_desc: "Construímos parceiros e força suficientes para finalmente contestar a China continental. Esta é uma guerra pela alma da própria humanidade. Ela terminará com a destruição total do cruel pretendente ao regime em Pequim pelas mãos da maior coalizão desde o Guerras Napoleônicas e a dominação americana completa-ou talvez um retorno do continente chinês aos seus legítimos proprietários? A escolha é nossa. "
  ##Europa
  USA_diplomacy_europe: "Diplomacia: Europa"
  USA_diplomacy_europe_desc: "Temos uma longa, longa história com a Europa, e nem toda boa. Devemos abrir novas linhas de diplomacia com todas as nações europeias."
@@ -496,11 +496,11 @@ l_english:
  USA_befriend_the_saudis: "Amizade com os sauditas"
  USA_befriend_the_saudis_desc: "Fazer amizade com os principais jogadores do mundo islâmico nos dará muitos negócios e conexões úteis. A Arábia Saudita é o lar da sagrada Meca, além de suas enormes reservas de petróleo precioso; este é o lugar natural para começar."
  USA_demand_reparations_for_the_uss_liberty: "Normalizar as relações com o Irã"
- USA_demand_reparations_for_the_uss_liberty_desc: "Talvez tenhamos apostado no cavalo errado todo esse tempo. O Irã é mais estável do que qualquer uma das outras potências do Oriente Médio - apesar de não estar realmente no Oriente Médio - e poderia ter sido um grande aliado, se não tivéssemos t comprometido com Israel. Agora é nossa chance de desfazer esse erro e consertar as coisas. "
+ USA_demand_reparations_for_the_uss_liberty_desc: "Talvez tenhamos apostado no cavalo errado todo esse tempo. O Irã é mais estável do que qualquer uma das outras potências do Oriente Médio-apesar de não estar realmente no Oriente Médio-e poderia ter sido um grande aliado, se não tivéssemos t comprometido com Israel. Agora é nossa chance de desfazer esse erro e consertar as coisas. "
  USA_oil_deals_with_saudi_arabia: "Ofertas de petróleo com a Arábia Saudita"
  USA_oil_deals_with_saudi_arabia_desc: "A Arábia Saudita está absolutamente transbordando de petróleo! Certamente poderíamos fazer alguns acordos com os sauditas para obter uma parte dele."
  USA_normalize_relations_with_iran: "Peça desculpas pelo golpe 28 Mordad"
- USA_normalize_relations_with_iran_desc: "Em 1953, os EUA e a Grã-Bretanha coordenaram um golpe contra o governo democrático iraniano em retaliação pela nacionalização do petróleo britânico. A substituição foi o brutal xá Reza Pahlavi. Naturalmente, eles nos odiaram desde então. É hora de fazer o nosso melhor para consertar nossos erros e pedir desculpas pelo golpe e seu sofrimento resultante - talvez com alguma ajuda econômica. "
+ USA_normalize_relations_with_iran_desc: "Em 1953, os EUA e a Grã-Bretanha coordenaram um golpe contra o governo democrático iraniano em retaliação pela nacionalização do petróleo britânico. A substituição foi o brutal xá Reza Pahlavi. Naturalmente, eles nos odiaram desde então. É hora de fazer o nosso melhor para consertar nossos erros e pedir desculpas pelo golpe e seu sofrimento resultante-talvez com alguma ajuda econômica. "
  USA_move_the_embassy_to_jerusalem: "Mova a Embaixada para Jerusalém"
  USA_move_the_embassy_to_jerusalem_desc: "Para mostrar nosso apoio aos israelenses, poderíamos mudar nossa embaixada atual, em Tel Aviv, para Jerusalém. Isso vai irritar muito os palestinos e seus apoiadores, mas o que isso importa para nós?"
  USA_american_business_interests_at_the_golf: "Interesses comerciais americanos no Golfo"
@@ -531,7 +531,7 @@ l_english:
  USA_american_communist_influence: "Influência Comunista Americana"
  USA_american_democratic_influence: "Influência Democrática Americana"
  USA_american_fascism: "Neo-Segregação"
- USA_american_fascism_desc: "A população dos Estados Unidos - especialmente as minorias étnicas - desaprova as recentes mudanças políticas."
+ USA_american_fascism_desc: "A população dos Estados Unidos-especialmente as minorias étnicas-desaprova as recentes mudanças políticas."
  USA_american_fascism_weakened: "Fascismo americano reformado"
  USA_american_nationalist_influence: "Influência Nacionalista Americana"
  USA_american_military_assistance: "Assistência Militar Americana"
@@ -558,7 +558,7 @@ l_english:
  USA_every_student_succeeds_act: "Todo aluno tem sucesso na lei"
  USA_expanded_national_guard: "Guarda Nacional Expandida"
  USA_first_amendment: "A Primeira Emenda"
- USA_first_amendment_desc: "\" O Congresso não fará nenhuma lei respeitando o estabelecimento da religião, ou proibindo o seu livre exercício; ou restringir a liberdade de expressão ou de imprensa; ou o direito do povo de se reunir pacificamente e de peticionar ao governo para reparação de queixas. \ "\n\nA Primeira Emenda da Constituição dos Estados Unidos garante aos cidadãos americanos o direito de se reunir livremente, de seguir livremente qualquer religião e para falar livremente o que pensam. Isso é bom para a democracia, mas é ruim para o governo se o governo tiver planos menos que nobres.\n\nA Primeira Emenda também dá cobertura a espiões estrangeiros que tentam desestabilizar os Estados Unidos Estados de dentro. "
+ USA_first_amendment_desc: "\" O Congresso não fará nenhuma lei respeitando o estabelecimento da religião, ou proibindo o seu livre exercício; ou restringir a liberdade de expressão ou de imprensa; ou o direito do povo de se reunir pacificamente e de peticionar ao governo para reparação de queixas.\"\n\nA Primeira Emenda da Constituição dos Estados Unidos garante aos cidadãos americanos o direito de se reunir livremente, de seguir livremente qualquer religião e para falar livremente o que pensam. Isso é bom para a democracia, mas é ruim para o governo se o governo tiver planos menos que nobres.\n\nA Primeira Emenda também dá cobertura a espiões estrangeiros que tentam desestabilizar os Estados Unidos Estados de dentro. "
  USA_food_deliveries_to_the_black_free_state: "Entregas de alimentos ao estado livre negro"
  USA_food_deliveries_to_the_black_free_state_desc: "O Estado Livre Negro é muito pequeno para sustentar sua população. Para evitar uma rebelião em massa contra o sistema fascista, deve haver entregas discretas de comida no território segregado."
  USA_free_college_idea: "Free College"
@@ -588,7 +588,7 @@ l_english:
  USA_scientific_investments_idea: "Investimentos Científicos"
  USA_seven_in_five_plan_idea: "Plano sete em cinco"
  USA_second_amendment: "A Segunda Emenda"
- USA_second_amendment_desc: "\" Uma milícia bem regulamentada, sendo necessária à segurança de um Estado livre, o direito do povo de possuir e portar armas, não deve ser infringido. \ "\n\nA Segunda Emenda à Constituição dos Estados Unidos garante aos cidadãos americanos, o direito de possuir armas de fogo para proteger a sociedade livre e a si próprios. A emenda é uma causa constante de conflito dentro da política americana quanto à sua totalidade - com o governo tendo conseguido proibir a propriedade privada de armas como metralhadoras pesadas e minas terrestres no passado, que alguns ativistas acreditam estarem infringindo a Segunda Emenda.\n\nA Segunda Emenda leva a situações infelizes em que alguns proprietários de armas abusam de suas armas para causar danos, forçando o governo a se concentrar na limpeza tiroteios em escolas, situações de reféns, crimes de gangues e roubos em vez de tentar trazer o país para a frente. "
+ USA_second_amendment_desc: "\" Uma milícia bem regulamentada, sendo necessária à segurança de um Estado livre, o direito do povo de possuir e portar armas, não deve ser infringido.\"\n\nA Segunda Emenda à Constituição dos Estados Unidos garante aos cidadãos americanos, o direito de possuir armas de fogo para proteger a sociedade livre e a si próprios. A emenda é uma causa constante de conflito dentro da política americana quanto à sua totalidade-com o governo tendo conseguido proibir a propriedade privada de armas como metralhadoras pesadas e minas terrestres no passado, que alguns ativistas acreditam estarem infringindo a Segunda Emenda.\n\nA Segunda Emenda leva a situações infelizes em que alguns proprietários de armas abusam de suas armas para causar danos, forçando o governo a se concentrar na limpeza tiroteios em escolas, situações de reféns, crimes de gangues e roubos em vez de tentar trazer o país para a frente. "
  USA_strengthened_marine_corps: "Corpo de Fuzileiros Navais Fortalecido"
  USA_submarine_tactics: "Táticas Submarinas"
  USA_the_war_on_terror: "A Guerra ao Terror"
@@ -603,7 +603,7 @@ l_english:
  USA_economic_crisis_light_idea: "Grande Recessão Financeira"
  USA_economic_crisis_light_idea_desc: "A Grande Recessão Financeira (GFC) é um dos maiores eventos do século 21. A recessão causou uma perda massiva de empregos e a economia americana foi fortemente atingida com a falência do Lehman Brothers.\n\nA rápida reação do governo americano e do Federal Reserve . "
 
- #USA Events - Non News
+ #USA Events-Non News
  ## Cole Bombing
  usa.2.t: "Bombardeio USS Cole"
  usa.2.d: "O destróier de mísseis guiados USS Cole (DDG-67) foi atacado por dois terroristas da Al-Qaeda em [GetDateText]. O Cole, no porto do Iêmen, foi atingido por uma explosão no flanco esquerdo, matando 17 marinheiros e ferindo 39 . Nos últimos anos, os juízes dos Estados Unidos encontraram elementos islâmicos dentro do governo do Sudão pelo menos envolvidos no ataque. "
@@ -648,7 +648,7 @@ l_english:
 
  ## Caso Elian Gonzalez
  usa.7.t: "Caso Elian Gonzalez"
- usa.7.d: "Hoje, a Procuradora-Geral dos Estados Unidos, Janet Reno, terá que tomar uma decisão a respeito do destino do jovem cubano Elian Gonzalez.\n\nGonzalez está atualmente residindo na Flórida com parentes, depois que sobreviveu ao perigoso fuga de Cuba para os Estados Unidos - fuga durante a qual sua mãe morreu tragicamente. No entanto, a mãe tentou fugir não só do comunismo, mas também de seu marido, o pai de Gonzalez, que, ainda em Cuba, agora fazia exigências a peça ao menino que volte para ele.\n\nNão pode haver dúvida, tanto do ponto de vista americano quanto do cubano, que seria legal mandar o menino de volta para o pai. Mas há implicações morais e políticas aqui. Devemos condenar um jovem à opressão comunista? Devemos pôr em risco o apoio cubano ao Partido Democrata no estado vital da Flórida?\n\nTudo se resume ao veredicto de Reno agora. "
+ usa.7.d: "Hoje, a Procuradora-Geral dos Estados Unidos, Janet Reno, terá que tomar uma decisão a respeito do destino do jovem cubano Elian Gonzalez.\n\nGonzalez está atualmente residindo na Flórida com parentes, depois que sobreviveu ao perigoso fuga de Cuba para os Estados Unidos-fuga durante a qual sua mãe morreu tragicamente. No entanto, a mãe tentou fugir não só do comunismo, mas também de seu marido, o pai de Gonzalez, que, ainda em Cuba, agora fazia exigências a peça ao menino que volte para ele.\n\nNão pode haver dúvida, tanto do ponto de vista americano quanto do cubano, que seria legal mandar o menino de volta para o pai. Mas há implicações morais e políticas aqui. Devemos condenar um jovem à opressão comunista? Devemos pôr em risco o apoio cubano ao Partido Democrata no estado vital da Flórida?\n\nTudo se resume ao veredicto de Reno agora. "
  usa.7.o1: "Mande-o de volta. É o certo."
  usa.7.o2: "Melhor morto do que vermelho! Ele fica!"
  usa.7.tt: "Chance de que a invasão possa falhar"
@@ -665,8 +665,8 @@ l_english:
  usa.9.o1: "Uma tragédia."
 
  ## Fim do Amendoim
- usa.10.t: "Fim do \" Amendoim \ ""
- usa.10.d: "A morte da lenda dos quadrinhos Charles M. Schulz em 12 de fevereiro de 2000 marcou o fim de uma lenda e o fim de uma era. O quadrinista nascido em Minneapolis desenhou os esquetes em quadrinhos de \" Peanuts \ "por mais de 50 anos, bem como a maioria dos roteiros de cinema e televisão de seus filhos de quadrinhos em torno de Charlie Brown. No total, mais de 17.800 quadrinhos exclusivos, \ "The Peanuts \" foi a série de quadrinhos mais antiga de todos os tempos. Um dia após a morte de seu criador, o último quadrinho de Peanuts original foi publicado nos jornais de domingo.\n\nA morte de Schulz deixa fãs de quadrinhos e leitores ávidos de jornal em luto pelo país. A série de quadrinhos não continuará de acordo com os desejos de Schulz - mas em 17.800 histórias em quadrinhos, há muitas repetições que os jornais serão capazes de fazer. "
+ usa.10.t: "Fim do\" Amendoim\""
+ usa.10.d: "A morte da lenda dos quadrinhos Charles M. Schulz em 12 de fevereiro de 2000 marcou o fim de uma lenda e o fim de uma era. O quadrinista nascido em Minneapolis desenhou os esquetes em quadrinhos de\" Peanuts\"por mais de 50 anos, bem como a maioria dos roteiros de cinema e televisão de seus filhos de quadrinhos em torno de Charlie Brown. No total, mais de 17.800 quadrinhos exclusivos,\"The Peanuts\" foi a série de quadrinhos mais antiga de todos os tempos. Um dia após a morte de seu criador, o último quadrinho de Peanuts original foi publicado nos jornais de domingo.\n\nA morte de Schulz deixa fãs de quadrinhos e leitores ávidos de jornal em luto pelo país. A série de quadrinhos não continuará de acordo com os desejos de Schulz-mas em 17.800 histórias em quadrinhos, há muitas repetições que os jornais serão capazes de fazer. "
  usa.10.o1: "Descanse em paz."
  usa.10.o2: "Há dinheiro a ser feito!"
 
@@ -701,7 +701,7 @@ l_english:
  usa.16.o1: "Agradecemos a ajuda."
  usa.16.o2: "Não precisamos dos americanos!"
 
- ### Eventos Aleatórios para os EUA - Política ###
+ ### Eventos Aleatórios para os EUA-Política ###
  ## Ascensão do esquerdismo americano
  usa.17.t: "Ascensão do esquerdismo americano"
  usa.17.d: "A juventude nos Estados Unidos tem olhado para a União Européia e seus países com seus governos socialistas democráticos. Eles estão apoiando uma versão revisada do sistema americano."
@@ -735,7 +735,7 @@ l_english:
  usa.23.o1: "Infeliz"
 
  usa.28.t: "Convite para a Aliança Americana"
- usa.28.d: "Embora não exista mais a adesão dos Estados Unidos à OTAN, os Estados Unidos ainda não pararam de fazer uma aliança militar e de considerar novos aliados e alianças - e entre os países considerados está [This.GetNameDef].\n\nUm convite formal para a Aliança Americana foi emitida para nosso embaixador na capital americana hoje, nos conclamando a pegar nossas armas e nossas mentes e nos juntar aos Estados Unidos em suas atividades políticas. "
+ usa.28.d: "Embora não exista mais a adesão dos Estados Unidos à OTAN, os Estados Unidos ainda não pararam de fazer uma aliança militar e de considerar novos aliados e alianças-e entre os países considerados está [This.GetNameDef].\n\nUm convite formal para a Aliança Americana foi emitida para nosso embaixador na capital americana hoje, nos conclamando a pegar nossas armas e nossas mentes e nos juntar aos Estados Unidos em suas atividades políticas. "
  usa.28.o1: "Com a América nós resistimos!"
  usa.28.o2: "Teremos que repassar aquele ..."
 
@@ -745,7 +745,7 @@ l_english:
  usa.31.o2: "Recuse-os!"
  # Processo Antitruste na Suprema Corte!
  usa.32.t: "Estados Unidos x Microsoft Corp."
- usa.32.d: "A Microsoft, indiscutivelmente um dos mais importantes empregadores e modelos de progresso tecnológico e social da América, tem estado na mira de promotores do governo devido às suas práticas comerciais supostamente injustas e monopolistas.\n\nAberto em 18 de maio de 1998, o tribunal ouviu várias testemunhas, incluindo o fundador da Microsoft Bill Gates, o vice-presidente da Microsoft Paul Maritz, o vice-presidente da Intel Steven McGeady e outros.\n\nA acusação contra a Microsoft é uma violação da Lei Antitruste Sherman de 1890 por meio da tentativa de se tornar um monopólio do software e os mercados de hardware e computador, particularmente devido ao fato de que a Microsoft empacotou o navegador da Web feito pela Microsoft \ "Internet Explorer \" com seus sistemas operacionais, ganhando assim decisivamente as \ "Guerras de Navegadores \" entre os operadores de navegador da Web concorrentes sem uma luta justa.\n\nAgora, em [GetDateText] o juiz presidente Thomas Penfield Jackson, que já apresentou as conclusões do fato de que a Microsoft havia estabelecido um mono ilegal sistemas operacionais de computadores pessoais baseados em poli sobre x86 em 5 de novembro de 1999, está prestes a divulgar suas conclusões sobre a lei, que marcarão o veredicto para determinar o resto dos procedimentos do caso no tribunal. "
+ usa.32.d: "A Microsoft, indiscutivelmente um dos mais importantes empregadores e modelos de progresso tecnológico e social da América, tem estado na mira de promotores do governo devido às suas práticas comerciais supostamente injustas e monopolistas.\n\nAberto em 18 de maio de 1998, o tribunal ouviu várias testemunhas, incluindo o fundador da Microsoft Bill Gates, o vice-presidente da Microsoft Paul Maritz, o vice-presidente da Intel Steven McGeady e outros.\n\nA acusação contra a Microsoft é uma violação da Lei Antitruste Sherman de 1890 por meio da tentativa de se tornar um monopólio do software e os mercados de hardware e computador, particularmente devido ao fato de que a Microsoft empacotou o navegador da Web feito pela Microsoft\"Internet Explorer\" com seus sistemas operacionais, ganhando assim decisivamente as\"Guerras de Navegadores\" entre os operadores de navegador da Web concorrentes sem uma luta justa.\n\nAgora, em [GetDateText] o juiz presidente Thomas Penfield Jackson, que já apresentou as conclusões do fato de que a Microsoft havia estabelecido um mono ilegal sistemas operacionais de computadores pessoais baseados em poli sobre x86 em 5 de novembro de 1999, está prestes a divulgar suas conclusões sobre a lei, que marcarão o veredicto para determinar o resto dos procedimentos do caso no tribunal. "
  usa.32.o1: "Culpado!"
  usa.32.o2: "Inocente!"
  #Microsoft continua em expansão!
@@ -770,7 +770,7 @@ l_english:
 
  #Mac OS X
  usa.37.t: "Mac OS X"
- usa.37.d: "Com o codinome 'Kodiak', um Beta para o novo sistema operacional da Apple, que levará o título 'Mac OS X', começou a ser enviado aos desenvolvedores em 13 de setembro de 2000.\n\nApple é, na cara da Microsoft Windows 2000 e o futuro padrão da indústria \ "Microsoft Windows XP \", tentando desesperadamente se manter à tona no mercado de sistemas operacionais. A concorrência nesse mercado já restrito deve beneficiar os consumidores americanos. "
+ usa.37.d: "Com o codinome 'Kodiak', um Beta para o novo sistema operacional da Apple, que levará o título 'Mac OS X', começou a ser enviado aos desenvolvedores em 13 de setembro de 2000.\n\nApple é, na cara da Microsoft Windows 2000 e o futuro padrão da indústria\"Microsoft Windows XP\", tentando desesperadamente se manter à tona no mercado de sistemas operacionais. A concorrência nesse mercado já restrito deve beneficiar os consumidores americanos. "
  usa.37.o1: "Os titãs se enfrentam novamente."
  usa.37.o2: "Declare o SO da Apple ilegal"
 
@@ -782,12 +782,12 @@ l_english:
 
  #Lançamento da Wikipedia
  usa.39.t: "Wikipedia"
- usa.39.d: "Talvez um dos projetos mais ambiciosos da história da Internet, a 'Wikipedia' foi criada em 15 de janeiro de 2001.\n\nA enciclopédia on-line visa fornecer conhecimento de inúmeras fontes sobre incontáveis tópicos para inúmeras pessoas gratuitamente.\n\nNo entanto, informação é poder - e totalitários em todo o mundo certamente desaprovarão toda a promessa de "acesso gratuito à informação" que a Wikipedia. Os criadores do site, Jimmy Wales e Larry Sanger, prometem manter a Wikipedia em uma forma sem fins lucrativos de negócios sem anúncios, baseados exclusivamente em doações de usuários.\nÉ realmente uma ótima ideia e um método excelente para começar a expandir as informações globalmente e nos EUA. "
+ usa.39.d: "Talvez um dos projetos mais ambiciosos da história da Internet, a 'Wikipedia' foi criada em 15 de janeiro de 2001.\n\nA enciclopédia on-line visa fornecer conhecimento de inúmeras fontes sobre incontáveis tópicos para inúmeras pessoas gratuitamente.\n\nNo entanto, informação é poder-e totalitários em todo o mundo certamente desaprovarão toda a promessa de "acesso gratuito à informação" que a Wikipedia. Os criadores do site, Jimmy Wales e Larry Sanger, prometem manter a Wikipedia em uma forma sem fins lucrativos de negócios sem anúncios, baseados exclusivamente em doações de usuários.\nÉ realmente uma ótima ideia e um método excelente para começar a expandir as informações globalmente e nos EUA. "
  usa.39.o1: "Liberdade de informação"
 
  #Sheperdstown Peace Dialogue
  usa.52.t: "Conversas sobre a paz em Shepherdstown"
- usa.52.d: "Em uma tentativa de resolver as disputas territoriais e militares em andamento e os conflitos menores entre o Estado de Israel e a República Árabe Síria, o presidente dos EUA [USA.GetLeader] convidou os dois lados a participarem de negociações de paz e relaxamento em Shepherdstown, West Virginia.\n\nAs delegações chegaram à Virgínia Ocidental e começaram suas reuniões em 3 de janeiro de 2000. Eles foram recebidos por cartazes com os dizeres \ "Paz \" em hebraico e árabe pendurados na cidade.\n\nA delegação israelense é liderada pelo primeiro-ministro [ISR.GetLeader], enquanto os sírios têm seu ministro das Relações Exteriores, Farouk a-Shara, como ponta de lança. "
+ usa.52.d: "Em uma tentativa de resolver as disputas territoriais e militares em andamento e os conflitos menores entre o Estado de Israel e a República Árabe Síria, o presidente dos EUA [USA.GetLeader] convidou os dois lados a participarem de negociações de paz e relaxamento em Shepherdstown, West Virginia.\n\nAs delegações chegaram à Virgínia Ocidental e começaram suas reuniões em 3 de janeiro de 2000. Eles foram recebidos por cartazes com os dizeres\"Paz\" em hebraico e árabe pendurados na cidade.\n\nA delegação israelense é liderada pelo primeiro-ministro [ISR.GetLeader], enquanto os sírios têm seu ministro das Relações Exteriores, Farouk a-Shara, como ponta de lança. "
  usa.52.o1: "Só podemos esperar."
  ## Syria Sheperdstown Peace Talk
  usa.53.t: "Conversas sobre a paz em Shepherdstown"
@@ -804,7 +804,7 @@ l_english:
  usa.60.o1: "Boa viagem."
  usa.60.o2: "Honre as realizações de sua vida."
 
- #Gus Hall State - Renomeação Comunista
+ #Gus Hall State-Renomeação Comunista
  usa.63.t: "Estado de Gus Hall"
  usa.63.d: "Com os comunistas no poder, é hora de considerar a mudança de algumas das lembranças do imperalismo americano. Um estado e nossa grande capital têm o nome de um pedaço de escória imperialista escravista. Mas há uma solução; Troca o fundador e primeiro líder do falso estado capitalista americano com o santo padroeiro do Partido Comunista Americano. Gus Hall, que faleceu recentemente. O nome é claramente uma escolha maravilhosa para um nome de cidade! Além disso, há várias outras cidades e estados que poderiam usar um A Carolina do Norte pode se tornar Vladimir depois de Lenin. Há tantas possibilidades e apenas cinquenta estados! "
  usa.63.o1: "Uma excelente ideia!"
@@ -837,15 +837,15 @@ l_english:
  usa.91.a: "Aceite os termos da América"
  usa.91.b: "Retirar-se do NAFTA"
 
- ### Eventos Vanilla - Eventos Aleatórios de Apoio e Oposição
+ ### Eventos Vanilla-Eventos Aleatórios de Apoio e Oposição
  usa_vanilla.40.t: "Senadores expressam seu apoio"
  usa_vanilla.40.desc: "Em uma votação recente, um senador surpreendentemente mudou de lado para votar a favor de uma proposta do governo. Embora a questão em si fosse bastante pequena, o voto público de apoio de um crítico anteriormente aberto de [USA.GetLeader] levantou muitas sobrancelhas em Washington.\n\nAlguns analistas acreditam que este exemplo levará senadores adicionais a reconsiderar sua posição. "
  usa_vanilla.40.a: "Um aliado útil."
  usa_vanilla.41.t: "Representantes falam com paixão na Câmara"
- usa_vanilla.41.desc: "Questionada sobre sua posição sobre uma série de questões políticas em um jantar de arrecadação de fundos, uma representante falou em apoio às políticas do presidente [USA.GetLeader]. Ela afirmou ainda que muitos de seus colegas representantes tinham pontos de vista semelhantes, mas eram apenas retido pela \ "miopia idiota, pensando apenas nas próximas eleições \" em vez de fazer o que era certo para o povo americano.\n\nSeus comentários foram amplamente divulgados pela imprensa e colocaram vários de seus colegas em água quente, pois eles tiveram que explicar onde eles se posicionaram sobre essas questões. "
+ usa_vanilla.41.desc: "Questionada sobre sua posição sobre uma série de questões políticas em um jantar de arrecadação de fundos, uma representante falou em apoio às políticas do presidente [USA.GetLeader]. Ela afirmou ainda que muitos de seus colegas representantes tinham pontos de vista semelhantes, mas eram apenas retido pela\"miopia idiota, pensando apenas nas próximas eleições\" em vez de fazer o que era certo para o povo americano.\n\nSeus comentários foram amplamente divulgados pela imprensa e colocaram vários de seus colegas em água quente, pois eles tiveram que explicar onde eles se posicionaram sobre essas questões. "
  usa_vanilla.41.a: "Ela está certa, você sabe."
  usa_vanilla.42.t: "Senador expressa oposição à política recente"
- usa_vanilla.42.desc: "Um senador deu uma entrevista em um grande jornal, dizendo que não pode mais apoiar as políticas \" tolas e perigosas \ "do presidente [USA.GetLeader]. Ele afirmou ainda que conhecia vários outros senadores que pensavam de forma semelhante e fariam abandonar o presidente em breve. "
+ usa_vanilla.42.desc: "Um senador deu uma entrevista em um grande jornal, dizendo que não pode mais apoiar as políticas\" tolas e perigosas\"do presidente [USA.GetLeader]. Ele afirmou ainda que conhecia vários outros senadores que pensavam de forma semelhante e fariam abandonar o presidente em breve. "
  usa_vanilla.42.a: "Ele voltará correndo em breve."
  usa_vanilla.43.t: "Representante critica o presidente"
  usa_vanilla.43.desc: "Durante um recente debate sobre a reforma tributária, um deputado lançou um longo discurso sobre as muitas falhas do governo. Segundo ele, nenhum americano bem pensado poderia querer apoiar as políticas do presidente, qualquer que seja sua filiação partidária. pode ser.\n\nSuas palavras duras parecem ter surtido efeito, já que vários Representantes anteriormente pensavam firmemente por trás das políticas de [USA.GetLeader] fazendo barulho de apoio. "
@@ -878,16 +878,16 @@ l_english:
  usa_vanilla.64.a: "Uma fraqueza crítica."
  usa_vanilla.64.b: "Temos problemas maiores."
 
- #USA Events - News
- ## Al Gore - 2000
+ #USA Events-News
+ ## Al Gore-2000
  usa_news.7.t: "A América escolhe o Status Quo"
  usa_news.7.d: "Várias discussões se tornaram públicas nas últimas semanas em todos os Estados Unidos da América. Essas discussões visavam principalmente o sistema político atual e o processo político de eleições, exigindo um sistema reformado ou até desmantelado.\n\nAgora, a resposta do O governo americano parece bastante claro: nada mudará. Os democratas e os republicanos continuarão no poder e em conflito entre si. [USA.GetLeader] considerou o sistema satisfatório quando questionado por um jornalista. "
  usa_news.7.o1: "A América será a América."
  usa_news.8.t: "Os Estados Unidos abraçam a reforma"
- usa_news.8.d: "Dando legitimidade a inúmeras reclamações sobre o processo político nos Estados Unidos, a decisão [USA.GetRulingParty] anunciou hoje que o sistema político seria totalmente reformado para rejuvenescer a economia e também os dois partidos no poder.\n\n\ "Complacência é a morte da democracia. \", Como [USA.GetLeader] colocou em um discurso inovador sobre o processo democrático nacional. "
+ usa_news.8.d: "Dando legitimidade a inúmeras reclamações sobre o processo político nos Estados Unidos, a decisão [USA.GetRulingParty] anunciou hoje que o sistema político seria totalmente reformado para rejuvenescer a economia e também os dois partidos no poder.\n\n\"Complacência é a morte da democracia.\", Como [USA.GetLeader] colocou em um discurso inovador sobre o processo democrático nacional. "
  usa_news.8.o1: "Será que o sistema americano vai cair?"
  usa_news.9.t: "O Espírito de Revolução nos Estados Unidos"
- usa_news.9.d: "\" O sistema atual é totalmente inaceitável. O povo e o estado-nação estão sendo destruídos pelos pântanos da política e dos oligarcas econômicos e pelos bastidores que dirigem nosso país das sombras. \ "\n\n[USA.GetLeader], Presidente dos Estados Unidos, hoje causou muitas sobrancelhas levantadas ao fazer um discurso retórico sobre o processo político que um especialista da Fox News chamou de 'desequilibrado' e que foi insultado como 'não-presidencial e completamente sem precedentes' por um palestrante da rede CNN.\n\nNo entanto, é ainda não está claro se [USA.GetLeader] estava defendendo uma virada radical para a extrema direita e o \ "estado-nação \" ou para a extrema esquerda e o \ "povo \". "
+ usa_news.9.d: "\" O sistema atual é totalmente inaceitável. O povo e o estado-nação estão sendo destruídos pelos pântanos da política e dos oligarcas econômicos e pelos bastidores que dirigem nosso país das sombras.\"\n\n[USA.GetLeader], Presidente dos Estados Unidos, hoje causou muitas sobrancelhas levantadas ao fazer um discurso retórico sobre o processo político que um especialista da Fox News chamou de 'desequilibrado' e que foi insultado como 'não-presidencial e completamente sem precedentes' por um palestrante da rede CNN.\n\nNo entanto, é ainda não está claro se [USA.GetLeader] estava defendendo uma virada radical para a extrema direita e o\"estado-nação\" ou para a extrema esquerda e o\"povo\". "
  usa_news.9.o1: "Que inesperado."
  usa_news.18.t: "Bombardeio USS Cole"
  usa_news.18.d: "O Comando Naval dos Estados Unidos informou que o Destroyer USS Cole foi atacado pela rede Al-Qaeda, matando 17 militares americanos. Relatórios da inteligência americana apontam o governo do Sudão como um possível apoiador dos dois atacantes."
@@ -1020,7 +1020,7 @@ l_english:
  usa_economic_events_news.2.b: "Isso está ficando ainda mais preocupante"
  usa_economic_events_news.2.c: "Patético"
 
- usa_economic_events_news.3.t: "Bear Stearns - JPMorgan Chase Merger"
+ usa_economic_events_news.3.t: "Bear Stearns-JPMorgan Chase Merger"
  usa_economic_events_news.3.d1: "O clima financeiro atual fez com que algumas empresas ficassem intrinsecamente preocupadas. Uma delas seria o Bear Stearns e o JPMorgan Chase. A equipe executiva do JPMorgan afirma que a melhor jogada para ambas as empresas é uma fusão patrocinada pelo governo entre as duas empresas.\nO Federal Reserve respondeu hoje colocando o Bear Stearns sob os cuidados do governo dos Estados Unidos. É outra empresa na lista de empresas estatais dos Estados Unidos. O processo de nacionalização exigiu cerca de US $ 50 bilhões para manter a empresa vacilante à tona. "
  usa_economic_events_news.3.d2: "O clima financeiro atual fez com que algumas empresas ficassem intrinsecamente preocupadas. Uma delas seria o Bear Stearns e o JPMorgan Chase. A equipe executiva do JPMorgan afirma que a melhor jogada para ambas as empresas é uma fusão patrocinada pelo governo entre as duas empresas.\nO Federal Reserve respondeu hoje autorizando a fusão entre o JPMorgan Chase e o Bear Stearns. Foi contabilizado e apoiado por um resgate de cerca de US $ 30 bilhões para garantir a estabilidade fiscal do JPMorgan enquanto eles assumiam o Bear Stearns.\n"
  usa_economic_events_news.3.d3: "O clima financeiro atual fez com que algumas empresas ficassem intrinsecamente preocupadas. Uma delas seria o Bear Stearns e o JPMorgan Chase. A equipe executiva do JPMorgan afirma que a melhor jogada para ambas as empresas é uma fusão patrocinada pelo governo entre as duas empresas.\nO Federal Reserve respondeu hoje negando a fusão. Cita-se que a fusão concederia ao JPMorgan Chase uma quantidade cada vez maior de poder de mercado. O Bear Stearns está procurando freneticamente outras fontes de receita e estabilização.\n"
@@ -1057,7 +1057,7 @@ l_english:
  donald_trump.1002.a: "A violência não é a solução"
 
  rio_pact_event.2.t: "Membro do Pacto RIO atacado"
- rio_pact_event.2.d: "O Tratado Interamericano de Assistência Recíproca (comumente conhecido como Pacto do Rio) foi um acordo firmado em 1947 no Rio de Janeiro entre vários países das Américas. O princípio central contido em seus artigos é que §Ataque contra um inimigo é para ser considerado um ataque contra todos eles§!; isso era conhecido como a doutrina de \ "defesa hemisférica \". O tratado foi inicialmente criado em 1947 e entrou em vigor em 1948, de acordo com o artigo 22 do tratado. As Bahamas eram o país mais recente a assiná-lo e ratificá-lo em 1982. "
+ rio_pact_event.2.d: "O Tratado Interamericano de Assistência Recíproca (comumente conhecido como Pacto do Rio) foi um acordo firmado em 1947 no Rio de Janeiro entre vários países das Américas. O princípio central contido em seus artigos é que §Ataque contra um inimigo é para ser considerado um ataque contra todos eles§!; isso era conhecido como a doutrina de\"defesa hemisférica\". O tratado foi inicialmente criado em 1947 e entrou em vigor em 1948, de acordo com o artigo 22 do tratado. As Bahamas eram o país mais recente a assiná-lo e ratificá-lo em 1982. "
  rio_pact_event.2.a: "Intervir"
  rio_pact_event.2.b: "Tratado Desatualizado"
 
@@ -1093,44 +1093,44 @@ l_english:
  USA_FOCUS.4.d: "A Brigada S em Ancara, na Turquia, ajudará a reforçar a posição de nossos aliados devido ao aumento das tensões. O conflito no Mar Negro e no Oriente Médio lentamente exigiu que a OTAN se comprometesse mais com a região.\n\nÉ hora de implantar o Brigada S à Turquia para honrar nossa obrigação de apoiar nosso aliado.\n"
  USA_FOCUS.4.a: "Desenvolver a Brigada S"
 
- USA_Cabinet_picks.0.t: "O Gabinete Trump - Secretário de Estado"
+ USA_Cabinet_picks.0.t: "O Gabinete Trump-Secretário de Estado"
  USA_Cabinet_picks.0.d: "Após a posse do [USA.GetLeader], é hora de escolher o Gabinete para o Presidente Eleito. As escolhas que o presidente faz podem alterar muito a maneira como o país e o presidente tomam decisões importantes durante a presidência de Trump.\n\nO Secretário de Estado é a versão dos Estados Unidos do Ministro das Relações Exteriores de outros países. Sua principal preocupação são as Relações Exteriores.\nQual candidato será o próximo Secretário de Estado?\n"
  USA_Cabinet_picks.0.a: "Rex Tillerson é a escolha óbvia"
  USA_Cabinet_picks.0.b: "Rudy Giuliani"
  USA_Cabinet_picks.0.c: "Mitt Romney, o 'pântano'"
  USA_Cabinet_picks.0.e: "Alex Jones, a lenda"
 
- USA_Rex_Tillerson: "Secretário de Estado - Rex Tillerson"
- USA_Giuliani: "Secretário de Estado - Rudy Giuliani"
- USA_Romney: "Secretário de Estado - Mitt Romney"
- USA_Alex_Jones: "Secretário de Estado - Alex Jones"
- USA_Tillerson_EFFECT: "Secretário de Estado - Rex Tillerson"
+ USA_Rex_Tillerson: "Secretário de Estado-Rex Tillerson"
+ USA_Giuliani: "Secretário de Estado-Rudy Giuliani"
+ USA_Romney: "Secretário de Estado-Mitt Romney"
+ USA_Alex_Jones: "Secretário de Estado-Alex Jones"
+ USA_Tillerson_EFFECT: "Secretário de Estado-Rex Tillerson"
 
- USA_Cabinet_picks.1.t: "O Gabinete Trump - Secretário de Defesa"
+ USA_Cabinet_picks.1.t: "O Gabinete Trump-Secretário de Defesa"
  USA_Cabinet_picks.1.d: "Após a posse de [USA.GetLeader], é hora de escolher o Gabinete para o Presidente Eleito. As escolhas que o presidente faz podem alterar muito a forma como o país e o presidente tomam decisões importantes durante o curso da presidência de Trump.\n\nO Secretário de Defesa dos Estados Unidos mantém e regulamenta as Forças Armadas nos Estados Soberanos.\nQual candidato será o próximo Secretário de Estado?\n\nO general James 'Mad Dog' Mattis é conhecido pela OTAN e por nossos não pertencentes à OTAN aliados. Escolhê-lo para ser nosso secretário de defesa é lógico e popular entre nossos aliados. No entanto, escolher o tenente-general Mike Flynn nos dará alguma popularidade com alguns novos amigos.\n"
  USA_Cabinet_picks.1.a: "General James 'Mad Dog' Mattis é a escolha lógica"
  USA_Cabinet_picks.1.b: "Tenente-general Mike Flynn é muito melhor"
 
- USA_Mattis: "Secretário de Defesa - General Jame Mattis"
- USA_Mike_Flynn: "Secretário de Defesa - Tenente-General Mike Flynn"
+ USA_Mattis: "Secretário de Defesa-General Jame Mattis"
+ USA_Mike_Flynn: "Secretário de Defesa-Tenente-General Mike Flynn"
  USA_Flynn_EFFECT: "Tenente General Flynn"
  USA_Mattis_EFFECT: "Secretário de Defesa de Confiança"
 
- USA_Cabinet_picks.2.t: "O Gabinete Trump - Procurador-Geral"
+ USA_Cabinet_picks.2.t: "O Gabinete Trump-Procurador-Geral"
  USA_Cabinet_picks.2.d: "Após a posse do [USA.GetLeader], é hora de escolher o Gabinete para o Presidente Eleito. As escolhas que o presidente faz podem alterar muito a maneira como o país e o presidente tomam decisões importantes durante a presidência de Trump.\n\nO Procurador-Geral dos Estados Unidos é o chefe do Departamento de Justiça e é o advogado-chefe do Governo Federal dos Estados Unidos.\n"
  USA_Cabinet_picks.2.a: "O senador Jeff Sessions é o cara"
  USA_Cabinet_picks.2.b: "Kris Kobach para Procurador-Geral!"
 
- USA_Sessions: "Procurador-Geral - Jeff Sessions"
- USA_Kris_Kobac: "Procurador-Geral - Kris Kobach"
+ USA_Sessions: "Procurador-Geral-Jeff Sessions"
+ USA_Kris_Kobac: "Procurador-Geral-Kris Kobach"
 
- USA_Cabinet_picks.3.t: "O Gabinete Trump - Chefe de Gabinete da Casa Branca"
+ USA_Cabinet_picks.3.t: "O Gabinete Trump-Chefe de Gabinete da Casa Branca"
  USA_Cabinet_picks.3.d: "Após a posse de [USA.GetLeader], é hora de escolher o Gabinete para o Presidente Eleito. As escolhas que o presidente faz podem alterar muito a forma como o país e o presidente tomam decisões importantes durante o curso da presidência de Trump.\n\nO Chefe de Gabinete da Casa Branca é o membro mais graduado do Gabinete Executivo e um assessor sênior do Presidente.\n"
  USA_Cabinet_picks.3.a: "Reince Priebus é bom"
  USA_Cabinet_picks.3.b: "Steve Bannon é o Homem para o Trabalho"
 
- USA_Priebus: "Chefe de Gabinete da Casa Branca - Reince Preibus"
- USA_Bannon: "Chefe de Gabinete da Casa Branca - Steve Bannon"
+ USA_Priebus: "Chefe de Gabinete da Casa Branca-Reince Preibus"
+ USA_Bannon: "Chefe de Gabinete da Casa Branca-Steve Bannon"
 
  USA_Repeal_Obama_Care.0.t: "Lei de Reconciliação Better Care de 2017"
  USA_Repeal_Obama_Care.0.d: "O projeto do Senado se chama Better Care Reconciliation Act de 2017. As diferenças do projeto em relação ao projeto da Câmara refletiam opiniões divergentes dentro do caucus republicano. A eliminação da expansão do Medicaid seria mais gradual, mas o financiamento do Medicaid como estava antes que a ACA fosse reduzida.\nA própria decisão será boa para o americano "
@@ -1201,7 +1201,7 @@ l_english:
  USA_open_public_lands_to_fracking: "Abrir Terras Públicas ao Fracking"
  USA_open_public_lands_to_fracking_desc: "Agora que a burocracia finalmente acabou. Terras federais estão maduras para a colheita para expansão industrial e exploração de petróleo. O petróleo deve fluir.\nEm um esforço para também continuar abrindo terras públicas para fraturamento de petróleo. Aumentamos o subsídio somam cerca de US $ 10 bilhões de dólares por nossa independência energética.\n"
  #Immigration Stuff
- USA_end_catch_and_release_policy: "Fim \" Pegar e Liberar \ "Política"
+ USA_end_catch_and_release_policy: "Fim\" Pegar e Liberar\"Política"
  USA_increase_border_security: "Aumentar a segurança nas fronteiras"
  USA_stop_the_caravans: "Pare as caravanas"
  USA_stop_the_caravans_desc: "Caravanas de imigrantes ilegais estão fluindo pelo México e invadindo nossa fronteira sul. Realmente devemos continuar nosso caminho e parar com isso!"
@@ -1477,7 +1477,7 @@ l_english:
  donald_trump.26.o1: "Lançar!"
 
  donald_trump.27.t: "Moonbase Alpha"
- donald_trump.27.d: "Nossos cientistas e engenheiros pousaram oficialmente na Lua e estão atualmente no processo de criação da base lunar. Cada seção é dividida em \" módulos \ ", não exatamente edifícios por conta própria, mas não juntos como um só. Existe um módulo de habitação, para descanso, módulo de alimentação, para cultivo de alimentos, módulo de laboratório, que é o maior com a maioria dos equipamentos científicos, um módulo de manutenção, contendo todas as ferramentas de manutenção para consertar as coisas se quebrarem, um módulo de amenities , já que essas pessoas ficam aqui por 6 meses e trabalhar o dia todo, todos os dias, não é bom para a mente, e alguns painéis solares.\n\nAs entregas de alimentos serão comuns nestes primeiros meses, pois leva tempo para cultivar alimentos. Água e oxigênio serão obtidos através do gelo lunar. Por último, esses cientistas ficarão até pouco depois de se mudarem para o próximo local em aproximadamente 6 meses, quando os painéis solares ficarem extintos devido ao dia lunar e à noite onde o posto avançado está localizado dura 6 meses.\n\nMoonbase Alpha i está completo. "
+ donald_trump.27.d: "Nossos cientistas e engenheiros pousaram oficialmente na Lua e estão atualmente no processo de criação da base lunar. Cada seção é dividida em\" módulos\", não exatamente edifícios por conta própria, mas não juntos como um só. Existe um módulo de habitação, para descanso, módulo de alimentação, para cultivo de alimentos, módulo de laboratório, que é o maior com a maioria dos equipamentos científicos, um módulo de manutenção, contendo todas as ferramentas de manutenção para consertar as coisas se quebrarem, um módulo de amenities , já que essas pessoas ficam aqui por 6 meses e trabalhar o dia todo, todos os dias, não é bom para a mente, e alguns painéis solares.\n\nAs entregas de alimentos serão comuns nestes primeiros meses, pois leva tempo para cultivar alimentos. Água e oxigênio serão obtidos através do gelo lunar. Por último, esses cientistas ficarão até pouco depois de se mudarem para o próximo local em aproximadamente 6 meses, quando os painéis solares ficarem extintos devido ao dia lunar e à noite onde o posto avançado está localizado dura 6 meses.\n\nMoonbase Alpha i está completo. "
  donald_trump.27.o1: "Ciência!"
 
  donald_trump.28.t: "Progresso de Colônia"
@@ -1485,7 +1485,7 @@ l_english:
  donald_trump.28.o1: "Somos bons em ser pioneiros"
 
  donald_trump.29.t: "Crise na Lua"
- donald_trump.29.d: "Medidas drásticas precisam ser tomadas imediatamente. Por razões atualmente desconhecidas, o módulo de habitação se rompeu e \" explodiu. \ "\n\nUma hora atrás, todos os 12 cientistas estavam cumprindo suas obrigações quando, de repente, houve uma ruptura massiva no módulo de habitação.\n\nComo as ondas não viajam no vácuo, a maioria não percebeu até que viu fisicamente o que havia acontecido.\n\nHá um fundo de emergência como parte do orçamento, então aqui não há necessidade de alocar mais recursos para o projeto, e os cientistas sempre podem dormir nos outros módulos isolados; no entanto, isso assustou muitos, afirmando que alguns, muitos, ou mesmo todos os nossos cientistas poderiam ter morrido, e também abaixou o moral dos cientistas, pois eles poderiam ter morrido. Portanto, tentar continuar o posto avançado na Lua será politicamente caro, e uma rotação de cientistas pode precisar acontecer agora, em vez de mais tarde, devido ao enfraquecimento do moral.\n\nO que devemos fazer? "
+ donald_trump.29.d: "Medidas drásticas precisam ser tomadas imediatamente. Por razões atualmente desconhecidas, o módulo de habitação se rompeu e\" explodiu.\"\n\nUma hora atrás, todos os 12 cientistas estavam cumprindo suas obrigações quando, de repente, houve uma ruptura massiva no módulo de habitação.\n\nComo as ondas não viajam no vácuo, a maioria não percebeu até que viu fisicamente o que havia acontecido.\n\nHá um fundo de emergência como parte do orçamento, então aqui não há necessidade de alocar mais recursos para o projeto, e os cientistas sempre podem dormir nos outros módulos isolados; no entanto, isso assustou muitos, afirmando que alguns, muitos, ou mesmo todos os nossos cientistas poderiam ter morrido, e também abaixou o moral dos cientistas, pois eles poderiam ter morrido. Portanto, tentar continuar o posto avançado na Lua será politicamente caro, e uma rotação de cientistas pode precisar acontecer agora, em vez de mais tarde, devido ao enfraquecimento do moral.\n\nO que devemos fazer? "
  donald_trump.29.o1: "Envie ajuda de emergência!"
  donald_trump.29.o2: "Abandone o projeto. Não é para nós"
 
@@ -1494,7 +1494,7 @@ l_english:
  donald_trump.30.o1: "A vida continua"
 
  donald_trump.31.t: "Outra crise na lua"
- donald_trump.31.d: "Medidas mais drásticas precisam ser tomadas agora. Mais dois módulos foram interrompidos. Desta vez, são os módulos Alimentos e Amenidades.\n\nHá cerca de quarenta minutos, um cientista estava prestes a entrar no módulo Alimentos quando ele explodiu de repente. O cientista está bem e ninguém, exceto as plantas, foi ferido. No entanto, era adjacente ao módulo Amenidades e o fez se romper e explodir. Novamente, ninguém se feriu.\n\nEsta nova ocorrência, no entanto, levantou a cabeça de muitos em casa, questionando a segurança dos módulos. Após a explosão anterior, a NASA substituiu os módulos, garantindo que eles não explodissem, mas parece que a pressão prolongada pode fazer algo quebrar muito mais facilmente do que seria de outra forma. A NASA já respondeu rapidamente, ordenando que novos módulos sejam feitos imediatamente, bem como uma inspeção cuidadosa de todos os módulos atuais (como você não pode \ "lembrar \" módulos da Lua neste momento).\n\nCom o aumento da pressão em casa para parar de avançar com o projeto até todas as questões de segurança estão resolvidas, a continuação do programa Moonbase entra em questão. Além da resistência política, o fundo de emergência foi cortado pela metade, então a NASA está solicitando outros US $ 5 bilhões para resolver preocupações futuras. É sua escolha continuar. "
+ donald_trump.31.d: "Medidas mais drásticas precisam ser tomadas agora. Mais dois módulos foram interrompidos. Desta vez, são os módulos Alimentos e Amenidades.\n\nHá cerca de quarenta minutos, um cientista estava prestes a entrar no módulo Alimentos quando ele explodiu de repente. O cientista está bem e ninguém, exceto as plantas, foi ferido. No entanto, era adjacente ao módulo Amenidades e o fez se romper e explodir. Novamente, ninguém se feriu.\n\nEsta nova ocorrência, no entanto, levantou a cabeça de muitos em casa, questionando a segurança dos módulos. Após a explosão anterior, a NASA substituiu os módulos, garantindo que eles não explodissem, mas parece que a pressão prolongada pode fazer algo quebrar muito mais facilmente do que seria de outra forma. A NASA já respondeu rapidamente, ordenando que novos módulos sejam feitos imediatamente, bem como uma inspeção cuidadosa de todos os módulos atuais (como você não pode\"lembrar\" módulos da Lua neste momento).\n\nCom o aumento da pressão em casa para parar de avançar com o projeto até todas as questões de segurança estão resolvidas, a continuação do programa Moonbase entra em questão. Além da resistência política, o fundo de emergência foi cortado pela metade, então a NASA está solicitando outros US $ 5 bilhões para resolver preocupações futuras. É sua escolha continuar. "
  donald_trump.31.o1: "Envie mais ajuda de emergência!"
  donald_trump.31.o2: "Não podemos continuar fazendo coisas assim"
 
@@ -1531,21 +1531,21 @@ l_english:
 
  #Noticias & Eventos
  donald_trump_news.0.t: "Os EUA suspendem a guerra contra o ISIS"
- donald_trump_news.0.d: "Em um surpreendente comunicado à imprensa da Casa Branca, o governo Trump anunciou a retirada das forças dos EUA da luta contra o ISIS. Donald Trump tuitou sobre o assunto, chamando o ISIS de um \" grupo terrorista morto \ "e que \" as tropas americanas se concentrarão sobre outras coisas. \ "Os apoiadores consideram essa medida necessária para limitar gastos desnecessários, enquanto a oposição afirma que isso só piorará a situação do terrorismo. Os especialistas acreditam que isso incentivará o ISIS a assumir uma postura ofensiva contra seus vizinhos, à medida que ela reúne mais combatentes no Iraque e na Síria. O governo não fez nenhum comentário a essa crítica até agora. "
+ donald_trump_news.0.d: "Em um surpreendente comunicado à imprensa da Casa Branca, o governo Trump anunciou a retirada das forças dos EUA da luta contra o ISIS. Donald Trump tuitou sobre o assunto, chamando o ISIS de um\" grupo terrorista morto\"e que\" as tropas americanas se concentrarão sobre outras coisas.\"Os apoiadores consideram essa medida necessária para limitar gastos desnecessários, enquanto a oposição afirma que isso só piorará a situação do terrorismo. Os especialistas acreditam que isso incentivará o ISIS a assumir uma postura ofensiva contra seus vizinhos, à medida que ela reúne mais combatentes no Iraque e na Síria. O governo não fez nenhum comentário a essa crítica até agora. "
  donald_trump_news.0.o1: "O trabalho foi feito"
  donald_trump_news.0.o2: "Devemos lutar contra o terror por conta própria agora?"
  donald_trump_news.0.o3: "Isso é um alívio"
  donald_trump_news.0.o4: "Interessante"
 
  donald_trump_news.1.t: "EUA ampliam guerra contra ISIS"
- donald_trump_news.1.d: "Anunciando em um tweet esta manhã, Donald Trump afirmou que \" O ISIS enfrentará uma guerra como nunca antes vista. \ "Seus tweets vêm após uma curta reunião com o pessoal militar dos EUA, provavelmente detalhando os planos das campanhas do ISIS. conferência de imprensa hoje cedo, o correspondente do WNN, Michael Miller, perguntou ao presidente \ "Quais são os planos atuais para as intenções americanas contra o ISIS? pessoas, acredite em mim. Quer dizer, você viu aquelas pessoas? Eles vão voar para a Síria e bombardear o inferno fora do ISIS. Acredite em mim, você nunca terá visto nada parecido antes. \ "Especialistas alertam que esse plano é caro, mas o presidente é inflexível sobre seus planos para o ISIS. Detalhes adicionais serão divulgados em breve sobre o assunto."
+ donald_trump_news.1.d: "Anunciando em um tweet esta manhã, Donald Trump afirmou que\" O ISIS enfrentará uma guerra como nunca antes vista.\"Seus tweets vêm após uma curta reunião com o pessoal militar dos EUA, provavelmente detalhando os planos das campanhas do ISIS. conferência de imprensa hoje cedo, o correspondente do WNN, Michael Miller, perguntou ao presidente\"Quais são os planos atuais para as intenções americanas contra o ISIS? pessoas, acredite em mim. Quer dizer, você viu aquelas pessoas? Eles vão voar para a Síria e bombardear o inferno fora do ISIS. Acredite em mim, você nunca terá visto nada parecido antes.\"Especialistas alertam que esse plano é caro, mas o presidente é inflexível sobre seus planos para o ISIS. Detalhes adicionais serão divulgados em breve sobre o assunto."
  donald_trump_news.1.o1: "Somos fortes diante do mal"
  donald_trump_news.1.o2: "Isso é um alívio"
  donald_trump_news.1.o3: "Uh Oh ..."
  donald_trump_news.1.o4: "Interessante"
 
  donald_trump_news.2.t: "EUA lança iniciativa de mineração de asteróides"
- donald_trump_news.2.d: "Donald Trump, hoje cedo, anunciou a Iniciativa de Mineração de Asteróides. Esta organização \" procurará procurar um asteróide, trazê-lo para a órbita da Terra, minerá-lo e enviar seus recursos de volta para os EUA. \ "Muitos duvidam disso. poderia ser lucrativo, já que os imensos custos consumirão grande parte do orçamento da NASA, no entanto, o presidente expressou seu desejo de que empresas espaciais privadas façam parte do trabalho. Um favorito em particular, SpaceX, foi apontado diretamente em seu discurso sobre o AMI, afirmando \ "Pessoas inteligentes, e cara, temos algumas pessoas inteligentes, como meu bom amigo da SpaceX, Elon Musk, serão capazes de enviar seu equipamento de mineração espacial para o asteróide, extraí-lo e vendê-lo para obter lucro. Será um negócio tremendo, acredite em mim. \ "Há sérias preocupações com a mineração de asteróides, no entanto, o governo as tem desconsiderado, focando nas recompensas do projeto. Se isso for bem-sucedido ou não, o tempo dirá. "
+ donald_trump_news.2.d: "Donald Trump, hoje cedo, anunciou a Iniciativa de Mineração de Asteróides. Esta organização\" procurará procurar um asteróide, trazê-lo para a órbita da Terra, minerá-lo e enviar seus recursos de volta para os EUA.\"Muitos duvidam disso. poderia ser lucrativo, já que os imensos custos consumirão grande parte do orçamento da NASA, no entanto, o presidente expressou seu desejo de que empresas espaciais privadas façam parte do trabalho. Um favorito em particular, SpaceX, foi apontado diretamente em seu discurso sobre o AMI, afirmando\"Pessoas inteligentes, e cara, temos algumas pessoas inteligentes, como meu bom amigo da SpaceX, Elon Musk, serão capazes de enviar seu equipamento de mineração espacial para o asteróide, extraí-lo e vendê-lo para obter lucro. Será um negócio tremendo, acredite em mim.\"Há sérias preocupações com a mineração de asteróides, no entanto, o governo as tem desconsiderado, focando nas recompensas do projeto. Se isso for bem-sucedido ou não, o tempo dirá. "
  donald_trump_news.2.o1: "Espaço!"
  donald_trump_news.2.o2: "Talvez pudéssemos expandir para isso ..."
  donald_trump_news.2.o3: "Interessante"
@@ -1557,18 +1557,18 @@ l_english:
  donald_trump_news.3.o3: "Interessante"
 
  donald_trump_news.4.t: "NASA planeja missão tripulada a Marte"
- donald_trump_news.4.d: "A NASA anunciou que enviará uma missão tripulada a Marte dentro de três anos. Este anúncio recente entusiasmou muitos, e o entusiasmo pelo espaço está em alta. Este anúncio recente vem após os tweets de Trump sobre que ele quer \" Americanos no espaço novamente. \ "Este novo anúncio também segue um aumento no orçamento para a NASA, para fornecer o capital para chegar a Marte. Parece que tudo está progredindo rapidamente no espaço."
+ donald_trump_news.4.d: "A NASA anunciou que enviará uma missão tripulada a Marte dentro de três anos. Este anúncio recente entusiasmou muitos, e o entusiasmo pelo espaço está em alta. Este anúncio recente vem após os tweets de Trump sobre que ele quer\" Americanos no espaço novamente.\"Este novo anúncio também segue um aumento no orçamento para a NASA, para fornecer o capital para chegar a Marte. Parece que tudo está progredindo rapidamente no espaço."
  donald_trump_news.4.o1: "Nós devemos ir!"
  donald_trump_news.4.o2: "Emocionante"
 
  donald_trump_news.5.t: "SpaceX anuncia corrida espacial com NASA"
- donald_trump_news.5.d: "Parece que Elon Musk nunca quer ser derrotado. Não faz muito tempo, Donald Trump anunciou seus desejos de uma missão tripulada a Marte com a NASA em dois anos. Elon Musk, hoje, anunciou que ele também será chegando a Marte, antes da NASA. Esta nova \ "corrida espacial \" entre a NASA pública e a SpaceX privada, ambas organizações americanas, deixou as pessoas se perguntando: quem vai prevalecer?\n\nElon Musk pretende usar sua nova nave espacial e superpesada impulsionador para levar as pessoas a Marte. Este novo foguete é enorme, mas não tão grande quanto o Sistema de Lançamento Espacial da NASA. Pode-se esperar que ambas as organizações acelerem enquanto correm para levar a humanidade aos lugares mais distantes que a humanidade já alcançou. "
+ donald_trump_news.5.d: "Parece que Elon Musk nunca quer ser derrotado. Não faz muito tempo, Donald Trump anunciou seus desejos de uma missão tripulada a Marte com a NASA em dois anos. Elon Musk, hoje, anunciou que ele também será chegando a Marte, antes da NASA. Esta nova\"corrida espacial\" entre a NASA pública e a SpaceX privada, ambas organizações americanas, deixou as pessoas se perguntando: quem vai prevalecer?\n\nElon Musk pretende usar sua nova nave espacial e superpesada impulsionador para levar as pessoas a Marte. Este novo foguete é enorme, mas não tão grande quanto o Sistema de Lançamento Espacial da NASA. Pode-se esperar que ambas as organizações acelerem enquanto correm para levar a humanidade aos lugares mais distantes que a humanidade já alcançou. "
  donald_trump_news.5.o1: "Espere o que!?"
  donald_trump_news.5.o2: "Público x Privado? Não há competição"
  donald_trump_news.5.o3: "Os americanos estão competindo entre si novamente ..."
 
  donald_trump_news.6.t: "Foguete da NASA para Marte explode no lançamento!"
- donald_trump_news.6.d: "QUEBRANDO: Após uma fase de desenvolvimento muito rápida, o Sistema de Lançamento Espacial explodiu na plataforma de lançamento. Apesar das medidas de segurança em vigor, todos os seis tripulantes também morreram, aumentando esta já terrível falha de lançamento.\n\nTrump fez comentários para a tragédia, declarando no Twitter: \ "Apesar dos melhores esforços de nossos maravilhosos cientistas e engenheiros da NASA, o novo foguete explodiu na plataforma de lançamento. Os padrões de segurança atuais não foram suficientes para proteger a vida dos seis astronautas que foram perdidos naquele dia. Continuaremos nossos esforços no Espaço, no entanto, com muito mais cuidado com as vidas dos americanos. \ "\n\nO fracasso em si é creditado a ..."
+ donald_trump_news.6.d: "QUEBRANDO: Após uma fase de desenvolvimento muito rápida, o Sistema de Lançamento Espacial explodiu na plataforma de lançamento. Apesar das medidas de segurança em vigor, todos os seis tripulantes também morreram, aumentando esta já terrível falha de lançamento.\n\nTrump fez comentários para a tragédia, declarando no Twitter:\"Apesar dos melhores esforços de nossos maravilhosos cientistas e engenheiros da NASA, o novo foguete explodiu na plataforma de lançamento. Os padrões de segurança atuais não foram suficientes para proteger a vida dos seis astronautas que foram perdidos naquele dia. Continuaremos nossos esforços no Espaço, no entanto, com muito mais cuidado com as vidas dos americanos.\"\n\nO fracasso em si é creditado a ..."
  donald_trump_news.6.o1: "Quais são as chances"
  donald_trump_news.6.o2: "Talvez não se apresse?"
 
@@ -1578,17 +1578,17 @@ l_english:
  donald_trump_news.7.o2: "Os americanos precisam de espaço, não é?"
 
  donald_trump_news.8.t: "SpaceX Lands Manned Mission on Mars First!"
- donald_trump_news.8.d: "Em uma surpresa chocante para o mundo, a SpaceX, um empreendimento espacial privado liderado por Elon Musk, pousou em Marte antes da NASA do governo dos EUA. Mais entusiasmo envolve a SpaceX do que nunca, conforme a popularidade pessoal de Elon Musk dispara. Esse sucesso causou impacto A outra empresa de Elon Musk também, a Tesla, que teve um pequeno aumento nas vendas e no estoque.\n\nDonald Trump comentou sobre o assunto, parabenizando Elon Musk e a SpaceX por sua realização, acrescentando que \ "Isso mostra que as empresas privadas podem fazer melhor do que o governo! \ "A iniciativa de Donald Trump para o espaço pode ter contribuído para chegar a Marte tão cedo, no entanto, muitos dizem que a SpaceX, a Blue Origin e a NASA ambicionavam Marte. Não importa quem chegue primeiro em Marte, permanece que este é um grande salto para a humanidade. "
+ donald_trump_news.8.d: "Em uma surpresa chocante para o mundo, a SpaceX, um empreendimento espacial privado liderado por Elon Musk, pousou em Marte antes da NASA do governo dos EUA. Mais entusiasmo envolve a SpaceX do que nunca, conforme a popularidade pessoal de Elon Musk dispara. Esse sucesso causou impacto A outra empresa de Elon Musk também, a Tesla, que teve um pequeno aumento nas vendas e no estoque.\n\nDonald Trump comentou sobre o assunto, parabenizando Elon Musk e a SpaceX por sua realização, acrescentando que\"Isso mostra que as empresas privadas podem fazer melhor do que o governo!\"A iniciativa de Donald Trump para o espaço pode ter contribuído para chegar a Marte tão cedo, no entanto, muitos dizem que a SpaceX, a Blue Origin e a NASA ambicionavam Marte. Não importa quem chegue primeiro em Marte, permanece que este é um grande salto para a humanidade. "
  donald_trump_news.8.o1: "EUA!"
  donald_trump_news.8.o2: "Os americanos ganharam contra si mesmos, de novo ..."
 
  donald_trump_news.9.t: "EUA lança posto avançado na lua"
- donald_trump_news.9.d: "Ealier hoje, o presidente Trump anunciou que os EUA buscarão colocar postos avançados na Lua para coletar dados científicos. Este novo desenvolvimento não é uma surpresa, pois o presidente vem sugerindo isso há semanas. Quando questionado na Casa Branca conferência de imprensa hoje sobre se isso levará à colonização, Trump respondeu: "Podemos colonizar a Lua, ou não. Depende muito. \ "\n\nMuitos estão entusiasmados, alguns citam o potencial de mineração da Lua, alguns estão simplesmente animados com a perspectiva de viver na Lua. Não importa quem você seja, este é um momento emocionante."
+ donald_trump_news.9.d: "Ealier hoje, o presidente Trump anunciou que os EUA buscarão colocar postos avançados na Lua para coletar dados científicos. Este novo desenvolvimento não é uma surpresa, pois o presidente vem sugerindo isso há semanas. Quando questionado na Casa Branca conferência de imprensa hoje sobre se isso levará à colonização, Trump respondeu: "Podemos colonizar a Lua, ou não. Depende muito.\"\n\nMuitos estão entusiasmados, alguns citam o potencial de mineração da Lua, alguns estão simplesmente animados com a perspectiva de viver na Lua. Não importa quem você seja, este é um momento emocionante."
  donald_trump_news.9.o1: "Nosso alcance se expande ainda mais"
  donald_trump_news.9.o2: "Isso conta como imperialismo?"
 
  donald_trump_news.10.t: "EUA ampliam operações na lua"
- donald_trump_news.10.d: "O tempo para a base lunar atual, Moonbase Alpha, está quase no fim. Isso é o que um comunicado da NASA disse recentemente, junto com os planos para uma base lunar muito maior, chamada Moonbase Beta, para acomodar corporações oportunistas junto com o espaço expandido para cientistas e engenheiros para conduzir pesquisas. Elon disse sobre o assunto no Twitter que, \ "Moonbase Beta fornecerá tantas novas oportunidades não apenas para a SpaceX, mas para a humanidade como um todo. \" Uma pesquisa realizada hoje após o anúncio revelou que 74% de pessoas estão entusiasmadas com a exploração e colonização do espaço. Talvez seja por essa razão que outros governos estão considerando seus próprios planos para a Base Lunar. "
+ donald_trump_news.10.d: "O tempo para a base lunar atual, Moonbase Alpha, está quase no fim. Isso é o que um comunicado da NASA disse recentemente, junto com os planos para uma base lunar muito maior, chamada Moonbase Beta, para acomodar corporações oportunistas junto com o espaço expandido para cientistas e engenheiros para conduzir pesquisas. Elon disse sobre o assunto no Twitter que,\"Moonbase Beta fornecerá tantas novas oportunidades não apenas para a SpaceX, mas para a humanidade como um todo.\" Uma pesquisa realizada hoje após o anúncio revelou que 74% de pessoas estão entusiasmadas com a exploração e colonização do espaço. Talvez seja por essa razão que outros governos estão considerando seus próprios planos para a Base Lunar. "
  donald_trump_news.10.o1: "Progresso!"
  donald_trump_news.10.o2: "O que vem a seguir? Os Estados Unidos da Lua?"
 
@@ -1836,7 +1836,7 @@ l_english:
  asteroid_mining_first_mine_tt: "Isso definirá a Contagem de Minerais de Asteróides para 100; se chegar a 0, a mineração cessará até que mais asteróides sejam trazidos."
  asteroid_mining_opportunity_tt: "Seremos capazes de minerar asteróides\n"
 
- asteroid_mining_mined_tt: "Contagem de mineral de asteróide: §R - [? Asteroid_mining_rate | 0] §!\n"
+ asteroid_mining_mined_tt: "Contagem de mineral de asteróide: §R-[? Asteroid_mining_rate | 0] §!\n"
  asteroid_mining_revenue_tt: "Adicionar §Y $ [? Asteroid_mining_rate | 0] Bilhões§! Ao nosso Tesouro\n"
  asteroid_mining_not_enough_tt: "§RNão há minerais suficientes nos asteróides ao redor da Terra para fornecer sua receita de asteróides§!\n"
  asteroid_mining_small_asteroid_tt: "Contagem de mineral de asteróide: §G + 4§! Para §G + 10§!\nPoder político: §Y0§! Para §G + 15§!\nMove um pequeno asteróide na órbita da Terra\n"

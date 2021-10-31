@@ -18,7 +18,7 @@ l_english:
  MD_election_campaign_no_tt: "Sem efeito"
 
  MD4_election_campaign.2.t: "Campanha publicitária negativa contra a oposição, um fracasso"
- MD4_election_campaign.2.d: "Embora nossa enxurrada de anúncios tenha tido alguma eficácia inicial, a oposição, infelizmente, conseguiu rebatê-la com sucesso. Várias de nossas alegações se basearam, na melhor das hipóteses, em informações ruins, e o ultraje de algumas das alegações fez com que a opinião pública se voltasse contra [Root. GetLeader], com a conversa em vez de ser direcionada para \ "[Root.GetLeader] promessas não cumpridas e falta de substância \". "
+ MD4_election_campaign.2.d: "Embora nossa enxurrada de anúncios tenha tido alguma eficácia inicial, a oposição, infelizmente, conseguiu rebatê-la com sucesso. Várias de nossas alegações se basearam, na melhor das hipóteses, em informações ruins, e o ultraje de algumas das alegações fez com que a opinião pública se voltasse contra [Root. GetLeader], com a conversa em vez de ser direcionada para\"[Root.GetLeader] promessas não cumpridas e falta de substância\". "
  MD4_election_campaign.2.a: "Caramba!"
 
  MD4_election_campaign.3.t: "[Root.GetFascistParty] se recupera fortalecido de ataques"
@@ -30,11 +30,11 @@ l_english:
  MD4_election_campaign.4.a: "Caramba!"
 
  MD4_election_campaign.5.t: "Ataques negativos contra [Root.GetNeutralParty] não causam impacto"
- MD4_election_campaign.5.d: "Apesar de nossos melhores esforços, a opinião pública se voltou contra nossa campanha publicitária negativa contra o [Root.GetNeutralParty]. Especulamos que pode haver vários motivos, mas um dos principais pode ser que um político da estatura de [Root.GetLeader] mesmo dando a eles a atenção, eles eram vistos como \ "atacando para baixo \" e o aumento da atenção permitiu que eles alcançassem mais eleitores. "
+ MD4_election_campaign.5.d: "Apesar de nossos melhores esforços, a opinião pública se voltou contra nossa campanha publicitária negativa contra o [Root.GetNeutralParty]. Especulamos que pode haver vários motivos, mas um dos principais pode ser que um político da estatura de [Root.GetLeader] mesmo dando a eles a atenção, eles eram vistos como\"atacando para baixo\" e o aumento da atenção permitiu que eles alcançassem mais eleitores. "
  MD4_election_campaign.5.a: "Caramba!"
 
  MD4_election_campaign.6.t: "Ataques negativos contra [Root.GetCommunistParty] caem em ouvidos moucos"
- MD4_election_campaign.6.d: "Apesar de nossos melhores esforços, a opinião pública se voltou contra nossa campanha publicitária negativa contra o [Root.GetCommunistParty]. Especulamos que pode haver vários motivos, mas um dos principais pode ser que um político da estatura de [Root.GetLeader] mesmo dando a eles a atenção, eles eram vistos como \ "atacando para baixo \" e o aumento da atenção permitiu que eles alcançassem mais eleitores. "
+ MD4_election_campaign.6.d: "Apesar de nossos melhores esforços, a opinião pública se voltou contra nossa campanha publicitária negativa contra o [Root.GetCommunistParty]. Especulamos que pode haver vários motivos, mas um dos principais pode ser que um político da estatura de [Root.GetLeader] mesmo dando a eles a atenção, eles eram vistos como\"atacando para baixo\" e o aumento da atenção permitiu que eles alcançassem mais eleitores. "
  MD4_election_campaign.6.a: "Caramba!"
 
  MD4_election_campaign.7.t: "Ataques negativos contra [Root.GetDemocraticParty] saem pela culatra"
@@ -51,7 +51,7 @@ l_english:
  MD4_election_campaign.9.a: "Um impulso muito necessário para a campanha"
 
  MD4_election_campaign.10.t: "Desastre para a campanha de [Root.GetLeader]"
- MD4_election_campaign.10.d: "Com a maior participação da temporada de campanha, o palco para [Root.GetLeader] brilhar. Infelizmente, o polêmico co-orador convidado que pretendia aumentar o entusiasmo começou a rasgar o discurso que tínhamos preparado para ele, e, em vez disso, fez um longo discurso sobre os \ "fracassos de todas as administrações, incluindo este \", e fez um apelo aos jovens para \ "votarem com o coração ou ficarem em casa \"\n\nEscusado será dizer que este foi subsequentemente, teve grande rotação na mídia, com nossos oponentes assistindo alegremente. "
+ MD4_election_campaign.10.d: "Com a maior participação da temporada de campanha, o palco para [Root.GetLeader] brilhar. Infelizmente, o polêmico co-orador convidado que pretendia aumentar o entusiasmo começou a rasgar o discurso que tínhamos preparado para ele, e, em vez disso, fez um longo discurso sobre os\"fracassos de todas as administrações, incluindo este\", e fez um apelo aos jovens para\"votarem com o coração ou ficarem em casa\"\n\nEscusado será dizer que este foi subsequentemente, teve grande rotação na mídia, com nossos oponentes assistindo alegremente. "
  MD4_election_campaign.10.a: "Que fracasso!"
 
  election_coalition_won.0.t: "Eleições [Root.GetAdjective]: Coalizão governamental obtém maioria!"
@@ -107,11 +107,11 @@ l_english:
  News_MD4_election.2.a: "OK"
 
  News_MD4_election.2.t: "Eleição [From.GetAdjective]: Escândalo como [From.GetLeader] suspende eleições!"
- News_MD4_election.2.d: "No momento em que a oposição procurava vencer a eleição, [From.GetLeader] ([From.GetRulingIdeology]) suspendeu a contagem final dos votos e afirmou que \" a oposição havia conspirado com agentes estrangeiros hostis para roubar a eleição de o povo de [From.GetAdjective] \ "está aumentando a tensão em [From.GetName], pois [From.GetLeader] provavelmente liderará a nação por outro mandato sem um mandato democrático."
+ News_MD4_election.2.d: "No momento em que a oposição procurava vencer a eleição, [From.GetLeader] ([From.GetRulingIdeology]) suspendeu a contagem final dos votos e afirmou que\" a oposição havia conspirado com agentes estrangeiros hostis para roubar a eleição de o povo de [From.GetAdjective]\"está aumentando a tensão em [From.GetName], pois [From.GetLeader] provavelmente liderará a nação por outro mandato sem um mandato democrático."
  News_MD4_election.2.a: "OK"
 
  News_MD4_election.3.t: "Eleições controversas [From.GetAdjective]: [From.GetLeader] Relected"
- News_MD4_election.3.d: "[From.GetLeader] ([From.GetRulingIdeology]) venceu a eleição depois que uma recontagem foi realizada - a oposição não teve permissão para verificar os resultados de forma independente e alegou que foi tendenciosa e fraudada em favor de [From.GetLeader]. a primeira e original contagem - agora anulada, mostrou a oposição à frente por uma pequena margem. "
+ News_MD4_election.3.d: "[From.GetLeader] ([From.GetRulingIdeology]) venceu a eleição depois que uma recontagem foi realizada-a oposição não teve permissão para verificar os resultados de forma independente e alegou que foi tendenciosa e fraudada em favor de [From.GetLeader]. a primeira e original contagem-agora anulada, mostrou a oposição à frente por uma pequena margem. "
  News_MD4_election.3.a: "OK"
 
  coalition_complete.0.t: "Formado pelo governo"
@@ -149,17 +149,17 @@ l_english:
  coalition.2.b: "Devemos recusar gentilmente."
 
  coalition.3.t: "Negociações com [socialism_L] ([? Party_pop_elect_array ^ 3 |% 0])"
- coalition.3.d: "Caro [Root.GetLeader]. Embora estejamos relutantes em entrar em qualquer governo como parceiros juniores, os sindicatos não conseguiram nos empurrar para a linha de chegada nas eleições - desta vez. Portanto, há uma possibilidade de podermos considerar a ideia de aderir - se você se comprometer a promover os princípios vitais do progressismo e dos valores social-democratas. Como dizemos em [socialism_L], os valores social-democratas são para todos e insistimos que isso seja válido para o seu governo.\n\nA propósito, os impostos não são um pouco baixos? Tem certeza de que temos fundos suficientes para os aumentos da previdência social, educação e saúde que planejamos? "
+ coalition.3.d: "Caro [Root.GetLeader]. Embora estejamos relutantes em entrar em qualquer governo como parceiros juniores, os sindicatos não conseguiram nos empurrar para a linha de chegada nas eleições-desta vez. Portanto, há uma possibilidade de podermos considerar a ideia de aderir-se você se comprometer a promover os princípios vitais do progressismo e dos valores social-democratas. Como dizemos em [socialism_L], os valores social-democratas são para todos e insistimos que isso seja válido para o seu governo.\n\nA propósito, os impostos não são um pouco baixos? Tem certeza de que temos fundos suficientes para os aumentos da previdência social, educação e saúde que planejamos? "
  coalition.3.a: "Bem-vindo a bordo da equipe!"
  coalition.3.b: "Devemos recusar gentilmente"
 
  coalition.4.t: "Negociações com [Communist-State_L] ([? Party_pop_elect_array ^ 4 |% 0])"
- coalition.4.d: "Camarada [Root.GetLeader]! Enquanto procuramos derrubar o seu governo da burguesia imperialista, mudar a sociedade através da luta armada revolucionária, estabelecer a ditadura democrática do proletariado e eliminar os traidores de classe, percebemos que pode haver um certo curto prazo vantagens políticas táticas para formar uma coalizão.\n\nNossas demandas são simples - implementação total do materialismo dialético marxista, melhoria de 1000% nas condições socioeconômicas do proletariado oprimido e entrada gratuita na nova Disneylândia que vamos construir!\n\n... Faremos um acordo com as concessões menores que você mencionou. "
+ coalition.4.d: "Camarada [Root.GetLeader]! Enquanto procuramos derrubar o seu governo da burguesia imperialista, mudar a sociedade através da luta armada revolucionária, estabelecer a ditadura democrática do proletariado e eliminar os traidores de classe, percebemos que pode haver um certo curto prazo vantagens políticas táticas para formar uma coalizão.\n\nNossas demandas são simples-implementação total do materialismo dialético marxista, melhoria de 1000% nas condições socioeconômicas do proletariado oprimido e entrada gratuita na nova Disneylândia que vamos construir!\n\n... Faremos um acordo com as concessões menores que você mencionou. "
  coalition.4.a: "Bem-vindo a bordo da equipe!"
  coalition.4.b: "Melhor morto do que vermelho!"
 
  coalition.5.t: "Negociações com [anarchist_communism_L] ([? Party_pop_elect_array ^ 5 |% 0])"
- coalition.5.d: "Camarada [Root.GetLeader]. Achamos que moveríamos seu governo na direção certa - a de esquerda. Alguns nos chamam de \" Radicais de esquerda \ ", mas os verdadeiros radicais são as forças conservadoras anti-progressistas retrógradas que colocam todo o poder nas mãos do 1% mais rico. Nós apenas lutamos por coisas de bom senso com as quais todos os 99% possam concordar, como justiça social, feminismo, acabar com os aproveitadores da previdência, desmantelar o capitalismo, o internacionalismo e o fim do domínio imperialista ocidental, e é a exploração do Sul Global. "
+ coalition.5.d: "Camarada [Root.GetLeader]. Achamos que moveríamos seu governo na direção certa-a de esquerda. Alguns nos chamam de\" Radicais de esquerda\", mas os verdadeiros radicais são as forças conservadoras anti-progressistas retrógradas que colocam todo o poder nas mãos do 1% mais rico. Nós apenas lutamos por coisas de bom senso com as quais todos os 99% possam concordar, como justiça social, feminismo, acabar com os aproveitadores da previdência, desmantelar o capitalismo, o internacionalismo e o fim do domínio imperialista ocidental, e é a exploração do Sul Global. "
  coalition.5.a: "Juntos somos mais fortes"
  coalition.5.b: "Estamos tendo dúvidas"
 
@@ -189,7 +189,7 @@ l_english:
  coalition.10.b: "Devemos recusar gentilmente"
 
  coalition.11.t: "Negociações com [Caliphate_L] ([? Party_pop_elect_array ^ 11 |% 0])"
- coalition.11.d: "[Root.GetLeader], embora o tenhamos chamado de \" cachorro infiel imundo \ "muitas vezes, não queríamos dizer nada de ruim sobre isso.\n\nEnquanto inshallah com certeza você vai para o inferno por não se juntar ao Verdadeiro Califado, nós, o justo e bravo Mujahid, podemos certamente ajudar a guiá-lo corretamente, pois só nós conhecemos a verdadeira vontade de Allah, conforme nos foi revelada pelo Profeta Muhammad (?allg llahu ?alayhi wa-sallam). , muito, muito pacífico e comprometido com os princípios democráticos. Não temos quaisquer exigências. Estamos aqui apenas para ajudar. Podemos, inshallah, por exemplo, ajudar a suportar o pesado fardo de administrar os militares, a polícia e o corta seus ombros. "
+ coalition.11.d: "[Root.GetLeader], embora o tenhamos chamado de\" cachorro infiel imundo\"muitas vezes, não queríamos dizer nada de ruim sobre isso.\n\nEnquanto inshallah com certeza você vai para o inferno por não se juntar ao Verdadeiro Califado, nós, o justo e bravo Mujahid, podemos certamente ajudar a guiá-lo corretamente, pois só nós conhecemos a verdadeira vontade de Allah, conforme nos foi revelada pelo Profeta Muhammad (?allg llahu ?alayhi wa-sallam). , muito, muito pacífico e comprometido com os princípios democráticos. Não temos quaisquer exigências. Estamos aqui apenas para ajudar. Podemos, inshallah, por exemplo, ajudar a suportar o pesado fardo de administrar os militares, a polícia e o corta seus ombros. "
  coalition.11.a: "Esta parece ser uma excelente ideia"
  coalition.11.b: "lol"
 
@@ -214,12 +214,12 @@ l_english:
  coalition.15.b: "Devemos recusar gentilmente"
 
  coalition.16.t: "Negociações com [Neutral_Libertarian_L] ([? Party_pop_elect_array ^ 16 |% 0])"
- coalition.16.d: "Caro [Root.GetLeader]. Muitas vezes se diz na liderança de [Neutral_Libertarian_L] que apenas manter o partido unido é como \" pastorear gatos \ ". Portanto, você deve acreditar quando dizemos que entrar em uma coalizão com vocês, estatistas pode só acontecerá se você estiver preparado para fazer algumas concessões sérias. Como eliminar impostos e abolir os militares. Claro, nunca abriremos mão da liberdade individual, econômica e social. No espírito de compromisso, podemos estar preparados para atrasar ligeiramente a implementação completa do Bitcoin como nossa nova moeda oficial, mas ainda não perguntamos a todos os nossos membros sobre isso.\n\n[Root.GetLeader]: \ "E se permitirmos que todos fumem maconha sem serem presos ? \ "\n\n- \" Claro! Isso vai funcionar\"."
+ coalition.16.d: "Caro [Root.GetLeader]. Muitas vezes se diz na liderança de [Neutral_Libertarian_L] que apenas manter o partido unido é como\" pastorear gatos\". Portanto, você deve acreditar quando dizemos que entrar em uma coalizão com vocês, estatistas pode só acontecerá se você estiver preparado para fazer algumas concessões sérias. Como eliminar impostos e abolir os militares. Claro, nunca abriremos mão da liberdade individual, econômica e social. No espírito de compromisso, podemos estar preparados para atrasar ligeiramente a implementação completa do Bitcoin como nossa nova moeda oficial, mas ainda não perguntamos a todos os nossos membros sobre isso.\n\n[Root.GetLeader]:\"E se permitirmos que todos fumem maconha sem serem presos ?\"\n\n-\" Claro! Isso vai funcionar\"."
  coalition.16.a: "Bem-vindo a bordo da equipe!"
  coalition.16.b: "Piada! Nós nunca iremos incluir vocês malucos."
 
  coalition.17.t: "Negociações com [Neutral_green_L] ([? Party_pop_elect_array ^ 17 |% 0])"
- coalition.17.d: "[Root.GetLeader] ... É uma limusine que você tem ?! Isso é TÃO irresponsável. Se todo mundo estivesse dirigindo um bebedor de combustível e voando por todo o exterior para reuniões - precisaríamos dos recursos de uma centena de terras! Isso não pode continue, o tempo está passando rápido. O aquecimento global causado pelo homem não é ficção científica, é fato científico. Só porque as temperaturas não podem aumentar de ano para ano em HoI4, não significa que não devemos levar a ameaça a sério! Exigimos um plano sério de redução rápida de nossa pegada de carbono, se quisermos fazer parte de sua coalizão de governo. "
+ coalition.17.d: "[Root.GetLeader] ... É uma limusine que você tem ?! Isso é TÃO irresponsável. Se todo mundo estivesse dirigindo um bebedor de combustível e voando por todo o exterior para reuniões-precisaríamos dos recursos de uma centena de terras! Isso não pode continue, o tempo está passando rápido. O aquecimento global causado pelo homem não é ficção científica, é fato científico. Só porque as temperaturas não podem aumentar de ano para ano em HoI4, não significa que não devemos levar a ameaça a sério! Exigimos um plano sério de redução rápida de nossa pegada de carbono, se quisermos fazer parte de sua coalizão de governo. "
  coalition.17.a: "Bem-vindo ao nosso governo amigo do ambiente"
  coalition.17.b: "Meh"
 
@@ -229,22 +229,22 @@ l_english:
  coalition.18.b: "Não vai acontecer!"
 
  coalition.19.t: "Negociações com [Neutral_Communism_L] ([? Party_pop_elect_array ^ 19 |% 0])"
- coalition.19.d: "Camarada [Root.GetLeader]! Enquanto procuramos derrubar o seu governo da burguesia imperialista, mudar a sociedade através da luta armada revolucionária, estabelecer a ditadura democrática do proletariado e eliminar os traidores de classe, percebemos que pode haver um certo curto prazo vantagens políticas táticas para formar uma coalizão.\n\nNossas demandas são simples - implementação total do materialismo dialético marxista, melhoria de 1000% nas condições socioeconômicas do proletariado oprimido e entrada gratuita na nova Disneylândia que vamos construir!\n\n... Na verdade, vamos nos contentar com essas concessões menores que você mencionou. "
+ coalition.19.d: "Camarada [Root.GetLeader]! Enquanto procuramos derrubar o seu governo da burguesia imperialista, mudar a sociedade através da luta armada revolucionária, estabelecer a ditadura democrática do proletariado e eliminar os traidores de classe, percebemos que pode haver um certo curto prazo vantagens políticas táticas para formar uma coalizão.\n\nNossas demandas são simples-implementação total do materialismo dialético marxista, melhoria de 1000% nas condições socioeconômicas do proletariado oprimido e entrada gratuita na nova Disneylândia que vamos construir!\n\n... Na verdade, vamos nos contentar com essas concessões menores que você mencionou. "
  coalition.19.a: "Avancem juntos, camaradas!"
  coalition.19.b: "Não vamos"
 
  coalition.20.t: "Negociações com [Nat_Populism_L] ([? Party_pop_elect_array ^ 20 |% 0])"
- coalition.20.d: "Respeitado [Root.GetLeader]. Você é realmente sábio em falar conosco, todos sabem que somos a verdadeira voz do bom senso e da razão. No entanto, no cumprimento do papel de [Nat_Populism_L] como um farol do bom senso, devemos insistir você adota algumas políticas adequadas. O estabelecimento político de [Root.GetName] há muito tempo pilha a nação, entregando nossas riquezas e dignidade a empresas multinacionais que importam mão de obra barata por meio do sistema de imigração falido! Além de tirar nossos empregos, os imigrantes estão também explorando nossos benefícios de desemprego e sistema de bem-estar. Além disso, precisamos investir em nossa infraestrutura deficiente e reduzir impostos! Nossas forças armadas são criminosamente insuficientes e mal equipadas - devem ser expandidas com urgência. Mencionamos a polícia? Eles claramente não têm os recursos para lidar com todos os criminosos que nossos governos anteriores importaram. Enquanto isso, nossos idosos não estão sendo devidamente cuidados - uma vergonha! Então, nós temos um acordo? "
+ coalition.20.d: "Respeitado [Root.GetLeader]. Você é realmente sábio em falar conosco, todos sabem que somos a verdadeira voz do bom senso e da razão. No entanto, no cumprimento do papel de [Nat_Populism_L] como um farol do bom senso, devemos insistir você adota algumas políticas adequadas. O estabelecimento político de [Root.GetName] há muito tempo pilha a nação, entregando nossas riquezas e dignidade a empresas multinacionais que importam mão de obra barata por meio do sistema de imigração falido! Além de tirar nossos empregos, os imigrantes estão também explorando nossos benefícios de desemprego e sistema de bem-estar. Além disso, precisamos investir em nossa infraestrutura deficiente e reduzir impostos! Nossas forças armadas são criminosamente insuficientes e mal equipadas-devem ser expandidas com urgência. Mencionamos a polícia? Eles claramente não têm os recursos para lidar com todos os criminosos que nossos governos anteriores importaram. Enquanto isso, nossos idosos não estão sendo devidamente cuidados-uma vergonha! Então, nós temos um acordo? "
  coalition.20.a: "Bem vindo a bordo!"
  coalition.20.b: "Me poupe"
 
  coalition.21.t: "Negociações com [Nat_Fascism_L] ([? Party_pop_elect_array ^ 21 |% 0])"
- coalition.21.d: "Salve [Root.GetLeader]!\n\nTUDO, NÓS PATRIOTAS MARCAMOS CONTRA OS TRAIDORES PARA A NOSSA CIVILIZAÇÃO. VOCÊ PODE PARTICIPAR NESTA MARCHA GLORIOSA PELA PUREZA OU RENDIAR NOSSO GRANDE PAÍS AOS NOJOSOS ESTRANGEIROS! DEVEMOS RETIRÁ-LOS! CADA UM! (Exceto aqueles que são membros pagantes de [Nat_Fascism_L], ou são nossas noivas por correspondência)\n\nExigimos um governo NACIONALISTA PURO para liderar a RESTAURAÇÃO NACIONAL! Temos apenas uma escolha - caos ou ordem e liberdade. ORDEM TOTAL. E LIBERDADE TOTAL de parasitas estrangeiros. "
+ coalition.21.d: "Salve [Root.GetLeader]!\n\nTUDO, NÓS PATRIOTAS MARCAMOS CONTRA OS TRAIDORES PARA A NOSSA CIVILIZAÇÃO. VOCÊ PODE PARTICIPAR NESTA MARCHA GLORIOSA PELA PUREZA OU RENDIAR NOSSO GRANDE PAÍS AOS NOJOSOS ESTRANGEIROS! DEVEMOS RETIRÁ-LOS! CADA UM! (Exceto aqueles que são membros pagantes de [Nat_Fascism_L], ou são nossas noivas por correspondência)\n\nExigimos um governo NACIONALISTA PURO para liderar a RESTAURAÇÃO NACIONAL! Temos apenas uma escolha-caos ou ordem e liberdade. ORDEM TOTAL. E LIBERDADE TOTAL de parasitas estrangeiros. "
  coalition.21.a: "Sim! Vamos nos juntar."
  coalition.21.b: "Governo? Todos vocês pertencem a uma instituição diferente ..."
 
  coalition.22.t: "Negociações com [Nat_Autocracy_L] ([? Party_pop_elect_array ^ 22 |% 0])"
- coalition.22.d: "Caro [Root.GetLeader]. Chega um momento, de perigo nacional, quando o estabelecimento militar deve intensificar seu papel, para preencher vazios de poder perigosos, salvaguardar a soberania nacional e nossa independência e valores patrióticos. Em nossa opinião, desta vez para o governo militar - é sempre. No entanto, sabemos que fazer isso agora pode trazer certos efeitos indesejáveis em nossas relações exteriores. Seria ... menos complicado - se você discretamente fizesse o que dizemos.\n\nContanto que você conheça o seu lugar, certamente seríamos um aliado político muito poderoso para você. "
+ coalition.22.d: "Caro [Root.GetLeader]. Chega um momento, de perigo nacional, quando o estabelecimento militar deve intensificar seu papel, para preencher vazios de poder perigosos, salvaguardar a soberania nacional e nossa independência e valores patrióticos. Em nossa opinião, desta vez para o governo militar-é sempre. No entanto, sabemos que fazer isso agora pode trazer certos efeitos indesejáveis em nossas relações exteriores. Seria ... menos complicado-se você discretamente fizesse o que dizemos.\n\nContanto que você conheça o seu lugar, certamente seríamos um aliado político muito poderoso para você. "
  coalition.22.a: "A política é muito importante para ser deixada para os políticos"
  coalition.22.b: "A política é muito importante para ser deixada para os generais"
 

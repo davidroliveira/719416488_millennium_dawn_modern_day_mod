@@ -296,11 +296,11 @@ l_english:
  USoE_AI_government_desc: "A inteligência artificial evoluiu o suficiente para governar um país mais eficiente do que um político humano ineficiente e possivelmente corrupto. O agente de IA do partido no poder assumirá o controle e governará o país com base nos valores do partido no poder."
  USoE_knights_of_the_new_empire: "Cavaleiros do novo Império"
  USoE_knights_of_the_new_empire_desc: "Em um mundo hostil, os militares assumiram o controle da Europa para salvar seu povo de políticos corruptos e potências estrangeiras."
- USoE_knights_of_the_new_empire_army: "Cavaleiros do novo Império - General dos Exércitos Europeus"
+ USoE_knights_of_the_new_empire_army: "Cavaleiros do novo Império-General dos Exércitos Europeus"
  USoE_knights_of_the_new_empire_army_desc: "O estado-maior geral decidiu que a Europa será liderada por um general do exército. Ele receberá o título de General dos Exércitos Europeus."
- USoE_knights_of_the_new_empire_air_force: "Cavaleiros do novo Império - Marechal da Força Aérea da Europa"
+ USoE_knights_of_the_new_empire_air_force: "Cavaleiros do novo Império-Marechal da Força Aérea da Europa"
  USoE_knights_of_the_new_empire_air_force_desc: "O estado-maior geral decidiu que a Europa será liderada por um general da Força Aérea. Ele será premiado com o posto de Marechal da Força Aérea da Europa."
- USoE_knights_of_the_new_empire_navy: "Cavaleiros do novo Império - Almirante da Frota da Europa"
+ USoE_knights_of_the_new_empire_navy: "Cavaleiros do novo Império-Almirante da Frota da Europa"
  USoE_knights_of_the_new_empire_navy_desc: "O estado-maior geral decidiu que a Europa será liderada por um almirante. Ele será premiado com o posto de almirante da frota da Europa."
  USoE_holy_european_empire: "Sacro Império Europeu"
  USoE_holy_european_empire_desc: "O Imperador é coroado e o Sacro Império Europeu é estabelecido."
@@ -335,11 +335,11 @@ l_english:
  USoEevent.4.a: "Ok, vamos nos aliar!"
  USoEevent.4.b: "Não, vamos lutar!"
 
- USoEevent.5.t: "Imperialismo Ambiental em [FROM.GetName] - Sucesso!"
+ USoEevent.5.t: "Imperialismo Ambiental em [FROM.GetName]-Sucesso!"
  USoEevent.5.d: "[FROM.GetName] aceitou nossas demandas ambientais."
  USoEevent.5.a: "OK!"
 
- USoEevent.6.t: "Imperialismo Ambiental em [FROM.GetName] - Sanções impostas!"
+ USoEevent.6.t: "Imperialismo Ambiental em [FROM.GetName]-Sanções impostas!"
  USoEevent.6.d: "[FROM.GetName] não aceitou nossas demandas ambientais. Sanções são impostas!"
  USoEevent.6.a: "OK!"
 
@@ -379,7 +379,7 @@ l_english:
  EU_USoE_environmental_imperialism_restructure_industry_decision: "Reconstrução de energia verde"
  EU_USoE_environmental_imperialism_restructure_industry_decision: "Para cumprir as exigências da § Reforma Ambiental§! Na Europa, precisamos reconstruir parte de nossa §Indústria Civil§! Para um produtor de energia renovável (§YBiofuel Refinery§!)."
  EU_USoE_break_environmental_sanctions_decision: "Quebre as Sanções Ambientais"
- EU_USoE_break_environmental_sanctions_decision_desc: "A Europa impôs Sanções Ambientais sobre nós. Precisamos quebrá-las com todos os meios - políticos e militares. Mas isso dará a [FROM.GetNameWithFlag] uma meta de guerra para nós. Portanto, precisamos nos aliar a outros países sancionados por [FROM.GetNameWithFlag ]. "
+ EU_USoE_break_environmental_sanctions_decision_desc: "A Europa impôs Sanções Ambientais sobre nós. Precisamos quebrá-las com todos os meios-políticos e militares. Mas isso dará a [FROM.GetNameWithFlag] uma meta de guerra para nós. Portanto, precisamos nos aliar a outros países sancionados por [FROM.GetNameWithFlag ]. "
 
  #Europa
  EU_USoE_environmental_imperialism_show_europe: "Imperialismo Ambiental na Europa"

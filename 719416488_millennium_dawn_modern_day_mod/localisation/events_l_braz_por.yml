@@ -3,7 +3,7 @@ l_english:
  TT_CURRENT_LEADER_DIES: "§R [ROOT.GetLeader] morre! §!"
 
  ###### Eventos genéricos ############
- md4.1.t: "[From.GetName] - [Root.GetName] Acordo de Livre Comércio"
+ md4.1.t: "[From.GetName]-[Root.GetName] Acordo de Livre Comércio"
  md4.1.d: "[From.GetNameDef] está nos oferecendo um acordo de livre comércio. Teremos prioridade para exportar e importar deles."
  md4.1.a: "Assine!"
  md4.1.b: "Recusar."
@@ -13,7 +13,7 @@ l_english:
  md4.3.t: "[From.GetNameDef] se recusou a assinar um acordo de livre comércio conosco"
  md4.3.d: "[From.GetNameDef] recusou nossa oferta de assinar um acordo de livre comércio."
  md4.3.a: "Eles temem nossos produtos superiores!"
- md4.4.t: "[From.GetName] - [Root.GetName] Tratado de Cooperação Militar"
+ md4.4.t: "[From.GetName]-[Root.GetName] Tratado de Cooperação Militar"
  md4.4.d: "[From.GetNameDef] está nos oferecendo um tratado de cooperação militar. Vamos vender equipamentos com desconto, mas isso os tornará mais propensos a comprar de nós em vez de comprar de nossos concorrentes."
  md4.4.a: "Assine!"
  md4.4.b: "Recusar."
@@ -273,7 +273,7 @@ l_english:
  political.19.b: "Ignore-os, eles estão apenas causando problemas."
  political.19.c: "O referendo é preferível a uma revolta sangrenta."
  political.20.t: "Democrats Demand Referendum"
- political.20.d: "Sem surpresa, a ideia do povo governando a nação em que habitam pode facilmente se tornar muito popular entre as pessoas. O [Root.GetRulingParty], é claro, vê a ideia de democracia representada por esses movimentos - liberdade de expressão, eleições públicas, imprensa livre - retórica meramente populista com o objetivo de enfraquecer o governo de [Root.GetLeader].\n\nNo entanto, não há como negar que essas ideias tomaram conta da população de [Root.GetAdjective]. De maneira verdadeiramente democrática, eles clamam por uma referendo público sobre a substituição do regime atual. Embora atualmente fáceis de ignorar, essas idéias têm uma maneira de crescer muito persistente. O que acontecerá conosco se tornarmos a revolução pacífica impossível? "
+ political.20.d: "Sem surpresa, a ideia do povo governando a nação em que habitam pode facilmente se tornar muito popular entre as pessoas. O [Root.GetRulingParty], é claro, vê a ideia de democracia representada por esses movimentos-liberdade de expressão, eleições públicas, imprensa livre-retórica meramente populista com o objetivo de enfraquecer o governo de [Root.GetLeader].\n\nNo entanto, não há como negar que essas ideias tomaram conta da população de [Root.GetAdjective]. De maneira verdadeiramente democrática, eles clamam por uma referendo público sobre a substituição do regime atual. Embora atualmente fáceis de ignorar, essas idéias têm uma maneira de crescer muito persistente. O que acontecerá conosco se tornarmos a revolução pacífica impossível? "
  political.20.a: "Junte-os."
  political.20.b: "Apenas proceda como de costume."
  political.20.c: "Se aceitarmos o referendo, talvez possamos preservar nosso legado."
@@ -436,7 +436,7 @@ l_english:
  nuke_dropped.1.a: "A Era Atômica realmente começou."
  nuke_dropped.1.b: "Faremos o que for necessário para proteger as pessoas [Root.GetAdjective]."
  nuke_dropped.2.t: "Bombardeio Atômico de Hiroshima"
- nuke_dropped.2.d: "\" As ruas eram como uma cena do inferno. \ "\n- Kuniyoshi Aikawa\n\nHoje, uma bomba nuclear foi detonada sobre a cidade de Hiroshima a uma altitude de 580 metros. Mais de dois terços da cidade foram instantaneamente destruída. Apesar de a cidade ter sido construída para resistir a terremotos, apenas algumas estruturas robustas sobreviveram à explosão.\n\nEnquanto o poder da bomba atômica foi enfatizado na mente do público, o custo humano da arma foi minimizado. Nenhum dos lados quer contemplar o horror do evento, mas seu legado será uma vida perdida em um piscar de olhos e consequências duradouras. "
+ nuke_dropped.2.d: "\" As ruas eram como uma cena do inferno.\"\n- Kuniyoshi Aikawa\n\nHoje, uma bomba nuclear foi detonada sobre a cidade de Hiroshima a uma altitude de 580 metros. Mais de dois terços da cidade foram instantaneamente destruída. Apesar de a cidade ter sido construída para resistir a terremotos, apenas algumas estruturas robustas sobreviveram à explosão.\n\nEnquanto o poder da bomba atômica foi enfatizado na mente do público, o custo humano da arma foi minimizado. Nenhum dos lados quer contemplar o horror do evento, mas seu legado será uma vida perdida em um piscar de olhos e consequências duradouras. "
  nuke_dropped.2.a: "Quantos mais cairão antes que esta guerra termine?"
  nuke_dropped.2.b: "Devemos agir rapidamente para ajudar as vítimas."
  nuke_dropped.3.t: "Bombardeio Atômico de Nagasaki"
@@ -444,11 +444,11 @@ l_english:
  nuke_dropped.3.a: "Isso levará à rendição de [From.Owner.GetAdjective]?"
  nuke_dropped.3.b: "Esperávamos que Nagasaki fosse poupado."
  nuke_dropped.4.t: "Bombardeio Atômico de Berlim"
- nuke_dropped.4.d: "Hoje, em [GetDateText], a capital alemã, Berlim, foi atingida por uma explosão nuclear. A cidade sofreu vários ataques, nesta guerra e na última, mas todo o resto empalidece em comparação com esta. Não desde a Guerra dos Trinta Anos Berlim viu uma devastação comparável - considerando seu crescimento, isso foi visto como uma impossibilidade.\n\nO Führerbunker parece ter sobrevivido à explosão pelo menos parcialmente devido à detonação da bomba longe de seu epicentro planejado e [From.Owner.GetLeader] há rumores de que ainda estão vivos, se indignados. Como os líderes [From.Owner.GetAdjective] devem ser evacuados e se eles podem ser protegidos da precipitação radioativa é outra questão, no entanto. "
+ nuke_dropped.4.d: "Hoje, em [GetDateText], a capital alemã, Berlim, foi atingida por uma explosão nuclear. A cidade sofreu vários ataques, nesta guerra e na última, mas todo o resto empalidece em comparação com esta. Não desde a Guerra dos Trinta Anos Berlim viu uma devastação comparável-considerando seu crescimento, isso foi visto como uma impossibilidade.\n\nO Führerbunker parece ter sobrevivido à explosão pelo menos parcialmente devido à detonação da bomba longe de seu epicentro planejado e [From.Owner.GetLeader] há rumores de que ainda estão vivos, se indignados. Como os líderes [From.Owner.GetAdjective] devem ser evacuados e se eles podem ser protegidos da precipitação radioativa é outra questão, no entanto. "
  nuke_dropped.4.a: "Hoje, estou aliviado por não ser um berlinense."
  nuke_dropped.4.b: "Nossos inimigos atingiram o coração da nação!"
  nuke_dropped.5.t: "Bombardeio Atômico de Londres"
- nuke_dropped.5.d: "Uma explosão nuclear devastou a cidade de Londres hoje. Apesar das defesas antiaéreas da cidade, [From.Owner.GetName] não estava preparado para esse ataque. Em [GetDateText], o Big Ben soou pela última vez, tendo sido derretido pela explosão. Os primeiros relatórios sugerem que o Palácio de Buckingham foi completamente destruído e o paradeiro da família real é atualmente desconhecido.\n\n[From.Owner.GetLeader], no entanto, foi confirmado como tendo sobrevivido e está preparando um discurso empolgante para o rádio mais tarde hoje. Com o moral em baixa, o povo britânico está em extrema necessidade disso - ou de uma rendição muito eloqüente. "
+ nuke_dropped.5.d: "Uma explosão nuclear devastou a cidade de Londres hoje. Apesar das defesas antiaéreas da cidade, [From.Owner.GetName] não estava preparado para esse ataque. Em [GetDateText], o Big Ben soou pela última vez, tendo sido derretido pela explosão. Os primeiros relatórios sugerem que o Palácio de Buckingham foi completamente destruído e o paradeiro da família real é atualmente desconhecido.\n\n[From.Owner.GetLeader], no entanto, foi confirmado como tendo sobrevivido e está preparando um discurso empolgante para o rádio mais tarde hoje. Com o moral em baixa, o povo britânico está em extrema necessidade disso-ou de uma rendição muito eloqüente. "
  nuke_dropped.5.a: "É difícil manter o lábio superior rígido diante de uma onda de explosão nuclear."
  nuke_dropped.5.b: "Deus salve o rei!"
  nuke_dropped.6.t: "Bombardeio Atômico de Kyoto"
@@ -505,10 +505,10 @@ l_english:
  #/////
 
  ######Noticias & Eventos###########
- news.1.t: "O Acordo de Livre Comércio de [fta_inviter.GetNameDef] - [fta_applicant.GetName]"
+ news.1.t: "O Acordo de Livre Comércio de [fta_inviter.GetNameDef]-[fta_applicant.GetName]"
  news.1.d: "Hoje [fta_inviter.GetNameDef] e [fta_applicant.GetNameDef] assinaram um tratado de livre comércio e investimento para fortalecer a cooperação econômica entre os dois países."
  news.1.a: "OK."
- news.2.t: "The [mct_inviter.GetNameDef] - [mct_applicant.GetName] Tratado de Cooperação Militar"
+ news.2.t: "The [mct_inviter.GetNameDef]-[mct_applicant.GetName] Tratado de Cooperação Militar"
  news.2.d: "Hoje [mct_inviter.GetNameDef] e [mct_applicant.GetNameDef] assinaram um tratado de cooperação militar, fortalecendo seus laços militares."
  news.2.a: "OK."
  news.3.t: "Bombardeio USS Cole"
@@ -539,7 +539,7 @@ l_english:
  influence.1.b: "Pensando bem, eles não precisam disso."
 
  News_influence.0.t: "Ajuda econômica concedida por [From.GetName]!"
- News_influence.0.d: "Recebemos $ [? Gift_sum] bilhões em ajuda econômica imediata de [From.GetName]. Isso fortaleceu as relações [Root.GetAdjective] - [From.GetAdjective] e, embora o presente tenha oficialmente vindo sem pré-condições, é compreendido para ter fortalecido sua influência em nosso país. "
+ News_influence.0.d: "Recebemos $ [? Gift_sum] bilhões em ajuda econômica imediata de [From.GetName]. Isso fortaleceu as relações [Root.GetAdjective]-[From.GetAdjective] e, embora o presente tenha oficialmente vindo sem pré-condições, é compreendido para ter fortalecido sua influência em nosso país. "
  News_influence.0.a: "Maravilhoso!"
 
  influence.2.t: "escondido"
@@ -576,24 +576,24 @@ l_english:
  influence_coup_largest_success_TT: "§Banco bem-sucedido§!"
  influence_coup_largest_discovered_TT: "§RFailed Coup§!"
  influence.5.b: "Lançar Golpe para colocar no poder o mesmo partido no poder que o nosso"
- influence.5.c: "Desista desses planos - por enquanto"
+ influence.5.c: "Desista desses planos-por enquanto"
 
- #fomos combinados - com sucesso ...
+ #fomos combinados-com sucesso ...
  News_influence.3.t: "Mudança de regime!"
  News_influence.3.d: "Forças com apoio [From.GetAdjective] depuseram o governo anterior."
  News_influence.3.a: "Uau..."
 
- #fomos combinados - com sucesso ... notícias do mundo
+ #fomos combinados-com sucesso ... notícias do mundo
  News_influence.4.t: "Cenas dramáticas com mudanças de regime [From.From.GetNameWithFlag]"
  News_influence.4.d: "Depois de um período de aumento na atividade de inteligência estrangeira, especialmente de [From.GetNameWithFlag], o governo anterior de [From.From.GetName] foi derrubado e muitos altos funcionários do antigo regime foram detidos. [From.From.GetLeader] da [From.From.GetRulingParty] emergiu como o novo líder em meio à turbulência. As primeiras indicações são de que o novo regime de [From.From.GetName] se identificará com a [From.From.GetRulingIdeology], desenraizando o equilíbrio de potência."
  News_influence.4.a: "Interessante"
 
  News_influence.5.t: "[From.GetNameWithFlag] sob pressão, pois [From.From.GetNameWithFlag] derrotou o golpe"
- News_influence.5.d: "[From.From.GetAdjective] líder [From.From.GetLeader] estava gesticulando vividamente no palco enquanto 'forças hostis do mal lideradas por [From.GetName]' estavam sendo responsabilizadas pelas últimas escalações de hoje que viram [From.From.GetLeader ] derrotando uma tentativa dramática de golpe. Embora o líder de [From.GetAdjective] [From.GetLeader] negue veementemente as acusações, é amplamente sabido que os dois líderes não concordam. Com [From.GetAdjective] - [From. From.GetAdjective] empatou o tempo todo, [From.From.GetName] prometeu ao público \ "erradicar a influência de [From.GetAdjective] de [From.From.GetName] \" e, de outra forma, dobrar a influência de [From .From.GetRulingIdeology] que a decisão [From.From.GetRulingParty] tem direcionado [From.From.GetNameWithFlag]. "
+ News_influence.5.d: "[From.From.GetAdjective] líder [From.From.GetLeader] estava gesticulando vividamente no palco enquanto 'forças hostis do mal lideradas por [From.GetName]' estavam sendo responsabilizadas pelas últimas escalações de hoje que viram [From.From.GetLeader ] derrotando uma tentativa dramática de golpe. Embora o líder de [From.GetAdjective] [From.GetLeader] negue veementemente as acusações, é amplamente sabido que os dois líderes não concordam. Com [From.GetAdjective]-[From. From.GetAdjective] empatou o tempo todo, [From.From.GetName] prometeu ao público\"erradicar a influência de [From.GetAdjective] de [From.From.GetName]\" e, de outra forma, dobrar a influência de [From .From.GetRulingIdeology] que a decisão [From.From.GetRulingParty] tem direcionado [From.From.GetNameWithFlag]. "
  News_influence.5.a: "Interessante"
 
  News_influence.6.t: "Drama enquanto [From.From.GetNameWithFlag] desmorona na Guerra Civil!"
- News_influence.6.d: "Cenas traumáticas de [From.From.GetNameWithFlag] puderam ser vistas hoje, quando os últimos dias de protestos, incertezas e estranhos movimentos militares deram lugar a tiros, sofrimento e fuga de civis. Embora os detalhes sejam escassos, parece que várias unidades inteiras de o Exército [From.From.GetAdjective] declarou a favor da oposição armada contra [From.From.GetLeader] e o [From.From.GetRulingParty] ([From.From.GetRulingIdeology]). Um líder da oposição, falando ao WNN sob condições de anonimato, disseram que \ "esperam uma ajuda significativa de [From.GetNameWithFlag] em sua busca para derrubar o ilegítimo [From.From.GetAdjective] tirano [From.From.GetLeader] \".\n\nEmbora [From. A liderança de GetAdjective] expressou sua \ "surpresa sobre esses desenvolvimentos dramáticos \", isso tem pouca credibilidade por observadores atentos das relações [From.GetAdjective] - [From.From.GetAdjective]. Um analista descreveu a situação assim; \ " É claro que isso na realidade era um [From.GetAdjective] -bac Ked golpista tentativa que não conseguiu garantir seus objetivos rápido o suficiente, resultando em um impasse tenso que se degradou no que agora parece uma guerra civil completa \ ". Vários líderes mundiais, especialmente aqueles com uma [From.From.GetRulingIdeology] tiveram menos do que palavras diplomáticas para o envolvimento ainda não confirmado [From.GetAdjective].\n\nCom os dois lados diferentes no conflito não representam apenas diferenças gritantes na direção doméstica, mas também internacional, será interessante acompanhar se outros países também se envolverem no conflito. "
+ News_influence.6.d: "Cenas traumáticas de [From.From.GetNameWithFlag] puderam ser vistas hoje, quando os últimos dias de protestos, incertezas e estranhos movimentos militares deram lugar a tiros, sofrimento e fuga de civis. Embora os detalhes sejam escassos, parece que várias unidades inteiras de o Exército [From.From.GetAdjective] declarou a favor da oposição armada contra [From.From.GetLeader] e o [From.From.GetRulingParty] ([From.From.GetRulingIdeology]). Um líder da oposição, falando ao WNN sob condições de anonimato, disseram que\"esperam uma ajuda significativa de [From.GetNameWithFlag] em sua busca para derrubar o ilegítimo [From.From.GetAdjective] tirano [From.From.GetLeader]\".\n\nEmbora [From. A liderança de GetAdjective] expressou sua\"surpresa sobre esses desenvolvimentos dramáticos\", isso tem pouca credibilidade por observadores atentos das relações [From.GetAdjective]-[From.From.GetAdjective]. Um analista descreveu a situação assim;\" É claro que isso na realidade era um [From.GetAdjective] -bac Ked golpista tentativa que não conseguiu garantir seus objetivos rápido o suficiente, resultando em um impasse tenso que se degradou no que agora parece uma guerra civil completa\". Vários líderes mundiais, especialmente aqueles com uma [From.From.GetRulingIdeology] tiveram menos do que palavras diplomáticas para o envolvimento ainda não confirmado [From.GetAdjective].\n\nCom os dois lados diferentes no conflito não representam apenas diferenças gritantes na direção doméstica, mas também internacional, será interessante acompanhar se outros países também se envolverem no conflito. "
  News_influence.6.a: "Quem governará as cinzas?"
 
  influence.51.t: "Ajuda militar para [FROM.GetName]"
@@ -632,7 +632,7 @@ l_english:
  econvent.3.a: "Ainda bem que meu dinheiro foi colocado em paraísos fiscais offshore"
 
  econvent.4.t: "[Root.GetAdjective] Bancos enfrentam crise"
- econvent.4.d: "Apesar do delicioso café expresso com leite quente em sua xícara [Root.GetName] §R <3§! [Root.GetLeader], hoje não é um bom dia. Magnatas financeiros desesperados, seus lobistas e os políticos que eles criaram contribuições para - todos estão aglomerando os escritórios de governo de [Root.GetAdjective] e todos têm a mesma mensagem: \ "Precisamos de um resgate! \".\n\nAparentemente, o choque duplo da desaceleração imobiliária e a queda do mercado de ações também foram muito para o setor financeiro lidar. O acúmulo de dívidas inadimplentes com sua especulação é simplesmente grande demais, é necessário que haja uma entrada de dinheiro novo do governo - ou haverá falências generalizadas com poupadores inocentes perdendo seus depósitos. "
+ econvent.4.d: "Apesar do delicioso café expresso com leite quente em sua xícara [Root.GetName] §R <3§! [Root.GetLeader], hoje não é um bom dia. Magnatas financeiros desesperados, seus lobistas e os políticos que eles criaram contribuições para-todos estão aglomerando os escritórios de governo de [Root.GetAdjective] e todos têm a mesma mensagem:\"Precisamos de um resgate!\".\n\nAparentemente, o choque duplo da desaceleração imobiliária e a queda do mercado de ações também foram muito para o setor financeiro lidar. O acúmulo de dívidas inadimplentes com sua especulação é simplesmente grande demais, é necessário que haja uma entrada de dinheiro novo do governo-ou haverá falências generalizadas com poupadores inocentes perdendo seus depósitos. "
  econvent.4.a: "Nós forneceremos os resgates"
  econvent.4.b: "Sem resgates, mas garantia de depósitos de poupança"
  econvent.4.c: "A sobrevivência do mais apto torna o capitalismo grande"
@@ -696,7 +696,7 @@ l_english:
  bankrupcy.1.d: "O problema da dívida de [From.GetName] piorou tanto que eles, realisticamente, não têm chance de pagar ou mesmo de pagar os juros. Com a possibilidade real de uma falência, foi em circunstâncias desesperadoras que [From.GetAdjective ] líder [From.GetLeader] viajou para [Root.GetName] para implorar a ajuda de [Root.GetLeader].\n\n[From.GetNameWithFlag] está nos pedindo para refinanciar uma grande parte de sua dívida a um preço baixo taxa de juros. Se fizermos isso, acalmaremos outros credores internacionais, reduzindo drasticamente os custos de empréstimo de [From.GetName], tornando sua grande dívida administrável.\n\nEmbora perderemos dinheiro com isso, eles ficarão seriamente nossa dívida, com nossa influência sobre eles quadruplicando durante a noite. "
  bankrupcy.1.a: "Conceda [From.GetNameWithFlag] o resgate"
  bankrupcy.1.b: "Desculpe, não podemos pagar"
- bankrupcy_bailout_sum_TT: "Tesouro: §R - $ [? Bailout_sum | 3] bilhões§!\n"
+ bankrupcy_bailout_sum_TT: "Tesouro: §R-$ [? Bailout_sum | 3] bilhões§!\n"
  bankrupcy_bailout_influence_TT: "[From.GetNameWithFlag]: [Root.GetNameWithFlag] §Yinfluence§! Multiplicado §G3x§!\n[From.GetNameWithFlag]: Independência do estrangeiro §Yinfluence§! §Greduced§!\n"
 
  #evento de volta para aquele que pede o resgate
@@ -846,14 +846,14 @@ l_english:
 
  #Hillary vence a eleição de 2016
  USA_2016_Recount_News.2.t: "Hillary Clinton vence a eleição presidencial de 2016 nos EUA."
- USA_2016_Recount_News.2.d: "Após semanas de análise, hoje foi confirmado que Hillary Clinton será agora a 45ª presidente dos Estados Unidos da América. Após uma disputa acirrada, a desafiadora democrata Hillary Clinton pressionou por uma recontagem alegando que \" anomalias \ "não especificadas podem afetaram o resultado da eleição.\n\nDe acordo com os resultados da recontagem, Hillary Clinton venceu a votação popular por mais de quatro milhões de votos, um milhão a mais do que o relatado pela última vez. Isso foi o suficiente para levar estados decisivos o suficiente para render a Hillary um total de 301 eleitorais votos para os 227 de Trump. Como esperado, Trump perdeu as fortalezas democratas do oeste e da costa leste superior, mas venceu o sul americano. A Pensilvânia e o meio-oeste americano, enquanto vermelho na contagem original, ficaram azuis após as últimas descobertas. "
+ USA_2016_Recount_News.2.d: "Após semanas de análise, hoje foi confirmado que Hillary Clinton será agora a 45ª presidente dos Estados Unidos da América. Após uma disputa acirrada, a desafiadora democrata Hillary Clinton pressionou por uma recontagem alegando que\" anomalias\"não especificadas podem afetaram o resultado da eleição.\n\nDe acordo com os resultados da recontagem, Hillary Clinton venceu a votação popular por mais de quatro milhões de votos, um milhão a mais do que o relatado pela última vez. Isso foi o suficiente para levar estados decisivos o suficiente para render a Hillary um total de 301 eleitorais votos para os 227 de Trump. Como esperado, Trump perdeu as fortalezas democratas do oeste e da costa leste superior, mas venceu o sul americano. A Pensilvânia e o meio-oeste americano, enquanto vermelho na contagem original, ficaram azuis após as últimas descobertas. "
  USA_2016_Recount_News.2.a: "A eleição está decidida."
 
 
  #REPÚBLICA POPULAR DA CHINA#
 
  china.1.t: "19º Congresso Nacional do Partido Comunista da China"
- china.1.d: "O 19º Congresso Nacional foi realizado no Grande Salão do Povo, Pequim, entre 18 e 24 de outubro de 2017. Os preparativos para o 19º Congresso Nacional começaram em 2016 e terminaram com uma sessão plenária do Comitê Central alguns dias antes do Congresso . Em 2016, as organizações partidárias locais e provinciais começaram a eleger delegados para o congresso, bem como a receber e emendar documentos do partido. Durante o congresso, uma nova ideologia norteadora, intitulada Pensamento de Xi Jinping sobre o socialismo com características chinesas para uma nova era, foi escrita em a constituição do partido. Foi a primeira vez, desde o pensamento de Mao Zedong, que um líder partidário vivo consagrou na constituição do partido uma ideologia com seu próprio nome. O Congresso também enfatizou o fortalecimento do socialismo com características chinesas, a construção de partidos e o Estado de Direito socialista, e estabelecer cronogramas concretos para alcançar objetivos de desenvolvimento, como construir uma sociedade moderadamente próspera e alcançar o \ "modernismo socialista zação \ "."
+ china.1.d: "O 19º Congresso Nacional foi realizado no Grande Salão do Povo, Pequim, entre 18 e 24 de outubro de 2017. Os preparativos para o 19º Congresso Nacional começaram em 2016 e terminaram com uma sessão plenária do Comitê Central alguns dias antes do Congresso . Em 2016, as organizações partidárias locais e provinciais começaram a eleger delegados para o congresso, bem como a receber e emendar documentos do partido. Durante o congresso, uma nova ideologia norteadora, intitulada Pensamento de Xi Jinping sobre o socialismo com características chinesas para uma nova era, foi escrita em a constituição do partido. Foi a primeira vez, desde o pensamento de Mao Zedong, que um líder partidário vivo consagrou na constituição do partido uma ideologia com seu próprio nome. O Congresso também enfatizou o fortalecimento do socialismo com características chinesas, a construção de partidos e o Estado de Direito socialista, e estabelecer cronogramas concretos para alcançar objetivos de desenvolvimento, como construir uma sociedade moderadamente próspera e alcançar o\"modernismo socialista zação\"."
  china.1.a: "Uma nova era para o socialismo!"
 
  china.2.t: "90º aniversário do Exército de Libertação Popular"
@@ -877,16 +877,16 @@ l_english:
  china.6.a: "Isso não parece motivado politicamente."
 
  china.7.t: "Capturando Tigres e Moscas"
- china.7.d: "Hoje [CHI.GetLeader] anunciou uma campanha para derrubar altos funcionários corruptos, \" tigres \ "e burocratas de baixo escalão, \" moscas \ ", em uma nova campanha anticorrupção. Embora muitos tenham elogiado a ação como uma medida muito necessária contra funcionários que por décadas aceitaram subornos e desviaram fundos impunemente, outros criticaram a campanha como politicamente motivada e, no final do dia, inútil sem reformas políticas sérias e fundamentais para promover a transparência e a responsabilidade na política chinesa . "
+ china.7.d: "Hoje [CHI.GetLeader] anunciou uma campanha para derrubar altos funcionários corruptos,\" tigres\"e burocratas de baixo escalão,\" moscas\", em uma nova campanha anticorrupção. Embora muitos tenham elogiado a ação como uma medida muito necessária contra funcionários que por décadas aceitaram subornos e desviaram fundos impunemente, outros criticaram a campanha como politicamente motivada e, no final do dia, inútil sem reformas políticas sérias e fundamentais para promover a transparência e a responsabilidade na política chinesa . "
  china.7.a: "Vamos ver onde isso vai dar."
 
  china.8.t: "Xinjiang vê protestos generalizados"
- china.8.d: "Muçulmanos uigures em Xinjiang estão atualmente engajados em protestos, citando nossas chamadas políticas \" opressivas \ "e \" discriminatórias \ ". Devemos decidir se devemos preservar o status quo ou fazer algumas mudanças para apaziguar os manifestantes."
+ china.8.d: "Muçulmanos uigures em Xinjiang estão atualmente engajados em protestos, citando nossas chamadas políticas\" opressivas\"e\" discriminatórias\". Devemos decidir se devemos preservar o status quo ou fazer algumas mudanças para apaziguar os manifestantes."
  china.8.a: "Devemos conter esses protestos."
  china.8.b: "Devíamos fazer algumas concessões aos manifestantes."
 
  china.9.t: "Militantes uigures lançam ataque com faca"
- china.9.d: "A China foi abalada hoje por um violento ataque com faca perpetrado por vários terroristas uigures. Dezenas de pessoas foram mortas ou feridas, incluindo os agressores mortos a tiros pela polícia local. [CHI.Getleader] pediu calma enquanto prometia caçar os responsáveis por este \ "ato bárbaro \". "
+ china.9.d: "A China foi abalada hoje por um violento ataque com faca perpetrado por vários terroristas uigures. Dezenas de pessoas foram mortas ou feridas, incluindo os agressores mortos a tiros pela polícia local. [CHI.Getleader] pediu calma enquanto prometia caçar os responsáveis por este\"ato bárbaro\". "
  china.9.a: "Eles vão pagar."
 
  china.10.t: "Explosões têm como alvo a infraestrutura chinesa"
@@ -894,7 +894,7 @@ l_english:
  china.10.a: "Vamos caçá-los."
 
  china.12.t: "China atrai condenação internacional para campos de internamento uigur"
- china.12.d: "A Human Rights Watch apelou ao governo chinês para pôr fim à sua política de internamento de muçulmanos uigur na província de Xinjiang em \" campos de reeducação \ ". A ONG condenou esta prática recentemente acelerada como uma violação flagrante de ambos os direitos humanos internacionais lei e a própria constituição da China. "
+ china.12.d: "A Human Rights Watch apelou ao governo chinês para pôr fim à sua política de internamento de muçulmanos uigur na província de Xinjiang em\" campos de reeducação\". A ONG condenou esta prática recentemente acelerada como uma violação flagrante de ambos os direitos humanos internacionais lei e a própria constituição da China. "
  china.12.a: "Esta prática deve ser condenada!"
  china.12.b: "Não vemos nada de errado nisso."
  china.12.c: "Isso não é da nossa conta."
@@ -908,15 +908,15 @@ l_english:
  china.14.a: "Uma região inquieta."
 
  china.15.t: "Militantes uigures lançam ataque com faca"
- china.15.d: "A China foi abalada hoje por um violento ataque com faca perpetrado por vários terroristas uigures. Dezenas de pessoas foram mortas ou feridas, incluindo os agressores mortos a tiros pela polícia local. [CHI.Getleader] pediu calma enquanto prometia caçar os responsáveis por este \ "ato bárbaro \". "
+ china.15.d: "A China foi abalada hoje por um violento ataque com faca perpetrado por vários terroristas uigures. Dezenas de pessoas foram mortas ou feridas, incluindo os agressores mortos a tiros pela polícia local. [CHI.Getleader] pediu calma enquanto prometia caçar os responsáveis por este\"ato bárbaro\". "
  china.15.a: "Notícias trágicas."
 
  china.16.t: "Explosões têm como alvo a infraestrutura chinesa"
  china.16.d: "Supostos membros do Partido Islâmico do Turquestão lançaram ataques a bomba coordenados em várias redes ferroviárias chinesas. Analistas de segurança expressaram surpresa com o nível de sofisticação demonstrado por esses ataques. Embora as autoridades chinesas tenham divulgado poucos detalhes sobre os ataques, muitos suspeitam que o os danos às ligações de infraestrutura da China são significativos. "
  china.16.a: "Perturbador."
 
- china.17.t: "Institutos da China \" Democracia com características chinesas \ ""
- china.17.d: "[CHI.GetLeader] anunciou que a China não será mais um estado de partido único. Tendo já removido as restrições aos partidos políticos não-PCC existentes, o governo começou a permitir que outros partidos se registrassem no primeiro lugar livre e justo do país. eleições. No entanto, [CHI.GetLeader] advertiu contra tomar esta decisão como um movimento da China em direção ao Ocidente. \ "Embora tenhamos decidido aceitar essa importação ocidental da democracia, estamos simultaneamente determinados a preservar os valores culturais da China e seus estabilidade de prazo. \ ""
+ china.17.t: "Institutos da China\" Democracia com características chinesas\""
+ china.17.d: "[CHI.GetLeader] anunciou que a China não será mais um estado de partido único. Tendo já removido as restrições aos partidos políticos não-PCC existentes, o governo começou a permitir que outros partidos se registrassem no primeiro lugar livre e justo do país. eleições. No entanto, [CHI.GetLeader] advertiu contra tomar esta decisão como um movimento da China em direção ao Ocidente.\"Embora tenhamos decidido aceitar essa importação ocidental da democracia, estamos simultaneamente determinados a preservar os valores culturais da China e seus estabilidade de prazo.\""
  china.17.a: "Um momento histórico!"
 
  china.18.t: "O Dalai Lama Retorna ao Tibete"
@@ -924,7 +924,7 @@ l_english:
  china.18.a: "Ninguém poderia ter previsto isso."
 
  china.19.t: "A Região Administrativa Especial do Tibete é Estabelecida"
- china.19.d: "Após uma reação positiva na Região Autônoma do Tibete às recentes liberalizações e ao retorno do Dalai Lama, a liderança chinesa decidiu substituir o status de \" Região Autônoma \ "do Tibete pelo de \" Região Administrativa Especial \ ". Esta mudança de o status é acompanhado por um alto grau de autogoverno. "
+ china.19.d: "Após uma reação positiva na Região Autônoma do Tibete às recentes liberalizações e ao retorno do Dalai Lama, a liderança chinesa decidiu substituir o status de\" Região Autônoma\"do Tibete pelo de\" Região Administrativa Especial\". Esta mudança de o status é acompanhado por um alto grau de autogoverno. "
  china.19.a: "Uma mudança inesperada de eventos."
 
  china.20.t: "A Assinatura do Acordo Comercial de Serviços de Cross-Strait"
@@ -932,12 +932,12 @@ l_english:
  china.20.a: "Devemos seguir os procedimentos adequados, mesmo que demore mais tempo."
  china.20.b: "Não podemos perder tempo debatendo isso, devemos apressar o CSSTA."
 
- china.21.t: "O \" Roteiro para a reunificação \ "da RPC
- china.21.d: "Relatórios indicam que o governo de [CHI.GetLeader] ofereceu ao seu homólogo baseado em Taipai um \" Roteiro para a reunificação \ "mapeando um caminho para Taiwan retornar ao controle chinês como uma Região Administrativa Especial. A proposta inclui várias salvaguardas pela continuação da democracia taiwanesa e da autonomia política, mas isso pode não ser suficiente para os oponentes taiwaneses da reunificação com o continente. Como a China responderia se este plano fosse rejeitado pelas autoridades taiwanesas permanece incerto. "
+ china.21.t: "O\" Roteiro para a reunificação\"da RPC
+ china.21.d: "Relatórios indicam que o governo de [CHI.GetLeader] ofereceu ao seu homólogo baseado em Taipai um\" Roteiro para a reunificação\"mapeando um caminho para Taiwan retornar ao controle chinês como uma Região Administrativa Especial. A proposta inclui várias salvaguardas pela continuação da democracia taiwanesa e da autonomia política, mas isso pode não ser suficiente para os oponentes taiwaneses da reunificação com o continente. Como a China responderia se este plano fosse rejeitado pelas autoridades taiwanesas permanece incerto. "
  china.21.a: "Vamos ver como fica."
 
  china.22.t: "China abandona sua oposição à independência de Taiwan"
- china.22.d: "Marcando uma mudança drástica na política, [CHI.GetLeader] disse aos jornalistas que se a República da China, informalmente conhecida como Taiwan, buscasse a independência \" não ficaríamos em seu caminho \ ". No passado, a China expressou oposição ardente à perspectiva de independência de Taiwan, até mesmo ameaçando o uso da força para evitá-la. As razões para essa mudança de atitude por parte das autoridades chinesas permanecem incertas. "
+ china.22.d: "Marcando uma mudança drástica na política, [CHI.GetLeader] disse aos jornalistas que se a República da China, informalmente conhecida como Taiwan, buscasse a independência\" não ficaríamos em seu caminho\". No passado, a China expressou oposição ardente à perspectiva de independência de Taiwan, até mesmo ameaçando o uso da força para evitá-la. As razões para essa mudança de atitude por parte das autoridades chinesas permanecem incertas. "
  china.22.a: "Ninguém poderia ter previsto isso."
 
  china.23.t: "A China está nos ameaçando com medidas econômicas punitivas!"
@@ -946,7 +946,7 @@ l_english:
  china.23.b: "Não somos nada senão leais!"
 
  china.24.t: "China bloqueia ilhas taiwanesas"
- china.24.d: "Após o aumento das tensões com Taiwan, a Marinha do Exército de Libertação do Povo impôs um bloqueio às ilhas Taiwan de Kinmen e Matsu. Esta medida visa prevenir a capacidade de Taiwan de preparar as ilhas para uma possível invasão chinesa, bem como impedir o comércio de Taiwan com o exterior mundo.\n\nOs líderes mundiais estão divididos entre aqueles que criticaram explicitamente a agressão chinesa e outros que pediram calma. O Secretário-Geral da ONU fez um apelo particularmente forte pela paz, exortando o governo chinês a lembrar que \ "a ordem internacional é mantida não por violência e força bruta, mas por diplomacia e moderação. \ ""
+ china.24.d: "Após o aumento das tensões com Taiwan, a Marinha do Exército de Libertação do Povo impôs um bloqueio às ilhas Taiwan de Kinmen e Matsu. Esta medida visa prevenir a capacidade de Taiwan de preparar as ilhas para uma possível invasão chinesa, bem como impedir o comércio de Taiwan com o exterior mundo.\n\nOs líderes mundiais estão divididos entre aqueles que criticaram explicitamente a agressão chinesa e outros que pediram calma. O Secretário-Geral da ONU fez um apelo particularmente forte pela paz, exortando o governo chinês a lembrar que\"a ordem internacional é mantida não por violência e força bruta, mas por diplomacia e moderação.\""
  china.24.a: "As tensões estão aumentando."
  china.24.b: "Isso não é um bom presságio para nós."
  china.24.c: "A paz é coisa do passado."
@@ -957,7 +957,7 @@ l_english:
 
  china.26.t: "Estabelecida a Região Administrativa Especial de Taiwan"
  china.26.d: "Após uma melhoria gradual nas relações entre a China continental e Taiwan, o governo de [TAI.GetLeader] concordou em se reunir ao continente como uma Região Administrativa Especial em troca da preservação da autonomia política e jurídica de Taiwan. A reunificação Pan-Blue Coalition fez declarações elogiando este movimento como o início de uma nova e melhor parte da história de Taiwan, enquanto seus colegas Pan-Verdes pró-independência expressaram reservas. "
- china.26.d_coup: "Após o golpe pró-chinês em Taiwan, a nova administração \" temporária \ "concordou em se reunir novamente à República Popular da China como uma Região Administrativa Especial, como um aparente compromisso. Embora a oposição à nova administração tenha sido silenciada, o apoio público pois este movimento está longe de ser claro. "
+ china.26.d_coup: "Após o golpe pró-chinês em Taiwan, a nova administração\" temporária\"concordou em se reunir novamente à República Popular da China como uma Região Administrativa Especial, como um aparente compromisso. Embora a oposição à nova administração tenha sido silenciada, o apoio público pois este movimento está longe de ser claro. "
  china.26.d_war: "Os chineses vitoriosos anunciaram o estabelecimento de uma Região Administrativa Especial de Taiwan, alardeando a mudança como um sinal da capacidade da China de conciliação e moderação. Embora a nova RAE possa eventualmente ter um grau de independência do domínio chinês, em seu estado atual ela não está em posição de fazê-lo. "
  china.26.a: "A guerra civil chinesa finalmente chegou ao fim."
 
@@ -973,27 +973,27 @@ l_english:
  china.28.b: "Hong Kong voltará ao nosso controle."
 
  china.29.t: "China entra para a Organização Mundial do Comércio"
- china.29.d: "Após um longo processo de negociação com os membros existentes da Organização Mundial do Comércio (OMC), a China finalmente conseguiu a ratificação de seu pedido de adesão à OMC. A China teve que se manifestar aos membros da OMC, especialmente aos Estados Unidos e a União Europeia, que está dando passos notáveis para abrir sua economia à competição. A mídia estatal chinesa saudou este evento como \ "um momento histórico na reforma e abertura da China e no processo de modernização \". "
+ china.29.d: "Após um longo processo de negociação com os membros existentes da Organização Mundial do Comércio (OMC), a China finalmente conseguiu a ratificação de seu pedido de adesão à OMC. A China teve que se manifestar aos membros da OMC, especialmente aos Estados Unidos e a União Europeia, que está dando passos notáveis para abrir sua economia à competição. A mídia estatal chinesa saudou este evento como\"um momento histórico na reforma e abertura da China e no processo de modernização\". "
  china.29.a: "A China continua se abrindo para o mundo."
 
  china.30.t: "China completa transição para economia de mercado livre"
- china.30.d: "As liberalizações recentes da economia chinesa culminaram em uma transição completa do modelo de \" economia de mercado socialista \ "para uma economia de mercado totalmente desenvolvida. Relatórios indicam que [CHI.GetLeader] teve que fazer um grande esforço para convencer os comunistas Funcionários do partido e figuras importantes da indústria chinesa de que este movimento histórico beneficiaria a todos. Posteriormente, a oposição ao movimento foi silenciada, mas muitos analistas acreditam que há uma apreensão significativa entre os pobres rurais da China sobre as novas mudanças. "
+ china.30.d: "As liberalizações recentes da economia chinesa culminaram em uma transição completa do modelo de\" economia de mercado socialista\"para uma economia de mercado totalmente desenvolvida. Relatórios indicam que [CHI.GetLeader] teve que fazer um grande esforço para convencer os comunistas Funcionários do partido e figuras importantes da indústria chinesa de que este movimento histórico beneficiaria a todos. Posteriormente, a oposição ao movimento foi silenciada, mas muitos analistas acreditam que há uma apreensão significativa entre os pobres rurais da China sobre as novas mudanças. "
  china.30.a: "Não há nada que impeça o desenvolvimento da China agora ..."
 
  china.31.t: "[CHI.GetLeader] Denuncia Deng Xiaoping"
- china.31.d: "Em um afastamento dramático da política de décadas de \" reforma e abertura \ "da China, [CHI.GetLeader] criticou a \" decadência moral e opressão dos pobres rurais \ "que as reformas econômicas de Deng trouxeram. Muitos observadores de fora o país ficou chocado com esta denúncia vocal de alguém que por anos foi venerado como o arquiteto do desenvolvimento chinês. Outros, entretanto, previram esse resultado devido ao fortalecimento gradual da facção de esquerda dentro do Partido Comunista.\n\nimplicações desse discurso para o futuro da governança chinesa ainda não foram vistas. Alguns especularam que o discurso é simplesmente um artifício retórico para aumentar a popularidade de [CHI.GetLeader] entre os elementos de esquerda no partido, os militares e a população em geral . Outros, no entanto, estão convencidos de que este discurso anuncia uma reversão em grande escala da liberalização do mercado. "
+ china.31.d: "Em um afastamento dramático da política de décadas de\" reforma e abertura\"da China, [CHI.GetLeader] criticou a\" decadência moral e opressão dos pobres rurais\"que as reformas econômicas de Deng trouxeram. Muitos observadores de fora o país ficou chocado com esta denúncia vocal de alguém que por anos foi venerado como o arquiteto do desenvolvimento chinês. Outros, entretanto, previram esse resultado devido ao fortalecimento gradual da facção de esquerda dentro do Partido Comunista.\n\nimplicações desse discurso para o futuro da governança chinesa ainda não foram vistas. Alguns especularam que o discurso é simplesmente um artifício retórico para aumentar a popularidade de [CHI.GetLeader] entre os elementos de esquerda no partido, os militares e a população em geral . Outros, no entanto, estão convencidos de que este discurso anuncia uma reversão em grande escala da liberalização do mercado. "
  china.31.a: "A República Popular está de volta às suas raízes".
 
  china.32.t: "China declara a quinta internacional"
- china.32.d: "Após a transformação da China do modelo de \" economia de mercado socialista \ "de Deng Xiaoping em uma economia totalmente planejada, [CHI.GetLeader] anunciou a criação de uma \" Quinta Internacional \ ", convidando partidos comunistas de todo o mundo a participar nesta nova iniciativa liderada pela China. Este movimento provocou preocupação entre muitos governos estrangeiros, que temem as ramificações do anúncio da China em relação às suas políticas internas. "
+ china.32.d: "Após a transformação da China do modelo de\" economia de mercado socialista\"de Deng Xiaoping em uma economia totalmente planejada, [CHI.GetLeader] anunciou a criação de uma\" Quinta Internacional\", convidando partidos comunistas de todo o mundo a participar nesta nova iniciativa liderada pela China. Este movimento provocou preocupação entre muitos governos estrangeiros, que temem as ramificações do anúncio da China em relação às suas políticas internas. "
  china.32.a: "O comunismo é mais uma vez uma força a ser considerada ..."
 
  china.33.t: "China conclui o projeto de desvio de Yarlung Tsangpo"
  china.33.d: "Os esforços da China para reduzir seu problema de escassez de água agora se tornaram uma ameaça para nós na forma do Projeto de desvio de Yarlung Tsangpo. O desvio do rio Brahmaputra, conhecido como Yarlung Tsangpo na China, ameaça privar milhares de nosso povo de seu essencial abastecimento de água. Apesar das claras ramificações negativas de sua decisão, os chineses têm pressionado e, ao fazê-lo, colocam em risco a segurança de nossos cidadãos. "
  china.33.a: "Os chineses continuam testando nossa paciência ..."
 
- china.34.t: "China intensifica sua \" Iniciativa Belt and Road \ ""
- china.34.d: "A ambiciosa Belt and Road Initiative (BRI) da China é conhecida por estar em andamento nos últimos anos, tendo passado por uma reformulação de marca depois que \" One Belt One Road Strategy \ "foi considerada muito ameaçadora. [CHI.GetLeader] A administração de hoje anunciou sua intenção de investir em vários projetos de infraestrutura como parte do BRI em países ao redor do mundo. Embora muitos países em desenvolvimento tenham saudado o anúncio em antecipação ao tão necessário investimento chinês em suas economias, Japão, Índia, Estados Unidos e a Austrália expressou reservas sobre a iniciativa, vendo-a como uma tentativa velada de espalhar a influência chinesa no exterior. "
+ china.34.t: "China intensifica sua\" Iniciativa Belt and Road\""
+ china.34.d: "A ambiciosa Belt and Road Initiative (BRI) da China é conhecida por estar em andamento nos últimos anos, tendo passado por uma reformulação de marca depois que\" One Belt One Road Strategy\"foi considerada muito ameaçadora. [CHI.GetLeader] A administração de hoje anunciou sua intenção de investir em vários projetos de infraestrutura como parte do BRI em países ao redor do mundo. Embora muitos países em desenvolvimento tenham saudado o anúncio em antecipação ao tão necessário investimento chinês em suas economias, Japão, Índia, Estados Unidos e a Austrália expressou reservas sobre a iniciativa, vendo-a como uma tentativa velada de espalhar a influência chinesa no exterior. "
  china.34.a: "Onde nós assinamos?"
  china.34.b: "Rejeitamos esta ameaça à nossa independência!"
 
@@ -1018,13 +1018,13 @@ l_english:
  china.38.b: "Devemos aceitar esta humilhação ..."
 
  china.39.t: "A China está minando nossa posição internacional!"
- china.39.d: "Nossa influência global diminuiu drasticamente nos últimos anos graças aos esforços dos chineses, colocando em risco nossa posição como único hegemônico do mundo e lançando as bases para uma nova ordem mundial. Talvez aqueles que previram o \" Fim da História \ "após o nosso a vitória sobre a União Soviética foi excessivamente otimista, afinal. "
+ china.39.d: "Nossa influência global diminuiu drasticamente nos últimos anos graças aos esforços dos chineses, colocando em risco nossa posição como único hegemônico do mundo e lançando as bases para uma nova ordem mundial. Talvez aqueles que previram o\" Fim da História\"após o nosso a vitória sobre a União Soviética foi excessivamente otimista, afinal. "
  china.39.d_SOV: "Nossos antigos aliados têm se empenhado em nos forçar a sair de nossa esfera de influência da Ásia Central. À medida que a interferência da China em nosso domínio aumenta, a principal razão de nosso alinhamento estratégico, a ameaça representada pelos Estados Unidos, empalidece em comparação. O tempo para a inação deve chegará ao fim se quisermos manter nossa posição atual. "
  china.39.a: "Devemos atacar agora, antes que seja tarde demais!"
  china.39.b: "Estamos caminhando para a irrelevância ..."
 
  china.40.t: "[CHI.GetLeader] promete realizar eleições!"
- china.40.d: "Os observadores externos ficaram chocados hoje ao saber que a República Popular da China realizará eleições em nível local. Embora alguns tenham elogiado a medida como um grande passo à frente em termos de liberalização política chinesa, os especialistas descreveram este sentimento como excessivamente otimista dada a falta de reforma política em outras áreas do governo, como as abordagens em relação aos partidos políticos e censura. Um analista afirmou que estas eleições \ "acabarão por ser nada mais do que um reforço e legitimação do regime do Partido Comunista \". "
+ china.40.d: "Os observadores externos ficaram chocados hoje ao saber que a República Popular da China realizará eleições em nível local. Embora alguns tenham elogiado a medida como um grande passo à frente em termos de liberalização política chinesa, os especialistas descreveram este sentimento como excessivamente otimista dada a falta de reforma política em outras áreas do governo, como as abordagens em relação aos partidos políticos e censura. Um analista afirmou que estas eleições\"acabarão por ser nada mais do que um reforço e legitimação do regime do Partido Comunista\". "
  china.40.a: "O PCC não desistirá do poder tão facilmente ..."
 
  china.42.t: "Revolta em Xinjiang"
@@ -1338,18 +1338,18 @@ l_english:
 
  ### Eventos de Taiwan ###
  taiwan.1.t: "Rali Mão-a-Mão 228"
- taiwan.1.d: "Uma demonstração de solidariedade. Uma cadeia humana foi formada com cerca de dois milhões de pessoas formando uma cadeia humana de 500 km. Começando no porto de Keelung, a cidade mais ao norte de Taiwan, a cadeia seguiu seu caminho até o extremo sul da ilha. O propósito era duplo Os taiwaneses desejavam a paz, mas também protestavam contra o lançamento de mísseis pela República Popular da China contra Taiwan, sua ilha vizinha. Parte do simbolismo da manifestação, principalmente no ponto do evento em que os participantes \ "afastar-se da China \" apontou claramente para o apoio à independência de Taiwan e, portanto, não contou com a presença de membros da Coalizão Pan-Azul que se opôs à manifestação com uma manifestação em toda a ilha dias depois. "
+ taiwan.1.d: "Uma demonstração de solidariedade. Uma cadeia humana foi formada com cerca de dois milhões de pessoas formando uma cadeia humana de 500 km. Começando no porto de Keelung, a cidade mais ao norte de Taiwan, a cadeia seguiu seu caminho até o extremo sul da ilha. O propósito era duplo Os taiwaneses desejavam a paz, mas também protestavam contra o lançamento de mísseis pela República Popular da China contra Taiwan, sua ilha vizinha. Parte do simbolismo da manifestação, principalmente no ponto do evento em que os participantes\"afastar-se da China\" apontou claramente para o apoio à independência de Taiwan e, portanto, não contou com a presença de membros da Coalizão Pan-Azul que se opôs à manifestação com uma manifestação em toda a ilha dias depois. "
  taiwan.1.a: "Nunca nos esqueçamos das vítimas"
  taiwan.2.t: "Typhoon Bilis"
  taiwan.2.d: "Na preparação para Bilis, escritórios foram fechados em toda a ilha. Além do fechamento de negócios, voos de ida e volta para a ilha foram reprogramados e um centro de socorro de tufão foi estabelecido. Devido à ameaça de deslizamentos de terra, foi emitido um alerta de deslizamento de terra para Taiwan. Embora a tempestade ainda não tivesse chegado ao continente, uma pessoa foi morta em Taipei em 22 de agosto após ter sido soterrada por um deslizamento de terra provocado pelo tufão iminente; isso foi responsável pela primeira fatalidade causada por Bilis. Junto com a reprogramação de voos, vários os aeroportos foram fechados, e a Bolsa de Valores de Taiwan foi programada para fechar em 23 de agosto. Enquanto isso, os hospitais estenderam o tempo de serviço em antecipação à admissão de pacientes. Membros da guarda costeira de Taiwan regulamentaram a atividade de pesca devido à ameaça de ação das ondas mortais. O porto de Kaohsiung foi fechado durante a tempestade. Devido ao aumento da demanda por vegetais no período que antecedeu a tempestade, o custo desses alimentos aumentou de 20 a 30 por cento.\n\nBilis foi um ciclone tropical altamente destrutivo para Taiwan. Os danos às indústrias agrícolas, pesqueiras e florestais da ilha totalizaram US $ 133,5 milhões. O tufão causou 14 mortes e feriu mais 80 pessoas. Quedas de energia afetaram negativamente cerca de 600.000 residências e 400 residências em Taiwan foram destruídas. Várias centenas de milhares de famílias sofreram com a escassez de água após a tempestade. Em Cheng-Kung, uma estação meteorológica registrou uma rajada de vento de 281 km/h, que quebrou o anemômetro da estação. Um único deslizamento de terra na cidade de Jenai enterrou nove fazendeiros. Dezenas de milhares de pessoas foram deslocadas durante a tempestade e transferidas para abrigos de evacuação criados pelo governo. No leste do condado de Hualien, 250 casas sucumbiram a fortes ventos. Os ventos também derrubaram árvores e espalharam veículos leves, bloqueando estradas. As fortes chuvas associadas a Bilis inundaram cerca de 40.000 ha de pomares e arrozais. Após a passagem de Bilis por Taiwan, um terremoto de magnitude 5,7 atingiu a ilha, exacerbando as condições já agravadas. "
  taiwan.2.a: "Hora de reconstruir"
  taiwan.3.t: "Eleição presidencial de Taiwan"
- taiwan.3.d: "É a segunda eleição presidencial direta da República da China, para eleger o 10º mandato de Presidente e Vice-Presidente da República da China de acordo com a Constituição de 1947. Isso tem o potencial de pôr fim a mais de meio século de Governo do Kuomintang em Taiwan, uma vez que os eleitores do KMT se dividiram ao meio.\n\nEmbora mais popular e consistentemente classificado em melhor posição nas pesquisas, o ex-governador de Taiwan, James Soong, não conseguiu obter a indicação do Kuomintang. Como resultado, ele anunciou sua candidatura como um candidato independente. O Kuomintang respondeu expulsando Soong e 21 de seus aliados. Eles processaram Soong por roubo, alegando que, como secretário-geral do partido, ele roubou milhões de dólares de Taiwan em dinheiro destinados à família do falecido presidente Chiang Ching-kuo e escondeu o dinheiro na Chunghsing Bills Finance Co. Soong se defendeu dizendo que estava agindo sob a direção de Lee, mas sua história era pouco convincente. Inicialmente mantendo a liderança nas pesquisas, S oong perdeu por pouco mais de 300.000 votos, e o escândalo financeiro que manchou sua imagem como político limpo provavelmente o levará ao fracasso.\n\nO Partido Democrático Progressista concorreu ao ex-prefeito de Taipei, Chen Shui-bian, para presidente. Tendo concorrido às eleições de 1996 em uma plataforma de independência radical e perdido por uma avalanche, o DPP em maio de 1999 moderou sua posição ao publicar a \ "Resolução sobre o Futuro de Taiwan \". A resolução aceitou o status quo e promoveu a visão moderada que Taiwan já era independente, portanto, qualquer declaração formal não seria necessária com urgência, se o fosse. Também foi incluída a promessa de que qualquer mudança no status internacional de Taiwan terá de ser feita por meio de um referendo, aliviando assim o medo de que, se eleito, um governo DPP declararia unilateralmente a independência sem a aprovação popular. A chapa Chen-Lu também promete ser mais agressivo na luta contra o ouro negro, fornecer mais recursos para serviços sociais e ser mais ecologicamente correto, como a oposição à energia nuclear. "
+ taiwan.3.d: "É a segunda eleição presidencial direta da República da China, para eleger o 10º mandato de Presidente e Vice-Presidente da República da China de acordo com a Constituição de 1947. Isso tem o potencial de pôr fim a mais de meio século de Governo do Kuomintang em Taiwan, uma vez que os eleitores do KMT se dividiram ao meio.\n\nEmbora mais popular e consistentemente classificado em melhor posição nas pesquisas, o ex-governador de Taiwan, James Soong, não conseguiu obter a indicação do Kuomintang. Como resultado, ele anunciou sua candidatura como um candidato independente. O Kuomintang respondeu expulsando Soong e 21 de seus aliados. Eles processaram Soong por roubo, alegando que, como secretário-geral do partido, ele roubou milhões de dólares de Taiwan em dinheiro destinados à família do falecido presidente Chiang Ching-kuo e escondeu o dinheiro na Chunghsing Bills Finance Co. Soong se defendeu dizendo que estava agindo sob a direção de Lee, mas sua história era pouco convincente. Inicialmente mantendo a liderança nas pesquisas, S oong perdeu por pouco mais de 300.000 votos, e o escândalo financeiro que manchou sua imagem como político limpo provavelmente o levará ao fracasso.\n\nO Partido Democrático Progressista concorreu ao ex-prefeito de Taipei, Chen Shui-bian, para presidente. Tendo concorrido às eleições de 1996 em uma plataforma de independência radical e perdido por uma avalanche, o DPP em maio de 1999 moderou sua posição ao publicar a\"Resolução sobre o Futuro de Taiwan\". A resolução aceitou o status quo e promoveu a visão moderada que Taiwan já era independente, portanto, qualquer declaração formal não seria necessária com urgência, se o fosse. Também foi incluída a promessa de que qualquer mudança no status internacional de Taiwan terá de ser feita por meio de um referendo, aliviando assim o medo de que, se eleito, um governo DPP declararia unilateralmente a independência sem a aprovação popular. A chapa Chen-Lu também promete ser mais agressivo na luta contra o ouro negro, fornecer mais recursos para serviços sociais e ser mais ecologicamente correto, como a oposição à energia nuclear. "
  taiwan.3.a: "Chen Shui-bian (DPP)"
  taiwan.3.b: "Lien Chan (KMT)"
  taiwan.3.c: "James Soong (independente)"
  taiwan.4.t: "Administração da Guarda Costeira estabelecida"
- taiwan.4.d: "O CGA combina o Comando da Guarda Costeira, o Departamento de Polícia Marinha e vários cortadores da Diretoria Geral de Alfândega de Taiwan, Ministério das Finanças. O CGA unifica formalmente as agências de aplicação da lei costeira e marítima. Haverá muitas ações para um jovem agência, participando de inúmeras operações de busca e resgate e anti-contrabando em um futuro próximo.\n\nA Administração da Guarda Costeira do Conselho de Assuntos do Oceano (CGA) é encarregada de manter a lei e a ordem, protegendo os recursos das águas territoriais de o ROC, que circunda Taiwan, Penghu, Kinmen, Ilhas Matsu, Green Island, Orchid Island, Dongsha Islands e Nansha Islands, além de fornecer uma primeira linha de defesa ao longo das áreas costeiras contra contrabandistas e imigrantes ilegais. O CGA é considerado um civil agência de aplicação da lei sob a administração do Conselho de Assuntos do Oceano do Yuan Executivo, embora durante emergências possa ser incorporada como parte da República da China. rces.\n\nA Administração da Guarda Costeira é chefiada por um ministro e três vice-ministros. A CGA inclui oito departamentos, um escritório e cinco forças-tarefa, bem como uma Direção Geral de Patrulha Marítima e uma Direção Geral de Patrulha Costeira. Sua jurisdição cobre as águas ao redor de Kinmen, Matsu, Penghu e a ilha principal de Taiwan para garantir a proteção adequada dos 1.819,8 quilômetros de costa e 540.000 quilômetros quadrados do \ "Território Azul \", que é 15 vezes maior do que a ilha de Taiwan. "
+ taiwan.4.d: "O CGA combina o Comando da Guarda Costeira, o Departamento de Polícia Marinha e vários cortadores da Diretoria Geral de Alfândega de Taiwan, Ministério das Finanças. O CGA unifica formalmente as agências de aplicação da lei costeira e marítima. Haverá muitas ações para um jovem agência, participando de inúmeras operações de busca e resgate e anti-contrabando em um futuro próximo.\n\nA Administração da Guarda Costeira do Conselho de Assuntos do Oceano (CGA) é encarregada de manter a lei e a ordem, protegendo os recursos das águas territoriais de o ROC, que circunda Taiwan, Penghu, Kinmen, Ilhas Matsu, Green Island, Orchid Island, Dongsha Islands e Nansha Islands, além de fornecer uma primeira linha de defesa ao longo das áreas costeiras contra contrabandistas e imigrantes ilegais. O CGA é considerado um civil agência de aplicação da lei sob a administração do Conselho de Assuntos do Oceano do Yuan Executivo, embora durante emergências possa ser incorporada como parte da República da China. rces.\n\nA Administração da Guarda Costeira é chefiada por um ministro e três vice-ministros. A CGA inclui oito departamentos, um escritório e cinco forças-tarefa, bem como uma Direção Geral de Patrulha Marítima e uma Direção Geral de Patrulha Costeira. Sua jurisdição cobre as águas ao redor de Kinmen, Matsu, Penghu e a ilha principal de Taiwan para garantir a proteção adequada dos 1.819,8 quilômetros de costa e 540.000 quilômetros quadrados do\"Território Azul\", que é 15 vezes maior do que a ilha de Taiwan. "
  taiwan.4.a: "Por uma costa segura"
  taiwan.5.t: "Abertura da Universidade Nacional de Kaohsiung"
  taiwan.5.d: "A Universidade tem como objetivo reduzir a lacuna na educação entre o sul e o norte de Taiwan e promover a economia da área sul.\n\nHá vinte departamentos na universidade, incluindo Línguas e Literatura Ocidentais, Língua e Literatura do Leste Asiático, Arquitetura, Criação Design, Kinesiology, Health and Leisure Studies, Law, Government and Law, Economic and Financial Law, Applied Economics, Applied Mathematics, Chemical Applied, Engineering, Civil and Environmental Engineering, Life Sciences e Asia-Pacific Industrial and Business Management, Traditional Artes, Finanças, Gestão da Informação e Física Aplicada. Entre esses departamentos, a Gestão Industrial e de Negócios da Ásia-Pacífico foi especialmente projetada para cultivar as elites industriais.\n\nUma característica incomum nesta escola é o seu espaço aberto. Não há paredes no limites do campus. Os residentes que moram ao redor desta escola podem caminhar até o campus ou fazer exercícios usando os equipamentos da academia. Biodiversi ty também é uma característica notável do NUK. Existem mais de 60 espécies de peixes no lago do Water Land Park. "
@@ -1366,8 +1366,8 @@ l_english:
  taiwan.9.t: "Manifestantes do girassol ocupam a legislatura de Taiwan"
  taiwan.9.d: "Membros do Movimento Girassol liderado por estudantes escalaram a cerca entre eles e a legislatura taiwanesa ontem após protestos contra as tentativas do governo de aprovar o polêmico Acordo de Comércio de Serviços do Estreito (CSSTA), um acordo de livre comércio com a China continental. O protesto movimento levantou preocupações sobre a abordagem precipitada do governo para a ratificação do tratado e a falta de transparência durante as negociações do mesmo, bem como o conteúdo do próprio tratado. "
  taiwan.9.a: "Um golpe para o KMT."
- taiwan.10.t: "O \" Roteiro para a reunificação \ "da RPC
- taiwan.10.d: "O governo de [CHI.GetLeader] nos ofereceu um \" Mapa para a reunificação \ "traçando um caminho para que Taiwan volte ao controle chinês como uma região administrativa especial. A proposta inclui várias salvaguardas para a continuação da democracia taiwanesa e autonomia política, mas isso pode não ser suficiente para os oponentes taiwaneses à reunificação com o continente. Como a China poderia responder se rejeitarmos este plano permanece incerto. "
+ taiwan.10.t: "O\" Roteiro para a reunificação\"da RPC
+ taiwan.10.d: "O governo de [CHI.GetLeader] nos ofereceu um\" Mapa para a reunificação\"traçando um caminho para que Taiwan volte ao controle chinês como uma região administrativa especial. A proposta inclui várias salvaguardas para a continuação da democracia taiwanesa e autonomia política, mas isso pode não ser suficiente para os oponentes taiwaneses à reunificação com o continente. Como a China poderia responder se rejeitarmos este plano permanece incerto. "
  taiwan.10.a: "Devemos aceitar o plano."
  taiwan.10.b: "Taiwan não é a China!"
  taiwan.11.t: "Relatórios de atividade suspeita de inteligência chinesa"
@@ -1395,7 +1395,7 @@ l_english:
  taiwan.17.d: "Taipei se recusou a assumir o compromisso de finalmente reunir nosso país dividido. Podemos esperar por condições que provavelmente levarão a uma aceitação de nossa proposta e tentar novamente, ou podemos tentar buscar outras alternativas ..."
  taiwan.17.a: "Uma escolha ruim da parte deles."
  taiwan.18.t: "Taiwan aprova projeto de lei para conter a interferência chinesa"
- taiwan.18.d: "Com o objetivo declarado de frustrar as tentativas chinesas de interferir no processo eleitoral de Taiwan, [TAI.GetLeader] conseguiu aprovar um polêmico \" projeto de lei anti-infiltração \ "no parlamento. O projeto proíbe potências estrangeiras hostis de fazer campanha, fazer lobby, fazer doações políticas ou disseminação de desinformação. Os legisladores da oposição se opuseram fortemente ao projeto, assim como o Escritório de Assuntos de Taiwan de Pequim. Ambos criticaram [TAI.GetLeader] por perpetrarem um \ "Terror Verde \" que contribui para uma atmosfera de paranóia e medo. [TAI.GetLeader ] o partido no poder defendeu a medida como um ato necessário, dada a ameaça substancial que a China continental representa para o território insular. "
+ taiwan.18.d: "Com o objetivo declarado de frustrar as tentativas chinesas de interferir no processo eleitoral de Taiwan, [TAI.GetLeader] conseguiu aprovar um polêmico\" projeto de lei anti-infiltração\"no parlamento. O projeto proíbe potências estrangeiras hostis de fazer campanha, fazer lobby, fazer doações políticas ou disseminação de desinformação. Os legisladores da oposição se opuseram fortemente ao projeto, assim como o Escritório de Assuntos de Taiwan de Pequim. Ambos criticaram [TAI.GetLeader] por perpetrarem um\"Terror Verde\" que contribui para uma atmosfera de paranóia e medo. [TAI.GetLeader ] o partido no poder defendeu a medida como um ato necessário, dada a ameaça substancial que a China continental representa para o território insular. "
  taiwan.18.a: "Taiwan revida."
 
  ### Eventos em Hong Kong ###
@@ -1408,7 +1408,7 @@ l_english:
  hongkong.1.b: "Esta é uma má notícia para nós."
 
  hongkong.2.t: "China envia tropas para Hong Kong"
- hongkong.2.d: "Após protestos na Região Administrativa Especial de Hong Kong, a China ordenou que várias unidades do Exército de Libertação Popular tomem as ruas de Hong Kong para \" restaurar a lei e a ordem \ ". [CHI.GetLeader] garantiu \" paz manifestantes \ "de que não serão alvejados e que todos os presos serão tratados de acordo com a legislação internacional de direitos humanos. No entanto, muitos em Hong Kong e no exterior expressaram ceticismo em relação ao grau de contenção das tropas chinesas em relação aos manifestantes. "
+ hongkong.2.d: "Após protestos na Região Administrativa Especial de Hong Kong, a China ordenou que várias unidades do Exército de Libertação Popular tomem as ruas de Hong Kong para\" restaurar a lei e a ordem\". [CHI.GetLeader] garantiu\" paz manifestantes\"de que não serão alvejados e que todos os presos serão tratados de acordo com a legislação internacional de direitos humanos. No entanto, muitos em Hong Kong e no exterior expressaram ceticismo em relação ao grau de contenção das tropas chinesas em relação aos manifestantes. "
  hongkong.2.a: "Esta ação é desprezível!"
  hongkong.2.b: "A China fez o que precisava fazer."
  hongkong.2.c: "Isso não é da nossa conta."
@@ -1444,7 +1444,7 @@ l_english:
  hongkong.8.a: "Eles parecem não ter mais medo de nós."
 
  hongkong.9.t: "Protestos de Hong Kong diminuem"
- hongkong.9.d: "Os protestos na Região Administrativa Especial de Hong Kong contra as recentes ações chinesas diminuíram gradualmente nos últimos dias e praticamente pararam. As operações policiais no território chinês não encontraram resistência e muitos dos que haviam saído às ruas voltaram para suas casas. O que isso significa para a relação entre a China e um território conturbado que detém valores políticos significativamente diferentes do anterior ainda está para ser visto. Talvez um indicador do que está por vir seja uma bandeira deixada por manifestantes em um local proeminente no centro da cidade onde se lê \ "Estaremos de volta \". "
+ hongkong.9.d: "Os protestos na Região Administrativa Especial de Hong Kong contra as recentes ações chinesas diminuíram gradualmente nos últimos dias e praticamente pararam. As operações policiais no território chinês não encontraram resistência e muitos dos que haviam saído às ruas voltaram para suas casas. O que isso significa para a relação entre a China e um território conturbado que detém valores políticos significativamente diferentes do anterior ainda está para ser visto. Talvez um indicador do que está por vir seja uma bandeira deixada por manifestantes em um local proeminente no centro da cidade onde se lê\"Estaremos de volta\". "
  hongkong.9.a: "Um desenvolvimento interessante."
  hongkong.9.b: "Eles sabem que sua causa é fútil."
 
@@ -1455,7 +1455,7 @@ l_english:
 
  #Coréia
  korea.1.t: "China exige nossa retirada da península coreana"
- korea.1.d: "A RPC exigiu que retirássemos nossas tropas protegendo a República da Coréia do que ela descreve como sua \" esfera de influência \ ". Essa exigência é, sem dúvida, um prelúdio para uma ação agressiva contra o ROK. Se retirarmos nossas tropas do Península, as chances de um conflito na DMZ aumentarão dramaticamente. "
+ korea.1.d: "A RPC exigiu que retirássemos nossas tropas protegendo a República da Coréia do que ela descreve como sua\" esfera de influência\". Essa exigência é, sem dúvida, um prelúdio para uma ação agressiva contra o ROK. Se retirarmos nossas tropas do Península, as chances de um conflito na DMZ aumentarão dramaticamente. "
  korea.1.a: "Essa demanda é ridícula!"
  korea.1.b: "É melhor para nós conceder ..."
 
@@ -1467,7 +1467,7 @@ l_english:
  korea.2.e: "Iniciar grandes reformas."
 
  korea.3.t: "[NKO.GetLeader] anunciou novas reformas econômicas"
- korea.3.d: "Sob pressão chinesa para reformar, a Coreia do Norte iniciou um processo de liberalização econômica que muitos esperam elevar os padrões de vida no \" reino eremita \ ". Enquanto muitos economistas elogiaram o início deste processo de reforma, outros levantaram preocupações sobre se a velocidade das reformas pode causar instabilidade em um país que se ajustou a uma economia totalmente planejada. "
+ korea.3.d: "Sob pressão chinesa para reformar, a Coreia do Norte iniciou um processo de liberalização econômica que muitos esperam elevar os padrões de vida no\" reino eremita\". Enquanto muitos economistas elogiaram o início deste processo de reforma, outros levantaram preocupações sobre se a velocidade das reformas pode causar instabilidade em um país que se ajustou a uma economia totalmente planejada. "
  korea.3.a: "Notícias encorajadoras?"
 
  korea.4.t: "A divisão chinês-norte-coreano"
@@ -1522,7 +1522,7 @@ l_english:
 
  #Reconhecimento internacional
  recognition.1.t: "[FROM.GetName] está minando nossa integridade territorial!"
- recognition.1.d: "O governo de [FROM.GetNameDef] se posicionou contra nós ao conceder reconhecimento ao chamado \" estado \ "separatista que atualmente está minando a integridade territorial de [ROOT.GetName]. Este é um golpe para o [ROOT. GetAdjective] pessoas. "
+ recognition.1.d: "O governo de [FROM.GetNameDef] se posicionou contra nós ao conceder reconhecimento ao chamado\" estado\"separatista que atualmente está minando a integridade territorial de [ROOT.GetName]. Este é um golpe para o [ROOT. GetAdjective] pessoas. "
  recognition.1.a: "Não seremos divididos."
 
  recognition.2.t: "[FROM.GetName] apoia nossa independência!"
@@ -1603,7 +1603,7 @@ l_english:
  isis.2.a_tt: "§HFalha na infiltração§! (Sem efeito)"
 
  isis.3.t: "Lutadores desertam para o Daesh"
- isis.3.d: "[Root.GetLeader]! O chamado Estado \" Islâmico \ "se infiltrou em nós e conseguiu convencer alguns de nossos melhores lutadores a se juntarem a sua desculpa ridícula de califado. Não devemos deixar isso ficar sem resposta, devemos lutar voltar e derrotar esses kharijitas que fazem takfir à esquerda e à direita enquanto usam o Alcorão Sagrado como papel higiênico. "
+ isis.3.d: "[Root.GetLeader]! O chamado Estado\" Islâmico\"se infiltrou em nós e conseguiu convencer alguns de nossos melhores lutadores a se juntarem a sua desculpa ridícula de califado. Não devemos deixar isso ficar sem resposta, devemos lutar voltar e derrotar esses kharijitas que fazem takfir à esquerda e à direita enquanto usam o Alcorão Sagrado como papel higiênico. "
  isis.3.a: "Nós, os jihadis justos, vamos massacrá-los como cães!"
  isis.3.b: "Não, não podemos pagar outra frente nesta guerra"
 
@@ -1613,7 +1613,7 @@ l_english:
  isis.4.a_tt: "Adiciona 2 §HJabat al-Nusra Brigades§! Em §HRaqqa§ !."
 
  isis.5.t: "Sinal de fraqueza de Tahrir al-Sham"
- isis.5.d: "Ó califa, os nojentos Tahrir al-Sham-front são mais fracos do que pensávamos, não fazendo nada contra nossa infiltração neles e as recentes deserções. O Conselho de Guerra Shura recomenda que abatamos seus restos apodrecidos como cães e tomemos seu território - acrescentando-o a nosso glorioso califado! "
+ isis.5.d: "Ó califa, os nojentos Tahrir al-Sham-front são mais fracos do que pensávamos, não fazendo nada contra nossa infiltração neles e as recentes deserções. O Conselho de Guerra Shura recomenda que abatamos seus restos apodrecidos como cães e tomemos seu território-acrescentando-o a nosso glorioso califado! "
  isis.5.a: "Ensine a esses falsos jihadistas quem é o verdadeiro sucessor do Sheik Osama!"
  isis.5.b: "A hora deles chegará, mas por agora devemos esperar"
 
@@ -1641,7 +1641,7 @@ l_english:
  isis.1302.d: "Más notícias, califa! O clérigo-chefe Abu Sufyan al-Sulami foi martirizado em um ataque aéreo covarde dos americanos. Ele veio até nós da terra do Bahrein e nos deu o apoio religioso fundamental para nosso califado.\n\nOh, califa, ele inspirou a todos nós com sua bela biografia de você.\n\nQue Alá aceite seu martírio. "
 
  isisNews.1302.t: "Clérigo chefe do ISIS morto em ataque aéreo da coalizão"
- isisNews.1302.d: "Terrorista do Bahrein e líder religioso sênior do ISIS, Turki al-Binali, conhecido por sua norma-de-guerre \" Abu Sufyan al-Sulami \ ", foi morto hoje em um ataque aéreo da coalizão dos EUA. Al-Binali não era importante para o ISIS esforço militar, mas foi fundamental para fornecer apoio religioso para o grupo, e escreveu a primeira biografia de Abu Bakr al-Baghdadi. "
+ isisNews.1302.d: "Terrorista do Bahrein e líder religioso sênior do ISIS, Turki al-Binali, conhecido por sua norma-de-guerre\" Abu Sufyan al-Sulami\", foi morto hoje em um ataque aéreo da coalizão dos EUA. Al-Binali não era importante para o ISIS esforço militar, mas foi fundamental para fornecer apoio religioso para o grupo, e escreveu a primeira biografia de Abu Bakr al-Baghdadi. "
 
  isis.1303.t: "Comandante Martirizado em Ataque Aéreo da Coalizão"
  isis.1303.d: "Más notícias, califa! O emir de nossos combatentes albaneses e kosovares e comandante sênior Lavdrim Muhaxheri foi martirizado em um ataque aéreo covarde dos cães americanos.\n\nEle matou muitos apóstatas.\n\nQue Alá aceite seu martírio. "
@@ -1721,7 +1721,7 @@ l_english:
  isis.11302.d: "Más notícias, califa! O clérigo-chefe Abu Sufyan al-Sulami foi martirizado em um ataque aéreo covarde dos russos. Ele veio até nós da terra do Bahrein e nos deu o apoio religioso fundamental para nosso califado.\n\nÓ Califa, ele inspirou a todos nós com sua bela biografia de você.\n\nQue Alá aceite seu martírio. "
 
  isisNews.11302.t: "Clérigo chefe do ISIS morto em ataque aéreo russo"
- isisNews.11302.d: "Terrorista do Bahrein e líder religioso sênior do ISIS, Turki al-Binali, conhecido por sua norma-de-guerre \" Abu Sufyan al-Sulami \ ", foi morto hoje em um ataque aéreo russo. Al-Binali não era importante para o esforço militar do ISIS , mas foi fundamental para fornecer apoio religioso para o grupo e escreveu a primeira biografia de Abu Bakr al-Baghdadi. "
+ isisNews.11302.d: "Terrorista do Bahrein e líder religioso sênior do ISIS, Turki al-Binali, conhecido por sua norma-de-guerre\" Abu Sufyan al-Sulami\", foi morto hoje em um ataque aéreo russo. Al-Binali não era importante para o esforço militar do ISIS , mas foi fundamental para fornecer apoio religioso para o grupo e escreveu a primeira biografia de Abu Bakr al-Baghdadi. "
 
  isis.11303.t: "Comandante Martirizado em Ataque Aéreo Russo"
  isis.11303.d: "Más notícias, califa! O emir de nossos combatentes albaneses e kosovares e comandante sênior Lavdrim Muhaxheri foi martirizado em um ataque aéreo covarde dos cães russos.\n\nEle matou muitos apóstatas.\n\nQue Alá aceite seu martírio. "
@@ -1841,12 +1841,12 @@ l_english:
  #### Eventos da Irmandade Muçulmana ###
 
  brotherhood.6.t: "Manifestantes da Irmandade Muçulmana exigem eleições"
- brotherhood.6.d: "A Irmandade Muçulmana [Root.GetAdjective] está ocupando praças centrais em cidades de todo o país, gritando slogans e exigindo eleições livres. Eles são bem organizados, então nossas únicas duas alternativas reais são limpar as praças à força, e caçar e prender os líderes e organizadores - ou para atender às suas demandas e permitir eleições ".
+ brotherhood.6.d: "A Irmandade Muçulmana [Root.GetAdjective] está ocupando praças centrais em cidades de todo o país, gritando slogans e exigindo eleições livres. Eles são bem organizados, então nossas únicas duas alternativas reais são limpar as praças à força, e caçar e prender os líderes e organizadores-ou para atender às suas demandas e permitir eleições ".
  brotherhood.6.a: "Limpe esta ralé de rua e caça seus líderes"
- brotherhood.6.b: "Atender suas demandas - realizar eleições"
+ brotherhood.6.b: "Atender suas demandas-realizar eleições"
 
  brotherhood.7.t: "Brutalidade dos tiroteios da repressão"
- brotherhood.7.d: "Em vez de ir estrategicamente aos líderes e dar exemplos firmes a eles, houve uma série de assassinatos extrajudiciais de partidários da Irmandade Muçulmana - até mesmo de suas famílias. Essas injustiças estão aumentando a demanda por uma mudança de governo entre a população em geral. Os consultores governamentais apontam que o aumento do financiamento da Segurança Interna diminuirá a chance de isso acontecer novamente. "
+ brotherhood.7.d: "Em vez de ir estrategicamente aos líderes e dar exemplos firmes a eles, houve uma série de assassinatos extrajudiciais de partidários da Irmandade Muçulmana-até mesmo de suas famílias. Essas injustiças estão aumentando a demanda por uma mudança de governo entre a população em geral. Os consultores governamentais apontam que o aumento do financiamento da Segurança Interna diminuirá a chance de isso acontecer novamente. "
  brotherhood.7.a: "Repreenda a polícia e o exército"
 
  brotherhood.8.t: "Terroristas da Irmandade Muçulmana invadem a prisão"
@@ -1854,11 +1854,11 @@ l_english:
  brotherhood.8.a: "Malditos Terroristas"
 
  brotherhood.9.t: "Célula terrorista da Irmandade Muçulmana desmantelada"
- brotherhood.9.d: "As forças de segurança [Root.GetAdjective] tiveram sucesso em se infiltrar em uma das principais células de liderança da Irmandade Muçulmana - e prenderam com sucesso os líderes e seus associados. Armas e planos para assassinar funcionários do governo foram encontrados no local.\n\nO Julgamento está marcado para amanhã, as execuções acontecerão logo depois. "
+ brotherhood.9.d: "As forças de segurança [Root.GetAdjective] tiveram sucesso em se infiltrar em uma das principais células de liderança da Irmandade Muçulmana-e prenderam com sucesso os líderes e seus associados. Armas e planos para assassinar funcionários do governo foram encontrados no local.\n\nO Julgamento está marcado para amanhã, as execuções acontecerão logo depois. "
  brotherhood.9.a: "[Root.GetLeader] é vitorioso de novo!"
 
  brotherhood.10.t: "Insurgência da Irmandade Muçulmana vira Guerra Civil"
- brotherhood.10.d: "Nossa repressão violenta da Irmandade Muçulmana falhou - seu apoio só cresceu. Eles conseguiram até mesmo construir um grande apoio entre os soldados e alguns generais traidores desertaram para o seu lado. Isso não é mais um assunto para nossas forças de segurança - isso é guerra total. "
+ brotherhood.10.d: "Nossa repressão violenta da Irmandade Muçulmana falhou-seu apoio só cresceu. Eles conseguiram até mesmo construir um grande apoio entre os soldados e alguns generais traidores desertaram para o seu lado. Isso não é mais um assunto para nossas forças de segurança-isso é guerra total. "
  brotherhood.10.a: "Vamos derrotá-los"
  brotherhood.10.b: "Na verdade, vamos jogar como eles"
 
@@ -1869,18 +1869,18 @@ l_english:
  jihadi.2.b: "Vamos fechar essas mesquitas"
 
  jihadi.5.t: "Insurgência jihadista salafista entra em erupção na guerra civil"
- jihadi.5.d: "Nossa tentativa de supressão dos jihadistas salafistas falhou, com eles conseguindo criar caos e insegurança o suficiente a ponto de muitos [ROOT.GetAdjective] s se sentirem mais seguros sendo governados pelos jihadistas do que pelo nosso governo. Eles até conseguiram radicalizar soldados e alguns generais traidores desertaram para o lado deles. Isso não é mais um assunto para nossas forças de contraterrorismo - isso é guerra total. "
+ jihadi.5.d: "Nossa tentativa de supressão dos jihadistas salafistas falhou, com eles conseguindo criar caos e insegurança o suficiente a ponto de muitos [ROOT.GetAdjective] s se sentirem mais seguros sendo governados pelos jihadistas do que pelo nosso governo. Eles até conseguiram radicalizar soldados e alguns generais traidores desertaram para o lado deles. Isso não é mais um assunto para nossas forças de contraterrorismo-isso é guerra total. "
  jihadi.5.a: "Vamos derrotá-los!"
  jihadi.5.b: "É hora de abandonar o navio ..."
 
  #Joke Events
  #for root
  joke.1.t: "[Root.GetLeader] piadas sobre o líder [From.GetAdjective]"
- joke.1.d: "Em um vídeo viral espalhado no Twitter e no Facebook, [Root.GetLeader] foi pego em uma fita contando a um grupo de ministros a seguinte piada sobre o líder [From.GetAdjective] [From.GetLeader]:\n\n\" Um dia [ From.GetLeader] estava andando com seu Camel.\nDe repente, [From.GetLeader] encontra um viajante [Root.GetAdjective].\nViajante [Root.GetAdjective]: -Por que em nome de Allah você está andando com isso Burro?\n[From.GetLeader]: -Você é cego? Você não consegue ver que este não é um Burro?\nViajante [Root.GetAdjective]: -Cale a boca, [From.GetLeader]! Eu estava conversando com o Camel. \ ""
+ joke.1.d: "Em um vídeo viral espalhado no Twitter e no Facebook, [Root.GetLeader] foi pego em uma fita contando a um grupo de ministros a seguinte piada sobre o líder [From.GetAdjective] [From.GetLeader]:\n\n\" Um dia [ From.GetLeader] estava andando com seu Camel.\nDe repente, [From.GetLeader] encontra um viajante [Root.GetAdjective].\nViajante [Root.GetAdjective]: -Por que em nome de Allah você está andando com isso Burro?\n[From.GetLeader]: -Você é cego? Você não consegue ver que este não é um Burro?\nViajante [Root.GetAdjective]: -Cale a boca, [From.GetLeader]! Eu estava conversando com o Camel.\""
  joke.1.a: "Opa!"
 
  joke.2.t: "[From.GetLeader] insulta gravemente nossa nação!"
- joke.2.d: "Em um vídeo viral espalhado no Twitter e no Facebook, [From.GetLeader] foi pego em uma fita contando a um grupo de ministros a seguinte piada sobre [Root.GetAdjective] líder [Root.GetLeader]:\n\n\" Um dia [ Root.GetLeader] estava andando com seu Camel.\nDe repente, [Root.GetLeader] encontra um viajante [From.GetAdjective].\n[From.GetAdjective] viajante: -Por que em nome de Allah você está andando com isso Burro?\n[Root.GetLeader]: -Você é cego? Você não pode ver que este não é um Burro?\nO viajante [From.GetAdjective] responde rapidamente: -Cala a boca, [Root.GetLeader]! Eu estava conversando com Camel. \ ""
+ joke.2.d: "Em um vídeo viral espalhado no Twitter e no Facebook, [From.GetLeader] foi pego em uma fita contando a um grupo de ministros a seguinte piada sobre [Root.GetAdjective] líder [Root.GetLeader]:\n\n\" Um dia [ Root.GetLeader] estava andando com seu Camel.\nDe repente, [Root.GetLeader] encontra um viajante [From.GetAdjective].\n[From.GetAdjective] viajante: -Por que em nome de Allah você está andando com isso Burro?\n[Root.GetLeader]: -Você é cego? Você não pode ver que este não é um Burro?\nO viajante [From.GetAdjective] responde rapidamente: -Cala a boca, [Root.GetLeader]! Eu estava conversando com Camel.\""
  joke.2.a: "Este cachorro ([From.GetLeader]) deve aprender a manter a língua"
 
  #Kurdistan
@@ -2019,7 +2019,7 @@ l_english:
  Saleh.3.b: "Provavelmente não é uma boa ideia ..."
 
  Saleh.5.t: "Saleh embarca em um caminho perigoso"
- Saleh.5.d: "Após anos de uma aliança indecisa e instável entre as forças Houthi e Republicanas, o ex-presidente do Iêmen, Ali Abdullah Saleh, fez um discurso dirigido à coalizão liderada pela Arábia Saudita, destacando a chamada estupidez da causa Houthi. Saleh afirmou que se a coalizão deviam suspender o bloqueio e abrir os aeroportos para facilitar o esforço humanitário, ele e suas forças republicanas estavam dispostos a jurar fidelidade à Arábia Saudita, declarando-se inimigo de nossa aliança. Saleh parecia totalmente comprometido em seu discurso mais recente e publicamente declarou um novo capítulo na história do Iêmen em meio a esta crise humanitária, como um Iêmen unido, livre e democrático. As palavras de Saleh - Vou lutar contra os inimigos da humanidade e os inimigos de nossa pátria que estão se esforçando para apagar sua identidade e destruir seus ganhos e humilhar os iemenitas! "
+ Saleh.5.d: "Após anos de uma aliança indecisa e instável entre as forças Houthi e Republicanas, o ex-presidente do Iêmen, Ali Abdullah Saleh, fez um discurso dirigido à coalizão liderada pela Arábia Saudita, destacando a chamada estupidez da causa Houthi. Saleh afirmou que se a coalizão deviam suspender o bloqueio e abrir os aeroportos para facilitar o esforço humanitário, ele e suas forças republicanas estavam dispostos a jurar fidelidade à Arábia Saudita, declarando-se inimigo de nossa aliança. Saleh parecia totalmente comprometido em seu discurso mais recente e publicamente declarou um novo capítulo na história do Iêmen em meio a esta crise humanitária, como um Iêmen unido, livre e democrático. As palavras de Saleh-Vou lutar contra os inimigos da humanidade e os inimigos de nossa pátria que estão se esforçando para apagar sua identidade e destruir seus ganhos e humilhar os iemenitas! "
  Saleh.5.a: "Encontre este traidor ..."
  Saleh.5.b: "Ele não tem coragem de fazer isso ..."
 
@@ -2177,7 +2177,7 @@ l_english:
 
  #Israel
  Israel.1.t: "Rumores de uma 3ª Intifada"
- Israel.1.d: "O influente grupo islâmico palestino Hamas convocou um novo levante contra Israel, começando na sexta-feira. Falando em Gaza na quinta-feira, o líder do Hamas, Ismail Haniyeh, disse:" Devemos pedir e trabalhar para lançar uma intifada no rosto do inimigo sionista. \ "Ele também disse: \" Queremos que o levante dure e continuemos a permitir que Trump e a ocupação se arrependam dessa decisão. \ ""
+ Israel.1.d: "O influente grupo islâmico palestino Hamas convocou um novo levante contra Israel, começando na sexta-feira. Falando em Gaza na quinta-feira, o líder do Hamas, Ismail Haniyeh, disse:" Devemos pedir e trabalhar para lançar uma intifada no rosto do inimigo sionista.\"Ele também disse:\" Queremos que o levante dure e continuemos a permitir que Trump e a ocupação se arrependam dessa decisão.\""
  Israel.1.a: "Uh Oh"
 
  Israel.2.t: "Israel ameaça guerra"
@@ -2281,7 +2281,7 @@ l_english:
 
  #Camarões
  Cameroon.1.t: "A Erupção do Monte Camarões"
- Cameroon.1.d: "O Monte Camarões, um vulcão com uma altitude de 4.040 metros, é o ponto mais alto da África central e é um dos vulcões mais ativos da África.\n\nJá tendo entrado em erupção em 1999, as pessoas ao redor do Monte Camarões se surpreenderam quando o vulcão, que os nativos chamam de Mongo ma Ndemi (\ "Montanha da Grandeza \"), irrompeu mais uma vez em vários meses de atividades violentas em 28 de maio de 2000. "
+ Cameroon.1.d: "O Monte Camarões, um vulcão com uma altitude de 4.040 metros, é o ponto mais alto da África central e é um dos vulcões mais ativos da África.\n\nJá tendo entrado em erupção em 1999, as pessoas ao redor do Monte Camarões se surpreenderam quando o vulcão, que os nativos chamam de Mongo ma Ndemi (\"Montanha da Grandeza\"), irrompeu mais uma vez em vários meses de atividades violentas em 28 de maio de 2000. "
  Cameroon.1.a: "Isso vai prejudicar a região."
  Cameroon.1.b: "Envie toda a ajuda necessária!"
 
@@ -2313,7 +2313,7 @@ l_english:
 
  #Egito
  Egypt.1.t: "massacre el-Kosheh"
- Egypt.1.d: "O Massacre de el-Kosheh foi um ataque terrorista ocorrido no domingo, 2 de janeiro na vila de el-Kosheh no Alto Egito, 450 quilômetros ao sul do Cairo.\n\nA minoria cristã copta que vive no nordeste da África sempre teve dificuldades relação com muçulmanos radicais que viviam entre as populações de maioria islâmica. el-Kosheh era um centro econômico local na governadoria de Sohag com uma população de cerca de 35.000 habitantes e uma população de maioria copta - um fato que não salvou os civis locais de militantes atacantes. Depois de um período religioso conflito entre um dono de loja cristão e um cliente muçulmano, a comunidade muçulmana da aldeia entrou em frenesi e começou a pilhar e saquear lojas e vitrines cristãs, principalmente nos arredores da cidade, na aldeia de el-Kosheh, a uma boa distância de a cidade de Kosheh.\n\nEste massacre foi um dos maiores da história do Egito e põe em ação a eficiência de nosso governo de maioria muçulmana. O papa da igreja copta ha s já chamou isso de uma tragédia de martírio e declarou os 21 mártires cristãos massacrados. O que o governo do Egito deve fazer? "
+ Egypt.1.d: "O Massacre de el-Kosheh foi um ataque terrorista ocorrido no domingo, 2 de janeiro na vila de el-Kosheh no Alto Egito, 450 quilômetros ao sul do Cairo.\n\nA minoria cristã copta que vive no nordeste da África sempre teve dificuldades relação com muçulmanos radicais que viviam entre as populações de maioria islâmica. el-Kosheh era um centro econômico local na governadoria de Sohag com uma população de cerca de 35.000 habitantes e uma população de maioria copta-um fato que não salvou os civis locais de militantes atacantes. Depois de um período religioso conflito entre um dono de loja cristão e um cliente muçulmano, a comunidade muçulmana da aldeia entrou em frenesi e começou a pilhar e saquear lojas e vitrines cristãs, principalmente nos arredores da cidade, na aldeia de el-Kosheh, a uma boa distância de a cidade de Kosheh.\n\nEste massacre foi um dos maiores da história do Egito e põe em ação a eficiência de nosso governo de maioria muçulmana. O papa da igreja copta ha s já chamou isso de uma tragédia de martírio e declarou os 21 mártires cristãos massacrados. O que o governo do Egito deve fazer? "
  Egypt.1.a: "Nós rastrearemos esses bastardos."
  Egypt.1.b: "Os cristãos precisam calar a boca."
 
@@ -2332,15 +2332,15 @@ l_english:
  ethiopia.1.a: "Vamos conceder empréstimos adicionais."
  ethiopia.1.b: "Não podemos compartilhar nada neste momento."
  ethiopia.2.t: "Etiópia busca investimentos"
- ethiopia.2.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros - e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
+ ethiopia.2.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros-e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
  ethiopia.2.a: "Nós aprovamos!"
  ethiopia.2.b: "Deixe os mercados decidirem."
  ethiopia.3.t: "Etiópia busca investimentos"
- ethiopia.3.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros - e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
+ ethiopia.3.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros-e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
  ethiopia.3.a: "Nós aprovamos!"
  ethiopia.3.b: "Deixe os mercados decidirem."
  ethiopia.4.t: "Etiópia busca investimentos"
- ethiopia.4.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros - e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
+ ethiopia.4.d: "O setor industrial da Etiópia experimentou recentemente um grande boom que o governo de [ETH.GetLeader] está agora procurando expandir. As esperanças de transformar a Etiópia em uma potência industrial, no entanto, só podem ser realizadas com investimentos estrangeiros-e o governo etíope se aproximou em uma tentativa de convencer nossas empresas nacionais a apoiar a economia em crescimento da Etiópia. "
  ethiopia.4.a: "Nós aprovamos!"
  ethiopia.4.b: "Deixe os mercados decidirem."
  ethiopia.5.t: "A Aliança Africana"
@@ -2359,7 +2359,7 @@ l_english:
  ethiopia.9.t: "Addis Ababa Light Rail expandido"
  ethiopia.9.d: "A nova linha construída é totalmente separada por níveis. Além de ampliar as linhas existentes, duas novas linhas foram construídas. A primeira começa na Catedral de São Jorge, passa ao longo da Praça do México até a Sede da União Africana e termina em Lebu, conectando-se a a nova rede ferroviária nacional. A segunda linha começa na rotatória Megenagna e passa pelo aeroporto de Bole, área de Wello Sefer, área de mercado de Saris e área de Jommo e termina em Lebu. "
  ethiopia.9.a: "De Addis Ababa a Djibouti!"
- ethiopia.10.t: "Ferrovia Addis Ababa – Djibouti concluída"
+ ethiopia.10.t: "Ferrovia Addis Ababa–Djibouti concluída"
  ethiopia.10.d: "Isso servirá como nossa espinha dorsal da nova Rede Ferroviária Nacional da Etiópia. Fornece acesso ao mar, ligando nossa capital, Adis Abeba, a Djibouti e seu porto de Doraleh."
  ethiopia.10.a: "Isso vai ajudar a nossa economia"
  ETH_railway_destroyed_flg: "Estrada de ferro Ethio-Djibouti destruída"
@@ -2420,7 +2420,7 @@ l_english:
  ethiopia_news.5.d: "Após um longo período de consideração e um convite oficial do governo etíope, o ex-ditador comunista Mengistu Haile Mariam decidiu retornar à Etiópia. Lá, ele deve assumir novamente uma posição de liderança dentro do partido comunista da Etiópia."
  ethiopia_news.5.a: "O ditador retorna."
  ethiopia_news.6.t: "A Restauração do PDRE"
- ethiopia_news.6.d: "Em um choque político, o governo da Etiópia decidiu derrubar a constituição de 1995 e ceder o poder ao partido comunista mais uma vez.\n\nMengistu Haile Mariam hoje mais uma vez assumiu a liderança do país - ele, entretanto, rejeitou assumir um juramento que vincularia seu poder agora mais uma vez sem limites dentro do país a uma regra pré-estabelecida. Ele comentou \ "Eu sei o que é melhor para o povo, não preciso de juramento \", quando questionado por um dos poucos jornalistas internacionais restantes.\n\nA espera-se que a Etiópia volte aos velhos dias sombrios da década de 1980. "
+ ethiopia_news.6.d: "Em um choque político, o governo da Etiópia decidiu derrubar a constituição de 1995 e ceder o poder ao partido comunista mais uma vez.\n\nMengistu Haile Mariam hoje mais uma vez assumiu a liderança do país-ele, entretanto, rejeitou assumir um juramento que vincularia seu poder agora mais uma vez sem limites dentro do país a uma regra pré-estabelecida. Ele comentou\"Eu sei o que é melhor para o povo, não preciso de juramento\", quando questionado por um dos poucos jornalistas internacionais restantes.\n\nA espera-se que a Etiópia volte aos velhos dias sombrios da década de 1980. "
  ethiopia_news.6.a: "O PDRE está de volta ao cenário mundial".
  ethiopia_news.7.t: "Cessar-fogo entre a Etiópia e a Eritreia"
  ethiopia_news.7.d: "O governo da Etiópia e da Eritreia concordaram em cessar as hostilidades e declarar um cessar-fogo. Desde o início do conflito em 1998, a Organização da Unidade Africana tem tentado propor um plano de paz para resolver o conflito fronteiriço entre os dois países. Parece que os países finalmente concordaram em tentar resolver seus problemas pacificamente. "
@@ -2428,7 +2428,7 @@ l_english:
 
  ### Eventos da União Europeia ###
  european_union.1.t: "[From.GetName] deseja aderir à UE"
- european_union.1.d: "Diplomatas de [From.GetName] se inscreveram para ingressar na União Europeia. Se um único estado membro - digamos nossa delegação - vetar seu pedido, eles não serão permitidos. Precisamos fazer uma escolha sábia."
+ european_union.1.d: "Diplomatas de [From.GetName] se inscreveram para ingressar na União Europeia. Se um único estado membro-digamos nossa delegação-vetar seu pedido, eles não serão permitidos. Precisamos fazer uma escolha sábia."
  european_union.1.o1: "Nós aprovamos."
  european_union.1.o2: "Veto!"
  european_union.2.t: "Fomos vetados!"
@@ -2457,10 +2457,10 @@ l_english:
  european_union.8.o1: "Teria sido bom tê-los."
  european_union.10.t: "Abandonando a UE"
  european_union.10.d2: "A União Europeia impede a nós e aos nossos outros Estados europeus soberanos da grandeza. Os membros do nosso governo estão cada vez mais aborrecidos com a atitude europeia para com a nossa soberania nacional e com a facilidade com que os delegados europeus fazem tudo o que os Estados Unidos lhes dizem para fazer.\n\nPrecisamos sair. Isso é inaceitável. Eles podem beijar as bundas dos americanos o quanto quiserem, mas terão que fazer isso sem nós. "
- european_union.10.d3: "Embora as monarquias não sejam tecnicamente proibidas de ingressar na União Europeia, elas precisam ter pequenas coisas como parlamentos ou eleições - que o grande sistema em torno de [This.GetLeader] felizmente é desprovido. Isso, no entanto, levou a uma situação precária para nós , sendo solicitado a realizar eleições gerais na próxima semana ou ser expulso dos corredores.\n\nBem, não vamos realizar eleições, isso é certo, então parece que eles terão que jogar seu pequeno jogo de 'democracia' sem nós. "
- european_union.10.d4: "Com um partido político de direita agora no poder, o caráter democrático e o benefício econômico da União Europeia têm sido cada vez mais questionados.\n\nOs delegados [This.GetRulingParty] estão divididos sobre o assunto: os ideológicos da linha dura querem deixe o sindicato independentemente das consequências, enquanto a facção economicamente liberal aponta para o número de empregos criados pela UE e a estabilidade política que isso traz ao continente.\n\nQualquer decisão será controversa, pois a população está dividida sobre o assunto. . A UE continuará sem nós - ou devemos ficar? "
- european_union.10.d5: "A União Europeia nada mais é do que um bando de capitalistas que tentam conquistar o mundo para o capitalismo. Nossos bravos [This.GetAdjective] delegados defenderam os trabalhadores em todas as sessões em que participaram, mas foram derrotados em quase todas as questões - ao pedir para repudiar os super-ricos em toda a Europa, a delegação foi até mesmo expulsa da sala! Bem, talvez eles não devessem ter atacado três outras delegações enquanto seu orador tentava argumentar com elas, mas mesmo assim!\n\nIsso é completamente inaceitável . Não podemos mais carregar essa farsa de conglomerado. Sem nós! "
- european_union.10.d6: "Mesmo [This.GetLeader] observou que a União Europeia é realmente 'nada além de um bando de infiéis' quando conversou com um jornal islâmico conservador na semana passada. Por causa disso, os apelos para deixar a UE ficaram mais altos do que o país - e dentro da União Europeia. "Se não respeitar os nossos salões sagrados, saia!", gritou o presidente do Parlamento Europeu para a nossa delegação hoje. Depois de um dos nossos delegados ter observado que não há nada sagrado exceto Alá, foi chutado do corredor.\n\nA UE seguiu seu curso por nossa nação. Agradecemos sua cooperação, mas seu hedonismo e intriga mundana são inaceitáveis. Eles terão que jogar seus jogos estúpidos sem nós. "
+ european_union.10.d3: "Embora as monarquias não sejam tecnicamente proibidas de ingressar na União Europeia, elas precisam ter pequenas coisas como parlamentos ou eleições-que o grande sistema em torno de [This.GetLeader] felizmente é desprovido. Isso, no entanto, levou a uma situação precária para nós , sendo solicitado a realizar eleições gerais na próxima semana ou ser expulso dos corredores.\n\nBem, não vamos realizar eleições, isso é certo, então parece que eles terão que jogar seu pequeno jogo de 'democracia' sem nós. "
+ european_union.10.d4: "Com um partido político de direita agora no poder, o caráter democrático e o benefício econômico da União Europeia têm sido cada vez mais questionados.\n\nOs delegados [This.GetRulingParty] estão divididos sobre o assunto: os ideológicos da linha dura querem deixe o sindicato independentemente das consequências, enquanto a facção economicamente liberal aponta para o número de empregos criados pela UE e a estabilidade política que isso traz ao continente.\n\nQualquer decisão será controversa, pois a população está dividida sobre o assunto. . A UE continuará sem nós-ou devemos ficar? "
+ european_union.10.d5: "A União Europeia nada mais é do que um bando de capitalistas que tentam conquistar o mundo para o capitalismo. Nossos bravos [This.GetAdjective] delegados defenderam os trabalhadores em todas as sessões em que participaram, mas foram derrotados em quase todas as questões-ao pedir para repudiar os super-ricos em toda a Europa, a delegação foi até mesmo expulsa da sala! Bem, talvez eles não devessem ter atacado três outras delegações enquanto seu orador tentava argumentar com elas, mas mesmo assim!\n\nIsso é completamente inaceitável . Não podemos mais carregar essa farsa de conglomerado. Sem nós! "
+ european_union.10.d6: "Mesmo [This.GetLeader] observou que a União Europeia é realmente 'nada além de um bando de infiéis' quando conversou com um jornal islâmico conservador na semana passada. Por causa disso, os apelos para deixar a UE ficaram mais altos do que o país-e dentro da União Europeia. "Se não respeitar os nossos salões sagrados, saia!", gritou o presidente do Parlamento Europeu para a nossa delegação hoje. Depois de um dos nossos delegados ter observado que não há nada sagrado exceto Alá, foi chutado do corredor.\n\nA UE seguiu seu curso por nossa nação. Agradecemos sua cooperação, mas seu hedonismo e intriga mundana são inaceitáveis. Eles terão que jogar seus jogos estúpidos sem nós. "
  european_union.10.o1: "Sem nós, de fato."
  european_union.10.o2: "Talvez devêssemos ficar afinal."
  european_union.15.t: "O Fim da União Europeia"
@@ -2471,14 +2471,14 @@ l_english:
  european_union.16.o1: "Uma excelente proposta!"
  european_union.16.o2: "Queremos um opt-out."
  european_union.17.t: "Renacionalizar a moeda"
- european_union.17.d: "Agora que não estamos mais envolvidos com a zona do euro, fomos - como esperado - informados pelo Banco Central Europeu que precisamos tirar o euro de uso em nosso país em breve.\n\nA introdução de uma nova moeda nacional será necessária um pouco de esforço político - mas tem que ser feito. "
+ european_union.17.d: "Agora que não estamos mais envolvidos com a zona do euro, fomos-como esperado-informados pelo Banco Central Europeu que precisamos tirar o euro de uso em nosso país em breve.\n\nA introdução de uma nova moeda nacional será necessária um pouco de esforço político-mas tem que ser feito. "
  european_union.17.o1: "Vamos acabar com isso."
  european_union.18.t: "Chamar ajuda militar da UE?"
- european_union.18.d: "Estamos sob ataque de uma potência estrangeira. De acordo com o artigo 42.7 da UE - a 'cláusula de defesa mútua' - temos direito à assistência militar de todos os outros membros da União Europeia. Devemos invocar o artigo para chamar nossos amigos para o nosso lado ? "
+ european_union.18.d: "Estamos sob ataque de uma potência estrangeira. De acordo com o artigo 42.7 da UE-a 'cláusula de defesa mútua'-temos direito à assistência militar de todos os outros membros da União Europeia. Devemos invocar o artigo para chamar nossos amigos para o nosso lado ? "
  european_union.18.o1: "Chame a UE para o nosso lado!"
  european_union.18.o2: "Nós não precisamos deles."
  european_union.19.t: "[From.GetName] precisa de ajuda!"
- european_union.19.d: "O [From.GetAdjective] invocou o artigo 42.7 da UE devido ao recente ataque [From.From.GetAdjective], sob o qual todos os membros da União Europeia são obrigados a vir em auxílio uns dos outros nos termos de um ataque militar por uma força estrangeira.\n\nNão há dúvida de que precisamos nos juntar aos nossos aliados de acordo com os tratados que assinamos - mas deveríamos? "
+ european_union.19.d: "O [From.GetAdjective] invocou o artigo 42.7 da UE devido ao recente ataque [From.From.GetAdjective], sob o qual todos os membros da União Europeia são obrigados a vir em auxílio uns dos outros nos termos de um ataque militar por uma força estrangeira.\n\nNão há dúvida de que precisamos nos juntar aos nossos aliados de acordo com os tratados que assinamos-mas deveríamos? "
  european_union.19.o1: "Europeu agora, europeu para sempre!"
  european_union.19.o2: "Uhhhh ... que tal não fazermos?"
 
@@ -2489,7 +2489,7 @@ l_english:
  Finland.1.b: "O alistamento é caro e inútil. Aboli-lo."
  Finland.1.c: "Todo homem e mulher são soldados!"
  Finland.2.t: "Política de exportação de madeira"
- Finland.2.d: "A madeira é um dos recursos naturais mais importantes da Finlândia. As árvores finlandesas são de alta qualidade e bastante desejadas internacionalmente - mas nossa política atual em relação à velocidade do corte de madeira é realista?"
+ Finland.2.d: "A madeira é um dos recursos naturais mais importantes da Finlândia. As árvores finlandesas são de alta qualidade e bastante desejadas internacionalmente-mas nossa política atual em relação à velocidade do corte de madeira é realista?"
  Finland.2.a: "Maximize a produção."
  Finland.2.b: "Uma abordagem de longo prazo é mais viável."
  Finland.3.t: "Expansão do Ministério Financeiro"
@@ -2509,10 +2509,10 @@ l_english:
  Finland.6.a: "O exército é o mais importante."
  Finland.6.b: "Vamos experimentar."
  Finland.7.t: "A Monarquia Finlandesa"
- Finland.7.d: "Frederik Kaarle I é o nome finlandês de Friedrich Karl, o príncipe alemão de Hesse-Kassel que quase se tornou rei da Finlândia em 1918. Seus descendentes relutaram em dar um passo à frente quando nosso governo publicou planos para estabelecer uma monarquia alemã amiga do imperial governo em Berlim - principalmente por causa da impopularidade da ideia entre o público finlandês.\n\nFinalmente, Donato Philipp Umberto, bisneto de Friedrich Karl, mas também bisneto do rei Victor Emmanuel III da Itália, deu um passo à frente e se apresentou como uma opção ao governo finlandês.\n\nEle ficará bem. Mas seu papel ainda não foi determinado. "
+ Finland.7.d: "Frederik Kaarle I é o nome finlandês de Friedrich Karl, o príncipe alemão de Hesse-Kassel que quase se tornou rei da Finlândia em 1918. Seus descendentes relutaram em dar um passo à frente quando nosso governo publicou planos para estabelecer uma monarquia alemã amiga do imperial governo em Berlim-principalmente por causa da impopularidade da ideia entre o público finlandês.\n\nFinalmente, Donato Philipp Umberto, bisneto de Friedrich Karl, mas também bisneto do rei Victor Emmanuel III da Itália, deu um passo à frente e se apresentou como uma opção ao governo finlandês.\n\nEle ficará bem. Mas seu papel ainda não foi determinado. "
  Finland.7.a: "Ele precisa liderar a Finlândia!"
  Finland.7.b: "Ele será nosso monarca constitucional."
- Finland.8.t: "A Finlândia oferece associação ao CSTO - a um preço"
+ Finland.8.t: "A Finlândia oferece associação ao CSTO-a um preço"
  Finland.8.d: "A Finlândia tem, nos últimos anos e especialmente nos últimos meses, voluntariamente abordado a Rússia com amizade e ajuda, e embora clubes de amizade russo-finlandeses tenham sido formados em São Petersburgo e Helsinque, parece que os finlandeses têm planos diferentes.\n\nEles querem seu antigo território de volta. Em troca da restauração da fronteira de 1938 entre a Finlândia e a então República Russa dentro da URSS, a Finlândia se oferece para se juntar à aliança militar CSTO.\n\nTal oferta é um insulto ao nacionalismo russo, mas uma perspectiva militar que pode valer a pena considerar. Mas a Finlândia é confiável? "
  Finland.8.a: "Nós aceitamos."
  Finland.8.b: "Nós rimos na cara deles."
@@ -2523,11 +2523,11 @@ l_english:
 
  #Alemanha
  Germany.1.t: "Krater von Wattenscheid"
- Germany.1.d: "A cidade de Bochum é uma cidade histórica de mineração de carvão que, desde o declínio da indústria do carvão, se tornou uma cidade vibrante e moderna que é parte integrante da Área do Ruhr.\n\nNo entanto, lembretes desagradáveis dos legados do carvão pode surgir - especialmente quando antigas minas de carvão subterrâneas rompem repentinamente, revelando crateras destrutivas consideráveis. Um desses eventos aconteceu em 2 de janeiro de 2000, em Bochum-Höntrop. "
+ Germany.1.d: "A cidade de Bochum é uma cidade histórica de mineração de carvão que, desde o declínio da indústria do carvão, se tornou uma cidade vibrante e moderna que é parte integrante da Área do Ruhr.\n\nNo entanto, lembretes desagradáveis dos legados do carvão pode surgir-especialmente quando antigas minas de carvão subterrâneas rompem repentinamente, revelando crateras destrutivas consideráveis. Um desses eventos aconteceu em 2 de janeiro de 2000, em Bochum-Höntrop. "
  Germany.1.a: "A cidade pode lidar com isso."
  Germany.1.b: "Um bom momento para legislação de segurança industrial!"
  Germany.2.t: "N24"
- Germany.2.d: "Em 24 de janeiro de 2000, o canal de televisão focado em notícias \" N24 \ "foi lançado em transmissão pública.\n\nN24 é inspirado em canais de notícias americanos como Fox News e CNN, mas recusa uma aliança política semelhante àqueles que Canais americanos costumam fazer isso. No entanto, devido ao fato de que N24 faz parte do Grupo ProSiebenSat1, é improvável que este canal ajude partidos não estabelecidos com suas seções políticas. "
+ Germany.2.d: "Em 24 de janeiro de 2000, o canal de televisão focado em notícias\" N24\"foi lançado em transmissão pública.\n\nN24 é inspirado em canais de notícias americanos como Fox News e CNN, mas recusa uma aliança política semelhante àqueles que Canais americanos costumam fazer isso. No entanto, devido ao fato de que N24 faz parte do Grupo ProSiebenSat1, é improvável que este canal ajude partidos não estabelecidos com suas seções políticas. "
  Germany.2.a: "Boa."
  Germany.3.t: "Klaus-Peter Sabotta"
  Germany.3.d: "Em uma série de tentativas de ataques terroristas contra ferrovias alemãs entre 1998 e 1999, o ex-ferroviário Klaus-Peter Sabotta tentou protestar contra a mudança nas condições de trabalho e sua queda no desemprego.\n\nEm 4 de fevereiro, o veredicto final sobre Sabotta, condenando-o à prisão perpétua. "
@@ -2537,7 +2537,7 @@ l_english:
  Germany.4.d: "No dia 1º de junho foi aberta ao público a exposição mundial do ano 2000, a Expo de Hannover."
  Germany.4.a: "Excelente."
  Germany.5.t: "Ataque de Golzheim"
- Germany.5.d: "Em 2 de outubro de 2000, a sinagoga e o centro comunitário judaico em Golzheim (parte de Düsseldorf) foram atacados em um incêndio criminoso por dois jovens árabes.\n\nO ataque causou repulsa generalizada e sinais de solidariedade à comunidade judaica que, especialmente mostraram-se em atos renovados de lembrança do holocausto e coleções de caridade pró-judeus - para grande consternação das facções de extrema direita da Alemanha. "
+ Germany.5.d: "Em 2 de outubro de 2000, a sinagoga e o centro comunitário judaico em Golzheim (parte de Düsseldorf) foram atacados em um incêndio criminoso por dois jovens árabes.\n\nO ataque causou repulsa generalizada e sinais de solidariedade à comunidade judaica que, especialmente mostraram-se em atos renovados de lembrança do holocausto e coleções de caridade pró-judeus-para grande consternação das facções de extrema direita da Alemanha. "
  Germany.5.a: "Nunca nos renderemos aos terroristas!"
  Germany.5.b: "Eh, o judeu pode se proteger."
  Germany.6.t: "Dez anos de unidade alemã"
@@ -2580,7 +2580,7 @@ l_english:
 
  #Índia
  India.1.t: "Crise IC 814 resolvida"
- India.1.d: "O voo 814 da India Airlines (comumente conhecido como IC 814) estava a caminho de Kathmandu, Nepal para Delhi, Índia, em 24 de dezembro de 1999, quando foi sequestrado.\n\nOs sequestradores assumiram o controle do avião logo depois que ele deixou o Nepal espaço aéreo e entrou em território soberano indiano. O avião entrou em uma odisséia que foi altamente traumatizante e exaustiva para os 176 passageiros e 15 membros da tripulação mantidos como reféns.\n\nApós pousar em Amritsar, Lahore e Dubai, o avião foi finalmente levado para Kandahar , uma cidade controlada pelo Taleban no Afeganistão. Enquanto os sequestradores deixaram 27 reféns em Dubai por vários motivos nem sempre claros, eles também esfaquearam um deles, Rupan Katyal, até a morte. O objetivo dos terroristas islâmicos que aparentemente pertenciam à rede Harkat-ul-Mujahideen era libertar islamistas de alto escalão presos na Índia.\n\nO governo indiano negociou com sucesso a liberdade dos reféns. Todos eles - exceto o homem que havia sido assassinado - eram br deve voltar para a Índia com uma saúde física relativamente boa. "
+ India.1.d: "O voo 814 da India Airlines (comumente conhecido como IC 814) estava a caminho de Kathmandu, Nepal para Delhi, Índia, em 24 de dezembro de 1999, quando foi sequestrado.\n\nOs sequestradores assumiram o controle do avião logo depois que ele deixou o Nepal espaço aéreo e entrou em território soberano indiano. O avião entrou em uma odisséia que foi altamente traumatizante e exaustiva para os 176 passageiros e 15 membros da tripulação mantidos como reféns.\n\nApós pousar em Amritsar, Lahore e Dubai, o avião foi finalmente levado para Kandahar , uma cidade controlada pelo Taleban no Afeganistão. Enquanto os sequestradores deixaram 27 reféns em Dubai por vários motivos nem sempre claros, eles também esfaquearam um deles, Rupan Katyal, até a morte. O objetivo dos terroristas islâmicos que aparentemente pertenciam à rede Harkat-ul-Mujahideen era libertar islamistas de alto escalão presos na Índia.\n\nO governo indiano negociou com sucesso a liberdade dos reféns. Todos eles-exceto o homem que havia sido assassinado-eram br deve voltar para a Índia com uma saúde física relativamente boa. "
  India.1.a: "Uma vitória vergonhosa ainda é uma vitória."
  India.1.b: "Precisamos implementar reformas de segurança aérea."
  India.2.t: "Ataque ao mercado de Srinagar"
@@ -2646,7 +2646,7 @@ l_english:
  Sweden.3.o2: "Luteranismo é importante! Fique com ele!"
  Sweden.3.o3: "Thor e Odin são muito melhores de qualquer maneira."
  Sweden.4.t: "Ascensão de Daniel"
- Sweden.4.d: "Neutro [Root.GetName] tem sido ridicularizado por sua aparente covardia desde alguns séculos. Nunca ninguém teria previsto que o general mais genial, não apenas da estratégia militar contemporânea, mas também de toda a história humana, seria criado e treinado na Suécia.\n\nDaniel Sjöberg, muitas vezes chamado simplesmente de \ "Da9L \" dentro dos círculos militares (ninguém sabe ao certo por quê), é possivelmente o maior gênio militar de todos os tempos - um homem que ofusca até Hannibal, Napoleão Bonaparte e DDR Jake 'o escocês' . "
+ Sweden.4.d: "Neutro [Root.GetName] tem sido ridicularizado por sua aparente covardia desde alguns séculos. Nunca ninguém teria previsto que o general mais genial, não apenas da estratégia militar contemporânea, mas também de toda a história humana, seria criado e treinado na Suécia.\n\nDaniel Sjöberg, muitas vezes chamado simplesmente de\"Da9L\" dentro dos círculos militares (ninguém sabe ao certo por quê), é possivelmente o maior gênio militar de todos os tempos-um homem que ofusca até Hannibal, Napoleão Bonaparte e DDR Jake 'o escocês' . "
  Sweden.4.o1: "Daniel nos levará à vitória!"
  Sweden.5.t: "Decisões fiscais pós-crise"
  Sweden.5.d: "As crises orçamentárias e econômicas da década de 1990 deixaram a Suécia assustada. Nossos gastos estão excedendo em muito nossa receita e precisamos fazer algo."
@@ -2662,17 +2662,17 @@ l_english:
  Sweden.7.o2: "'Europa Supremalis', um jogo sobre escravidão de africanos."
  Sweden.7.o3: "'Deus Vult', um jogo sobre incesto."
  Sweden.8.t: "Suécia exige igualdade para Finlândia-suecos"
- Sweden.8.d: "A recente agressão neo-imperialista da Suécia contra a Finlândia atingiu o pico de demandas por igualdade para a minoria de língua sueca na Finlândia.\n\nAqui está: eles já são iguais. O maior movimento dentro do grupo que afirma o contrário reuniu 50 membros, então longe. Não há nada que os suecos possam se ofender - e nada que possamos mudar. "
+ Sweden.8.d: "A recente agressão neo-imperialista da Suécia contra a Finlândia atingiu o pico de demandas por igualdade para a minoria de língua sueca na Finlândia.\n\nAqui está: eles já são iguais. O maior movimento dentro do grupo que afirma o contrário reuniu 50 membros, então longe. Não há nada que os suecos possam se ofender-e nada que possamos mudar. "
  Sweden.8.o1: "Os suecos são loucos."
  Sweden.9.t: "Plano de Colonização do Báltico"
- Sweden.9.d: "Os Estados Bálticos precisam retornar ao status de dependência sueca. Estônia, Letônia e Lituânia eram soluções temporárias aceitáveis - mas seu tempo chegou ao fim."
+ Sweden.9.d: "Os Estados Bálticos precisam retornar ao status de dependência sueca. Estônia, Letônia e Lituânia eram soluções temporárias aceitáveis-mas seu tempo chegou ao fim."
  Sweden.9.o1: "Pela Suécia!"
  Sweden.10.t: "A Suécia nos oferece status de província"
  Sweden.10.d: "Claro, sempre gostamos da ideia de fazer parte do norte da Europa, mas a Suécia tem sido muito ... aberta conosco recentemente. E agora, o governo real sueco pediu à Estônia para se juntar à Suécia como uma província. Isso resultaria em o fim da Estônia como nação soberana. Que absurdo. "
  Sweden.10.o1: "Temos que desistir."
  Sweden.10.o2: "Nunca!"
  Sweden.11.t: "A Estônia resiste!"
- Sweden.11.d: "A Estônia se atreveu a rejeitar nossa proposta generosa de assumir o fardo de guiar os estonianos rumo à civilização. Ficamos surpresos que eles conseguiram fazer sua carta de resposta livre de erros gramaticais - mas também somos céticos sobre o que vem a seguir. Como devemos proceder ? "
+ Sweden.11.d: "A Estônia se atreveu a rejeitar nossa proposta generosa de assumir o fardo de guiar os estonianos rumo à civilização. Ficamos surpresos que eles conseguiram fazer sua carta de resposta livre de erros gramaticais-mas também somos céticos sobre o que vem a seguir. Como devemos proceder ? "
  Sweden.11.o1: "Eles entenderam mal quando pensaram que havia uma escolha."
  Sweden.11.o2: "Oh, bem. Vamos pegá-los outra hora."
  Sweden_news.1.t: "Ambição do Norte"
@@ -2738,8 +2738,8 @@ l_english:
 
  ### Eventos no Reino Unido ###
  United_Kingdom.1.t: "Política das Malvinas"
- United_Kingdom.1.d: "As Ilhas Malvinas têm sido um ponto de discórdia entre o Reino Unido e a República da Argentina há décadas, com a Argentina reivindicando formalmente o arquipélago da ilha (bem como a vizinha Geórgia do Sul) em 1833.\n\nAs Malvinas foram colonizadas pela primeira vez pela França em 1764 com um assentamento na ilha oriental, ao qual se juntou um assentamento britânico na ilha ocidental em 1766. No entanto, o grupo de ilhas foi concedido à Espanha no mesmo ano e os colonos britânicos partiram oito anos depois. investimentos coloniais no grupo de ilhas em 1811 no contexto das Guerras Napoleônicas e a ameaça de movimentos de independência - incluindo o argentino - na América Latina.\n\nOs argentinos tomaram as Malvinas (chamando-as de 'Islas Mavlinas' em espanhol) em 1820, estabelecendo um assentamento ali. O Reino Unido retornou ao arquipélago em 1833, estabelecendo um posto avançado naval e chamando-o de colônia em 1837 - para grande consternação dos argentinos. Desde então, t s Malvinas estavam sob o domínio britânico contínuo com uma quantidade cada vez maior de colonos britânicos - até 2 de abril de 1982, quando a junta militar da Argentina tentou lutar contra o descontentamento popular com o governo com uma vitória política externa - a ocupação das Malvinas. O governo britânico respondeu (para grande surpresa da Argentina) com uma ação militar. A subsequente Guerra das Malvinas terminou em 20 de junho com a vitória britânica total e um retorno ao status quo ante bellum.\n\nOs argentinos não foram dissuadidos e ainda reivindicam as ilhas, mesmo após o fim de sua junta. Não há realmente nenhuma razão para que eles sejam argentinos, mas ter um país que deve um favor à Grã-Bretanha pode ser bom no longo prazo ... "
- United_Kingdom.1.a: - Por cima dos nossos cadáveres, meu velho! Agora, onde está o meu chá?
+ United_Kingdom.1.d: "As Ilhas Malvinas têm sido um ponto de discórdia entre o Reino Unido e a República da Argentina há décadas, com a Argentina reivindicando formalmente o arquipélago da ilha (bem como a vizinha Geórgia do Sul) em 1833.\n\nAs Malvinas foram colonizadas pela primeira vez pela França em 1764 com um assentamento na ilha oriental, ao qual se juntou um assentamento britânico na ilha ocidental em 1766. No entanto, o grupo de ilhas foi concedido à Espanha no mesmo ano e os colonos britânicos partiram oito anos depois. investimentos coloniais no grupo de ilhas em 1811 no contexto das Guerras Napoleônicas e a ameaça de movimentos de independência-incluindo o argentino-na América Latina.\n\nOs argentinos tomaram as Malvinas (chamando-as de 'Islas Mavlinas' em espanhol) em 1820, estabelecendo um assentamento ali. O Reino Unido retornou ao arquipélago em 1833, estabelecendo um posto avançado naval e chamando-o de colônia em 1837-para grande consternação dos argentinos. Desde então, t s Malvinas estavam sob o domínio britânico contínuo com uma quantidade cada vez maior de colonos britânicos-até 2 de abril de 1982, quando a junta militar da Argentina tentou lutar contra o descontentamento popular com o governo com uma vitória política externa-a ocupação das Malvinas. O governo britânico respondeu (para grande surpresa da Argentina) com uma ação militar. A subsequente Guerra das Malvinas terminou em 20 de junho com a vitória britânica total e um retorno ao status quo ante bellum.\n\nOs argentinos não foram dissuadidos e ainda reivindicam as ilhas, mesmo após o fim de sua junta. Não há realmente nenhuma razão para que eles sejam argentinos, mas ter um país que deve um favor à Grã-Bretanha pode ser bom no longo prazo ... "
+ United_Kingdom.1.a: "- Por cima dos nossos cadáveres, meu velho! Agora, onde está o meu chá?"
  United_Kingdom.1.b: "Devemos entregar as ilhas à Argentina."
  United_Kingdom_News.1.t: "A Grã-Bretanha cede as Ilhas Malvinas"
  United_Kingdom_News.1.d: "Em uma jogada surpresa absolutamente impressionante, o governo de Londres decidiu encerrar o conflito secular entre a Grã-Bretanha e a Argentina e devolver as Ilhas Malvinas, bem como a Geórgia do Sul e as Ilhas Sandwich do Sul, para a Argentina. Os argentinos haviam colocado reivindicação às Malvinas em 1833, à Geórgia do Sul em 1927 e às Ilhas Sandwich do Sul em 1936.\n\nO governo argentino ficou radiante, prometendo uma nova era de relações argentino-britânicas. "
@@ -2757,14 +2757,14 @@ l_english:
  britain_md.3.d: "A delegação britânica ao Parlamento Europeu tem caminhado por Bruxelas como um bando de titereiros brincando com seus fantoches recentemente. Eles estão frustrando todos os movimentos do sindicato e bloqueando a maior parte de nosso progresso. Isso está se tornando insuportável."
  britain_md.3.o1: "Você está falando sério?"
  britain_md.4.t: "O Referendo Brexit"
- britain_md.4.d: "\" Brexit \ ", abreviação de Saída Britânica, é o termo estranho dado pela imprensa britânica e internacional ao conceito de a Grã-Bretanha deixando a União Europeia.\n\nAgora, este conceito está para se concretizar: os cidadãos britânicos estão para votar em seu futuro no sindicato: sair? Ou ficar? "
+ britain_md.4.d: "\" Brexit\", abreviação de Saída Britânica, é o termo estranho dado pela imprensa britânica e internacional ao conceito de a Grã-Bretanha deixando a União Europeia.\n\nAgora, este conceito está para se concretizar: os cidadãos britânicos estão para votar em seu futuro no sindicato: sair? Ou ficar? "
  britain_md.4.o1: "Que comece a votação."
  britain_md.5.t: "A monarquia abolida!"
  britain_md.5.d: "Percebendo a mudança no tempo, o monarca britânico tomou medidas para revogar suas reivindicações ao trono. Nesse ínterim, funcionários do governo estão garantindo que os documentos de fundação de nosso país sejam reescritos de forma que nenhum monarca seja necessário para representá-lo.\nEste é o fim da monarquia britânica. "
  britain_md.5.o1: "Boa viagem."
  britain_md.6.t: "A Rainha Elizabeth II abdica!"
- britain_md.6.d1: "\"Eu nunca pedi isso. Nunca pensei que a Grã-Bretanha voltaria a um caminho sombrio de tirania não iluminada. Estou muito velho, muito frágil e francamente relutante em governar um país. Se a Grã-Bretanha realmente decidir devolver os poderes à monarquia, terá que encontrar outro candidato. \ "\n\nEm um choque político, a Rainha Elizabeth II abdicou. Embora os preparativos para as coroações de seu filho Carlos, em breve seja Carlos III do Reino Unido, estão sendo, o povo britânico não pode deixar de olhar para si mesmo e questionar se aquele caminho é realmente o certo. "
- britain_md.6.d2: "\" Isso é absolutamente inaceitável. Eu mesmo lutei contra a máquina de guerra de Hitler nas Forças Armadas Britânicas, e agora o governo britânico, com o apoio do povo britânico, está retornando às tendências protofascistas. Não vou e não posso aceitar isso. \ "\n\nEm um terremoto político, a Rainha Elizabeth II abdicou em protesto contra as escolhas recentes do governo. Seu filho, que em breve seria o Rei Carlos III, está se preparando para ser coroado."
+ britain_md.6.d1: "\"Eu nunca pedi isso. Nunca pensei que a Grã-Bretanha voltaria a um caminho sombrio de tirania não iluminada. Estou muito velho, muito frágil e francamente relutante em governar um país. Se a Grã-Bretanha realmente decidir devolver os poderes à monarquia, terá que encontrar outro candidato.\"\n\nEm um choque político, a Rainha Elizabeth II abdicou. Embora os preparativos para as coroações de seu filho Carlos, em breve seja Carlos III do Reino Unido, estão sendo, o povo britânico não pode deixar de olhar para si mesmo e questionar se aquele caminho é realmente o certo. "
+ britain_md.6.d2: "\" Isso é absolutamente inaceitável. Eu mesmo lutei contra a máquina de guerra de Hitler nas Forças Armadas Britânicas, e agora o governo britânico, com o apoio do povo britânico, está retornando às tendências protofascistas. Não vou e não posso aceitar isso.\"\n\nEm um terremoto político, a Rainha Elizabeth II abdicou em protesto contra as escolhas recentes do governo. Seu filho, que em breve seria o Rei Carlos III, está se preparando para ser coroado."
  britain_md.6.o1: "Vida longa ao rei!"
  britain_md.7.t: "A Grã-Bretanha apóia a OTAN!"
  britain_md.7.d: "O governo britânico enviou uma delegação militar ao nosso ministério da defesa. Seu apoio reafirmado à Organização do Tratado do Atlântico Norte só nos ajudará."
@@ -2788,7 +2788,7 @@ l_english:
  britain_md.12.o1: "Parece uma bela proposta!"
  britain_md.12.o2: "Temos nossos próprios problemas."
  britain_md.13.t: "Grã-Bretanha pede acordo de fronteira para força de trabalho"
- britain_md.13.d: "O governo britânico nos abordou sobre um possível acordo de fronteira que permite aos cidadãos irlandeses passarem para a Irlanda do Norte com mais facilidade, a fim de melhorar o padrão de vida local da Irlanda e a economia da Irlanda do Norte. Este possível acordo é popular entre a população irlandesa - pois oferece emprego para a economia em dificuldades. "
+ britain_md.13.d: "O governo britânico nos abordou sobre um possível acordo de fronteira que permite aos cidadãos irlandeses passarem para a Irlanda do Norte com mais facilidade, a fim de melhorar o padrão de vida local da Irlanda e a economia da Irlanda do Norte. Este possível acordo é popular entre a população irlandesa-pois oferece emprego para a economia em dificuldades. "
  britain_md.13.o1: "Soa bem."
  britain_md.13.o2: "Nós preferimos não."
  britain_md.14.t: "Acordo de Viagem Aérea com a Europa"
@@ -2813,7 +2813,7 @@ l_english:
  britain_md.19.d: "Estamos em contato com a população franco-canadense de Quebec. O apoio à independência agora é avassalador e uma força militante está preparada para pegar em armas. Ao mesmo tempo, também semeamos dissidências entre as populações canadenses da costa leste.\n\nNossas demandas para o Canadá serão simples: deixe Quebec ser livre e retire-se de suas províncias atlânticas anglo-canadenses. "
  britain_md.19.o1: "Envie as demandas!"
  britain_md.20.t: "A Grã-Bretanha ataca o Canadá!"
- britain_md.20.d: "\" Temos duas exigências simples ao governo do Canadá:\n1: Conceda imediatamente a independência à província canadense de Quebec como nação independente e soberana, incluindo as grandes cidades de Quebec e Montreal.\n2: Ceda as províncias canadenses New Brunswick, Nova Scotia, Prince Edward Island e Newfoundland and Labrador ao governo britânico.\nSe o governo canadense resistir, a guerra é inevitável.\n\nassinado, o governo [ENG.GetAdjective]\nassinado, o governo de Quebec exílio em Londres \ "\n\nO que fazemos agora ?!"
+ britain_md.20.d: "\" Temos duas exigências simples ao governo do Canadá:\n1: Conceda imediatamente a independência à província canadense de Quebec como nação independente e soberana, incluindo as grandes cidades de Quebec e Montreal.\n2: Ceda as províncias canadenses New Brunswick, Nova Scotia, Prince Edward Island e Newfoundland and Labrador ao governo britânico.\nSe o governo canadense resistir, a guerra é inevitável.\n\nassinado, o governo [ENG.GetAdjective]\nassinado, o governo de Quebec exílio em Londres\"\n\nO que fazemos agora ?!"
  britain_md.20.o1: "Vamos nos curvar às suas exigências. Desta vez."
  britain_md.20.o2: "Não dêem um passo para trás, camaradas! Sem desculpas!"
  britain_md.21.t: "Assistência Defensiva Britânica"
@@ -2823,7 +2823,7 @@ l_english:
  britain_md.22.d: "Os resultados chegaram, e com uma vantagem de cerca de 4%, a campanha 'Sair' venceu. A Grã-Bretanha terá que se preparar para deixar a União Europeia."
  britain_md.22.o1: "Tudo bem então."
  britain_md.23.t: "'Permanecer'!"
- britain_md.23.d: "O referendo está feito e os resultados foram contados. Com cerca de 53% a 47%, a campanha 'Permanecer' venceu. Os ativistas de 'Deixe' Nigel Farage e Boris Johnson já anunciaram sua disposição em aceitar os resultados - a Grã-Bretanha fica!"
+ britain_md.23.d: "O referendo está feito e os resultados foram contados. Com cerca de 53% a 47%, a campanha 'Permanecer' venceu. Os ativistas de 'Deixe' Nigel Farage e Boris Johnson já anunciaram sua disposição em aceitar os resultados-a Grã-Bretanha fica!"
  britain_md.23.o1: "Certamente nós fazemos."
  britain_md.24.t: "A Irlanda aceita!"
  britain_md.24.d: "O governo irlandês aceitou de bom grado nossa proposta. A fronteira entre a Irlanda e a Irlanda do Norte já está se abrindo."
@@ -2834,7 +2834,7 @@ l_english:
  britain_md.26.t: "Rei Carlos III morre"
  britain_md.26.d: "'Carlos está morto', um título de jornal, seguido pelo subtítulo 'Apenas poucos estão de luto'.\n\nO rei Carlos III foi historicamente impopular, comparável a pessoas como seu tio-avô Eduardo VIII.\n\nSeu filho, William V, certamente será um rei mais popular para o povo britânico. "
  britain_md.26.o1: "Nenhum rei governa para sempre."
- ## Reino Unido - Evento de notícias ##
+ ## Reino Unido-Evento de notícias ##
  britain_news.1.t: "A Grã-Bretanha cede as Ilhas Malvinas"
  britain_news.1.d: "Em uma jogada surpresa absolutamente impressionante, o governo de Londres decidiu encerrar o conflito secular entre a Grã-Bretanha e a Argentina e devolver as Ilhas Malvinas, bem como a Geórgia do Sul e as Ilhas Sandwich do Sul, para a Argentina. Os argentinos haviam colocado reivindicação às Malvinas em 1833, à Geórgia do Sul em 1927 e às Ilhas Sandwich do Sul em 1936.\n\nO governo argentino ficou radiante, prometendo uma nova era de relações argentino-britânicas. "
  britain_news.1.o1: "Que torção!"
@@ -2846,12 +2846,12 @@ l_english:
  britain_news.55.o4: "Tudo bem."
  britain_news.55.o5: "Não nos importamos com seus assuntos menores."
  britain_news.56.t: "A Grã-Bretanha vai com a Comunidade"
- britain_news.56.d: "[ENG.GetLeader] afirmou hoje que a Comunidade das Nações é cultural e economicamente preferível à União Europeia como parceira da Grã-Bretanha. A imprensa da oposição já critica a declaração do governo, apontando para o poder econômico europeu e a natureza dispersa e frouxa de a Comunidade - mas realmente parece que a política externa britânica está prestes a mudar. "
+ britain_news.56.d: "[ENG.GetLeader] afirmou hoje que a Comunidade das Nações é cultural e economicamente preferível à União Europeia como parceira da Grã-Bretanha. A imprensa da oposição já critica a declaração do governo, apontando para o poder econômico europeu e a natureza dispersa e frouxa de a Comunidade-mas realmente parece que a política externa britânica está prestes a mudar. "
  britain_news.56.o1: "Uma boa escolha."
  britain_news.56.o2: "Uma escolha ruim."
  britain_news.56.o3: "OK."
  britain_news.57.t: "A Grã-Bretanha está por conta própria"
- britain_news.57.d: "O primeiro-ministro [ENG.GetLeader] atacou tanto a União Europeia quanto a Comunidade das Nações hoje. Eles impedem a Grã-Bretanha, são corruptos e tolos, como dizia a declaração. Alguns jornalistas viram isso como um passo em falso de um bêbado em potencial político - e outros vêem isso como o início de uma nova era. "
+ britain_news.57.d: "O primeiro-ministro [ENG.GetLeader] atacou tanto a União Europeia quanto a Comunidade das Nações hoje. Eles impedem a Grã-Bretanha, são corruptos e tolos, como dizia a declaração. Alguns jornalistas viram isso como um passo em falso de um bêbado em potencial político-e outros vêem isso como o início de uma nova era. "
  britain_news.57.o1: "Esses idiotas ainda não nos levam a sério."
  britain_news.57.o2: "Os britânicos estão de volta ao que parece."
  britain_news.57.o3: "Qualquer que seja."
@@ -2878,16 +2878,16 @@ l_english:
  britain_news.64.t: "Grã-Bretanha prepara tratados de unificação"
  britain_news.64.d: "O governo britânico fez da unificação da União Européia em um único superestado sua agenda política oficial e começou a esboçar tratados para eventualmente levar a um acordo de unificação satisfatório entre todos os estados membros da UE."
  britain_news.64.o1: "Que desenvolvimento."
- britain_news.65.t: "Referendo Irlandês - A Irlanda do Norte fica"
+ britain_news.65.t: "Referendo Irlandês-A Irlanda do Norte fica"
  britain_news.65.d: "Confrontado com o crescente nacionalismo irlandês, o governo de Westminster decidiu dar ao povo da Irlanda do Norte o seu referendo para resolver esta questão de uma vez por todas. O povo decidiu ficar!"
  britain_news.65.o1: "Deus salve a rainha!"
- britain_news.66.t: "Referendo Irlandês - Unificação"
+ britain_news.66.t: "Referendo Irlandês-Unificação"
  britain_news.66.d: "Confrontado com o crescente nacionalismo irlandês, o governo de Westminster decidiu dar ao povo da Irlanda do Norte o referendo para resolver esta questão de uma vez por todas. O povo decidiu pela Unificação da Irlanda!"
  britain_news.66.o1: "Adeus e adeus!"
- britain_news.67.t: "Referendo escocês - a Escócia fica"
+ britain_news.67.t: "Referendo escocês-a Escócia fica"
  britain_news.67.d: "Confrontado com o crescente nacionalismo escocês, o governo de Westminster decidiu dar ao povo da Escócia seu segundo referendo para resolver essa questão de uma vez por todas. O povo decidiu ficar!"
  britain_news.67.o1: "Deus salve a rainha!"
- britain_news.68.t: "Referendo Escocês - Independência"
+ britain_news.68.t: "Referendo Escocês-Independência"
  britain_news.68.d: "Confrontado com o crescente nacionalismo escocês, o governo de Westminster decidiu dar ao povo da Escócia seu segundo referendo para resolver essa questão de uma vez por todas. O povo decidiu por sua independência!"
  britain_news.68.o1: "Adeus e adeus!"
 
@@ -3012,7 +3012,7 @@ l_english:
  France_news.2.o1: "Condenar a França"
  ###Suíça###
  switzerland.2.t: "Fim do Sistema Político Suíço"
- switzerland.2.d: "A democracia na Suíça, antes vista como um modelo e uma estrela brilhante de inspiração para todos aqueles que buscam um envolvimento mais popular no governo devido às possibilidades oferecidas aos cidadãos suíços, não existe mais.\n\nO líder suíço [SWI. GetLeader] anunciou que essas \ "Distrações da Vida Pública \" e \ "Referendos desnecessários \" parariam de acontecer. "
+ switzerland.2.d: "A democracia na Suíça, antes vista como um modelo e uma estrela brilhante de inspiração para todos aqueles que buscam um envolvimento mais popular no governo devido às possibilidades oferecidas aos cidadãos suíços, não existe mais.\n\nO líder suíço [SWI. GetLeader] anunciou que essas\"Distrações da Vida Pública\" e\"Referendos desnecessários\" parariam de acontecer. "
  switzerland.2.o1: "Boa viagem."
  switzerland.2.o2: "Que vergonha."
  switzerland.2.o3: "Qualquer que seja."
@@ -3021,11 +3021,11 @@ l_english:
  switzerland.3.o1: "Nós aceitamos!"
  switzerland.3.o2: "Não!"
  switzerland.4.t: "A República Alpina"
- switzerland.4.d: "A Suíça proclamou a união dos estados alpinos na República Alpina - e nos pediu para entrarmos."
+ switzerland.4.d: "A Suíça proclamou a união dos estados alpinos na República Alpina-e nos pediu para entrarmos."
  switzerland.4.o1: "Para os Alpes!"
  switzerland.4.o2: "Uhh, não."
  switzerland.5.t: "Ameaças suíças"
- switzerland.5.d: "Com uma nova facção militar em suas costas, os suíços desceram sobre nós e enviaram ao nosso país uma ameaça de 'parar de representar uma ameaça ao governo suíço, ao povo e aos países e povos aliados da Suíça'. A Suíça também nos transmitiu um programa de vinte e um pontos a seguir - mas aceitar resultaria de fato em nossa anexação à Confederação Suíça. "
+ switzerland.5.d: "Com uma nova facção militar em suas costas, os suíços desceram sobre nós e enviaram ao nosso país uma ameaça de 'parar de representar uma ameaça ao governo suíço, ao povo e aos países e povos aliados da Suíça'. A Suíça também nos transmitiu um programa de vinte e um pontos a seguir-mas aceitar resultaria de fato em nossa anexação à Confederação Suíça. "
  switzerland.5.o1: "Temos que aceitar."
  switzerland.5.o2: "Nunca! LIBERDADE!"
  switzerland.6.t: "O Fim da Suíça"
@@ -3035,7 +3035,7 @@ l_english:
  switzerland.7.d: "O Presidente da Suíça é um cargo que alterna entre os sete membros dos Conselhos Federais Suíços em ciclos anuais.\n\nAdolf Ogi, do populista de direita Partido do Povo Suíço, assumiu o cargo no ano de 2000. Ele já havia presidido sobre o conselho com sucesso em 1993. "
  switzerland.7.o1: "Uma boa escolha."
  switzerland_news.1.t: "A Suíça se junta à ONU"
- switzerland_news.1.d: "Originalmente, o governo suíço havia se recusado a ingressar nas Nações Unidas após o fim da Segunda Guerra Mundial, apontando para a contínua dedicação do país à sua própria neutralidade - o que é especialmente estranho considerando que a principal sede da ONU na Europa é o UNOG, os Estados Unidos Escritório das Nações em Genebra.\n\nAgora, após um referendo público sobre o assunto, o governo suíço anunciou que o país avançaria para abandonar seu posto de espectador e agora se juntaria à organização como membro pleno. "
+ switzerland_news.1.d: "Originalmente, o governo suíço havia se recusado a ingressar nas Nações Unidas após o fim da Segunda Guerra Mundial, apontando para a contínua dedicação do país à sua própria neutralidade-o que é especialmente estranho considerando que a principal sede da ONU na Europa é o UNOG, os Estados Unidos Escritório das Nações em Genebra.\n\nAgora, após um referendo público sobre o assunto, o governo suíço anunciou que o país avançaria para abandonar seu posto de espectador e agora se juntaria à organização como membro pleno. "
  switzerland_news.1.o1: "Já era hora, Suíça!"
  switzerland_news.1.o2: "E quanto a nós?"
  switzerland_news.1.o3: "Será que é realmente de um grande negócio?"

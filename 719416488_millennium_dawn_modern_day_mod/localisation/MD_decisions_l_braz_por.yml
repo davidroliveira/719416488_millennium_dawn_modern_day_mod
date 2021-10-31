@@ -57,7 +57,7 @@ l_english:
  DEN_nationalist_claims_SWE: "Claim Skåne"
  DEN_nationalist_claims_SWE_desc: "Historicamente e culturalmente dinamarqueses, há muito tempo deixamos nosso povo de Skåne ser oprimido por [SWE.GetNameWithFlag]."
  FRA_nationalist_claims_BEL: "Reivindicar Wallonie de [BEL.GetNameWithFlag]"
- FRA_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] é uma construção artificial. Não podemos nos importar menos com o que o povo flamengo de Flandres escolhe fazer com os restos mortais. Mas uma coisa é certa - a região da Wallonie de língua francesa deve retornar a [FRA.GetNameWithFlag] . "
+ FRA_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] é uma construção artificial. Não podemos nos importar menos com o que o povo flamengo de Flandres escolhe fazer com os restos mortais. Mas uma coisa é certa-a região da Wallonie de língua francesa deve retornar a [FRA.GetNameWithFlag] . "
  FRA_nationalist_claims_SWI: "Reivindicar região suíça francófona"
  FRA_nationalist_claims_SWI_desc: "Temos certeza de que os franceses na Suíça seriam muito mais felizes se fizessem parte da [FRA.GetNameWithFlag]."
  HOL_nationalist_claims_BEL: "Reivindicar Vlaanderen e Brabant"
@@ -83,7 +83,7 @@ l_english:
  NOR_nationalist_claims_SCO: "Reivindicar Shetland"
  NOR_nationalist_claims_SCO_desc: "Shetland como parte do independente [SCO.GetNameWithFlag] é uma piada cruel. As pessoas lá anseiam pelo dia em que se unirão aos seus irmãos viking."
  NOR_nationalist_claims_ICE: "Reivindicar [ICE.GetNameWithFlag]"
- NOR_nationalist_claims_ICE_desc: "[ICE.GetNameWithFlag] foi liquidado por noruegueses e foi durante muito tempo parte do Reino da Noruega, antes de ser ilegalmente entregue a [DEN.GetNameWithFlag] por [SWE.GetNameWithFlag] como parte do acordo nas Guerras Napoleônicas . Embora [ICE.GetNameWithFlag] seja independente agora, sabemos sua escolha preferida - a Noruega. "
+ NOR_nationalist_claims_ICE_desc: "[ICE.GetNameWithFlag] foi liquidado por noruegueses e foi durante muito tempo parte do Reino da Noruega, antes de ser ilegalmente entregue a [DEN.GetNameWithFlag] por [SWE.GetNameWithFlag] como parte do acordo nas Guerras Napoleônicas . Embora [ICE.GetNameWithFlag] seja independente agora, sabemos sua escolha preferida-a Noruega. "
  POL_nationalist_claims_BLR: "Reivindicar polonês [BLR.GetNameWithFlag]"
  POL_nationalist_claims_BLR_desc: "Tirados ilegalmente de nós, vamos recuperar nossa terra perdida e libertar a oprimida população polonesa."
  POL_nationalist_claims_LIT: "Reivindicar partes polonesas de [LIT.GetNameWithFlag]"
@@ -107,7 +107,7 @@ l_english:
  GER_nationalist_claims_LUX: "Reivindicar território legítimo: [LUX.GetNameWithFlag]"
  GER_nationalist_claims_LUX_desc: "[LUX.GetNameWithFlag] afirma ser uma nação, mas sabemos melhor. Eles são claramente alemães."
  GER_nationalist_claims_POL: "Reivindique de volta nossa terra perdida em [POL.GetNameWithFlag]"
- GER_nationalist_claims_POL_desc: "Os aliados anti-alemães e os degenerados soviéticos roubaram as principais terras alemãs. A limpeza étnica fez com que os alemães hoje em dia sejam uma clara minoria, mas todos os descendentes do povo alemão expulso anseiam por retornar - assim que estiver sob o domínio alemão adequado novamente. "
+ GER_nationalist_claims_POL_desc: "Os aliados anti-alemães e os degenerados soviéticos roubaram as principais terras alemãs. A limpeza étnica fez com que os alemães hoje em dia sejam uma clara minoria, mas todos os descendentes do povo alemão expulso anseiam por retornar-assim que estiver sob o domínio alemão adequado novamente. "
  GER_nationalist_claims_SLV: "Reivindicar o sul do Steiermark"
  GER_nationalist_claims_SLV_desc: "Com nosso controle sobre a Áustria agora firme, é nosso dever garantir que TODA a Áustria esteja em mãos alemãs. Isso claramente inclui o sul de Steiermark."
  GER_nationalist_claims_SOV: "Reivindicar Kaliningrado"
@@ -151,20 +151,20 @@ l_english:
  monarchist_20_tt: "[Monarchist_L] ([? Party_pop_array ^ 23 |% 1])> 20% popularidade"
 
  caliphate_extremist_civil_war: "[Caliphate_L] ([? Party_pop_array ^ 11 |% 0]) lançar um levante para derrubar o governo"
- caliphate_extremist_civil_war_desc: "O jihadismo salafista se tornou uma força significativa em [Root.GetName]. Estando fortemente organizados e com motivação religiosa fanática, eles estão mais do que dispostos a travar uma guerra longa e exaustiva para derrotar o \" governo corrupto e anti-islâmico \ "e configurar seu Califado.\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle sobre a revolta§! "
+ caliphate_extremist_civil_war_desc: "O jihadismo salafista se tornou uma força significativa em [Root.GetName]. Estando fortemente organizados e com motivação religiosa fanática, eles estão mais do que dispostos a travar uma guerra longa e exaustiva para derrotar o\" governo corrupto e anti-islâmico\"e configurar seu Califado.\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle sobre a revolta§! "
  caliphate_20_tt: "[Caliphate_L] ([? Party_pop_array ^ 11 |% 1])> 20% popularidade"
 
  communist_state_extremist_civil_war: "[Communist-State_L] ([? Party_pop_array ^ 4 |% 0]) lançar um levante para derrubar o governo"
- communist_state_extremist_civil_war_desc: "Os comunistas do [Estado-comunista] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez não é só conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada de classe -estabelecer para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
+ communist_state_extremist_civil_war_desc: "Os comunistas do [Estado-comunista] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez não é só conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada de classe -estabelecer para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo-Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  communist_state_20_tt: "[Communist-State_L] ([? Party_pop_array ^ 4 |% 1])> 20% popularidade"
 
  neutral_communist_extremist_civil_war: "[Neutral_Communism_L] ([? Party_pop_array ^ 19 |% 0]) lançar um levante para derrubar o governo"
- neutral_communist_extremist_civil_war_desc: "Os comunistas do [Neutral_Communism_L] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez, não é apenas conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada da luta de classes para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo - Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
+ neutral_communist_extremist_civil_war_desc: "Os comunistas do [Neutral_Communism_L] estão cansados de simplesmente marchar nas ruas e distribuir panfletos. Desta vez, não é apenas conversa. Com o apoio de uma ampla gama da sociedade, eles finalmente parecem prontos para lançar a revolução armada da luta de classes para derrubar o governo burguês-imperialista de [Root.GetName], finalmente estabelecendo a ditadura do proletariado que as massas oprimidas anseiam! O espírito de Lenin e Mao está bem e vivo-Viva la revolución!\n\nEfeito:\n§HInício da Guerra Civil: 50% da força§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  neutral_communist_20_tt: "[Neutral_Communism_L] ([? Party_pop_array ^ 19 |% 1])> 20% popularidade"
 
  #possible if autocratic:
  vilayat_e_faqih_extremist_civil_war: "[Vilayat_e_Faqih_L] ([? Party_pop_array ^ 9 |% 0]) lançar um levante para derrubar o governo"
- vilayat_e_faqih_extremist_civil_war_desc: "Inspirados pela Revolução Islâmica do Irã de 1979 e com o apoio ideológico das forças do Eixo da Resistência, os [Vilayat_e_Faqih_L] estão supostamente prontos para derrubar o governo, mesmo que isso signifique \" saborear o doce suco do Martírio \ "para a maioria dos Por serem rigidamente organizados e fortes fundações ideológicas e religiosas, buscam estabelecer um \ "Governo de Jurisprudência Islâmica \" que será um baluarte contra o sionismo e a influência ocidental.\n\nEfeito:\n§HInício da Guerra Civil: 50 % Strength§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
+ vilayat_e_faqih_extremist_civil_war_desc: "Inspirados pela Revolução Islâmica do Irã de 1979 e com o apoio ideológico das forças do Eixo da Resistência, os [Vilayat_e_Faqih_L] estão supostamente prontos para derrubar o governo, mesmo que isso signifique\" saborear o doce suco do Martírio\"para a maioria dos Por serem rigidamente organizados e fortes fundações ideológicas e religiosas, buscam estabelecer um\"Governo de Jurisprudência Islâmica\" que será um baluarte contra o sionismo e a influência ocidental.\n\nEfeito:\n§HInício da Guerra Civil: 50 % Strength§!\n\n§RO gatilho fará com que você assuma o controle da revolta§! "
  vilayat_e_faqih_20_tt: "[Vilayat_e_Faqih_L] ([? Party_pop_array ^ 9 |% 1])> 20% popularidade"
  #deve desencadear um evento para o Irã e o Hezbollah apoiá-los se o Irã ainda for a ideologia certa
 
@@ -187,8 +187,8 @@ l_english:
  rebuild_bosphorus_strait: "Reparar o Bósforo"
  rebuild_bosphorus_strait_desc: "O Bósforo foi bloqueado por destroços de um navio maciço e precisa de um tempo considerável para ser limpo."
 
- treasury_loss_2_bil_TT: "Custos de campanha: §HTreasury§! §R - $ [custo_variável] §! Bilhões\n"
- treasury_loss_project_TT: "Custo do projeto: §HTreasury§! §R - $ [custo_variável] §! Bilhões"
+ treasury_loss_2_bil_TT: "Custos de campanha: §HTreasury§! §R-$ [custo_variável] §! Bilhões\n"
+ treasury_loss_project_TT: "Custo do projeto: §HTreasury§! §R-$ [custo_variável] §! Bilhões"
  treasury_loss_lease_mils_TT: "[variable_cost_lease_mils]"
  treasury_loss_lease_civs_TT: "[variable_cost_lease_civs]"
  cost_num_of_factories_3: "0,05"
@@ -229,7 +229,7 @@ l_english:
  election_threshold_max: "NÃO: Limite de eleição já no máximo (10%)"
  election_threshold_min: "NÃO: Limite eleitoral já no mínimo (1%)"
 
- #trigger tooltips - visível apenas se a var mencionada estiver na matriz do governo
+ #trigger tooltips-visível apenas se a var mencionada estiver na matriz do governo
  mutual_Neutral_conservatism_20_tt: "[mutual_Neutral_conservatism_20_tt_loc]"
  mutual_Neutral_conservatism_20_tt2: "NOT: It e [Neutral_conservatism_L] ambos> 20%."
  mutual_conservatism_20_tt: "[mutual_conservatism_20_tt_loc]"
@@ -394,7 +394,7 @@ l_english:
  equipment_purchase_desicions_desc: ""
 
 
- #### - IU de compra de equipamentos - ####
+ ####-IU de compra de equipamentos-####
  #Menu principal
  EP_main_cat: "Mercado de Armas Estrangeiras"
  EP_main_cat_desc: "Podemos comprar armas de potências estrangeiras aqui. Isso nos permitirá compensar rapidamente um déficit ou acessar equipamentos mais avançados que não somos capazes de produzir. Isso proporcionará uma vantagem sobre nossos adversários, mas também enriquecerá o vendedor. .\nCada transação fornecerá equipamento equivalente a um batalhão. (O custo aumentará drasticamente com base no nível de tecnologia) "
@@ -493,7 +493,7 @@ l_english:
  EP_H_anti_tank_open: "ATGMs montados abertos"
  EP_H_anti_tank_close: "Fechar ATGMs montados"
 
- ### - Localização da arma - ###
+ ###-Localização da arma-###
  # 26 espaços para o símbolo do tesouro
  #Price scale from lowest to highest tech: 1,1,1,2,3,5,10,25
 
@@ -1058,7 +1058,7 @@ l_english:
  EP_SOV_CV_MR_2: "Su-30MK2 (1985)"
  EP_SOV_CV_MR_3: "Su-33 Flanker-D (1995)"
  EP_SOV_CV_MR_4: "MiG-39K Flatback (2015)"
- EP_SOV_CV_MR_5: "MiG-39MK Flatback-B (2025)" ### Classificação russa para M é modificação. Logicamente, ele se chamará MK - Modificirovanniy Korabelniy (K para CV) @Sumimoto
+ EP_SOV_CV_MR_5: "MiG-39MK Flatback-B (2025)" ### Classificação russa para M é modificação. Logicamente, ele se chamará MK-Modificirovanniy Korabelniy (K para CV) @Sumimoto
  EP_SOV_CV_MR_6: "6ª geração CV MR (2035)"
  EP_SOV_CV_MR_7: "6.5th Gen CV MR (2045)"
  EP_buy_SOV_MR_Fighter_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
@@ -1471,9 +1471,9 @@ l_english:
  TUR_afrin_d: "Forças turcas ameaçam Afrin"
  TUR_afrin_d_desc: "O ataque turco ao povo curdo continua. A ameaça de uma invasão de Afrin é real, já que o presidente turco [seu_país.GetLeader], sem surpresa, nos rotulou como terroristas alinhados com o PKK e ameaçou nos estrangular antes que pudéssemos atacar terras turcas em um ridículo ataque terrorista. Este não é o nosso caminho, mas devemos nos preparar para um ataque imediatamente! "
  TUR_afrin_d2: "Forças turcas continuam avançando"
- TUR_afrin_d2_desc: "Eles chamam isso de \" Operação Ramo de Oliveira \ ", engraçado como se diz que o ramo de oliveira é uma oferta de paz. Os turcos não, não o significado da paz, e sua campanha de opressão curda continua contra o oponente errado. se quiserem continuar esta luta, devemos continuar a nos defender. "
+ TUR_afrin_d2_desc: "Eles chamam isso de\" Operação Ramo de Oliveira\", engraçado como se diz que o ramo de oliveira é uma oferta de paz. Os turcos não, não o significado da paz, e sua campanha de opressão curda continua contra o oponente errado. se quiserem continuar esta luta, devemos continuar a nos defender. "
 
- TUR_counter_terrorism_mil: "Operações de combate ao terrorismo - Ramo militar"
+ TUR_counter_terrorism_mil: "Operações de combate ao terrorismo-Ramo militar"
  TUR_counter_terrorism_mil_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos.\n\nA força do PKK ( chance de conduzir um novo ataque) §R [? Root.pkk_presence] §!\n\nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §!\nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
  strenghten_outposts_1: "Fortalecer Postos Avançados"
  strenghten_outposts_1_desc: "Nossos postos avançados na parte sudeste do nosso país se desenvolveram para impedir o contrabando de e para o norte do Iraque por volta de 1960. Agora, enfrentando ataques terroristas, eles são muito antigos ou estão em posições erradas e altamente vulneráveis a ataques assimétricos. Nós precisamos encontrar uma solução para isso, pode custar muito dinheiro, mas vai nos compensar com as vidas salvas. E a oposição certamente tentará desacreditar essa reforma como sempre faz, dizendo que desperdiçará nosso dinheiro para nenhum benefício, portanto, há pouco espaço para falhas. "
@@ -1519,7 +1519,7 @@ l_english:
  collapse_civ_branch: "Esconder as decisões de reforma civil"
  expand_civ_branch: "Mostrar decisões de reforma civil"
 
- TUR_counter_terrorism_civ: "Operações de combate ao terror - Filial civil"
+ TUR_counter_terrorism_civ: "Operações de combate ao terror-Filial civil"
  TUR_counter_terrorism_civ_desc: "O PKK não trata apenas de guerrilheiros armados ou terroristas, a autoridade do Estado não está sendo firme e a confiança das pessoas nos governos e Estados não é forte, agravou esse problema. Precisamos de novas soluções sociológicas sem sangue, pequenas ou grandes.\n\nA força do PKK (chance de conduzir um novo ataque) §R [? Root.pkk_presence] §!\n\nPKK's Máxima Ameaça §R [? Root.pkk_presence_max] §!\nPKK's Minimum Ameaça §R [? Root.pkk_presence_min] §! "
  college_professors: "Lidando com professores universitários"
  college_professors_desc: "Temos uma luta em nossas mãos e essas pessoas que deveriam ser iluminadas, mas reclamam da situação e querem que o governo abdique sempre que um ataque terrorista acontece e chamam isso de genocídio ou xenofobia sempre que tentamos fazer algo contra o PKK . Isso precisa ser interrompido. Iremos eliminá-los ou garantir que eles não desacreditem mais nossas ações com afirmações infundadas "
@@ -1566,7 +1566,7 @@ l_english:
  usa_intervene_YEM_desc: "Historicamente, os Estados Unidos apoiaram o governo iemenita"
  usa_intervene_AFG: "Sentinela da Operação Liberdade"
  usa_intervene_AFG_desc: "Historicamente, os Estados Unidos apoiaram o governo afegão"
- usa_intervene_SOM: "OEF - Chifre da África"
+ usa_intervene_SOM: "OEF-Chifre da África"
  usa_intervene_SOM_desc: "Historicamente, os Estados Unidos apoiaram o governo da Somália"
  usa_intervene_desc: "Historicamente, os Estados Unidos apoiaram o governo da Somália"
  usa_intervene_GNA: "Operação Falcão Liberdade"
@@ -1629,7 +1629,7 @@ l_english:
  ETH_light_rail_desc: "A crescente cidade de Addis Ababa está todos os dias cheia de engarrafamentos, mas a China já tem uma ótima solução para este problema. Um novo sistema de trilhos leves patrocinado por nossos amigos chineses."
  ETH_construct_light_rail: "Construção do Metro Ligeiro de Addis Abeba"
  ETH_light_rail_2: "Expanda a rede sobre trilhos leves"
- ETH_light_rail_2_desc: "Em todas as quatro direções de nossa Rede de Metrô de Superfície há espaço para expansão. Além disso, podemos conectar o Metrô de Superfície com a também construída recentemente ferrovia Addis Ababa – Djibouti."
+ ETH_light_rail_2_desc: "Em todas as quatro direções de nossa Rede de Metrô de Superfície há espaço para expansão. Além disso, podemos conectar o Metrô de Superfície com a também construída recentemente ferrovia Addis Ababa–Djibouti."
  ETH_construct_light_rail_2: "Expansão da rede de trilhos leves"
  ETH_construct_light_rail_2_desc: "Já começaram as obras de expansão da Rede de Metrô de Superfície".
  ETH_rehabilitation: "Reabilitação das Ferrovias Ethio-Djibouti"
@@ -1640,10 +1640,10 @@ l_english:
  ETH_repair_railway_desc: "A Ferrovia Ethio-Djibouti precisa urgentemente de reparos e, se não fizermos isso agora, as consequências podem custar caro."
  ETH_rehabilitation_railway_2: "Reabilitação das Ferrovias Ethio-Djibouti"
  ETH_rehabilitation_railway_2_desc: "Começaram as obras de reparação da Ferrovia Etio-Djibouti"
- ETH_addis_ababa_djibouti_railway: "Construir a ferrovia Addis Ababa – Djibouti"
+ ETH_addis_ababa_djibouti_railway: "Construir a ferrovia Addis Ababa–Djibouti"
  ETH_addis_ababa_djibouti_railway_desc: "Mais de 95% do comércio da Etiópia passa por Djibouti, o que o torna vital para nossa economia. Ao ligar nossa capital diretamente a Djibouti com uma ferrovia moderna, podemos reduzir drasticamente o tempo de viagem e os custos de nossos produtos."
  ETH_construct_addis_ababa_djibouti_railway: "Construção da ferrovia Adis Abeba-Djibouti"
- ETH_construct_addis_ababa_djibouti_railway_desc: "Começaram as obras de construção da Ferrovia Addis Ababa – Djibouti."
+ ETH_construct_addis_ababa_djibouti_railway_desc: "Começaram as obras de construção da Ferrovia Addis Ababa–Djibouti."
  ETH_eritrea_category: "Operações de contra-insurgência na Eritreia"
  ETH_eritrea_category_desc: "Decisões relacionadas a ações antiterrorismo. Encontrar novas contramedidas defensivas pode diminuir sua força máxima, mas se quisermos diminuir seu poder atual, precisamos desenvolver operações novas e agressivas, como iniciar ofensivas terrestres e ataques aéreos.\n\nForça da EPLF: §R [? Root.elpf_presence] §!\n(Possibilidade de conduzir um novo ataque)\n\nSuporte da EPLF: §R [? Root.elpf_support] §!\n(Se chegar a 100, os separatistas iniciarão uma guerra de independência ) "
  ETH_destroy_sudan_base: "Destrua a base EPLF no Sudão"
@@ -1903,12 +1903,12 @@ l_english:
  BRM_annex_WAA: "Anexar o Wa"
  BRM_annex_WAA_desc: "Adquirimos influência suficiente sobre os Wa para assumir completamente o seu território."
  attack_drug_factories: "Ataque às fábricas de drogas de Wa"
- attack_drug_factories_desc: "O Exército do Estado de Wa está fortemente envolvido na produção ilegal de drogas como heroína e \" ya ba \ ", um comprimido de metanfetamina. Atacar e destruir essas fábricas exigirá esforço e recursos, mas ajudará nossa legitimidade internacional e com ela , nossa causa. No entanto, devemos estar preparados para o Wa retaliar contra nós. "
+ attack_drug_factories_desc: "O Exército do Estado de Wa está fortemente envolvido na produção ilegal de drogas como heroína e\" ya ba\", um comprimido de metanfetamina. Atacar e destruir essas fábricas exigirá esforço e recursos, mas ajudará nossa legitimidade internacional e com ela , nossa causa. No entanto, devemos estar preparados para o Wa retaliar contra nós. "
  intercept_drug_convoys: "Interceptar comboios de drogas Wa"
  intercept_drug_convoys_desc: "Nossa posição na fronteira com a Tailândia significa que podemos interceptar drogas transferidas do território Wa para a Tailândia. Confiscar essas drogas e queimá-las na frente de organizações de notícias tailandesas e internacionais aumentará a opinião internacional sobre nosso grupo, mas pode levar a uma resposta militar dos Estados Unidos Exército do Estado de Wa. "
  end_opium_production: "Fim da produção de heroína"
  end_opium_production_desc: "Os Estados Unidos rotularam nossa organização como traficante de narcóticos e emitiram mandados de prisão para alguns de nossos principais comandantes. Mais importante, a China também desaprova nosso envolvimento no comércio de heroína e, embora possa prejudicar nossa economia, pode ser no nosso melhor interesse, proibir o cultivo de papoulas do ópio e acabar com a produção de heroína. "
- end_meth_production: "Fim \" Ya Ba \ "Produção"
+ end_meth_production: "Fim\" Ya Ba\"Produção"
  end_meth_production_desc: "Ya ba é um comprimido de metanfetamina que é uma importante fonte de financiamento para nós e ajuda a sustentar nossa economia. No entanto, é difícil para nós sacudirmos nossa reputação negativa, especialmente em relação à Tailândia, onde ya ba se espalhou. Nós talvez tenhamos de aceitar os choques econômicos de curto prazo decorrentes do fim da produção de ya ba se quisermos ser vistos de maneira positiva pela comunidade internacional. "
  attack_tatmadaw: "Ataque o Tatmadaw"
  attack_tatmadaw_desc: "O governo central não parece querer nos deixar em paz. Para garantir a segurança de nosso povo, devemos atacar o odiado Tatmadaw antes que eles possam entrar em nossas próprias casas."

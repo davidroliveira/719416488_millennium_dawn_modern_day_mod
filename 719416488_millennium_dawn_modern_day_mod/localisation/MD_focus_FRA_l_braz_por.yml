@@ -1,7 +1,7 @@
 l_english:
  ### Espectro político
  FRA_state_of_french_politics: "Estado da política francesa"
- FRA_state_of_french_politics_desc: "O país da França está em uma das posições mais interessantes - e voláteis do mundo. Os partidos comunistas na França tiveram um sucesso sem precedentes nas eleições. A Frente Nacional também é um partido próximo que representa uma retórica nacionalista crescente no povo."
+ FRA_state_of_french_politics_desc: "O país da França está em uma das posições mais interessantes-e voláteis do mundo. Os partidos comunistas na França tiveram um sucesso sem precedentes nas eleições. A Frente Nacional também é um partido próximo que representa uma retórica nacionalista crescente no povo."
  FRA_french_parliament: "Parlamento francês"
  FRA_french_parliament_desc: "O Parlamento francês em seu estado atual é dividido em duas partes: o Senado e a Assembleia Nacional. O sistema de dois níveis permite ao governo permitir uma versão do sistema de freios e contrapesos, ao mesmo tempo que garante uma representação adequada para todas as pessoas."
  FRA_the_fifth_power: "O Quinto Poder"
@@ -28,7 +28,7 @@ l_english:
  FRA_french_political_reformation: "Reforma Política Francesa"
  FRA_french_political_reformation_desc: "Embora sejamos um dos maiores países do mundo, nosso sistema político não está imune à corrupção e à ineficiência. Devemos mudar isso."
  FRA_french_autonomy: "Autonomia Francesa"
- FRA_french_autonomy_desc: "'Não há nada mais importante do que a independência para um francês' - Ted52."
+ FRA_french_autonomy_desc: "'Não há nada mais importante do que a independência para um francês'-Ted52."
  FRA_strength_in_the_eu: "Força na UE"
  FRA_strength_in_the_eu_desc: "A União Europeia é uma conquista para a participação de toda a Europa. Unir as pessoas em um governo firme, onde todos os países têm uma palavra a dizer, grande ou pequena, é excelente e surpreendente. A capacidade de cooperar nos impulsionará por muitos anos . "
  FRA_european_investments2: "Investimentos da Europa Oriental"
@@ -84,7 +84,7 @@ l_english:
  FRA_securing_our_place_desc: "O governo está um pouco instável devido à recente tomada do poder. Devemos expandir nossos orçamentos para colocar propaganda em torno das cidades e vilas para promover nossa base."
  FRA_igniting_the_flames: "Acendendo as Chamas"
  FRA_igniting_the_flames_desc: "As Chamas da Revolução surgiram. Empurre as marés da revolução por toda a parte!"
- ## Caminho da OTAN - Fraternidade e Igualdade Exclusivo
+ ## Caminho da OTAN-Fraternidade e Igualdade Exclusivo
  FRA_leave_europe: "Referendo Frexit"
  FRA_leave_europe_desc: "A União Europeia é uma daquelas coisas que é ótimo na prática, mas não nos dá nenhum benefício real além de ser uma madrasta autoritária. Deixe o povo decidir! Faça um Referendo Frexit!"
  FRA_renounce_nato: "Renuncie a NATO"
@@ -93,7 +93,7 @@ l_english:
  FRA_freedom_from_the_west_desc: "Nos últimos anos, o Ocidente empurrou predominantemente sua ideologia para o exterior e exigiu que o povo francês fizesse o mesmo. Devemos rejeitar esses opressores para forjar nosso destino!"
  FRA_the_paris_accord: "O Acordo de Paris"
  FRA_the_paris_accord_desc: "Para combater a influência da OTAN e da UE na Europa. É hora de pressionarmos para formar nossa aliança. O Acordo de Paris mostrará que aqueles que se alinham conosco se tornarão fortes por seus direitos."
- ## Fraternidade - Nacionalista/Monarquia
+ ## Fraternidade-Nacionalista/Monarquia
  FRA_euroscepticsm: "Eurocepticismo"
  FRA_euroscepticsm_desc: "A Europa empurrou suas ideologias dominantes sobre nós por muito tempo. A pressão por uma União Europeia mais forte apenas reduzirá nossa autonomia."
  FRA_electoral_shutdown: "Desligamento Eleitoral"
@@ -228,7 +228,7 @@ l_english:
  FRA_honour_homeland_valour_discpline_desc: "O lema da marinha francesa é uma expressão de mais do que apenas o que significa estar no exército. O povo é um na pátria, não somos mais do que cheios de honra e valor, e nosso povo corajoso é disciplinado."
  FRA_french_space: "Espaço Francês"
  FRA_french_space_desc: "Nosso domínio nas funções espaciais avançando é vital para um futuro de recursos e ganhos que serão obtidos nos céus."
- ### Agressão - Igualdade
+ ### Agressão-Igualdade
  FRA_peaceful_rise: "Ascensão Pacífica"
  FRA_peaceful_rise_desc: "O povo francês já decidiu. Não devemos avançar da maneira antiga. Nossas idéias serão levadas pacificamente para o exterior."
  FRA_aggresive_expanisionism: "Expansionismo Agressivo"
@@ -318,21 +318,21 @@ l_english:
  FRA_a_peaceful_rise_flag: "Política Externa Pacífica"
  FRA_an_aggresive_expansionism_flag: "Política Externa Agressiva"
  
- ### Eventos franceses - Notícias
+ ### Eventos franceses-Notícias
  France_news.97.t: "A França apoia a Egalité."
- France_news.97.d: "Buscando uma nova lealdade interna e externa da pátria, o presidente francês [FRA.GetLeader] anunciou uma mudança para a esquerda na política econômica e externa. Enfatizando a Egalité sobre os outros dois lemas franceses, a igualdade universal de todos os cidadãos franceses será alcançada em breve - de acordo com o governo. "
+ France_news.97.d: "Buscando uma nova lealdade interna e externa da pátria, o presidente francês [FRA.GetLeader] anunciou uma mudança para a esquerda na política econômica e externa. Enfatizando a Egalité sobre os outros dois lemas franceses, a igualdade universal de todos os cidadãos franceses será alcançada em breve-de acordo com o governo. "
  France_news.97.o1: "Viva a França!"
  France_news.97.o2: "Bom para eles."
  France_news.97.o3: "Interessante."
  France_news.98.t: "A França endossa Fraternité."
- France_news.98.d: "A França está insatisfeita com as políticas 'sem coração e degeneradas' endossadas no mundo recentemente. O presidente francês [FRA.GetLeader] assumiu uma nova tendência autoritária em termos de políticas e retórica.\n\n[FRA.GetLeader] promete isso levará à fraternidade entre os irmãos e irmãs sob a bandeira francesa - mas os observadores internacionais estão céticos. Nas palavras de um jornalista irlandês: 'Uma democracia não deve precisar de um ditador para se tornar mais democrática.' "
+ France_news.98.d: "A França está insatisfeita com as políticas 'sem coração e degeneradas' endossadas no mundo recentemente. O presidente francês [FRA.GetLeader] assumiu uma nova tendência autoritária em termos de políticas e retórica.\n\n[FRA.GetLeader] promete isso levará à fraternidade entre os irmãos e irmãs sob a bandeira francesa-mas os observadores internacionais estão céticos. Nas palavras de um jornalista irlandês: 'Uma democracia não deve precisar de um ditador para se tornar mais democrática.' "
  France_news.98.o1: "Viva a França!"
  France_news.98.o2: "Nós vamos."
  France_news.98.o3: "Um movimento em direção à direita"
  France_news.99.t1: "Retorno do Rei"
  France_news.99.t2: "Retorno do Imperador"
- France_news.99.d1: "A Casa Real de Bourbon voltou à residência real em Versalhes, uma vez construída por seu ancestral Luís XIV, para retomar o governo da França.\n\nKing [FRA.GetLeader] prometeu uma nova e grandiosa era para França e o mundo. "Os legítimos governantes da França e os protetores da Europa Ocidental voltaram ao seu devido lugar." Foi a cláusula final de seu discurso - que foi imediatamente criticado como chauvinista e exagerado por outros líderes europeus e republicanos franceses . "
- France_news.99.d2: "A autodenominada 'Casa Imperial' de Bonaparte, os descendentes do auto-coroado imperador Napoleão I Bonaparte (1769-1821), voltaram a Versalhes. Embora Napoleão (e seus descendentes) sempre tenham sido populares na França, eles foram menos no exterior - tanto com nobres estrangeiros quanto com plebeus estrangeiros.\n\nA recente retórica chauvinista de [FRA.GetLeader], que recentemente ascendeu como imperador dos franceses, foi questionada pelos líderes da Alemanha, Grã-Bretanha, Itália, e a Rússia. Os novos governantes da França têm poucos amigos.\n\nJuntamente com o novo sistema de governo, a França revelou uma nova bandeira: a mesma que a antiga, mas hasteada com bandeira vermelha - um chamado de volta à Revolução Francesa , quando uma bandeira semelhante foi hasteada pouco antes do primeiro Império Bonapartista. "
+ France_news.99.d1: "A Casa Real de Bourbon voltou à residência real em Versalhes, uma vez construída por seu ancestral Luís XIV, para retomar o governo da França.\n\nKing [FRA.GetLeader] prometeu uma nova e grandiosa era para França e o mundo. "Os legítimos governantes da França e os protetores da Europa Ocidental voltaram ao seu devido lugar." Foi a cláusula final de seu discurso-que foi imediatamente criticado como chauvinista e exagerado por outros líderes europeus e republicanos franceses . "
+ France_news.99.d2: "A autodenominada 'Casa Imperial' de Bonaparte, os descendentes do auto-coroado imperador Napoleão I Bonaparte (1769-1821), voltaram a Versalhes. Embora Napoleão (e seus descendentes) sempre tenham sido populares na França, eles foram menos no exterior-tanto com nobres estrangeiros quanto com plebeus estrangeiros.\n\nA recente retórica chauvinista de [FRA.GetLeader], que recentemente ascendeu como imperador dos franceses, foi questionada pelos líderes da Alemanha, Grã-Bretanha, Itália, e a Rússia. Os novos governantes da França têm poucos amigos.\n\nJuntamente com o novo sistema de governo, a França revelou uma nova bandeira: a mesma que a antiga, mas hasteada com bandeira vermelha-um chamado de volta à Revolução Francesa , quando uma bandeira semelhante foi hasteada pouco antes do primeiro Império Bonapartista. "
  France_news.99.o1: "Vida longa ao rei!"
  France_news.99.o2: "Vida longa ao!"
  France_news.99.o3: "Ah bem."
@@ -366,12 +366,12 @@ l_english:
  france_md.3.t: "[From.GetName] se recusa"
  france_md.3.d: "Eles decidiram que nossos investimentos não são do seu interesse. É interessante que eles recusariam algo que beneficiaria nossas grandes nações!"
  france_md.3.a: "Decepcionante."
- france_md.4.t: "Projetos de infraestrutura rodoviária - Europa Oriental."
+ france_md.4.t: "Projetos de infraestrutura rodoviária-Europa Oriental."
  france_md.4.d: "A infraestrutura do Leste Europeu caiu em desordem nos últimos anos. Alguns empreiteiros franceses estão procurando trabalho, então eles estão nos abordando para ver como melhorar algumas das rodovias aqui no país. Eles se ofereceram para pagar pela construção por tanto tempo à medida que recebem os retornos de qualquer forma de imposto usado para pagá-los. "
  france_md.4.a: "Claro! Infraestrutura grátis!"
  france_md.4.b: "Não são os franceses"
  france_md.5.t: "A Convenção de Paris"
- france_md.5.d: "A França convocou uma conferência em Paris hoje com todos os líderes e membros proeminentes da UE para discutir o futuro da UE. Curiosamente, a função principal da conferência era discutir algo incomum. Nossos anfitriões franceses decidiram discutir a possibilidade de unificação de o sindicato. Eles listaram a sua proposta para ser o chefe deste sindicato. Além disso, a estrutura foi criada e está agora à espera de signatários para aprovar a legislação no parlamento e, eventualmente, ver o seu cumprimento tornado realidade. A única causa para o desenvolvimento da União Europeia - Uma Europa Unida. "
+ france_md.5.d: "A França convocou uma conferência em Paris hoje com todos os líderes e membros proeminentes da UE para discutir o futuro da UE. Curiosamente, a função principal da conferência era discutir algo incomum. Nossos anfitriões franceses decidiram discutir a possibilidade de unificação de o sindicato. Eles listaram a sua proposta para ser o chefe deste sindicato. Além disso, a estrutura foi criada e está agora à espera de signatários para aprovar a legislação no parlamento e, eventualmente, ver o seu cumprimento tornado realidade. A única causa para o desenvolvimento da União Europeia-Uma Europa Unida. "
  france_md.5.a: "Os franceses terão nosso apoio"
  france_md.5.b: "Absolutamente não!"
  france_md.6.t: "[From.GetName] Suporta Unificação!"
@@ -392,7 +392,7 @@ l_english:
  france_md.10.d2: "Agora que a Comuna francesa começou a solidificar seu controle sobre o governo. É hora de começarmos a pensar sobre a revolução no exterior. O comunismo é mais bem mostrado a todos e nosso líder [FRA.GetLeader] nos levará ao verdadeiro socialismo. Aqui e no exterior!\n\n§GEsta escolha é permanente e não pode ser alterada, e muitos efeitos serão baseados em sua decisão§!\n. "
  france_md.10.a: "Uma Ascensão Pacífica"
  france_md.10.b: "Traga o mundo para seus joelhos"
- france_md.11.t: "CNES - Cooperação NASA"
+ france_md.11.t: "CNES-Cooperação NASA"
  france_md.11.d: "Os dirigentes do CNES vieram hoje até nós para discutir a possibilidade de uma cooperação alargada entre a NASA e o CNES. Afirmam que há muito a aprender com o espaço e que ter o apoio de outro grande programa espacial pode ajudar-se mutuamente de forma significativa. O acordo apresentado afirma que cada um de nós receberia US $ 10,0 bilhões de dólares para buscar laços maiores cientificamente. "
  france_md.11.a: "Um Acordo Digno"
  france_md.11.b: "Não."

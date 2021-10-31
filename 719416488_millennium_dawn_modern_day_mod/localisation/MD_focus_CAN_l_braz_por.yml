@@ -30,7 +30,7 @@ l_english:
  CAN_NA_Oil_Treaty: "Tratado do Petróleo da América do Norte"
  CAN_NA_Oil_Treaty_desc: "O Tratado do Petróleo da América do Norte é uma extensão do Acordo de Livre Comércio da América do Norte. Ele gira principalmente em torno dos tratados de petróleo entre a América e o Canadá."
  CAN_Increase_Local_Refining: "Aumentar o Refino Local"
- CAN_Increase_Local_Refining_desc: "Melhorar nosso refino local nos permitirá ser mais eficientes com o óleo \" sujo \ "que produzimos dos xistos e areias."
+ CAN_Increase_Local_Refining_desc: "Melhorar nosso refino local nos permitirá ser mais eficientes com o óleo\" sujo\"que produzimos dos xistos e areias."
  CAN_Mutual_Extraction_Research: "Pesquisa de Extração Mútua"
  CAN_Mutual_Extraction_Research_desc: "Pesquisar maneiras mais eficientes de processar o petróleo pode ser extremamente benéfico para o nosso país. É importante nos concentrarmos nesta indústria chave do Canadá."
  CAN_Saudi_Aramco: "Saudi Aramco"
@@ -44,7 +44,7 @@ l_english:
  CAN_Refineries_Abroad: "Refinarias no Exterior"
  CAN_Refineries_Abroad_desc: "Investir em refinarias no exterior ajudará a fortalecer nosso balanço patrimonial, bem como a aprofundar nossas relações com os países estrangeiros com os quais buscamos maior cooperação."
  CAN_Local_Investing: "Investimento Local"
- CAN_Local_Investing_desc: "A autarquia do petróleo abrirá o caminho para uma maior prosperidade econômica. Vamos refinar esse \" ouro negro \ "e mostrar ao mundo do que é feito o Canadá."
+ CAN_Local_Investing_desc: "A autarquia do petróleo abrirá o caminho para uma maior prosperidade econômica. Vamos refinar esse\" ouro negro\"e mostrar ao mundo do que é feito o Canadá."
  CAN_Abqaiq_Refineries: "Refinarias Abqaiq"
  CAN_Abqaiq_Refineries_desc: "O alinhamento com a Saudi Aramco começou a mostrar seu valor. Investir nas refinarias da Abqaiq nos mostrará uma parcela ainda maior dos lucros desta empresa gigantesca!"
  CAN_Volgograd_Refineries: "Refinarias de Volgogrado"
@@ -272,7 +272,7 @@ l_english:
  CAN_rus_training: "Jogos de Guerra da Sibéria"
  CAN_rus_training_desc: "Canadá e Rússia são mestres na luta e na sobrevivência em climas frios. Participaremos de trechos conjuntos na Sibéria com as forças russas para aprimorar ainda mais as habilidades e a força de nossa nova aliança."
  CAN_chinese_industry: "CCID"
- CAN_chinese_industry_desc: "CCID ou Chinese - Canadian Industry Development é um projeto conjunto entre o Canadá e a China para melhorar o desenvolvimento industrial de ambas as nações."
+ CAN_chinese_industry_desc: "CCID ou Chinese-Canadian Industry Development é um projeto conjunto entre o Canadá e a China para melhorar o desenvolvimento industrial de ambas as nações."
  CAN_chinese_lavs: "Plantas militares chinesas"
  CAN_chinese_lavs_desc: "Os chineses nos ajudarão a desenvolver nossa indústria militar para nosso exército crescente."
  CAN_rus_dockyards: "Projeto de submarino russo"
@@ -571,13 +571,13 @@ l_english:
  CAN_american_arms_deal_idea_desc: ""
  CAN_ground_military_one: "Forças Terrestres Canadenses"
  CAN_ground_military_one_desc: ""
- CAN_ground_military_two_infantry: "Forças terrestres canadenses - Foco na infantaria"
+ CAN_ground_military_two_infantry: "Forças terrestres canadenses-Foco na infantaria"
  CAN_ground_military_two_infantry_desc: ""
- CAN_ground_military_three_infantry: "Forças terrestres canadenses - Foco na infantaria"
+ CAN_ground_military_three_infantry: "Forças terrestres canadenses-Foco na infantaria"
  CAN_ground_military_three_infantry_desc: ""
- CAN_ground_military_two_armored: "Forças Terrestres Canadenses - Foco Blindado"
+ CAN_ground_military_two_armored: "Forças Terrestres Canadenses-Foco Blindado"
  CAN_ground_military_two_armored_desc: ""
- CAN_ground_military_three_armored: "Forças Terrestres Canadenses - Foco Blindado"
+ CAN_ground_military_three_armored: "Forças Terrestres Canadenses-Foco Blindado"
  CAN_ground_military_three_armored_desc: ""
 
  CAN_overburdened_economy: "Economia sobrecarregada"
@@ -623,11 +623,11 @@ l_english:
  canada.0.d: "Daqui a quase um ano, em outubro, vão acontecer as eleições. Diz-se que vai ser uma eleição muito acirrada. Por isso temos que pensar se fazer campanha agora seria benéfico ou se devemos atrasá-la até a próxima primavera. "
  canada.0.a: "Comece a campanha imediatamente"
  canada.0.b: "Precisamos adiar até a primavera ..."
- canada.1.t: "Preparativos para as próximas Eleições - Primavera"
+ canada.1.t: "Preparativos para as próximas Eleições-Primavera"
  canada.1.d: "Daqui a alguns meses, em outubro, vão acontecer as eleições. Diz-se que vai ser uma eleição muito forte. Por isso temos que pensar se fazer campanha agora seria benéfico ou se devemos atrasá-la até o próximo verão. "
  canada.1.a: "Comece a campanha imediatamente"
  canada.1.b: "Precisamos adiar até o verão ..."
- canada.2.t: "Preparativos para as próximas Eleições - Verão"
+ canada.2.t: "Preparativos para as próximas Eleições-Verão"
  canada.2.d: "Em muito pouco tempo, em outubro, vão acontecer as eleições. Diz-se que vai ser uma eleição muito acirrada. Por isso temos que pensar se fazer campanha agora seria benéfico ou se devemos atrasar até a próxima primavera. "
  canada.2.a: "Não podemos atrasar mais isso"
  canada.3.t: "Financiamento do Partido"
@@ -673,7 +673,7 @@ l_english:
 
  #Flavour Events
  canada.100.t: "Air Canada adquire a Canadian Airlines"
- canada.100.d: "A Canadian Airlines é uma companhia aérea canadense em dificuldades que, devido às dificuldades econômicas, não é mais capaz de competir com sua rival Air Canada.\n\nOs burocratas da Air Canada agora apresentam um plano para integrar seu antigo principal rival à empresa. O plano parece ser abrangente e ser capaz de salvar a maioria dos empregos que estão ameaçados pela possibilidade de falência da Canadian Airlines - a aquisição, a ser acordada em 4 de janeiro de 2000, entrará em vigor em 1º de janeiro de 2001. "
+ canada.100.d: "A Canadian Airlines é uma companhia aérea canadense em dificuldades que, devido às dificuldades econômicas, não é mais capaz de competir com sua rival Air Canada.\n\nOs burocratas da Air Canada agora apresentam um plano para integrar seu antigo principal rival à empresa. O plano parece ser abrangente e ser capaz de salvar a maioria dos empregos que estão ameaçados pela possibilidade de falência da Canadian Airlines-a aquisição, a ser acordada em 4 de janeiro de 2000, entrará em vigor em 1º de janeiro de 2001. "
  canada.100.a: "Parece uma boa proposta."
  canada.100.b: "Devemos evitar monopólios."
 
@@ -1116,7 +1116,7 @@ l_english:
  CAN_decrease_infrastructure_construction_speed_1_tt: "Diminua a §YVelocidade de construção da infraestrutura§! Em §R1% §!\n"
 
  #Decisions
- #Unusued Canadian - Keystone Pipeline
+ #Unusued Canadian-Keystone Pipeline
  CAN_keystone_pipeline: "Keystone Pipeline"
  CAN_Begin_Planning: "Comece a planejar o pipeline"
 
@@ -1150,7 +1150,7 @@ l_english:
  CAN_reduce_infrastructure_subsidies_desc: "A redução dos subsídios ajudará a amenizar nossos problemas econômicos."
 
  CAN_french_happiness: "Felicidade franco-canadense"
- CAN_french_happiness_desc: "Os canadenses franceses, ou os comumente referidos em Quebec como \" Québécois \ ", são o grupo étnico do Canadá que remonta aos colonos franceses que podem traçar sua ancestralidade a partir do século 17. Os canadenses franceses são responsáveis por cerca de vinte e dois por cento da população total canadense. Québécois O nacionalismo diminuiu lentamente desde 1960, no entanto, ainda é uma ocorrência firme em Quebec, com muitos ainda se referindo a si mesmos como quebequenses em vez de canadenses.\n\n§G60% §! Ou superior para Boa felicidade francesa\n§Y50% §! -§Y60% §! Para felicidade francesa neutra\n§R49% §! Ou inferior para felicidade francesa ruim\n\n§gFelicidade francesa canadense: §!\n[CAN_color_of_variable]\n\n§gEfeitos atuais: §!\n[CANGetFrenchHappinessEffects] "
+ CAN_french_happiness_desc: "Os canadenses franceses, ou os comumente referidos em Quebec como\" Québécois\", são o grupo étnico do Canadá que remonta aos colonos franceses que podem traçar sua ancestralidade a partir do século 17. Os canadenses franceses são responsáveis por cerca de vinte e dois por cento da população total canadense. Québécois O nacionalismo diminuiu lentamente desde 1960, no entanto, ainda é uma ocorrência firme em Quebec, com muitos ainda se referindo a si mesmos como quebequenses em vez de canadenses.\n\n§G60% §! Ou superior para Boa felicidade francesa\n§Y50% §! -§Y60% §! Para felicidade francesa neutra\n§R49% §! Ou inferior para felicidade francesa ruim\n\n§gFelicidade francesa canadense: §!\n[CAN_color_of_variable]\n\n§gEfeitos atuais: §!\n[CANGetFrenchHappinessEffects] "
  CAN_analyse_french_happiness: "Analise a felicidade franco-canadense"
  CAN_greater_than_var: "§G [? CAN.french_happiness_var | 0]% §!"
  CAN_yellow_var: "§Y [? CAN.french_happiness_var | 0]% §!"

@@ -27,7 +27,7 @@ l_english:
  economic_boom_TT: "Receita tributária: §G + 10% §!\n"
  econ_cycle_upg_cost_TT: "\n§HCusto para atualizar: §! $ [? THIS.econ_cycle_upg_cost] §Hbilhões§!"
 
- economic_cycle_TT: "- Para estimular a economia, precisamos injetar liquidez nela. Isso é feito por meio de ferramentas do Banco Central, como redução da taxa de juros e expansão da oferta de moeda - além de gastos extras de estímulo do governo. Porém, muita interferência aumenta os riscos de futuro bolhas econômicas.\n"
+ economic_cycle_TT: "- Para estimular a economia, precisamos injetar liquidez nela. Isso é feito por meio de ferramentas do Banco Central, como redução da taxa de juros e expansão da oferta de moeda-além de gastos extras de estímulo do governo. Porém, muita interferência aumenta os riscos de futuro bolhas econômicas.\n"
 
  gdp_capita: "PIB/capital"
  gdp_capita_desc: "O PIB/Capita mostra quanto valor econômico é criado no país por pessoa a cada ano. Ele é aumentado pelo preenchimento de vagas de construção disponíveis com novas construções. Depois de aumentados para o próximo nível, os estados em seu país ganharão mais vagas de construção para apoiar um maior crescimento. À medida que um país se torna mais desenvolvido, as taxas de crescimento diminuirão e será necessário mais capital para aumentar a produtividade. "

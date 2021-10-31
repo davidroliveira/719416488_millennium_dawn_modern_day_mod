@@ -111,15 +111,15 @@ l_english:
  UKR_economic_recovery_program: "Programa de Recuperação Econômica"
  UKR_economic_recovery_program_desc: "A economia da Ucrânia está em queda. As políticas antigas ainda cedem a um modelo econômico antigo. O futuro da Ucrânia é agora, e ela deve se recuperar para o bem de nosso povo."
  UKR_pro_ukrainian_government_in_power: "Festas Pró-Ucrânia"
- UKR_pro_ukrainian_government_in_power_desc: "Forças pró-ucranianas subiram ao poder no país, tentando ocupar um lugar digno para a Ucrânia no cenário mundial. Não importa se o novo governo vai olhar para o oeste, ou dar preferência ao desenvolvimento de sua região, sem uma dúvida - isso vai piorar as relações com a Rússia. "
+ UKR_pro_ukrainian_government_in_power_desc: "Forças pró-ucranianas subiram ao poder no país, tentando ocupar um lugar digno para a Ucrânia no cenário mundial. Não importa se o novo governo vai olhar para o oeste, ou dar preferência ao desenvolvimento de sua região, sem uma dúvida-isso vai piorar as relações com a Rússia. "
  UKR_anticorruption_plan: "Plano de Ação Anticorrupção"
  UKR_anticorruption_plan_desc: "A corrupção é uma coisa normal na Ucrânia. O exemplo mais flagrante disso será nosso estado-maior ativo. A Ucrânia, em seu auge, teve quase 450 generais. Alguns dos quais nunca serviram um dia na vida de soldados. Devemos nos concentrar em desfazer a corrupção que agora é normal em nossa sociedade. "
  UKR_restructuring_of_anticorruption_committee: "Found the NABU"
  UKR_restructuring_of_anticorruption_committee_desc: "Fundar e lançar o Escritório Nacional Anticorrupção foi um dos requisitos estabelecidos pelo FMI e pela Comissão Europeia para o relaxamento das restrições de visto entre a Ucrânia e a União Europeia. A NABU investigará a corrupção no país e preparará os processos para o processo."
  UKR_judiciary_reform: "Reforma do Sistema Judiciário"
- UKR_judiciary_reform_desc: "O atual sistema judicial não é capaz de cumprir com eficácia as penalidades que lhe são impostas. É uma reforma - é uma necessidade urgente de construir um estado legal e democrático".
+ UKR_judiciary_reform_desc: "O atual sistema judicial não é capaz de cumprir com eficácia as penalidades que lhe são impostas. É uma reforma-é uma necessidade urgente de construir um estado legal e democrático".
  UKR_police_reform: "Reforma da Polícia"
- UKR_police_reform_desc: "A milícia é uma relíquia do passado soviético. Para garantir a proteção real de nossos cidadãos, devemos reformatar a velha e corrupta organização governamental e, em seu lugar, criar uma nova - a Polícia Nacional da Ucrânia."
+ UKR_police_reform_desc: "A milícia é uma relíquia do passado soviético. Para garantir a proteção real de nossos cidadãos, devemos reformatar a velha e corrupta organização governamental e, em seu lugar, criar uma nova-a Polícia Nacional da Ucrânia."
  UKR_authoritarian_rule: "Regra Autoritária"
  UKR_authoritarian_rule_desc: "Os oligarcas são aqueles que têm o dinheiro. Agora é hora de restringir as classes mais baixas de participarem do governo. É hora de torná-lo um líder, um partido."
  UKR_strenghten_the_power: "Fortaleça Nosso Poder"
@@ -281,7 +281,7 @@ l_english:
  UKR_constitutional_changes_desc: "Após mudanças na constituição, os deputados perderam sua inviolabilidade, o que os tornou mais vulneráveis e submissos. A partir de agora, o presidente tem muito mais poder e pode usá-lo tanto para o benefício do país quanto para seu benefício ..."
  UKR_constitutional_changes_failed: "Reforma constitucional falhou"
  UKR_anti_gov_news: "Ukrayinska Pravda"
- UKR_anti_gov_news_desc: "Ukrainian Truth - é um jornal online popular ucraniano fundado por Georgiy Gongadze. Ukrainian Truth investiga e publica material sobre corrupção ou conduta antiética de, ou relacionado a, políticos ucranianos de todos os campos políticos."
+ UKR_anti_gov_news_desc: "Ukrainian Truth-é um jornal online popular ucraniano fundado por Georgiy Gongadze. Ukrainian Truth investiga e publica material sobre corrupção ou conduta antiética de, ou relacionado a, políticos ucranianos de todos os campos políticos."
  UKR_anti_gov_news: "Ucrânia sem Kuchma"
  UKR_anti_gov_news_desc: A "Ucrânia sem Kuchma" foi organizada pela oposição política, influenciada pelo infame Escândalo da Cassete, as eleições presidenciais de 1999, e visava principalmente exigir a renúncia do recém-reeleito Presidente Kuchma. "
  UKR_kleptocracy: "Cleptocracia"
@@ -377,7 +377,7 @@ l_english:
 
  ### Deal with Gongadze
  ukraine_md.3.t: "Lidar com Gongadze."
- ukraine_md.3.d: "Um dos jornalistas antigovernamentais - Georgiy Gongadze, recentemente se opôs ativamente ao atual governo, fazendo uma declaração ruidosa em relação ao [UKR.GetLeader] e sua comitiva. Gongadze é mais conhecido por sua fundação do Ukrayinska Pravada em 2000. O jornal cobria muitos dos tópicos mais quentes da Ucrânia na época. No entanto, a parte alarmante deste jornal é que ele relatou sobre corrupção de alto nível para os cargos mais altos da Ucrânia.\n\nDeve haver alguma decisão que devemos tomar pois ainda é um problema grave no país. Como devemos proceder? "
+ ukraine_md.3.d: "Um dos jornalistas antigovernamentais-Georgiy Gongadze, recentemente se opôs ativamente ao atual governo, fazendo uma declaração ruidosa em relação ao [UKR.GetLeader] e sua comitiva. Gongadze é mais conhecido por sua fundação do Ukrayinska Pravada em 2000. O jornal cobria muitos dos tópicos mais quentes da Ucrânia na época. No entanto, a parte alarmante deste jornal é que ele relatou sobre corrupção de alto nível para os cargos mais altos da Ucrânia.\n\nDeve haver alguma decisão que devemos tomar pois ainda é um problema grave no país. Como devemos proceder? "
  ukraine_md.3.a: "Pare ele!"
  ukraine_md.3.b: "É apenas jornalismo"
 
@@ -505,12 +505,12 @@ l_english:
  ukraine_revolution.10.t: "Russia Returns Crimea"
  ukraine_revolution.10.d: "A delegação russa nos trouxe notícias maravilhosas. Nossas demandas serão atendidas unilateralmente pelo governo russo e nos permitirão retomar o controle sobre a província rebelde."
  ukraine_revolution.10.a: "Paz agora e para sempre"
- ### Evento aleatório 1 - manifestantes
+ ### Evento aleatório 1-manifestantes
  ukraine_revolution.11.t: "Protestos Locais"
  ukraine_revolution.11.d: "Alguns Oblasts têm experimentado uma quantidade crescente de protestos, causando grande estresse nas regiões. É realmente preocupante para as pessoas que permitimos essas manifestações violentas com franco desprezo por nós."
  ukraine_revolution.11.a: "Crackdown on Them"
  ukraine_revolution.11.b: "Deixe-os protestar"
- ### Evento aleatório 2 - Novorossiyan Sabtoage
+ ### Evento aleatório 2-Novorossiyan Sabtoage
  ukraine_revolution.12.t: "Novorossiyan Sabotage"
  ukraine_revolution.12.d: "As tendências violentas dos novorossiyanos mostraram sua cara feia. Eles decidiram atacar algumas instalações na Ucrânia hoje, danificando gravemente a infraestrutura local e os pátios industriais. As causas ainda não foram somadas, mas estima-se que algo entre cinco e vinte e cinco foram perdido."
  ukraine_revolution.12.a: "Sabotar!"

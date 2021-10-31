@@ -1,5 +1,5 @@
 l_english:
- ## Decisões genéricas para TODOS - classificado de MD_decisions_l_english.yml # 11/21/2020
+ ## Decisões genéricas para TODOS-classificado de MD_decisions_l_english.yml # 11/21/2020
  ##### Influenciar as decisões #####
  influence_desicions: "[Root.GetAdjective] [GetYear] Relatório sobre influência estrangeira"
  influence_desicions_desc: "Os serviços de inteligência de [Root.GetNameDef] prepararam um relatório sobre a influência que governos estrangeiros exercem sobre nossa nação. Em nome de nossa soberania, devemos procurar limitar essa influência. Se uma única nação nos dominar, eles podem buscar para interferir no governo e em nosso modo de vida.\nObservação: o §YMultiplicador de influência§! aumenta a eficácia de suas ações de influência.\n\n§As seguintes nações têm influência sobre nós: §!\n[new_position_1] [position_1_var ] [position_1_var_integer] [new_position_2] [position_2_var] [position_2_var_integer] [new_position_3] [position_3_var] [position_3_var_integer] [new_position_4] [position_4_var] [position_4_var_integer] [new_position_integer] [position_3_var] [position_3_var_integer] [new_position_4] [position_4_var] [position_4_var_integer] [new_position_var_integer] [position_var_integer5] [position_var_integer5] [position_var_integer5] [position_var_integer5] [posição_var_posicionar6] new_position_7] [position_7_var] [position_7_var_integer]\n\nIsso nos dá um nível de independência da influência estrangeira de [? domestic_influence_amount_calc |% H0] ([? domestic_influence_amount]).\n§YInfluência Total: §! [? influencia_total]\nSua nação §YMultiplicador de influência§ !: [exibição_multiplicador_de_fluência]\n"
@@ -27,13 +27,13 @@ l_english:
  INFLUENCER5_TOOLTIP: "[new_position_5] tem influência de [position_5_var] [position_5_var_integer] em [From.GetName]."
  INFLUENCER6_TOOLTIP: "[new_position_6] tem influência de [position_6_var] [position_6_var_integer] em [From.GetName]."
  INFLUENCER7_TOOLTIP: "[new_position_7] tem influência de [position_7_var] [position_7_var_integer] em [From.GetName]."
- INFLUENCER1_AMOUNT_TOOLTIP: "1º - [posição_1_nova_1]: [? Influência_array_val ^ 0] Influência. ([Posição_1_var] do total.)"
- INFLUENCER2_AMOUNT_TOOLTIP: "2ª - [posição_nova_2]: [? Influência_array_val ^ 1] Influência. ([Posição_2_var] do total.)"
- INFLUENCER3_AMOUNT_TOOLTIP: "3º - [posição_nova_3]: [? Influência_array_val ^ 2] Influência. ([Posição_3_var] do total.)"
- INFLUENCER4_AMOUNT_TOOLTIP: "4º - [posição_nova_4]: [? Influência_array_val ^ 3] Influência. ([Posição_4_var] do total.)"
- INFLUENCER5_AMOUNT_TOOLTIP: "5º - [posição_nova_5]: [? Influência_array_val ^ 4] Influência. ([Posição_5_var] do total.)"
- INFLUENCER6_AMOUNT_TOOLTIP: "6º - [posição_nova_6]: [? Influência_array_val ^ 5] Influência. ([Posição_6_var] do total.)"
- INFLUENCER7_AMOUNT_TOOLTIP: "7º - [posição_nova_7]: [? Influência_array_val ^ 6] Influência. ([Posição_7_var] do total.)"
+ INFLUENCER1_AMOUNT_TOOLTIP: "1º-[posição_1_nova_1]: [? Influência_array_val ^ 0] Influência. ([Posição_1_var] do total.)"
+ INFLUENCER2_AMOUNT_TOOLTIP: "2ª-[posição_nova_2]: [? Influência_array_val ^ 1] Influência. ([Posição_2_var] do total.)"
+ INFLUENCER3_AMOUNT_TOOLTIP: "3º-[posição_nova_3]: [? Influência_array_val ^ 2] Influência. ([Posição_3_var] do total.)"
+ INFLUENCER4_AMOUNT_TOOLTIP: "4º-[posição_nova_4]: [? Influência_array_val ^ 3] Influência. ([Posição_4_var] do total.)"
+ INFLUENCER5_AMOUNT_TOOLTIP: "5º-[posição_nova_5]: [? Influência_array_val ^ 4] Influência. ([Posição_5_var] do total.)"
+ INFLUENCER6_AMOUNT_TOOLTIP: "6º-[posição_nova_6]: [? Influência_array_val ^ 5] Influência. ([Posição_6_var] do total.)"
+ INFLUENCER7_AMOUNT_TOOLTIP: "7º-[posição_nova_7]: [? Influência_array_val ^ 6] Influência. ([Posição_7_var] do total.)"
  INFLUENCE_TOOLTIP_DELAYED: "A influência mede a influência e o domínio que uma pessoa exerce sobre uma nação. A influência pode ser expandida investindo em edifícios, dando presentes, ajuda militar e usando o poder político. Outros países competirão pela influência e o país anfitrião tentará afirmar sua soberania se eles pode.\n\nSe sua influência for alta o suficiente, você pode forçar o país a assinar acordos comerciais favoráveis ou até mesmo torná-los um estado de sujeito. Além de avançar lentamente em direção ao seu panorama mundial, a influência pode ser usada como moeda para manipular a política deles a seu favor. "
  influence_action_button_TT: "§Influência difundida§!\nGastaremos poder político para obter mais influência em [From.GetNameWithFlag]."
  influence_action_button_delayed_TT: "Requer:\n[influencia_button_req]\n\nEfeito:\n§H [Root.GetNameWithFlag] § !: Aumenta §Y [ROOT.GetNamewithFlag] §! Influência em §Y [THIS.GetNamewithFlag] §! Em torno de §G ~ 2% §!\n§H [Root.GetNameWithFlag] § !: §R- [From.influence_pp_requirement] §! £ pol_power_icon\n\n[influenciar_multiplier_modifier] "
@@ -59,7 +59,7 @@ l_english:
  aid_button_sizemod_check_false: "£ trigger_no tem mais Indústrias Civis do que [From.GetNameWithFlag]"
  aid_button_recently_sent_true: "£ trigger_yes não enviou recentemente ajuda econômica para [FROM.GetNameWithFlag]\n"
  aid_button_recently_sent_false: "£ trigger_no não enviou recentemente ajuda econômica para [FROM.GetNameWithFlag]\n"
- influence_0_TT: "§HTreasury§ !: - $ [? From.gift_sum] bilhões\n"
+ influence_0_TT: "§HTreasury§ !:-$ [? From.gift_sum] bilhões\n"
  influence_from_0_TT: "§HTreasury§ !: + $ [? Gift_sum] bilhões\n"
  aid_influence_gain_superpower_TT: "10"
  aid_influence_gain_great_power_TT: "8"

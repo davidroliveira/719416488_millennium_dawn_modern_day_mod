@@ -61,7 +61,7 @@ l_english:
  BRA_foreign_research_methods: "Métodos de Pesquisa Estrangeiros"
  BRA_foreign_research_methods_desc: "Cientistas estrangeiros deveriam ser usados para ajudar nossos departamentos de ciências."
  BRA_energy_mining_ministry: "Ministério de Energia e Mineração"
- BRA_energy_mining_ministry_desc: "O Ministério de Minas e Energia - MME tem como missão institucional" formular e assegurar a execução de Políticas Públicas para a gestão sustentável dos recursos energéticos e minerais, contribuindo para o desenvolvimento socioeconômico do país ".
+ BRA_energy_mining_ministry_desc: "O Ministério de Minas e Energia-MME tem como missão institucional" formular e assegurar a execução de Políticas Públicas para a gestão sustentável dos recursos energéticos e minerais, contribuindo para o desenvolvimento socioeconômico do país ".
  BRA_amazonian_el_dorado: "El Dorado amazônico"
  BRA_amazonian_el_dorado_desc: "Manaus é uma joia escondida na Amazônia. A beleza e o potencial turístico de lá podem trazer empregos benéficos para a economia local."
  BRA_presal: "Desenvolver Rio"
@@ -398,7 +398,7 @@ l_english:
  BRA_inv_obs: "Convidar Observadores"
  BRA_inv_obs_desc: "Vamos convidar observadores de fora para testemunhar a força do MERCOSUL."
  BRA_united_continent: "Continente Unido"
- BRA_united_continent_desc: "Toda a América do Sul deve estar unida em interesses econômicos comuns - até mesmo nossos rivais, os venezuelanos."
+ BRA_united_continent_desc: "Toda a América do Sul deve estar unida em interesses econômicos comuns-até mesmo nossos rivais, os venezuelanos."
  BRA_follow_euro: "Siga os Euros"
  BRA_follow_euro_desc: "Em vez de basear nosso comércio em dólares americanos, usaremos os euros como o meio de troca comum da UNASAL."
  BRA_cooperation: "Cooperação"
@@ -464,7 +464,7 @@ l_english:
  BRA_socialist_market: "Mercado Socialista"
  BRA_socialist_market_desc: "Um mercado planejado nos trará alguns benefícios."
  BRA_state_industries: "Indústrias do Estado"
- BRA_state_industries_desc: "As plantas industriais pertencentes a estrangeiros são sempre um risco para a segurança econômica. Com países estrangeiros nos ameaçando com sanções econômicas, é sempre uma ameaça que os proprietários industriais saiam durante a noite e levem partes vitais de suas plantas com eles. Para evitar isso, precisamos reivindicar essas indústrias para o estado - mesmo que isso ofenda os estados estrangeiros. "
+ BRA_state_industries_desc: "As plantas industriais pertencentes a estrangeiros são sempre um risco para a segurança econômica. Com países estrangeiros nos ameaçando com sanções econômicas, é sempre uma ameaça que os proprietários industriais saiam durante a noite e levem partes vitais de suas plantas com eles. Para evitar isso, precisamos reivindicar essas indústrias para o estado-mesmo que isso ofenda os estados estrangeiros. "
  BRA_break_banks: "Quebre os Bancos"
  BRA_break_banks_desc: "Bradesco? Banco do Brasil? Santander? Itaú? Vamos fazer essas sanguessugas sentirem a dor que infligem à classe trabalhadora. Vamos acabar com sua influência destrutiva."
  BRA_foro_de_sp: "Foro de São Paulo"
@@ -914,7 +914,7 @@ l_english:
  brazil.5.t: "O status de nossas exportações"
  brazil.5.d: "Nosso país contém uma vasta riqueza de material que podemos usar para financiar indústrias em todo o mundo. Essas exportações brutas nos forneceriam grandes quantias de dinheiro agora. No entanto, também poderíamos iniciar uma política protecionista para nosso comércio e possivelmente mantê-los recursos para usar em casa. O que devemos fazer? "
  brazil.5.a: "Exportar em massa"
- brazil.5.b: "Nossa Terra, Nossos Recursos" # Conjunto de Alinhamento do Partido dos Trabalhadores - Filial
+ brazil.5.b: "Nossa Terra, Nossos Recursos" # Conjunto de Alinhamento do Partido dos Trabalhadores-Filial
  brazil.7.t: "Neo Comunista"
  brazil.7.d: "O Partido se afastou da democracia."
  brazil.7.a: "Para os trabalhadores!"
@@ -1102,14 +1102,14 @@ l_english:
  ### Decisões
  BRA_nationalist_claims_URG: "Reivindicações sobre o Uruguai"
  BRA_nationalist_claims_URG_desc: "Ao longo do período de 1816 e 1828, batizando-a de Cisplatina. Agora, após o glorioso retorno de nosso Império, devemos reclamar essas terras!"
- #Workers Party Alignment - categoria de decisão
+ #Workers Party Alignment-categoria de decisão
  BRA_workers_party_alignment_decision_category: "Alinhamento do Partido dos Trabalhadores"
  BRA_workers_party_alignment_decision_category_desc: "Lula e o Partido dos Trabalhadores chegaram ao poder. Cumpriremos nossas promessas ou voltaremos aos nossos caminhos socialistas? Quando chegarmos aos 100, cumprimos todas as nossas promessas. Por outro lado, 0 significa que seguimos sem nenhuma Valor partido dos trabalhadores: [? BRA.BRA_brazilian_party_alignment | -50] "
  BRA_decision_support_radicals: "Apoie os radicais"
  BRA_decision_support_radicals_desc: "Radicais são os únicos a apoiar."
  BRA_decision_support_reformists: "Apoie os Reformistas"
  BRA_decision_support_reformists_desc: "Precisamos cumprir nossas promessas."
- #Amazon Resource Development - Categoria de Decisão
+ #Amazon Resource Development-Categoria de Decisão
  BRA_amazon_resource_development_decision_category: "Desenvolvimento de recursos da Amazônia"
  BRA_amazon_resource_development_decision_category_desc: "As Amazonas são um tesouro inexplorado. Investir algum tempo e dinheiro deve ser benéfico se tomarmos nosso tempo e usarmos nossa terra."
  BRA_decision_intial_investment: "Investimento inicial"

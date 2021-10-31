@@ -40,8 +40,8 @@ l_english:
  RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Decisões de trapaça desativadas"
 
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y (Multijogador) §! Permitir a alternância de decisões de trapaça globalmente"
- RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (Opcional) §!\n\nAlternância de decisões globais de trapaça habilitada\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá em pop-up informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
- RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (opcional) §!\n\nAlternância de decisões de trapaça globais desativadas\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
+ RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (Opcional) §!\n\nAlternância de decisões globais de trapaça habilitada\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá em pop-up informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo\"Permitir decisões de trapaça\" se você quiser usar cheats! "
+ RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (opcional) §!\n\nAlternância de decisões de trapaça globais desativadas\n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá informando qual nação a alterna.\n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §!\n\n§YNOTA: §! Você também precisa ativar a regra de jogo\"Permitir decisões de trapaça\" se você quiser usar cheats! "
 
  RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Permitir Chamada de Forças de Intervenção"
  RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTA: Isso não é equilibrado e é apenas uma medida temporária para fazer o que você quiser. Quaisquer problemas com voluntários e outros não são da nossa preocupação.§! Permite que você convoque as Forças de Intervenção dos países.\n"
@@ -112,7 +112,7 @@ l_english:
  RULE_OPTION_BEACON_OF_DEMOCRACY: "Farol da Democracia"
  RULE_OPTION_BEACON_OF_DEMOCRACY_AI_DESC: "Mianmar buscará reformas sem compromisso, levando rapidamente o NLD ao poder. Em vez de fazer concessões ao Tatmadaw, Mianmar vai mobilizar vários apoiadores da liberalização política, incluindo grupos rebeldes étnicos, com o objetivo de acabar com a influência dos militares na política de uma vez por todas tudo."
  RULE_OPTION_AN_IRON_FIST: "Um punho de ferro"
- RULE_OPTION_AN_IRON_FIST_AI_DESC: "Aplicável apenas à data de início de 2000, esta regra do jogo obrigará Mianmar a permanecer uma ditadura e, em vez de responder positivamente à pressão por reformas como fez historicamente, reagirá com repressão e totalitarismo. Além disso, a fim de distrair de sua perda de legitimidade - o governo militar buscará a guerra não apenas com os grupos rebeldes do país, mas também com seus vizinhos ".
+ RULE_OPTION_AN_IRON_FIST_AI_DESC: "Aplicável apenas à data de início de 2000, esta regra do jogo obrigará Mianmar a permanecer uma ditadura e, em vez de responder positivamente à pressão por reformas como fez historicamente, reagirá com repressão e totalitarismo. Além disso, a fim de distrair de sua perda de legitimidade-o governo militar buscará a guerra não apenas com os grupos rebeldes do país, mas também com seus vizinhos ".
 
  #Suécia
  SWE_AI_BEHAVIOR: "@SWE Reino da Suécia"
@@ -139,7 +139,7 @@ l_english:
 
  #Arábia Saudita
  SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia"
- RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Global Jihad - GCC First"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Global Jihad-GCC First"
  RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "A Arábia Saudita tentará reformar sua economia e unificar o GCC como um superestado. Então, a monarquia saudita será derrubada por um levante da Al-Qaeda, levando ao estabelecimento de um estado islâmico radical que busca espalhar sua ideologia fundamentalista por meio de violentos meios."
  RULE_OPTION_GLOBAL_JIHAD: "Jihad Global"
  RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "A monarquia saudita será derrubada por um levante da Al-Qaeda, levando ao estabelecimento de um estado islâmico radical que busca espalhar sua ideologia fundamentalista por meios violentos."

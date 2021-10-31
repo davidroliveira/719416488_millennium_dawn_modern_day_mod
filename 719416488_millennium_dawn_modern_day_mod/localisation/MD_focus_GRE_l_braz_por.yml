@@ -4,11 +4,11 @@ l_english:
  airspace_violations: "Violações do espaço aéreo"
  #Ideias
  GRE_debt_crisis: "Crise de débito"
- GRE_debt_crisis_desc: "A Grécia tem 300 bilhões de dólares em dívida externa - uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
+ GRE_debt_crisis_desc: "A Grécia tem 300 bilhões de dólares em dívida externa-uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
  GRE_debt_crisis2: "Crise de débito"
- GRE_debt_crisis2_desc: "A Grécia tem 300 bilhões de dólares em dívida externa - uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
+ GRE_debt_crisis2_desc: "A Grécia tem 300 bilhões de dólares em dívida externa-uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
  GRE_debt_crisis3: "Crise de débito"
- GRE_debt_crisis3_desc: "A Grécia tem 300 bilhões de dólares em dívida externa - uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
+ GRE_debt_crisis3_desc: "A Grécia tem 300 bilhões de dólares em dívida externa-uma das maiores do mundo. Isso criou um grande problema para nós, pois a dívida está aumentando rapidamente e está criando problemas enormes para nossa economia. Precisamos encontrar uma maneira de resolver o problema da dívida antes que fique fora de controle, prejudicando maciçamente a nossa economia antecipadamente. "
  GRE_legacy: "Legado grego"
  GRE_legacy_desc: "A Grécia tem uma rica história contendo a ascensão e queda de impérios. Após a queda de Bizâncio, perdemos o controle de nossa pátria. Desde 1821, prometemos a nós mesmos que essa perda nunca aconteceria ao povo grego novamente."
  GRE_legacy2: "Legado grego"
@@ -57,7 +57,7 @@ l_english:
  GRE_com_drift_6: "Deriva Comunista"
  # ideias comunistas
  GRE_wild_unions: "Sindicatos de Trabalhadores Selvagens"
- GRE_wild_unions_desc: "Demos poder aos sindicatos e eles estão usando-o - não vemos problema nisso".
+ GRE_wild_unions_desc: "Demos poder aos sindicatos e eles estão usando-o-não vemos problema nisso".
  GRE_wild_unions_2: "Sindicatos de Trabalhadores Selvagens"
  GRE_wild_unions_2_desc: "Os sindicatos receberam grande poder durante nossa ascensão ao poder. Agora que estamos no poder, apelamos a eles apenas para garantir que tenhamos o coração do povo antes de assegurarmos completamente nosso poder."
  GRE_wild_unions_2: "Sindicatos de Trabalhadores Selvagens"
@@ -304,7 +304,7 @@ l_english:
  GRE_failures_capitalism: "Falhas do Capitalismo"
  GRE_failures_capitalism_desc: "O capitalismo não nos abençoa mais com a riqueza infinita que prometia. É hora de seguirmos nosso próprio caminho para garantir que tal crise nunca aconteça novamente! §RO efeito desse enfoque escala na extensão da crise da dívida. §! "
  GRE_working_class: "A classe trabalhadora"
- GRE_working_class_desc: "A classe trabalhadora - onde os sonhos nascem e morrem. Vamos prometer a eles que serão bem tratados e receberemos o crédito que merecem por serem a base do novo estado comunista."
+ GRE_working_class_desc: "A classe trabalhadora-onde os sonhos nascem e morrem. Vamos prometer a eles que serão bem tratados e receberemos o crédito que merecem por serem a base do novo estado comunista."
  GRE_communist_propaganda: "Máquina de Propaganda"
  GRE_communist_propaganda_desc: "Devido à nossa influência em expansão, podemos lançar a máquina de propaganda sobre a Grécia. Embora a manutenção monetária seja alta, essa propaganda não deve ser desconsiderada, ela será extremamente eficaz na conversão da população grega."
  GRE_prepare_government: "Prepare um Governo"
@@ -547,7 +547,7 @@ l_english:
 
  #Events
  greece.1.t: "Indignação em meio a novas políticas de austeridade"
- greece.1.d: "Hoje, o governo grego implementou novas medidas de austeridade para cumprir o resgate da dívida da UE. O que se seguiu foi a indignação do público, com cartazes como \" Austeridade é anti-grega. \ "Esses distúrbios estão apenas piorando a situação da Grécia e podem ser assumido que esta é apenas a ponta do iceberg. "
+ greece.1.d: "Hoje, o governo grego implementou novas medidas de austeridade para cumprir o resgate da dívida da UE. O que se seguiu foi a indignação do público, com cartazes como\" Austeridade é anti-grega.\"Esses distúrbios estão apenas piorando a situação da Grécia e podem ser assumido que esta é apenas a ponta do iceberg. "
  greece.1.a: "Tenho um mau pressentimento sobre isso..."
  greece.2.t: "Tumultos nas ruas!"
  greece.2.d: "Hoje, os protestos em Atenas se tornaram violentos depois que a polícia tentou conter a multidão cada vez maior. Gás lacrimogêneo e balas de borracha foram usados para tentar impedir que a multidão causasse mais destruição e, embora a multidão finalmente recuasse, a tensão ainda pairava no ar . "
@@ -556,7 +556,7 @@ l_english:
  greece.3.d: "As multidões aumentaram e demonstram cada vez mais descontentamento. Não há dúvida de que a situação só piorou."
  greece.3.a: "Droga!"
  greece.4.t: "Golden Dawn Solicita Eleições na Grécia"
- greece.4.d: "Depois de aumentar o apoio, o partido político Golden Dawn de extrema direita exigiu que o governo realizasse eleições - uma exigência que o governo da Grécia concordou devido ao alto apoio do povo, bem como à pressão interna do governo. O partido Golden Dawn é espera vencer, pois tem grande apoio e ameaçou que, se o governo não permitir sua vitória, o partido, junto com seus apoiadores, retaliará o governo. "
+ greece.4.d: "Depois de aumentar o apoio, o partido político Golden Dawn de extrema direita exigiu que o governo realizasse eleições-uma exigência que o governo da Grécia concordou devido ao alto apoio do povo, bem como à pressão interna do governo. O partido Golden Dawn é espera vencer, pois tem grande apoio e ameaçou que, se o governo não permitir sua vitória, o partido, junto com seus apoiadores, retaliará o governo. "
  greece.4.a: "Um novo amanhecer para a Grécia"
  greece.4.b: "Interessante"
  greece.5.t: "KKE pede eleições na Grécia"

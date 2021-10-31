@@ -32,9 +32,9 @@ l_english:
  not_has_pp: "£ trigger_no Pelo menos £ pol_power_icon §Y100 Poder político§!"
  TT_game_over_warning: "§RJogo terminará ao selecionar isto§!\n"
 
- ## Gatilhos personalizados para arquivo com script - common/scripted_triggers/01_political_triggers.txt
+ ## Gatilhos personalizados para arquivo com script-common/scripted_triggers/01_political_triggers.txt
  ruling_party_popularity_change_focus_TT: "A mudança de popularidade causada por este efeito será aplicada ao partido no poder."
- #Has X government - Para acionadores personalizados
+ #Has X government-Para acionadores personalizados
  has_pro_western_autocrat_government_TT: "§Y [Western_Autocracy_L] §! Está no poder." # 0
  has_conservatism_government_TT: "§Y [conservadorismo_L] §! Está no poder." # 1
  has_liberalism_government_TT: "§Y [liberalism_L] §! Está no poder." # 2
@@ -88,7 +88,7 @@ l_english:
  has_autocratic_governemnt_or_in_coalition_TT: "Coalizão autocrática ou partido no poder"
  has_totalitarian_government_or_in_coalition_TT: "Totalitarians in coalition"
 
- #Não tem governo X - para acionadores personalizados
+ #Não tem governo X-para acionadores personalizados
  not_has_pro_western_autocrat_government_TT: "§Y [Western_Autocracy_L] §! Não está no poder." # 0
  not_has_conservatism_government_TT: "§Y [conservadorismo_L] §! Não está no poder." # 1
  not_has_liberalism_government_TT: "§Y [liberalism_L] §! Não está no poder." # 2
@@ -694,7 +694,7 @@ l_english:
  econvent.list.depression_tt: "§HDepressão§!"
  econvent.list.no_effect_tt: "§Não mudar§!"
  econvent.voodoo_economics_tt: "Ao reduzir as taxas de juros, forçar os bancos a assumirem maiores riscos e expandir a oferta de dinheiro, tornamos mais fácil obter empréstimos para que a queda seja limitada. Isso é chamado de §H'Economia do vodu'§! Pelos críticos, pois irá amortecer o golpe para um mercado em colapso, mas não corrige os problemas subjacentes\n"
- econvent.2.b_tt: "Se não fizer nada, o acidente será muito pior. No entanto, o caminho para a recuperação pode ser mais rápido - já que a causa principal do acidente foi muito dinheiro fluindo para o mercado imobiliário\n"
+ econvent.2.b_tt: "Se não fizer nada, o acidente será muito pior. No entanto, o caminho para a recuperação pode ser mais rápido-já que a causa principal do acidente foi muito dinheiro fluindo para o mercado imobiliário\n"
  econvent.debt_10p_tt: "Irá §Raumentar§! O §Nível de débito§! Igual a §H10% §! De §HGDP§!\n"
  econvent.debt_5p_tt: "Irá §Reaumentar§! O §Nível de débito§! Igual a §H5% §! De §HGDP§!\n"
  econvent.debt_2_5p_tt: "Irá §RAumentar§! O §Nível de HDBt§! Igual a §H2.5% §! De §HGDP§!\n"
@@ -910,12 +910,12 @@ l_english:
  TAI_DPP_not_ruling_tt: "O atual partido no poder é membro da §CPan-Blue Coalition§!"
  TAI_DPP_75_tt: "§YApoio total§! Para a §GPan-Green Coalition§! É mais do que §Y75% §!"
  TAI_DPP_25_tt: "§YApoio total§! Para a §GPan-Green Coalition§! É inferior a §Y25% §!"
- TAI_accepted_roadmap_tt: "§Y [TAI.Getnamewithflag] §! Foi §Gaccepted§! O \" Roteiro para a reunificação \ ""
- TAI_rejected_roadmap_tt: "§Y [TAI.Getnamewithflag] §! §Rejeitou§! O \" Roteiro para a reunificação \ ""
+ TAI_accepted_roadmap_tt: "§Y [TAI.Getnamewithflag] §! Foi §Gaccepted§! O\" Roteiro para a reunificação\""
+ TAI_rejected_roadmap_tt: "§Y [TAI.Getnamewithflag] §! §Rejeitou§! O\" Roteiro para a reunificação\""
  TAI_declared_independence_tt: "§Y [TAI.Getnamewithflag] §! Declarou independência"
  TAI_not_declared_independence_tt: "§Y [TAI.Getnamewithflag] §! Não declarou independência"
- TAI_reunification_more_likely_tt: "§Y [TAI.Getnamewithflag] §! É mais provável que §Gaccept§! O \" Roteiro para a reunificação \ "\n"
- TAI_reunification_less_likely_tt: "§Y [TAI.Getnamewithflag] §! É mais provável que §Rrejeitar§! O \" Roteiro para a reunificação \ "\n"
+ TAI_reunification_more_likely_tt: "§Y [TAI.Getnamewithflag] §! É mais provável que §Gaccept§! O\" Roteiro para a reunificação\"\n"
+ TAI_reunification_less_likely_tt: "§Y [TAI.Getnamewithflag] §! É mais provável que §Rrejeitar§! O\" Roteiro para a reunificação\"\n"
  TAI_influence_CHI_tt: "§Y [CHI.GetNameWithFlag] §! Ganha §Y20§! Influência em §Y [TAI.GetNameWithFlag] §!\n"
  anti_infiltration_bill_tt: "Reduz a capacidade da China de conduzir campanhas de propaganda em nosso território\n"
  HKG_continuation_tt: "§Y [CHI.GetNameWithFlag] §! Não proclamou que §Y [HKG.GetNameWithFlag] §! Retornará ao seu controle em 2047\n"
@@ -1017,7 +1017,7 @@ l_english:
  CHI_disputes_tt: "Disputas territoriais com §Y [MAY.GetNamewithFlag] § !, §Y [PHI.GetNamewithFlag] §! & §Y [VIE.GetNamewithFlag] §! Foram resolvidas"
 
  CHI_top_influencer_koreas_tt: "§Y [CHI.GetNamewithFlag] §! É o principal influenciador em §Y [KOR.GetNamewithFlag] §! E §Y [NKO.GetNamewithFlag] §!"
- CHI_NKO_military_tt: "§YExército Popular Coreano§! - §RDecrease§! Opinião de [NKO.GetLeader]\n"
+ CHI_NKO_military_tt: "§YExército Popular Coreano§!-§RDecrease§! Opinião de [NKO.GetLeader]\n"
  CHI_TTP_influence_higher_20_tt: "§Y [CHI.GetNameWithFlag] §! Tem mais de §Y20% §! Influência em §Y [AFG.GetNameWithFlag] § !, §Y [PAK.GetNameWithFlag] § !, §Y [TAJ.GetNameWithFlag] § !, §Y [TAL.GetNameWithFlag] §! & §Y [TTP.GetNameWithFlag] §! "
  CHI_TAL_influence_higher_20_tt: "§Y [CHI.GetNameWithFlag] §! Tem mais de §Y20% §! Influência em §Y [AFG.GetNameWithFlag] § !, §Y [PAK.GetNameWithFlag] § !, §Y [TAJ.GetNameWithFlag] §! & §Y [TAL.GetNameWithFlag] §! "
  CHI_QCCM_influence_higher_30_tt: "§Y [CHI.GetNameWithFlag] §! Tem mais de §Y30% §! Influência em §Y [AFG.GetNameWithFlag] § !, §Y [PAK.GetNameWithFlag] §! & §Y [TAJ.GetNameWithFlag] §!"
