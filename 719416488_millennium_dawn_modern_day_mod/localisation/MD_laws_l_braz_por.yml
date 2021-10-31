@@ -130,7 +130,7 @@ l_english:
  defence_00_desc: "§RAviso: Nenhum navio novo será construído! §!\n\nO aumento dos gastos militares nos ajudará a expandir nossas forças armadas.\n\nO custo adicional é determinado pelo tamanho de nossa indústria militar e naval. Também é mais caro que maior é o nosso PIB per capita. "
  defence_00_TT: "\n$ [defence_00_cost] §Hbillion§! está sendo gasto nas Forças Armadas.\n"
 
- defence_tooltip_personnel_cost_TT: "$ [? THIS.tooltip_personnel_cost] §Hbilhões§! Disto são salários de pessoal e custos de manutenção.\n"
+ defence_tooltip_personnel_cost_TT: "$[? THIS.tooltip_personnel_cost] §Hbilhões§! Disto são salários de pessoal e custos de manutenção.\n"
 
  defence_01: "Pequenos gastos militares"
  defence_01_desc: "O aumento dos gastos militares nos ajudará a expandir nossas forças armadas.\n\nO custo adicional é determinado pelo tamanho de nossa indústria militar e naval. Também é mais caro quanto maior for o nosso PIB per capita."

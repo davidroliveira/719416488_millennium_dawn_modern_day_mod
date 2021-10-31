@@ -4,8 +4,8 @@ l_english:
  MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE:11 "Tenente General Tamanho Máximo do Exército"
  MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE:00 "Tenente General Tamanho Máximo do Grupo de Exército"
  assignable_traits:11 "Traços do Tenente General"
- EFFECT_REMOVE_CC_LEADER:00 "$ NAME|H$deixa de ser tenente-general.\n"
- EFFECT_CREATE_CC_LEADER:00 "$ NAME|H$torna-se Tenente General.\n"
+ EFFECT_REMOVE_CC_LEADER:00 "$NAME|H$deixa de ser tenente-general.\n"
+ EFFECT_CREATE_CC_LEADER:00 "$NAME|H$torna-se Tenente General.\n"
  
  fm_leader:00 "Geral"
  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE:00 "Tamanho Máximo do Exército Geral"
@@ -14,8 +14,8 @@ l_english:
  TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS:00 "Características gerais só podem ser atribuídas a generais.\n"
  FIELD_MARSHAL_TRAITS_DESC:00 "Características gerais só podem ser atribuídas a General. General também pode usar características regulares, mas seus efeitos serão reduzidos ao comandar mais de um exército."
  LEADER_ENDLESS_CAPACITY_DESC:00 "$NAME$ é um Geral e não tem limite de comando."
- EFFECT_REMOVE_FM_LEADER:00 "$ NAME|H$deixa de ser um General.\n"
- EFFECT_CREATE_FM_LEADER:00 "$ NAME|H$torna-se um General.\n"
+ EFFECT_REMOVE_FM_LEADER:00 "$NAME|H$deixa de ser um General.\n"
+ EFFECT_CREATE_FM_LEADER:00 "$NAME|H$torna-se um General.\n"
  
  MODIFIER_REASSIGNMENT_DURATION_FACTOR:00 "Duração da reatribuição do Exército"
  MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC:00 "Aumenta a duração da rota para o comandante"

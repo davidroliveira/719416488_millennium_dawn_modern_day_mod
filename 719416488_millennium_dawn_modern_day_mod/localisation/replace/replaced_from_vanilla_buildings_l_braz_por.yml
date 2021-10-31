@@ -12,7 +12,7 @@ l_english:
  synthetic_refinery:00 "Refinaria de Biocombustível"
  synthetic_refinery_plural:00 "Refinarias de Biocombustível"
  synthetic_refinery_desc:00 "Este edifício pega matéria orgânica, como plantações de energia e madeira, e a converte em combustível. Fornece ao estado"
- synthetic_refinery_amount:00 "$ VALUE|Y0 =$"
+ synthetic_refinery_amount:00 "$VALUE|Y0 =$"
  synthetic_refinery_resource:00 "£ resources_strip|$ FRAME$"
  nuclear_reactor:00 "Reator Nuclear"
  nuclear_reactor_plural:00 "Reatores Nucleares"
