@@ -114,7 +114,7 @@ l_english:
  generic.7.d: "[alliance_applicant.GetName] decidiu rejeitar nossa oferta de ingressar em [alliance_inviter.GetFactionName]. Teremos que nos virar sem a ajuda deles."
  generic.7.a: "Nossa ajuda não é desejada."
 
- # daqui até que ///// seja copiado de events_l_english.yml
+ # daqui até que/////seja copiado de events_l_english.yml
  # sentiu vontade de deixar um não para rastreamento de bugs -ahmex
 
  ace_promoted.1.t: "Ace Pilot Promovido"
@@ -502,7 +502,7 @@ l_english:
  excellent: "Excelente."
  unfortunate: "Infeliz."
 
- # /////
+ #/////
 
  ######Noticias & Eventos###########
  news.1.t: "O Acordo de Livre Comércio de [fta_inviter.GetNameDef] - [fta_applicant.GetName]"
@@ -602,7 +602,7 @@ l_english:
  influence.51.b: "Pensando melhor.."
 
  influence.52.t: "A questão de quê"
- influence.52.d: "Temos as seguintes opções para enviar equipamentos ao nosso aliado.\n\nO pacote de equipamentos de infantaria: 250 unidades de equipamento de infantaria / armas leves, 10 unidades de equipamento C&C, 10 unidades de manpads, 10 unidades de antitanque sujeitas ao que disponível em nosso estoque.\n\nO pacote de veículos: 10 unidades de APCs, 10 unidades de IFVs, 10 unidades de veículos utilitários.\n\n"
+ influence.52.d: "Temos as seguintes opções para enviar equipamentos ao nosso aliado.\n\nO pacote de equipamentos de infantaria: 250 unidades de equipamento de infantaria/armas leves, 10 unidades de equipamento C&C, 10 unidades de manpads, 10 unidades de antitanque sujeitas ao que disponível em nosso estoque.\n\nO pacote de veículos: 10 unidades de APCs, 10 unidades de IFVs, 10 unidades de veículos utilitários.\n\n"
  influence.52.a: "Pacote de Equipamento de Infantaria"
  influence.52.b: "Pacote de veículos"
  influence.52.c: "Na verdade eu preciso disso .."
@@ -818,7 +818,7 @@ l_english:
  anti_bully.18.a: "Hooray."
 
  init.1.t: "Bem-vindo ao Millennium Dawn"
- init.1.d: "Recomendamos que você dê uma olhada no wiki www.modernday4.gitlab.io clicando no botão de ajuda no canto superior direito da tela (ao lado da tensão mundial).\n\nRecomenda-se não enviar spam para unidades de construção, a menos que seja necessário para o desempenho questões no final do jogo. Também é recomendado esperar alguns dias antes de construir tropas, para dar às tropas existentes os suprimentos / equipamentos de que precisam. "
+ init.1.d: "Recomendamos que você dê uma olhada no wiki www.modernday4.gitlab.io clicando no botão de ajuda no canto superior direito da tela (ao lado da tensão mundial).\n\nRecomenda-se não enviar spam para unidades de construção, a menos que seja necessário para o desempenho questões no final do jogo. Também é recomendado esperar alguns dias antes de construir tropas, para dar às tropas existentes os suprimentos/equipamentos de que precisam. "
  init.1.d_Syria: "Recomendamos que você dê uma olhada no wiki www.modernday4.gitlab.io clicando no botão de ajuda no canto superior direito da tela (ao lado da tensão mundial).\n\nVocê decidiu jogar §RSyria§, a nação que foi dividida por uma guerra civil nos últimos 6 anos, com a ajuda do Irã e da Rússia o futuro do regime parece seguro, mas é? Primeiro você deve derrotar os terroristas, rebeldes e então reconstruir sua nação! "
  init.1.d_FSA: "Recomendamos que você dê uma olhada no wiki www.modernday4.gitlab.io clicando no botão de ajuda no canto superior direito da tela (ao lado da tensão mundial).\n\nVocê decidiu jogar contra o §RFree Syrian Army §, uma nação à beira da existência após deserções em massa para o ISIS, Al-Nusra e outros grupos extremistas. Nem tudo está perdido como se houvesse uma vontade, houvesse um caminho, seduzindo nossos aliados turcos podem ser capazes de virar a maré! "
  init.1.d_AL_NUSRA: "Recomendamos que você dê uma olhada no wiki www.modernday4.gitlab.io clicando no botão de ajuda no canto superior direito da tela (ao lado da tensão mundial).\n\nVocê decidiu jogar §RAl-Nusra§ , A última esperança da Síria de ser administrada como um verdadeiro estado islâmico sob a lei Sharia. Devemos derrotar esses não-crentes e criar o verdadeiro estado islâmico. "
@@ -1341,7 +1341,7 @@ l_english:
  taiwan.1.d: "Uma demonstração de solidariedade. Uma cadeia humana foi formada com cerca de dois milhões de pessoas formando uma cadeia humana de 500 km. Começando no porto de Keelung, a cidade mais ao norte de Taiwan, a cadeia seguiu seu caminho até o extremo sul da ilha. O propósito era duplo Os taiwaneses desejavam a paz, mas também protestavam contra o lançamento de mísseis pela República Popular da China contra Taiwan, sua ilha vizinha. Parte do simbolismo da manifestação, principalmente no ponto do evento em que os participantes \ "afastar-se da China \" apontou claramente para o apoio à independência de Taiwan e, portanto, não contou com a presença de membros da Coalizão Pan-Azul que se opôs à manifestação com uma manifestação em toda a ilha dias depois. "
  taiwan.1.a: "Nunca nos esqueçamos das vítimas"
  taiwan.2.t: "Typhoon Bilis"
- taiwan.2.d: "Na preparação para Bilis, escritórios foram fechados em toda a ilha. Além do fechamento de negócios, voos de ida e volta para a ilha foram reprogramados e um centro de socorro de tufão foi estabelecido. Devido à ameaça de deslizamentos de terra, foi emitido um alerta de deslizamento de terra para Taiwan. Embora a tempestade ainda não tivesse chegado ao continente, uma pessoa foi morta em Taipei em 22 de agosto após ter sido soterrada por um deslizamento de terra provocado pelo tufão iminente; isso foi responsável pela primeira fatalidade causada por Bilis. Junto com a reprogramação de voos, vários os aeroportos foram fechados, e a Bolsa de Valores de Taiwan foi programada para fechar em 23 de agosto. Enquanto isso, os hospitais estenderam o tempo de serviço em antecipação à admissão de pacientes. Membros da guarda costeira de Taiwan regulamentaram a atividade de pesca devido à ameaça de ação das ondas mortais. O porto de Kaohsiung foi fechado durante a tempestade. Devido ao aumento da demanda por vegetais no período que antecedeu a tempestade, o custo desses alimentos aumentou de 20 a 30 por cento.\n\nBilis foi um ciclone tropical altamente destrutivo para Taiwan. Os danos às indústrias agrícolas, pesqueiras e florestais da ilha totalizaram US $ 133,5 milhões. O tufão causou 14 mortes e feriu mais 80 pessoas. Quedas de energia afetaram negativamente cerca de 600.000 residências e 400 residências em Taiwan foram destruídas. Várias centenas de milhares de famílias sofreram com a escassez de água após a tempestade. Em Cheng-Kung, uma estação meteorológica registrou uma rajada de vento de 281 km / h, que quebrou o anemômetro da estação. Um único deslizamento de terra na cidade de Jenai enterrou nove fazendeiros. Dezenas de milhares de pessoas foram deslocadas durante a tempestade e transferidas para abrigos de evacuação criados pelo governo. No leste do condado de Hualien, 250 casas sucumbiram a fortes ventos. Os ventos também derrubaram árvores e espalharam veículos leves, bloqueando estradas. As fortes chuvas associadas a Bilis inundaram cerca de 40.000 ha de pomares e arrozais. Após a passagem de Bilis por Taiwan, um terremoto de magnitude 5,7 atingiu a ilha, exacerbando as condições já agravadas. "
+ taiwan.2.d: "Na preparação para Bilis, escritórios foram fechados em toda a ilha. Além do fechamento de negócios, voos de ida e volta para a ilha foram reprogramados e um centro de socorro de tufão foi estabelecido. Devido à ameaça de deslizamentos de terra, foi emitido um alerta de deslizamento de terra para Taiwan. Embora a tempestade ainda não tivesse chegado ao continente, uma pessoa foi morta em Taipei em 22 de agosto após ter sido soterrada por um deslizamento de terra provocado pelo tufão iminente; isso foi responsável pela primeira fatalidade causada por Bilis. Junto com a reprogramação de voos, vários os aeroportos foram fechados, e a Bolsa de Valores de Taiwan foi programada para fechar em 23 de agosto. Enquanto isso, os hospitais estenderam o tempo de serviço em antecipação à admissão de pacientes. Membros da guarda costeira de Taiwan regulamentaram a atividade de pesca devido à ameaça de ação das ondas mortais. O porto de Kaohsiung foi fechado durante a tempestade. Devido ao aumento da demanda por vegetais no período que antecedeu a tempestade, o custo desses alimentos aumentou de 20 a 30 por cento.\n\nBilis foi um ciclone tropical altamente destrutivo para Taiwan. Os danos às indústrias agrícolas, pesqueiras e florestais da ilha totalizaram US $ 133,5 milhões. O tufão causou 14 mortes e feriu mais 80 pessoas. Quedas de energia afetaram negativamente cerca de 600.000 residências e 400 residências em Taiwan foram destruídas. Várias centenas de milhares de famílias sofreram com a escassez de água após a tempestade. Em Cheng-Kung, uma estação meteorológica registrou uma rajada de vento de 281 km/h, que quebrou o anemômetro da estação. Um único deslizamento de terra na cidade de Jenai enterrou nove fazendeiros. Dezenas de milhares de pessoas foram deslocadas durante a tempestade e transferidas para abrigos de evacuação criados pelo governo. No leste do condado de Hualien, 250 casas sucumbiram a fortes ventos. Os ventos também derrubaram árvores e espalharam veículos leves, bloqueando estradas. As fortes chuvas associadas a Bilis inundaram cerca de 40.000 ha de pomares e arrozais. Após a passagem de Bilis por Taiwan, um terremoto de magnitude 5,7 atingiu a ilha, exacerbando as condições já agravadas. "
  taiwan.2.a: "Hora de reconstruir"
  taiwan.3.t: "Eleição presidencial de Taiwan"
  taiwan.3.d: "É a segunda eleição presidencial direta da República da China, para eleger o 10º mandato de Presidente e Vice-Presidente da República da China de acordo com a Constituição de 1947. Isso tem o potencial de pôr fim a mais de meio século de Governo do Kuomintang em Taiwan, uma vez que os eleitores do KMT se dividiram ao meio.\n\nEmbora mais popular e consistentemente classificado em melhor posição nas pesquisas, o ex-governador de Taiwan, James Soong, não conseguiu obter a indicação do Kuomintang. Como resultado, ele anunciou sua candidatura como um candidato independente. O Kuomintang respondeu expulsando Soong e 21 de seus aliados. Eles processaram Soong por roubo, alegando que, como secretário-geral do partido, ele roubou milhões de dólares de Taiwan em dinheiro destinados à família do falecido presidente Chiang Ching-kuo e escondeu o dinheiro na Chunghsing Bills Finance Co. Soong se defendeu dizendo que estava agindo sob a direção de Lee, mas sua história era pouco convincente. Inicialmente mantendo a liderança nas pesquisas, S oong perdeu por pouco mais de 300.000 votos, e o escândalo financeiro que manchou sua imagem como político limpo provavelmente o levará ao fracasso.\n\nO Partido Democrático Progressista concorreu ao ex-prefeito de Taipei, Chen Shui-bian, para presidente. Tendo concorrido às eleições de 1996 em uma plataforma de independência radical e perdido por uma avalanche, o DPP em maio de 1999 moderou sua posição ao publicar a \ "Resolução sobre o Futuro de Taiwan \". A resolução aceitou o status quo e promoveu a visão moderada que Taiwan já era independente, portanto, qualquer declaração formal não seria necessária com urgência, se o fosse. Também foi incluída a promessa de que qualquer mudança no status internacional de Taiwan terá de ser feita por meio de um referendo, aliviando assim o medo de que, se eleito, um governo DPP declararia unilateralmente a independência sem a aprovação popular. A chapa Chen-Lu também promete ser mais agressivo na luta contra o ouro negro, fornecer mais recursos para serviços sociais e ser mais ecologicamente correto, como a oposição à energia nuclear. "
@@ -2208,10 +2208,10 @@ l_english:
  Ideologies.5.a: "Talvez pudéssemos mudar"
  Ideologies.5.b: "Dispersá-los!"
 
- GDPC_Update.1.t: "Nós atualizamos seu PIB / C para você!"
- GDPC_Update.1.d: "Você deve tentar atualizar seu PIB / C sempre que estiver disponível, pois isso lhe dará mais vagas de construção junto com outros bônus / penalidades para sua poderosa nação! Veja a tela de política> Estatísticas Nacionais> PIB / C ou WIKI para mais detalhes . "
+ GDPC_Update.1.t: "Nós atualizamos seu PIB/C para você!"
+ GDPC_Update.1.d: "Você deve tentar atualizar seu PIB/C sempre que estiver disponível, pois isso lhe dará mais vagas de construção junto com outros bônus/penalidades para sua poderosa nação! Veja a tela de política> Estatísticas Nacionais> PIB/C ou WIKI para mais detalhes . "
  GDPC_Update.1.a: "OK!"
- GDPC_Update.1_TT: "§GGDP / C aumentou! §!\n"
+ GDPC_Update.1_TT: "§GGDP/C aumentou! §!\n"
 
  #República Africana Central
  CentralAfricaNews.1.t: "Fim da Guerra Civil da República Centro-Africana"
@@ -2287,7 +2287,7 @@ l_english:
 
  #Denamrk
  Denmark.1.t: "Eurovision Song Contest 2000"
- Denmark.1.d: "O 45º Eurovision foi recentemente realizado na Globe Arena, na Suécia. A dupla [DEN.GetAdjective] rock / pop Olsen Brothers venceu o concurso com sua música 'Fly on the Wings of Love' ganhando 40 pontos de vantagem sobre a Rússia, que ficou em segundo lugar. Isso marca a primeira vez que [DEN.GetName] vence o concurso desde 1963 e faz com que todo o país seja comemorado em todo o país. "
+ Denmark.1.d: "O 45º Eurovision foi recentemente realizado na Globe Arena, na Suécia. A dupla [DEN.GetAdjective] rock/pop Olsen Brothers venceu o concurso com sua música 'Fly on the Wings of Love' ganhando 40 pontos de vantagem sobre a Rússia, que ficou em segundo lugar. Isso marca a primeira vez que [DEN.GetName] vence o concurso desde 1963 e faz com que todo o país seja comemorado em todo o país. "
  Denmark.1.a: "Voe, baby, voe!"
  Denmark.2.t: "Grande vitória prevista para conservadores [DEN.GetAdjective]"
  Denmark.2.d: "Os conservadores [DEN.GetAdjective] parecem ter feito um retorno triunfante depois de estarem em declínio desde o início dos anos 90. Quando questionado sobre o motivo dessa reviravolta, um comentarista político observou que as trocas culturais internacionais do novo O milênio parece ter deixado muitos dinamarqueses à deriva sem um sentimento de pertença a qualquer lugar e fez dos valores dinamarqueses um ponto central do discurso político. A liderança conservadora já está se preparando para capitalizar sobre esse apoio recém-obtido com discursos que sublinham sua defesa inabalável de 'tudo o que nos faz [ DEN.GetAdjective] '. "
@@ -3090,7 +3090,7 @@ l_english:
  usa_soleimani_news.2.a: "Ainda bem que o Irã o ignorou"
  usa_soleimani_news.2.b: "Adeus Soleimani"
 
- #Overlord Notícias / Eventos Country
+ #Overlord Notícias/Eventos Country
  overlord.1.t: "Integração de [FROM.GetName]"
  overlord.1.d: "[FROM.GetName] tem sido nosso estado fantoche por muito tempo. Não é mais uma parceria viável permitir que eles tenham autonomia. Este dia em [GetYear] marca um dia que há muito desejamos. [FROM.GetName] foi integrado à nossa grande nação. Eles agora se tornarão cidadãos de [ROOT.GetAdjective] e receberão os mesmos cuidados e tratamento que qualquer outro cidadão em nossa nação. É um dia glorioso para nós e para o povo de [FROM.GetName].\nNOTA: A anexação de outra nação soberana nos força a assumir todas as suas dívidas, tesouros e investimentos internacionais à medida que se fundem conosco.\n\nVocê ganha o seguinte: [? ROOT.treasury | Y] Tesouro, [? ROOT.debt | R] Dívida, [? ROOT.int_investments] Investimentos internacionais "
  overlord.1.a: "Maravilhoso"
@@ -3100,7 +3100,7 @@ l_english:
  overlord_news.1.d: "As delegações de [ROOT.GetName] e [FROM.GetName] anunciaram hoje que [FROM.GetName] será integrado em [ROOT.GetName]. [FROM.GetName] tem sido um estado autônomo por algum tempo e se tornou Cada vez mais dependente de [ROOT.GetName] nos últimos meses. É citado como 'Faz sentido!' das duas partes envolvidas.\n\nA verdade nessa declaração ainda não foi vista. "
  overlord_news.1.a: "Interessante.."
 
- # Eventos de teste / depuração
+ # Eventos de teste/depuração
  debug_money.1.t: "Calculadora de Taxa de Venda de Recursos"
  debug_money.1.d: "[? percent_of_resource_exports |% 1]"
 

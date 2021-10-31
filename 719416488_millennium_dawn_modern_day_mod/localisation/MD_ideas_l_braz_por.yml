@@ -335,7 +335,7 @@ l_english:
  rival_government: "Governo rival"
  rival_government_desc: "As guerras civis pelo controle de toda a nação tendem a produzir dois ou mais governos que afirmam ser os representantes legítimos de seu povo. Este governo é aquele que faz essa afirmação, mas está em desvantagem pelo fato de que seu status de representante legítimo é reconhecida apenas por alguns outros estados, se houver. Portanto, não representa sua nação em fóruns internacionais como as Nações Unidas. "
 
- # Mianmar / Birmânia
+ # Mianmar/Birmânia
 
  ASEAN_Member: "Membro ASEAN"
  ASEAN_Member_desc: "A ASEAN é uma organização intergovernamental principalmente econômica com sede em Jacarta, originalmente estabelecida em 1967. Desde então, ela se expandiu para incluir os países que foram originalmente excluídos no ambiente tenso da Guerra Fria e buscou conter a crescente influência da China como bem como manter a independência do Ocidente. Está comprometida com os princípios do multilateralismo, direito internacional, solução pacífica de controvérsias, não interferência e autodeterminação. "
@@ -481,7 +481,7 @@ l_english:
  Migrant_Crisis_Europe_desc: "A crise dos migrantes atingiu a Europa como um martelo, golpeando tanto a unidade nacional quanto a popularidade dos partidos governantes. A guerra na Síria fez com que milhares de refugiados fugissem para os países vizinhos, embora a Europa estivesse pronta para aceitar os que sofrem da guerra, a quantidade de migrantes novos e permanentes de todo o Norte da África e do Oriente Médio sobrecarregou as instituições da Europa e fez muitos se ressentirem dos recém-chegados. "
  #Alemanha
  german_legacy: "Legado Alemão"
- german_legacy_desc: "§YSregra especial: §! §WCDU / CSU e SPD sempre podem formar uma coalizão.§!\n\nCom o peso dos crimes de guerra nazistas sobre seus ombros e como instigadora da Segunda Guerra Mundial, a Alemanha trabalhou duro para destruí-la má imagem ao se abster de até sugerir uma visão nacionalista ou militarista. Em termos jurídicos, a Alemanha está vinculada pelo Tratado de Acordo Final com Respeito à Alemanha de 1990, entre a Alemanha e as potências aliadas da Rússia, Estados Unidos, Reino Unido e França , bem como um tratado de fronteira final separado com a Polônia. Este tratado torna ilegal para a Alemanha fazer reivindicações territoriais, possuir armas nucleares e limita suas forças armadas a menos de 370.000 pessoas no total. "
+ german_legacy_desc: "§YSregra especial: §! §WCDU/CSU e SPD sempre podem formar uma coalizão.§!\n\nCom o peso dos crimes de guerra nazistas sobre seus ombros e como instigadora da Segunda Guerra Mundial, a Alemanha trabalhou duro para destruí-la má imagem ao se abster de até sugerir uma visão nacionalista ou militarista. Em termos jurídicos, a Alemanha está vinculada pelo Tratado de Acordo Final com Respeito à Alemanha de 1990, entre a Alemanha e as potências aliadas da Rússia, Estados Unidos, Reino Unido e França , bem como um tratado de fronteira final separado com a Polônia. Este tratado torna ilegal para a Alemanha fazer reivindicações territoriais, possuir armas nucleares e limita suas forças armadas a menos de 370.000 pessoas no total. "
 
  #Ucrânia
  UKR_west_east_rivalry_balanced: "Entre o Leste e o Oeste\n§LCstatus de rivalidade atual: §! §Galanceado§!\n"
@@ -2088,7 +2088,7 @@ l_english:
  infrastructure_project2: "Projeto de infraestrutura"
  infrastructure_project3: "Projeto de infraestrutura"
  islamic_sectarian_conflicts: "Conflitos Sectários Islâmicos"
- islamic_sectarian_conflicts_desc: "O Islã está dividido em muitas seitas, mas três grupos principais se estabeleceram: sunitas (88% dos muçulmanos globais), xiitas (10% dos muçulmanos globais) e Kharijite / Ibadi (cerca de 1% dos muçulmanos globais). Esses grupos têm vários disputas doutrinárias, mas especialmente a rivalidade entre sunitas e xiitas, ao longo dos séculos, deu lugar a conflitos repetidas vezes, sejam disputas teológicas genuínas ou apenas um álibi para conflitos territoriais ou violência étnica.\n\nEste país é válido. populações sunitas e xiitas significativas, levando a uma profunda desconfiança de um lado do outro - seja em locais de culto, em cargos de governo ou em áreas da vida pública cotidiana. "
+ islamic_sectarian_conflicts_desc: "O Islã está dividido em muitas seitas, mas três grupos principais se estabeleceram: sunitas (88% dos muçulmanos globais), xiitas (10% dos muçulmanos globais) e Kharijite/Ibadi (cerca de 1% dos muçulmanos globais). Esses grupos têm vários disputas doutrinárias, mas especialmente a rivalidade entre sunitas e xiitas, ao longo dos séculos, deu lugar a conflitos repetidas vezes, sejam disputas teológicas genuínas ou apenas um álibi para conflitos territoriais ou violência étnica.\n\nEste país é válido. populações sunitas e xiitas significativas, levando a uma profunda desconfiança de um lado do outro - seja em locais de culto, em cargos de governo ou em áreas da vida pública cotidiana. "
  JAP_democratic_interventionism: "Intervencionismo Democrático"
  JAP_democratic_militia: "Milícias Democráticas"
  JAP_fortress_japan_idea: "Fortaleza Japão"

@@ -253,8 +253,8 @@ l_english:
  UKR_kraz: "KrAZ"
  UKR_kraz_desc: "A KrAZ é uma empresa privada em Kremenchuk, Ucrânia. A empresa produz principalmente caminhões e outros veículos para fins especiais. No entanto, sua principal especialidade são os modelos off-road pesados. Recentemente, foi registrada como uma holding, e a ucraniana a corporação Finance and Credit agora é a proprietária. "
 
- ## Dicas / Sinalizadores
- ## Flags / Misc
+ ## Dicas/Sinalizadores
+ ## Flags/Misc
  UKR_passed_referendum: "§Referendo bem-sucedido! §!"
  UKR_failed_referendum: "§YO referendo não passou§!"
  UKR_supported_russian_parties_flag: "Partidos Pró-Russos Apoiados"
@@ -447,7 +447,7 @@ l_english:
 
  ### Revolution Events
  ukraine_revolution.0.t: "Nova Mecânica para a Ucrânia"
- ukraine_revolution.0.d: "A Ucrânia é um país interessante para se jogar como na linha do tempo do Millennium Dawn. No entanto, há algumas notas importantes a se considerar quando se joga na árvore.\n\nHá duas variáveis / contadores principais que são extremamente importantes para a Ucrânia: Estabilidade de Regime (SOR para abreviar) e Chance of Revolt (COR para abreviar).\n\nA estabilidade do regime (SOR) é diferente da estabilidade normal na parte superior da tela. É totalmente exclusivo da Ucrânia e destina-se a zombar a progressão ao longo dos próximos 5-10 anos de transição para a eventual guerra no Donbass. A maioria dos efeitos na árvore de foco e eventos em geral farão uso desta nova mecânica no esforço de integrar decisões muito mais pesadas na árvore e no estilo de jogo dos jogadores . Você pode usar isso como um estilo de 'moeda' da mesma forma que pode utilizá-lo para diminuir o contador de chance de revolta.\n\nA chance de revolta, por outro lado, mostra exatamente isso. Quando você chegar a 15, uma missão será ativada causar a guerra no Donbass. É impo rtente tentar manter esta variável o máximo que puder ou então você pode ter uma guerra civil em suas mãos.\n\nVocê sempre pode reativar este evento nas decisões de Estabilidade da Ucrânia.\n"
+ ukraine_revolution.0.d: "A Ucrânia é um país interessante para se jogar como na linha do tempo do Millennium Dawn. No entanto, há algumas notas importantes a se considerar quando se joga na árvore.\n\nHá duas variáveis/contadores principais que são extremamente importantes para a Ucrânia: Estabilidade de Regime (SOR para abreviar) e Chance of Revolt (COR para abreviar).\n\nA estabilidade do regime (SOR) é diferente da estabilidade normal na parte superior da tela. É totalmente exclusivo da Ucrânia e destina-se a zombar a progressão ao longo dos próximos 5-10 anos de transição para a eventual guerra no Donbass. A maioria dos efeitos na árvore de foco e eventos em geral farão uso desta nova mecânica no esforço de integrar decisões muito mais pesadas na árvore e no estilo de jogo dos jogadores . Você pode usar isso como um estilo de 'moeda' da mesma forma que pode utilizá-lo para diminuir o contador de chance de revolta.\n\nA chance de revolta, por outro lado, mostra exatamente isso. Quando você chegar a 15, uma missão será ativada causar a guerra no Donbass. É impo rtente tentar manter esta variável o máximo que puder ou então você pode ter uma guerra civil em suas mãos.\n\nVocê sempre pode reativar este evento nas decisões de Estabilidade da Ucrânia.\n"
  ukraine_revolution.0.a: "OK"
  ## Guerra Civil na Ucrânia
  ukraine_revolution.1.t: "A Guerra Civil Ucraniana"

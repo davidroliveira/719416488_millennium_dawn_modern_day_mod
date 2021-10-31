@@ -19,7 +19,7 @@ l_english:
  help_events.0.d: "No MD4, suas fábricas representam o PIB de seu país. Este é o valor total de todos os bens produzidos em seu país.\n\nParte de suas fábricas são usadas pelo governo para financiar as funções básicas do governo. Isso é chamado de Custo de Imposto (Bens de Consumo no jogo básico). Quanto mais alto seu Custo de Imposto, menos fábricas você tem disponíveis para investir em sua economia (isto é, construir novas fábricas). "
  help_events.0.a: "Para Indicadores Econômicos"
  help_events.1.t: "Indicadores econômicos"
- help_events.1.d: "Seus indicadores econômicos podem ser encontrados na tela de política. A riqueza do seu país é medida pelo seu PIB / C (PIB per capita). Quanto mais alto o valor, mais rica é a sua população. Aumentar seu PIB / C renderá mais construir vagas em seus estados e dar a você acesso a mais vagas de pesquisa (consulte a ajuda de 'Pesquisa'). Você pode aumentar seu PIB / C preenchendo as vagas de construção. Assim que não tiver mais vagas vazias, você poderá avançar para o próximo nível de PIB / C, que lhe dará mais slots, que você preenche e assim por diante.\n\nSeu Ciclo Econômico dita a velocidade com que sua economia está crescendo (velocidade de construção). Ter uma economia em rápido crescimento também tornará sua governo mais popular. Ciclos econômicos podem ser afetados por eventos e podem ser aumentados com o gasto de poder político. "
+ help_events.1.d: "Seus indicadores econômicos podem ser encontrados na tela de política. A riqueza do seu país é medida pelo seu PIB/C (PIB per capita). Quanto mais alto o valor, mais rica é a sua população. Aumentar seu PIB/C renderá mais construir vagas em seus estados e dar a você acesso a mais vagas de pesquisa (consulte a ajuda de 'Pesquisa'). Você pode aumentar seu PIB/C preenchendo as vagas de construção. Assim que não tiver mais vagas vazias, você poderá avançar para o próximo nível de PIB/C, que lhe dará mais slots, que você preenche e assim por diante.\n\nSeu Ciclo Econômico dita a velocidade com que sua economia está crescendo (velocidade de construção). Ter uma economia em rápido crescimento também tornará sua governo mais popular. Ciclos econômicos podem ser afetados por eventos e podem ser aumentados com o gasto de poder político. "
  help_events.1.a: "Para Orçamento do Governo"
  help_events.2.t: "Orçamento do Governo"
  help_events.2.d: "Seu Orçamento do Governo também pode ser encontrado na tela de política. Seu orçamento dita quanto seu governo gasta em várias funções governamentais, como defesa. Gastar mais dará a você vários bônus, mas aumentará seu Custo de Imposto. mais difícil para você expandir sua economia. Você pode compensar alguns desses gastos emprestando dinheiro com um saldo orçamentário negativo.\n\nO empréstimo de dinheiro aumentará lentamente sua dívida nacional, o que aumentará seu Custo de Imposto no longo prazo. para pagar juros. Você também pode ter um saldo orçamentário positivo, o que lentamente saldará sua dívida e aumentará suas reservas monetárias. No longo prazo, isso resultará em uma redução no custo de impostos, pois você pode usar algumas de suas reservas para financiar seu orçamento . "
@@ -484,8 +484,8 @@ l_english:
  EP_IFV_open: "Abrir IFVs"
  EP_IFV_close: "Fechar IFVs"
 
- EP_rec_open: "Open Recon / Light Tanks"
- EP_rec_close: "Fechar Recon / Tanques leves"
+ EP_rec_open: "Open Recon/Light Tanks"
+ EP_rec_close: "Fechar Recon/Tanques leves"
 
  EP_utility_open: "Abrir veículos utilitários"
  EP_utility_close: "Fechar veículos utilitários"
@@ -954,7 +954,7 @@ l_english:
  EP_CHI_utility_2: "Dongfeng EQ2025 (1985) £ tesouraria 2"
  EP_CHI_utility_3: "Dongfeng EQ2050 (1995) £ tesouraria 3"
  EP_CHI_utility_4: "ZFB-05 (2005) £ tesouraria 5"
- EP_CHI_utility_5: "CS / VP4 (2015) £ tesouraria 10"
+ EP_CHI_utility_5: "CS/VP4 (2015) £ tesouraria 10"
  EP_CHI_utility_6: "ZFB-21 (2025) £ tesouraria 12"
  EP_CHI_utility_7: "ZFB-27 (2035) £ tesouraria 15"
  EP_buy_CHI_utility_1: "[Root.EP_buy_CHI_utility]"
@@ -1046,12 +1046,12 @@ l_english:
 
  #### Carrier MR Fighters ####
  EP_USA_CV_MR_1: "F-4J Phantom II (1965)"
- EP_USA_CV_MR_2: "F / A-18 Hornet (1985)"
- EP_USA_CV_MR_3: "F / A-18E / F Super Hornet (1995)"
+ EP_USA_CV_MR_2: "F/A-18 Hornet (1985)"
+ EP_USA_CV_MR_3: "F/A-18E/F Super Hornet (1995)"
  EP_USA_CV_MR_4: "F35C Lightning II (2015)"
  EP_USA_CV_MR_5: "F35C Lightning III (2025)"
- EP_USA_CV_MR_6: "Viúva Negra F / A-47B (2035)"
- EP_USA_CV_MR_7: "F / A-159 Hellcry (2045)"
+ EP_USA_CV_MR_6: "Viúva Negra F/A-47B (2035)"
+ EP_USA_CV_MR_7: "F/A-159 Hellcry (2045)"
  EP_buy_USA_MR_Fighter_1: "[Root.EP_buy_USA_MR_Fighter_1]"
 
  EP_SOV_CV_MR_1: "Yak-38 (1965)"
@@ -2117,7 +2117,7 @@ l_english:
  pressure_countries_to_recognize_desc: "O povo de [FROM.GetNameDef] merece um estado independente. Devemos usar nossa influência para ajudá-los a atingir esse objetivo."
 
  #Decisões da Ucrânia
- ### Estabilidade da Ucrânia / Decisões da Revolução
+ ### Estabilidade da Ucrânia/Decisões da Revolução
  UKR_stability_of_ukraine_decision_category: "Estabilidade na Ucrânia"
  UKR_stability_of_ukraine_decision_category_desc: "A Ucrânia é um país jovem. Ela passou por muitas coisas na vida. Ela está turbulenta e começando a se aproximar do limite. Os falantes de russo no Oriente falam de sedição. Os do Ocidente desejam estabelecer laços com a Europa. O país está no limite, e os próximos dias definirão um país e seu povo.\n\n§GSe a chance de revolta atingir as últimas 15, ocorrerá uma revolução.§!\n\n£ estabilidade_texticon §YEstabilidade do regime (SOR): §! [? UKR.UKR_stability_of_ukraine_var | 20]%\n£ generic_anarchist_communism_small §YChances of Revolt (COR): §! [? UKR.UKR_chance_of_collapse_var | -9,0] "
  UKR_help_decision_event: "Evento de Ajuda"

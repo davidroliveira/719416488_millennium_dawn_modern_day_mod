@@ -563,7 +563,7 @@ l_english:
  BRA_agri_buissneses_desc: "O Brasil é um país que depende muito da agricultura. Por que não expandir ainda mais esse setor?"
  BRA_alliances_with_unions: "Alianças com os sindicatos"
  BRA_alliances_with_unions_desc: "Os sindicatos em nosso país são essenciais para o nosso sucesso. Vamos mostrar nossa aprovação por esses esforços."
- # Mercosur / Unasul
+ # Mercosur/Unasul
  BRA_education_integration: "Integração Educacional"
  BRA_education_integration_desc: "Ao financiar novos programas de educação e intercâmbio estudantil com diretrizes comuns, começaremos a integrar o currículo de todos os membros do MERCOSUL"
  BRA_mercosur_market: "Mercado MERCOSUL"
@@ -1091,7 +1091,7 @@ l_english:
  BRA_member_states_effect_tt: "Todos os §CMercosul Estados Membros§! Terão o mesmo efeito!"
  BRA_bolsonaro_influence_tt: "Bolsonaro §Gexpande sua influência! §!"
  BRA_supporting_private_sector_tt: "O governo está apoiando o setor privado".
- BRA_nationalism_rise_rTT: "§YA Partido Partido§! Será substituído por §YNationalism Rising§! / N§GMais popularidade nacionalista, redução da popularidade democrática§! E §R mais custo de poder político§!"
+ BRA_nationalism_rise_rTT: "§YA Partido Partido§! Será substituído por §YNationalism Rising§!/N§GMais popularidade nacionalista, redução da popularidade democrática§! E §R mais custo de poder político§!"
  BRA_car_wash_TT: "Inicia as §YCar Wash Investigations! §!"
  BRA_mercosur_market_tt: "§Adiciona 2 infraestruturas, 2 vãos para edifícios e 2 fábricas civis em qualquer estado membro do MERCOSUL aleatório! §"
  BRA_pro_bolsonaro_parties_tt: "O §Y [Nat_Populism_L] § !, §Y [Conservative_L] § !, o §Y [Monarchist_L] §! E o §Y [Nat_Autocracy_L] §! Ganham um impulso em sua §GPopularidade§!\n"

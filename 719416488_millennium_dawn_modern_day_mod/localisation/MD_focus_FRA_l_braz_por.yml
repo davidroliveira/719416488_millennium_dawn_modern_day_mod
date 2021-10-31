@@ -93,7 +93,7 @@ l_english:
  FRA_freedom_from_the_west_desc: "Nos últimos anos, o Ocidente empurrou predominantemente sua ideologia para o exterior e exigiu que o povo francês fizesse o mesmo. Devemos rejeitar esses opressores para forjar nosso destino!"
  FRA_the_paris_accord: "O Acordo de Paris"
  FRA_the_paris_accord_desc: "Para combater a influência da OTAN e da UE na Europa. É hora de pressionarmos para formar nossa aliança. O Acordo de Paris mostrará que aqueles que se alinham conosco se tornarão fortes por seus direitos."
- ## Fraternidade - Nacionalista / Monarquia
+ ## Fraternidade - Nacionalista/Monarquia
  FRA_euroscepticsm: "Eurocepticismo"
  FRA_euroscepticsm_desc: "A Europa empurrou suas ideologias dominantes sobre nós por muito tempo. A pressão por uma União Europeia mais forte apenas reduzirá nossa autonomia."
  FRA_electoral_shutdown: "Desligamento Eleitoral"
@@ -195,7 +195,7 @@ l_english:
  FRA_amx_10: "AMX-10"
  FRA_amx_10_desc: "O AMX-10 é um tanque de reconhecimento leve para o exército francês. O AMX possui uma velocidade impressionante de 85 km em terreno ideal. Não é preciso dizer que o AMX se move rápido como o inferno."
  FRA_vbci: "VBCI"
- FRA_vbci_desc: "O VBCI foi criado para substituir o antigo AMX-10P, o VBCI foi desenvolvido e planejado para entrar em serviço em 2008 no final dos anos 2000. O VBCI tem muitas melhorias, incluindo ser mais rápido do que o speedster AMX por ter uma velocidade máxima de 100km / h. No entanto, o VBCI sacrifica a grande arma boi em favor de um armamento mais leve e velocidades mais altas. "
+ FRA_vbci_desc: "O VBCI foi criado para substituir o antigo AMX-10P, o VBCI foi desenvolvido e planejado para entrar em serviço em 2008 no final dos anos 2000. O VBCI tem muitas melhorias, incluindo ser mais rápido do que o speedster AMX por ter uma velocidade máxima de 100km/h. No entanto, o VBCI sacrifica a grande arma boi em favor de um armamento mais leve e velocidades mais altas. "
  FRA_forward_air_bases: "Bases Aéreas Avançadas"
  FRA_forward_air_bases_desc: "A fim de nos prepararmos para qualquer resultado, devemos construir nossas bases aéreas avançadas para garantir planos ofensivos ou defensivos devidamente encenados."
  FRA_mirage_2000d: "Mirage 2000D"

@@ -360,7 +360,7 @@ l_english:
  #BOTH PATHS MEET AQUI
  GRE_constitution: "A Constituição..."
  GRE_constitution_desc: "A Constituição é a última coisa com a qual precisamos lidar antes de finalmente nos solidificar no poder e reconstruir a Grécia da forma como a imaginamos."
- # Caminho dos comunistas europeus // antigo, será substituído por árvore (s) greekoslav
+ # Caminho dos comunistas europeus//antigo, será substituído por árvore (s) greekoslav
  GRE_european_communists: "Comunistas europeus"
  GRE_european_communists_desc: "O comunismo deixou uma marca nos Bálcãs, desde o fim da URSS e a queda do Bloco Comunista. Talvez com poder suficiente e intriga política possamos reacender a tocha deixada por nossos camaradas. Tudo o que precisamos é de um faísca para acender um incêndio. "
  GRE_bulgaria: "Traga a revolução para a Bulgária"
@@ -393,7 +393,7 @@ l_english:
  GRE_settle_eez_dispute: "Resolver a disputa do ZEE"
  GRE_settle_eez_dispute_desc: "A disputa sobre o ZEE é inútil. Enquanto promovermos o livre comércio entre nossos ZEEs e atribuirmos recursos igualmente uns aos outros, poderíamos finalmente dar um fim a este conflito inútil."
 
- # não classificado / não organizado
+ # não classificado/não organizado
  GRE_liberal_economy: "Liberalismo Econômico"
  GRE_liberal_economy_desc: "O liberalismo econômico é obrigatório se quisermos que a economia cresça de forma mais eficiente e, portanto, devemos adotá-lo."
  GRE_increased_privatization: "Aumento das privatizações"

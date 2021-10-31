@@ -583,7 +583,7 @@ l_english:
  LHA_4_desc: "Landing Helicopter Assult LHAs são LHDs maiores, rivalizando ou até ultrapassando o tamanho dos porta-aviões convencionais. A diferença entre LHDs e LHAs no jogo é que os LHAs são capazes de transportar aeronaves de asa fixa, além de fornecer o bônus de bombardeio em terra."
 
  LPD: "Doca de transporte anfíbio"
- LPD_desc: "Uma doca de transporte anfíbia, também chamada de plataforma / doca de pouso (LPD), é um navio de guerra anfíbio que embarca, transporta e pousa elementos de uma força de desembarque para missões de guerra expedicionária."
+ LPD_desc: "Uma doca de transporte anfíbia, também chamada de plataforma/doca de pouso (LPD), é um navio de guerra anfíbio que embarca, transporta e pousa elementos de uma força de desembarque para missões de guerra expedicionária."
  LPD_0: "LPD 1975"
  LPD_0_desc: "Landing Helicopter Dock LHD, são navios de assalto anfíbios polivalentes que são capazes de operar helicópteros e têm um convés de poço. Esses navios são construídos com um convés de voo completo semelhante a um porta-aviões para operar helicópteros de utilidade e de ataque. No jogo, eles fornecem um grande bônus de bombardeio da costa e são recomendados para uso com ataques anfíbios. "
  LPD_1: "LPD 1985"
@@ -968,8 +968,8 @@ l_english:
  CHI_APC_8: "ZBL-31"
  CHI_APC_8_short: "ZBL-31"
 
- CHI_Air_APC_4: "CS / VN3C"
- CHI_Air_APC_4_short: "CS / VN3C"
+ CHI_Air_APC_4: "CS/VN3C"
+ CHI_Air_APC_4_short: "CS/VN3C"
  CHI_Air_IFV_4: "ZBD-03"
  CHI_Air_IFV_4_short: "ZBD-03"
  CHI_Air_IFV_5: "ZBD-17"
@@ -1055,7 +1055,7 @@ l_english:
  CHI_util_vehicle_2: "Dongfeng EQ2025"
  CHI_util_vehicle_3: "Dongfeng EQ2050"
  CHI_util_vehicle_4: "ZFB-05"
- CHI_util_vehicle_5: "CS / VP4"
+ CHI_util_vehicle_5: "CS/VP4"
  CHI_util_vehicle_6: "ZFB-21"
  CHI_util_vehicle_7: "ZFB-27"
  CHI_util_vehicle_8: "ZFB-35"
@@ -1120,15 +1120,15 @@ l_english:
  CZE_infantry_weapons7_desc: "Novos avanços em fontes de energia e tecnologias nos permitiram fazer este rifle laser de estado sólido que tem grande potencial ofensivo. A arma também é capaz de cozinhar refeições se necessário ..."
 
  CZE_Anti_tank_0: "PTRS-12 Volant"
- CZE_Anti_tank_0_desc: "Primeiro míssil guiado antitanque tcheco. Utilize a orientação MCLOS e penetra até 400 m de blindagem em um alcance de 3 km com velocidade de 130 m / s. O movimento lento é propositalmente usado para permitir uma orientação mais precisa e maior tempo de reação antes de atingir o alvo."
+ CZE_Anti_tank_0_desc: "Primeiro míssil guiado antitanque tcheco. Utilize a orientação MCLOS e penetra até 400 m de blindagem em um alcance de 3 km com velocidade de 130 m/s. O movimento lento é propositalmente usado para permitir uma orientação mais precisa e maior tempo de reação antes de atingir o alvo."
  CZE_Anti_tank_1: "RPTZ-84" #Fictional
- CZE_Anti_tank_1_desc: "Míssil Anti-Tanque Guiado produzido na república. Utiliza a orientação SACLOS e penetra até 400m de blindagem em alcance de 3km com velocidade de 350m / s. Foi uma resposta aos últimos avanços de blindagem dos inimigos do estado".
+ CZE_Anti_tank_1_desc: "Míssil Anti-Tanque Guiado produzido na república. Utiliza a orientação SACLOS e penetra até 400m de blindagem em alcance de 3km com velocidade de 350m/s. Foi uma resposta aos últimos avanços de blindagem dos inimigos do estado".
  CZE_Anti_tank_2: "RPTZ-96" #Fictional
  CZE_Anti_tank_2_desc: "Raketová Protitanková Zbran 96 significa Rocket Anti-Tank Weapon Type 96. Primeiro protótipo de nosso próprio design Tcheco F&F (Fire and Forget). No final, o projeto resultou em uma arma capaz de alternar modos entre softwares pouco confiáveis Fire and Forget às vezes trocando casa por uma arma automotora e um sistema SACLOS muito preciso. "
  CZE_Anti_tank_3: "PTRS-101" #Ficcional
  CZE_Anti_tank_3_desc: "Significa ATGM-101. Primeiro projeto F&F confiável com apenas 5 protótipos desde o primeiro! Ele também usa mísseis precursores para conter a ameaça emergente dos Sistemas de Proteção Ativa. A ideia é diferente dos projetos estrangeiros, porque a primeira ogiva disparado ainda está embalado com explosivos destinados a estilhaçar fora do tanque e sensores no topo das torres de tanques, e segunda ogiva tandem penetrante. "
  CZE_Anti_tank_4: "PTRS-109 Pancír" #Ficcional
- CZE_Anti_tank_4_desc: "Significa ATGM-109. Projeto ATGM tandem de segunda geração utilizando mísseis precursores (sim, dois precursores e 1 ogiva real) atingindo sistemas APS antes da ogiva tandem com penetração de 2500 mm RHA. As ogivas têm velocidade de 500m / se isso dá ao inimigo O APS e a tripulação têm muito pouco tempo de reação, mesmo a uma distância de 3 km. A combinação de poucos desses sistemas de armas móveis pode destruir qualquer tanque com um número esmagador de ATGMs. "
+ CZE_Anti_tank_4_desc: "Significa ATGM-109. Projeto ATGM tandem de segunda geração utilizando mísseis precursores (sim, dois precursores e 1 ogiva real) atingindo sistemas APS antes da ogiva tandem com penetração de 2500 mm RHA. As ogivas têm velocidade de 500m/se isso dá ao inimigo O APS e a tripulação têm muito pouco tempo de reação, mesmo a uma distância de 3 km. A combinação de poucos desses sistemas de armas móveis pode destruir qualquer tanque com um número esmagador de ATGMs. "
 
  CZE_Anti_Air_0: "PLRS-KD vz. 2 Strela" #Ficcional
  CZE_Anti_Air_0_desc: "Segunda geração de mísseis superfície-ar. Eles têm pequeno alcance de 10 km. Seu nome Strela significa míssil. O vz. 2 é um míssil teleguiado infravermelho que pode ser facilmente perseguido, mas por outro lado mostrou grande confiabilidade nos testes alvos de alcance. "
@@ -1160,10 +1160,10 @@ l_english:
  CZE_land_Drone_equipment_desc: "Drone lançado à mão de primeira geração equipado com ótica de reconhecimento básico que permite conexão em tempo real com o computador de controle de campo do operador. Possui armazenamento interno para meia hora de vídeo gravado e combustível para 30 minutos de voo. É lançado à mão e também usado para pesquisar sinais de rádio. "
  CZE_land_Drone_equipment1: "BPL Sojka III"
  CZE_land_Drone_equipment1_desc: "Drone de segunda geração lançado com motor de foguete de veículo lançador. O drone é operado a partir de veículo de monitoramento e também pode ser usado para aquisição de alvos e bloqueio. O drone tem teto de altura de 4 km e alcance de 120 km."
- CZE_land_Drone_equipment2: "BPL Sojka III / ML"
+ CZE_land_Drone_equipment2: "BPL Sojka III/ML"
  CZE_land_Drone_equipment2_desc: "Versão atualizada do drone Sojka III com mais resistência, carga de combustível e maior confiabilidade em ambientes de areia e poeira. O drone é feito de materiais compostos, estendendo seu alcance para mais de 180 km"
  CZE_land_Drone_equipment3: "BPL-103 Kurýr"
- CZE_land_Drone_equipment3_desc: "Drone de vigilância projetado especialmente em áreas urbanas equipado com IR / NV de 2ª geração e dispositivos de interferência de última geração. Capaz de transportar alguma carga de seu pelotão para facilitar e principalmente acelerar os tempos de viagem entre destinos e objetivos."
+ CZE_land_Drone_equipment3_desc: "Drone de vigilância projetado especialmente em áreas urbanas equipado com IR/NV de 2ª geração e dispositivos de interferência de última geração. Capaz de transportar alguma carga de seu pelotão para facilitar e principalmente acelerar os tempos de viagem entre destinos e objetivos."
  CZE_land_Drone_equipment4: "BPL-112 Vážka" #Fictional
  CZE_land_Drone_equipment4_desc: "Drone utilizando avanços em tecnologias stealth, tornando este pequeno alvo ainda menor. Ele tem motor de hélice capaz de alta altitude e é capaz de assumir o controle de drones menos avançados usando seus sinais direcionados. Seu teto é de 10 km e RCS abaixo de 0,0001."
  CZE_land_Drone_equipment5: "BPL-156 Datel" #Fictional
@@ -1185,7 +1185,7 @@ l_english:
  CZE_MBT_7: "T-25 Oskar" #Ficcional
  CZE_MBT_7_desc: "O tanque melhorou seu layout de blindagem devido ao sistema de blindagem modular. O tanque pode ser movido muito rapidamente sem blindagem que é adicionada quando descarregado. Este sistema também facilita a manutenção e reparos. Este tanque apresenta um novo sistema de proteção ativa chamado Štít montado em configuração dupla para lidar com ogivas tandem e burras. É capaz de destruir até 3 mísseis se houver pelo menos 0,5 segundo entre eles ou 2 simultaneamente. "
  CZE_MBT_8: "T-35 Orel" #Ficcional
- CZE_MBT_8_desc: "Com base na experiência da série T-25 / T-35 e das modernizações do T-72, o T-35 Orel é projetado como o único produto da indústria tcheca recuperado das cinzas desde seu auge antes da Segunda Guerra Mundial. Tanque composto de peças elétricas -armor e outros componentes modulares, como APS de quatro canais, são capazes de lidar com qualquer ameaça. A torre montou a Arma de Energia Direcionada usando o reator do tanque para aquecer o plasma injetado e acelerá-lo para o tanque inimigo. O reator também fornece o tanque com a potência necessária. "
+ CZE_MBT_8_desc: "Com base na experiência da série T-25/T-35 e das modernizações do T-72, o T-35 Orel é projetado como o único produto da indústria tcheca recuperado das cinzas desde seu auge antes da Segunda Guerra Mundial. Tanque composto de peças elétricas -armor e outros componentes modulares, como APS de quatro canais, são capazes de lidar com qualquer ameaça. A torre montou a Arma de Energia Direcionada usando o reator do tanque para aquecer o plasma injetado e acelerá-lo para o tanque inimigo. O reator também fornece o tanque com a potência necessária. "
 
  #APC
  CZE_Amph_APC_1: "OT-62 TOPAS"
@@ -1337,7 +1337,7 @@ l_english:
  CZE_artillery_3_desc: "Artilharia utilizando nova geração de munição inteligente para ataques de precisão."
  CZE_artillery_4: "172mm houfnice vz. 41" #Ficcional
  CZE_artillery_4_short: "vz. 41"
- CZE_artillery_4_desc: "Um obus de novo calibre capaz de destruir qualquer coisa com um tiro devido ao seu incrível canhão L / 43 de 172 mm."
+ CZE_artillery_4_desc: "Um obus de novo calibre capaz de destruir qualquer coisa com um tiro devido ao seu incrível canhão L/43 de 172 mm."
 
  #UTIL
  CZE_util_vehicle_0: "Tatra 813 6x6 KOLOS" #truck
@@ -1352,7 +1352,7 @@ l_english:
  CZE_util_vehicle_3_desc: "Novo caminhão Tatra com motor mais potente e maior capacidade de carga. É montado com melhor sistema de peças para facilidade de manutenção e reparos".
  CZE_util_vehicle_4: Jipe "Perun 4x4" #utility
  CZE_util_vehicle_4_desc: "Novo jipe utilitário, comando e comunicação."
- CZE_util_vehicle_5: "Škoda Želva 4x4" #Jeep blindado imaginário / MVAP
+ CZE_util_vehicle_5: "Škoda Želva 4x4" #Jeep blindado imaginário/MVAP
  CZE_util_vehicle_5_desc: "Jipe blindado com equipamento de reconhecimento, centro de comando e comunicação ou capacidade para passageiros."
  CZE_util_vehicle_6: "Tatra 915 8x8" # Caminhão blindado fictício
  CZE_util_vehicle_6_desc: "Caminhão de carga totalmente blindado."
@@ -1556,7 +1556,7 @@ l_english:
 
  FRA_SP_Anti_Air_0: "AMX 13 DCA Black Eye"
  FRA_SP_Anti_Air_1: "AMX Roland"
- FRA_SP_Anti_Air_2: "SAM P / T"
+ FRA_SP_Anti_Air_2: "SAM P/T"
  FRA_SP_Anti_Air_3: "CAMM-L"
  FRA_SP_Anti_Air_4: "MALP"
 
@@ -1685,13 +1685,13 @@ l_english:
  GER_MBT_1_desc: "O Leopard (ou Leopard 1) é um tanque de batalha principal projetado e produzido pela Porsche na Alemanha Ocidental que entrou em serviço pela primeira vez em 1965. Desenvolvido em uma época em que se pensava que as ogivas HEAT produziam blindagens pesadas convencionais de valor limitado, o Leopard se concentrou em poder de fogo na forma da versão alemã do canhão britânico L7 de 105 mm e desempenho aprimorado em todo o país que não era igualado por outros designs da época. "
  GER_MBT_1_short: "Leopardo 1"
  GER_MBT_2: "Leopard 1A5"
- GER_MBT_2_desc: "Em 1980, um programa de pesquisa foi realizado para estudar melhorias adicionais no Leopard 1, fornecendo-lhe um sistema de controle de fogo completamente moderno e um sistema de visão noturna / mau tempo totalmente eficaz. A decisão foi tomada para basear as atualizações nos modelos anteriores , que já não eram competitivos. O Leopard 1A5 resultante baseava-se em 1.225 veículos do modelo Leopard 1A1A1. As torres foram novamente modificadas para o 1A5, tanto para armazenar todos os novos equipamentos, como para movimentar mais munição na parte traseira da torre, em oposição ao lado esquerdo do driver, onde havia sido armazenada anteriormente. "
+ GER_MBT_2_desc: "Em 1980, um programa de pesquisa foi realizado para estudar melhorias adicionais no Leopard 1, fornecendo-lhe um sistema de controle de fogo completamente moderno e um sistema de visão noturna/mau tempo totalmente eficaz. A decisão foi tomada para basear as atualizações nos modelos anteriores , que já não eram competitivos. O Leopard 1A5 resultante baseava-se em 1.225 veículos do modelo Leopard 1A1A1. As torres foram novamente modificadas para o 1A5, tanto para armazenar todos os novos equipamentos, como para movimentar mais munição na parte traseira da torre, em oposição ao lado esquerdo do driver, onde havia sido armazenada anteriormente. "
  GER_MBT_2_short: "Leopard 1A5"
  GER_MBT_3: "Leopard 2A4"
- GER_MBT_3_desc: "A versão mais difundida da família Leopard 2, os modelos 2A4 incluíram mudanças mais substanciais, incluindo um sistema automatizado de supressão de incêndio e explosão, um sistema de controle de fogo totalmente digital capaz de lidar com novos tipos de munição e uma torre aprimorada com titânio plano / armadura de tungstênio. Os Leopard 2s foram fabricados em oito lotes entre 1985 e 1992. Todos os modelos mais antigos foram atualizados para o padrão 2A4. Até 1994, a Alemanha operava com um total de 2.125 2A4s "
+ GER_MBT_3_desc: "A versão mais difundida da família Leopard 2, os modelos 2A4 incluíram mudanças mais substanciais, incluindo um sistema automatizado de supressão de incêndio e explosão, um sistema de controle de fogo totalmente digital capaz de lidar com novos tipos de munição e uma torre aprimorada com titânio plano/armadura de tungstênio. Os Leopard 2s foram fabricados em oito lotes entre 1985 e 1992. Todos os modelos mais antigos foram atualizados para o padrão 2A4. Até 1994, a Alemanha operava com um total de 2.125 2A4s "
  GER_MBT_3_short: "Leopard 2A4"
  GER_MBT_4: "Leopard 2A6"
- GER_MBT_4_desc: "O Leopard 2A6 inclui a adição da pistola de cano liso Rheinmetall 120 mm L / 55 e outras alterações."
+ GER_MBT_4_desc: "O Leopard 2A6 inclui a adição da pistola de cano liso Rheinmetall 120 mm L/55 e outras alterações."
  GER_MBT_4_short: "Leopard 2A6"
  GER_MBT_5: "Leopard 2A7 +"
  GER_MBT_5_desc: "O Leopard 2A7 + foi projetado para operar em conflitos de baixa e alta intensidade. A proteção do tanque foi aumentada pela blindagem modular; a proteção frontal foi aprimorada com um kit duplo na torre e frente do casco, enquanto proteção de 360 ° contra RPGs e proteção contra minas aumentam a capacidade de sobrevivência do tanque em operações urbanas. Os componentes do sistema de blindagem modular foram usados pela primeira vez pelo Canadá no Afeganistão. Ele pode disparar munições HE programáveis e a torre MG3 montada foi substituída por uma estação de armas FLW 200 controlada remotamente . A mobilidade, sustentabilidade e consciência situacional também foram melhoradas. "
@@ -1754,7 +1754,7 @@ l_english:
  GRE_MBT_3: "Leopard 2A4"
  GRE_MBT_3_short: "Leopard 2A4"
  GRE_MBT_4: "Leopard 2A6HEL"
- GRE_MBT_4_desc: "O Leopard 2A6HEL inclui a adição da pistola de cano liso Rheinmetall 120 mm L / 55 e outras alterações."
+ GRE_MBT_4_desc: "O Leopard 2A6HEL inclui a adição da pistola de cano liso Rheinmetall 120 mm L/55 e outras alterações."
  GRE_MBT_4_short: "Leopard 2A6HEL"
 
  GRE_Rec_tank_1: "M48A5 MOLF"
@@ -1785,7 +1785,7 @@ l_english:
  GRE_util_vehicle_5: "M1113GR"
  GRE_util_vehicle_5_short: "M1113GR"
 
- ### Holanda / Holanda ###
+ ### Holanda/Holanda ###
  HOL_util_vehicle_1: "DAF YA 4440"
  HOL_util_vehicle_2: "Lohr Luchtmobiel Speciaal Voertuig"
  HOL_util_vehicle_2_short: "Lohr VLA"
@@ -1957,7 +1957,7 @@ l_english:
  ENG_MBT_2: "FV4201 Chieftain"
  ENG_MBT_2_short: "Chefe"
  ENG_MBT_2_desc: "Com base no modelo de sucesso do tanque Centurion, o Chieftain deveria ser o principal tanque de batalha britânico no final dos anos 1960. Ele melhorou muito a blindagem, a ótica e o poder de fogo, tornando o Chieftain uma das melhores opções contra os adversários soviéticos. No entanto, a única falha que segurou o Chieftain foi seu terrível motor - nascido com a nobre ideia de abastecer o tanque com qualquer tipo de óleo em caso de guerra, o motor acabou sendo extremamente lento e pouco confiável. "
- ENG_MBT_3: "FV4030 / 4 Challenger I"
+ ENG_MBT_3: "FV4030/4 Challenger I"
  ENG_MBT_3_short: "Challenger I"
  ENG_MBT_3_desc: "Originalmente um projeto MBT-80, o tanque foi projetado com base no tanque Chieftain para as necessidades do Irã, mas com a Revolução Islâmica no Irã o projeto foi cancelado. O Exército Britânico tornou-se o cliente e, portanto, o tanque foi modificado para atender às necessidades britânicas . O Challenger I se tornou o primeiro tanque a usar a armadura revolucionária Chobham, garantindo proteção superior sobre qualquer RHA ocidental da época. Tornou-se um dos tanques preeminentes no final do século XX. "
  ENG_MBT_4: "FV4034 Challenger II"
@@ -2087,7 +2087,7 @@ l_english:
  #ISR_artillery_1_variant: "M-839"
  ISR_artillery_2: "ATHOS 2052"
 
- ISR_SP_arty_0: "Ro'em / L-33"
+ ISR_SP_arty_0: "Ro'em/L-33"
  ISR_SP_arty_1: "ATMOS 2000"
  ISR_SP_arty_2: "Sistema de artilharia móvel Rascal"
  ISR_SP_arty_2_short: "Patife"
@@ -2100,7 +2100,7 @@ l_english:
 
 
  ISR_SP_Anti_Air_0: "M163"
- ISR_SP_Anti_Air_1: "AN / TWQ-1 Avenger"
+ ISR_SP_Anti_Air_1: "AN/TWQ-1 Avenger"
  ISR_SP_Anti_Air_2: "SPYDER SAM"
  ISR_SP_Anti_Air_2_short: "SPYDER SAM"
  ISR_SP_Anti_Air_3: "Stryker M1127IA"
@@ -2147,7 +2147,7 @@ l_english:
  IRQ_MBT_2: "Leão da Babilônia"
  IRQ_MBT_2_short: "Leão da Babilônia"
 
- ### ISIS / Daesh ###
+ ### ISIS/Daesh ###
  ISI_util_vehicle_0: "Toyota Land Cruiser"
  ISI_util_vehicle_1: "Toyota Hilux"
  ISI_util_vehicle_2: "Humvee"
@@ -2175,10 +2175,10 @@ l_english:
  ISI_artillery_0_short: "Canhão do Inferno"
 
  ### Itália ###
- ITA_infantry_weapons: "AR70 / 223"
- ITA_infantry_weapons1: "AR70 / 224"
- ITA_infantry_weapons2: "AR70 / 90"
- ITA_infantry_weapons3: "SCP70 / 90"
+ ITA_infantry_weapons: "AR70/223"
+ ITA_infantry_weapons1: "AR70/224"
+ ITA_infantry_weapons2: "AR70/90"
+ ITA_infantry_weapons3: "SCP70/90"
  ITA_infantry_weapons4: "ARX160A1"
  ITA_infantry_weapons5: "ARX160A3"
  ITA_infantry_weapons6: "ARX160A5"
@@ -2200,14 +2200,14 @@ l_english:
  ITA_command_control_equipment6_desc: "C4ISTAR (Comando, Controle, Comunicações, Computadores, Colaboração, Inteligência, Interoperabilidade, Vigilância, Aquisição de Alvos e Reconhecimento) é a sétima geração de equipamento C2. Equipamento de Comando e Controle é o sistema que capacita a liderança para exercer autoridade e direção sobre as forças designadas para o cumprimento de missões e tarefas. Comando e controle eficientes levam a uma maior organização e moral. "
 
 
- ITA_land_Drone_equipment: "Sistema Micro-APR RQ-9A / B" #Ficcional
+ ITA_land_Drone_equipment: "Sistema Micro-APR RQ-9A/B" #Ficcional
  ITA_land_Drone_equipment_desc: "Drone lançado à mão de primeira geração equipado com ótica de reconhecimento básico que permite conexão em tempo real com o computador de controle de campo do operador. Possui armazenamento interno para meia hora de vídeo gravado e combustível para 30 minutos de voo. É lançado à mão e também usado para pesquisar sinais de rádio. "
- ITA_land_Drone_equipment1: "Sistema Micro-APR RQ-11B / C" RAVEN B / DDL ""
+ ITA_land_Drone_equipment1: "Sistema Micro-APR RQ-11B/C" RAVEN B/DDL ""
  ITA_land_Drone_equipment1_desc: "Drone de segunda geração lançado com motor de foguete de veículo lançador. O drone é operado a partir de veículo de monitoramento e também pode ser usado para aquisição de alvos e bloqueio. O drone tem teto de altura de 4 km e alcance de 120 km."
  ITA_land_Drone_equipment2: "Sistema Micro-APR STRIX-C"
  ITA_land_Drone_equipment2_desc: "Versão atualizada do drone RAVEN com mais resistência, carga de combustível e maior confiabilidade em ambientes de areia e poeira. O drone é feito de materiais compostos, estendendo seu alcance para mais de 180 km"
  ITA_land_Drone_equipment3: "Sistema Tattico-APR RQ-7C" SHADOW 200 ""
- ITA_land_Drone_equipment3_desc: "Drone de vigilância projetado especialmente em áreas urbanas equipado com IR / NV de 2ª geração e dispositivos de interferência de última geração. Capaz de transportar alguma carga de seu pelotão para facilitar e principalmente acelerar os tempos de viagem entre destinos e objetivos."
+ ITA_land_Drone_equipment3_desc: "Drone de vigilância projetado especialmente em áreas urbanas equipado com IR/NV de 2ª geração e dispositivos de interferência de última geração. Capaz de transportar alguma carga de seu pelotão para facilitar e principalmente acelerar os tempos de viagem entre destinos e objetivos."
  ITA_land_Drone_equipment4: "Sistema Micro-APR SIXTON-A"
  ITA_land_Drone_equipment4_desc: "Drone utilizando avanços em tecnologias stealth, tornando este pequeno alvo ainda menor. Ele tem motor de hélice capaz de alta altitude e é capaz de assumir o controle de drones menos avançados usando seus sinais direcionados. Seu teto é de 10 km e RCS abaixo de 0,0001."
  ITA_land_Drone_equipment5: "Sistema Tattico-APR RQ-9A" SHADOW 300 "" #Fictício
@@ -2351,18 +2351,18 @@ l_english:
 
  ITA_Anti_tank_0: "M72A5"
  ITA_Anti_tank_1: "MILAN"
- ITA_Anti_tank_2: "SPIKE MR / LR"
- ITA_Anti_tank_3: "SPIKE MR / LR II"
- ITA_Anti_tank_4: "SPIKE MR / LR III"
+ ITA_Anti_tank_2: "SPIKE MR/LR"
+ ITA_Anti_tank_3: "SPIKE MR/LR II"
+ ITA_Anti_tank_4: "SPIKE MR/LR III"
 
  ITA_Heavy_Anti_tank_0: "M113 TOW"
  ITA_Heavy_Anti_tank_1: "FIAT 6616 SR 106"
  ITA_Heavy_Anti_tank_1_short: "FIAT 6616 106"
- ITA_Heavy_Anti_tank_2: "VCC Dardo SPIKE MR / LR"
+ ITA_Heavy_Anti_tank_2: "VCC Dardo SPIKE MR/LR"
  ITA_Heavy_Anti_tank_2_short: "Dardo SPIKE"
- ITA_Heavy_Anti_tank_3: "VCC Dardo II SPIKE MR / LR II"
+ ITA_Heavy_Anti_tank_3: "VCC Dardo II SPIKE MR/LR II"
  ITA_Heavy_Anti_tank_3_short: "Dardo II SPIKE LR II"
- ITA_Heavy_Anti_tank_4: "VBM Freccia II SPIKE MR / LR III"
+ ITA_Heavy_Anti_tank_4: "VBM Freccia II SPIKE MR/LR III"
  ITA_Heavy_Anti_tank_4_short: "Freccia II SPIKE LR III"
 
  ITA_Anti_Air_0: "FIM-43"
@@ -2783,7 +2783,7 @@ l_english:
  NKO_util_vehicle_2: "UAZ-3132"
  NKO_util_vehicle_3: "Dongfeng EQ2050"
  NKO_util_vehicle_4: "ZFB-05"
- NKO_util_vehicle_5: "CS / VP4"
+ NKO_util_vehicle_5: "CS/VP4"
  NKO_util_vehicle_6: "ZFB-21"
  NKO_util_vehicle_7: "ZFB-27"
  NKO_util_vehicle_8: "ZFB-35"
@@ -3767,14 +3767,14 @@ l_english:
  SPR_IFV_3: "ENASA-Pegaso VEC-M"
  SPR_IFV_3_short: "VEC-M"
  SPR_IFV_3_desc: "Depois de um longo serviço intenso, o VEC-M inclui várias melhorias em relação ao modelo original. O motor foi substituído por um Scania DS9 com melhor desempenho, a outra área altamente aprimorada foi a defesa do veículo. A blindagem do casco foi aumentada para contra danos de metralhadoras médias até 14,50 mm cal. A série M inclui um equipamento anti-explosão muito semelhante às unidades MBT baseado em vários sensores que permite um sistema de controle de fogo ao detectar uma explosão interna. "
- SPR_IFV_4: "General Dynamics ASCOD VCI / C Pizarro"
- SPR_IFV_4_short: "VCI / C Pizarro"
- SPR_IFV_4_desc: "ASCOD (Desenvolvimento da Cooperação Austríaca Espanhola) IFV é o produto de um acordo de cooperação entre a Steyr-Daimler-Puch AG e a Santa Bárbara Sistemas. Na Espanha, o veículo é denominado \" Pizarro \ ". O VCI / C (em espanhol \" Vehiculo de Combate de Infantería / Caballería \ ") monta um canhão automático Mauser MK-30/2 de 30 mm em uma torre eletromecânica totalmente percorrível. O canhão de 30 mm alimentado por correia dupla, estabilizado eletricamente em dois planos, é capaz de disparar a uma taxa de até 770 RPM e combate com precisão os alvos em movimento. Como armamento secundário, o Pizarro carrega uma metralhadora MG-3. "
- SPR_IFV_5: "General Dynamics ASCOD VCI / C Pizarro Fase II"
- SPR_IFV_5_short: "VCI / C Pizarro II"
+ SPR_IFV_4: "General Dynamics ASCOD VCI/C Pizarro"
+ SPR_IFV_4_short: "VCI/C Pizarro"
+ SPR_IFV_4_desc: "ASCOD (Desenvolvimento da Cooperação Austríaca Espanhola) IFV é o produto de um acordo de cooperação entre a Steyr-Daimler-Puch AG e a Santa Bárbara Sistemas. Na Espanha, o veículo é denominado \" Pizarro \ ". O VCI/C (em espanhol \" Vehiculo de Combate de Infantería/Caballería \ ") monta um canhão automático Mauser MK-30/2 de 30 mm em uma torre eletromecânica totalmente percorrível. O canhão de 30 mm alimentado por correia dupla, estabilizado eletricamente em dois planos, é capaz de disparar a uma taxa de até 770 RPM e combate com precisão os alvos em movimento. Como armamento secundário, o Pizarro carrega uma metralhadora MG-3. "
+ SPR_IFV_5: "General Dynamics ASCOD VCI/C Pizarro Fase II"
+ SPR_IFV_5_short: "VCI/C Pizarro II"
  SPR_IFV_5_desc: "Para a sua segunda fase, o grupo de motores foi aprimorado e agora é montado um MTU 8V-199-TE20 e uma transmissão de nova geração que funciona com uma lógica binária, totalmente desenvolvida na Espanha".
- SPR_IFV_6: "General Dynamics ASCOD VCI / C Pizarro Fase III"
- SPR_IFV_6_short: "VCI / C Pizarro III"
+ SPR_IFV_6: "General Dynamics ASCOD VCI/C Pizarro Fase III"
+ SPR_IFV_6_short: "VCI/C Pizarro III"
  SPR_IFV_6_desc: "Na sua terceira iteração é notável que este novo Pizarro Fase 3 seria o resultado da combinação da nova geração de barcaças ASCOD usada no Veículo de Combate Sapper (VCZAP), mas fornecendo-lhe os sistemas de missão desenvolvidos para o Veículo de Combate à Roda (VCR) \ "Dragon \". A barcaça modernizada usada no VCZAP oferece altos níveis de proteção, pois é otimizada contra minas e IEDs, tem alta proteção balística e assentos anti-minas. Os sistemas de missão que foram incorporados, incorpora consciência situacional, equipamentos de comunicação , sistemas de armas, eletro-ótica e sistemas de navegação. "
  SPR_IFV_8: "General Dynamics Santa Bárbara Sistemas Dragón"
  SPR_IFV_8_short: "VCR 8x8 Dragón"
@@ -3933,7 +3933,7 @@ l_english:
  SUD_util_vehicle_4_short: "Amir IFV"
 
  ### Suécia ###
- SWE_infantry_weapons: "Kpist m / 45"
+ SWE_infantry_weapons: "Kpist m/45"
  SWE_infantry_weapons1: "Ak-4"
  SWE_infantry_weapons2: "AK-4HV"
  SWE_infantry_weapons3: "AK-5"
@@ -3945,7 +3945,7 @@ l_english:
  SWE_Anti_Air_1: "Robotsystem 70"
  SWE_Anti_Air_1_short: "RBS 70"
 
- SWE_APC_1: "Terrängbil m / 42 KP"
+ SWE_APC_1: "Terrängbil m/42 KP"
  SWE_APC_2: "Bandvagn 206S"
  SWE_APC_2_short: "Bv 206S"
  SWE_APC_3: "Bandvagn 207S"
@@ -4330,9 +4330,9 @@ l_english:
  USA_infantry_weapons1: "M16A1"
  USA_infantry_weapons1_desc: "O rifle M16, oficialmente designado Rifle, Calibre 5,56 mm, M16, é uma família de rifles militares adaptados do rifle ArmaLite AR-15 para os militares dos Estados Unidos. O rifle M16 original era um rifle automático de 5,56 mm com um rifle de 20 tiros revista."
  USA_infantry_weapons2: "M16A2"
- USA_infantry_weapons2_desc: "O desenvolvimento do rifle M16A2 foi originalmente solicitado pelo Corpo de Fuzileiros Navais dos Estados Unidos como resultado da experiência de combate no Vietnã com o XM16E1 e o M16A1. Ele foi oficialmente adotado pelo Departamento de Defesa como o \" Rifle dos EUA, 5,56 mm, M16A2 \ "em 1982. Os fuzileiros navais foram o primeiro ramo das Forças Armadas dos EUA a adotá-lo, no início / meados dos anos 1980, com o Exército dos Estados Unidos seguindo o exemplo no final dos anos 1980."
+ USA_infantry_weapons2_desc: "O desenvolvimento do rifle M16A2 foi originalmente solicitado pelo Corpo de Fuzileiros Navais dos Estados Unidos como resultado da experiência de combate no Vietnã com o XM16E1 e o M16A1. Ele foi oficialmente adotado pelo Departamento de Defesa como o \" Rifle dos EUA, 5,56 mm, M16A2 \ "em 1982. Os fuzileiros navais foram o primeiro ramo das Forças Armadas dos EUA a adotá-lo, no início/meados dos anos 1980, com o Exército dos Estados Unidos seguindo o exemplo no final dos anos 1980."
  USA_infantry_weapons3: "M16A4"
- USA_infantry_weapons3_desc: "O M16A4 é a quarta geração da série M16. Ele é equipado com uma alça de transporte removível e um trilho Picatinny quad de comprimento total para a montagem de ópticas e outros dispositivos auxiliares. O FN M16A4, usando fogo seletivo seguro / semi / burst, tornou-se padrão Fuzileiros militares também são equipados com um protetor de mão M5 RAS da Knight's Armament Company, permitindo alças verticais, lasers, luzes táticas e outros acessórios a serem conectados, cunhando a designação M16A4 MWS (ou Sistema de Arma Modular) nos manuais de campo do Exército dos EUA ".
+ USA_infantry_weapons3_desc: "O M16A4 é a quarta geração da série M16. Ele é equipado com uma alça de transporte removível e um trilho Picatinny quad de comprimento total para a montagem de ópticas e outros dispositivos auxiliares. O FN M16A4, usando fogo seletivo seguro/semi/burst, tornou-se padrão Fuzileiros militares também são equipados com um protetor de mão M5 RAS da Knight's Armament Company, permitindo alças verticais, lasers, luzes táticas e outros acessórios a serem conectados, cunhando a designação M16A4 MWS (ou Sistema de Arma Modular) nos manuais de campo do Exército dos EUA ".
  USA_infantry_weapons4: "M4A1"
  USA_infantry_weapons4_desc: "A carabina M4 é uma variante mais curta e mais leve do rifle de assalto M16. A M4 é uma carabina NATO de 5,56 × 45 mm, resfriada a ar, de impacto direto, operada a gás e alimentada por magazine. Tem um cano de 370 mm (14,5 pol.) e uma coronha telescópica. "
  USA_infantry_weapons6: "MR24"
@@ -4369,7 +4369,7 @@ l_english:
  USA_APC_4_desc: "Esses veículos blindados com rodas mais recentes oferecem maior proteção em relação aos modelos anteriores, especialmente no caso de ameaças de IED. Tão impressionante é a gama de recursos que esta plataforma hospeda, incluindo; um designador de laser, telêmetro a laser, GPS e rádios e computadores que atingem o alvo posicione os dados e os transmita para unidades de artilharia distantes ou bombardeiros no alto "
  USA_APC_4_short: "LAV-25A1"
  USA_APC_5: "M1126 Stryker ICV"
- USA_APC_5_desc: "Na verdade, originado de nossos vizinhos canadenses, o Stryker satisfaz as necessidades do Corpo de Fuzileiros Navais e também incorpora um sistema automático de supressão de incêndio, um sistema CBRN, imagens térmicas diurnas / noturnas, bem como sistemas de comunicação de próxima geração a bordo."
+ USA_APC_5_desc: "Na verdade, originado de nossos vizinhos canadenses, o Stryker satisfaz as necessidades do Corpo de Fuzileiros Navais e também incorpora um sistema automático de supressão de incêndio, um sistema CBRN, imagens térmicas diurnas/noturnas, bem como sistemas de comunicação de próxima geração a bordo."
  USA_APC_5_short: "M1126 Stryker ICV"
  USA_APC_6: "M1127A2"
  USA_APC_6_short: "M1127A2"
@@ -4457,7 +4457,7 @@ l_english:
  USA_Rec_tank_5_short: "M7A2" #Fictional
 
  USA_SP_Anti_Air_0: "M-163 VADS"
- USA_SP_Anti_Air_1: "AN / TWQ-1 Avenger"
+ USA_SP_Anti_Air_1: "AN/TWQ-1 Avenger"
  USA_SP_Anti_Air_2: "Stryker M1127 MSL"
  USA_SP_Anti_Air_3: "Stryker M1127 Arbalest"
  USA_SP_Anti_Air_4: "Scorpion SRLS" #Ficcional
@@ -5743,7 +5743,7 @@ l_english:
  SIN_LPD_1: "Classe Endurance"
  SIN_LPD_1_short: "Classe Endurance"
 
- ### Iugoslávia / Sérvia ###
+ ### Iugoslávia/Sérvia ###
  SER_missile_corvette_1: "Classe Kotor"
  SER_missile_corvette_1_short: "Classe Kotor"
 
@@ -6395,9 +6395,9 @@ l_english:
  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED: "- §RReforço bloqueado: não há fornecimento de capital§!"
  REQUESTED_REINFORCEMENT_COLLECTING_AND_DELIVERY: "- Esperando que o equipamento seja §Hproduzido§! E §Hdelivered§ !:"
  REQUESTED_REINFORCEMENT_DELIVERY_NO_PROGRESS: "- Aguardando que o equipamento seja §Hdelivered§ !:"
- REQUESTED_REINFORCEMENT_COLLECTING_ENTRY: "- $ NUM | Y0 $ / $ MAX | Y0 $ de $ NAME | Y $"
+ REQUESTED_REINFORCEMENT_COLLECTING_ENTRY: "- $ NUM | Y0 $/$ MAX | Y0 $ de $ NAME | Y $"
  REQUESTED_REINFORCEMENT_DELIVERY_ENTRY: "- $ NUM | Y0 $ de $ NAME | Y $"
- REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY: "- $ NUM | Y0 $ / $ MAX | Y0 $ de $ NAME | Y $"
+ REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY: "- $ NUM | Y0 $/$ MAX | Y0 $ de $ NAME | Y $"
  REQUESTED_MANPOWER_DETAILS: "Os próximos $ NUM | Y $ de mão de obra chegarão em $ HR | Y $ horas.\nReforço de mão de obra total aproximadamente em $ D | Y $ dias."
  NOT_ENOUGH_MANPOWER_TO_REINFORCE: "Não há mão de obra suficiente para reforçar."
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE: "§RO reforço de força de trabalho não é possível no local atual.§!"
@@ -6794,13 +6794,13 @@ l_english:
  CZE_Air_UAV4_desc: "Drone stealth desenvolvido internamente com capacidades de ataque de precisão e resistência muito longa com capacidade de permanecer na altura de 30 km por 250 horas devido à menor resistência do ar e pressão específica."
 
  CZE_attack_helicopter1: "Mil Mi-171Š"
- CZE_attack_helicopter1_desc: "Domesticamente revisado Mi-8 / Mi-17 / Mi-18 em helicóptero de acoplamento básico equipado com mísseis AGM e AAM em seus postes sob as asas. O helicóptero ainda é capaz de transportar 16 passageiros dentro de sua estrutura."
+ CZE_attack_helicopter1_desc: "Domesticamente revisado Mi-8/Mi-17/Mi-18 em helicóptero de acoplamento básico equipado com mísseis AGM e AAM em seus postes sob as asas. O helicóptero ainda é capaz de transportar 16 passageiros dentro de sua estrutura."
  CZE_attack_helicopter2: "Mi-24D"
  CZE_attack_helicopter2_desc: "Versão de exportação produzida internamente do Mi-24 da União Soviética com novo software e hardware tcheco, incluindo nova matriz de sensores, ótica e facelift da rede através do helicóptero, simplificando-o para padrões modernos."
  CZE_attack_helicopter3: "Mi-35M"
  CZE_attack_helicopter3_desc: "Mi-35M é o primeiro lote de modernizações para esta nave. Tem 6 postes sob as asas que podem carregar muitos tipos de sistemas de armas guiadas e não guiadas ou cápsulas de arma de última geração."
  CZE_attack_helicopter4: "BV-38 Blesk" #Fictional
- CZE_attack_helicopter4_desc: "A experiência de upgrades e projetos anteriores de helicópteros nos permitiu projetar nosso próprio helicóptero de batalha. O resultado é o BV-14 Blesk, que tem hélice propulsora, além do rotor principal, permitindo que este helicóptero voe a incríveis velocidades de 450 km / h. Isso também foi conseguido ao fabricar seu formato é muito aerodinâmico e aerodinâmico e colocando todas as armas de fora de seu armazenamento interno para elas. Em situações de emergência, há sempre dois mísseis ar-ar prontos para serem disparados desde este espaço interno até o raio de 90 graus em frente ao helicóptero."
+ CZE_attack_helicopter4_desc: "A experiência de upgrades e projetos anteriores de helicópteros nos permitiu projetar nosso próprio helicóptero de batalha. O resultado é o BV-14 Blesk, que tem hélice propulsora, além do rotor principal, permitindo que este helicóptero voe a incríveis velocidades de 450 km/h. Isso também foi conseguido ao fabricar seu formato é muito aerodinâmico e aerodinâmico e colocando todas as armas de fora de seu armazenamento interno para elas. Em situações de emergência, há sempre dois mísseis ar-ar prontos para serem disparados desde este espaço interno até o raio de 90 graus em frente ao helicóptero."
  CZE_attack_helicopter5: "BV-43 Vichr" #Fictional
  CZE_attack_helicopter5_desc: "Os primeiros protótipos de helicópteros stealth com nomes de código BV-40, 41 e 42 resultaram nesta máquina combinando suas habilidades. O helicóptero usa muitos recursos do BV-38 e também possui recarregador automático interno para mísseis, permitindo que o helicóptero não tenha nem mesmo postes externos quando necessário, ao contrário do BV-38. Existem 4 eixos para os mísseis carregados com dois AGM e dois AAM com outros 16 mísseis de cada tipo no realoader automático. "
 
@@ -6822,7 +6822,7 @@ l_english:
  CZE_MR_Fighter2: "Let-25K"
  CZE_MR_Fighter2_desc: "Caça multirole tcheco projetado com capacidade de ataque ao solo em mente, deixando o combate aéreo como objetivo secundário."
  CZE_MR_Fighter3: "Aero L-21 Sova" #Fictional
- CZE_MR_Fighter3_desc: "Caça com novos motores de pós-combustão capazes de acelerar até 3.000 km / h a 20 km de altitude. Ele pode transportar muitas variantes de armas em seus postes, incluindo munição de precisão e bombas JDAM. Em testes, a bomba lançada a essa velocidade naquela altitude atingiu um alvo em movimento a 57 km do plano."
+ CZE_MR_Fighter3_desc: "Caça com novos motores de pós-combustão capazes de acelerar até 3.000 km/h a 20 km de altitude. Ele pode transportar muitas variantes de armas em seus postes, incluindo munição de precisão e bombas JDAM. Em testes, a bomba lançada a essa velocidade naquela altitude atingiu um alvo em movimento a 57 km do plano."
  CZE_MR_Fighter4: "Let-35 Skrivan" #Fictional
  CZE_MR_Fighter4_desc: "Caça multirole manobrável com boa retenção de energia. Foca principalmente no combate ar-ar."
  CZE_MR_Fighter5: "Let-55 Straka" #Fictional
@@ -6855,7 +6855,7 @@ l_english:
  CZE_AS_Fighter1_desc: "Versão tcheca do MiG-21 produzida na Aero com armamento e aviônicos aprimorados."
  CZE_AS_Fighter2: "Aero L-23ML" #Fictional
  CZE_AS_Fighter2_desc: "Projeto conjunto entre empresas aeroespaciais checas resultando neste novo avião de combate."
- CZE_AS_Fighter3: "Aero L-39J G / C" #Ficcional
+ CZE_AS_Fighter3: "Aero L-39J G/C" #Ficcional
  CZE_AS_Fighter4: "Aero L-41 Volavka" #Fictional
  CZE_AS_Fighter4_desc: "Volavka é um caça de superioridade aérea Mach 2.5+ com arma além do alcance visual."
  CZE_AS_Fighter5: "Let-47 Orešník" #Ficcional
@@ -6895,7 +6895,7 @@ l_english:
  CZE_L_Strike_fighter3: "Aero L-39NGT Albatros" # 2015
  CZE_CV_L_Strike_fighter3: "Aero L-39ZA Albatros" # 2015
  CZE_cas3: "Aero L-159B Alca" # 2015 Ficção
- CZE_Strike_fighter4_desc: "A nova geração (NG) de Albatros apresenta fuselagem recém-projetada, incluindo novo motor e materiais compostos, permitindo que este avião supere qualquer oponente com sua alta relação empuxo / peso. Ele pode transportar muitos tipos de armamento em seus 6 postes, incluindo GBU- guiado 12 Paveway II ou os AIM-9s mais novos. O avião também recebeu novos e poderosos equipamentos de detecção, sensor e radar. "
+ CZE_Strike_fighter4_desc: "A nova geração (NG) de Albatros apresenta fuselagem recém-projetada, incluindo novo motor e materiais compostos, permitindo que este avião supere qualquer oponente com sua alta relação empuxo/peso. Ele pode transportar muitos tipos de armamento em seus 6 postes, incluindo GBU- guiado 12 Paveway II ou os AIM-9s mais novos. O avião também recebeu novos e poderosos equipamentos de detecção, sensor e radar. "
  CZE_L_Strike_fighter3_desc: "Versão bombardeiro do L-39NG com montagens para armamento usado também como avião de treinamento."
  CZE_CV_L_Strike_fighter3_desc: "Versão naval do L-39NG."
  CZE_cas3_desc: "Avião CAS leve manobrável desenvolvido a partir de sua versão básica de ataque de luz."
@@ -6928,17 +6928,17 @@ l_english:
  CZE_Int_Fighter1_desc: "Projeto de interceptor armado com mísseis de formação de anti-bombardeiros ou outros sistemas de armas AAM. Capaz de Mach 3 servindo como força de resposta rápida."
 
  CZE_transport_plane1: "Let-30" #Fictional
- CZE_transport_plane1_desc: "Avião turboélice de carga / transporte."
+ CZE_transport_plane1_desc: "Avião turboélice de carga/transporte."
  CZE_transport_plane2: "Let-40 Turbolet" #Fictional
  CZE_transport_plane2_desc: "Novo cockpit digital, motores turbo-hélice mais eficientes, mais espaço de carga neste avião novo e maior!"
  CZE_transport_plane3: "Let-50 Velryba" #Fictional
- CZE_transport_plane3_desc: "Avião de carga / transporte turbofan."
+ CZE_transport_plane3_desc: "Avião de carga/transporte turbofan."
  CZE_transport_plane4: "Let-60" #Fictional
- CZE_transport_plane4_desc: "Avião de carga / transporte turbofan."
+ CZE_transport_plane4_desc: "Avião de carga/transporte turbofan."
  CZE_transport_plane5: "Let-810E Vrabec" #Fictional
- CZE_transport_plane5_desc: "Avião de carga / transporte de turbojato."
+ CZE_transport_plane5_desc: "Avião de carga/transporte de turbojato."
  CZE_transport_plane6: "Let-910E Výr" #Fictional
- CZE_transport_plane6_desc: "Avião de transporte / carga equipado com motor híbrido ramjet-turbojato."
+ CZE_transport_plane6_desc: "Avião de transporte/carga equipado com motor híbrido ramjet-turbojato."
 
 
  CZE_strategic_bomber1: "Let-10" #Fictional
@@ -6952,21 +6952,21 @@ l_english:
  CZE_strategic_bomber5: "Let-815E Vrabec" #Fictional
  CZE_strategic_bomber5_desc: "Bombardeiro estratégico supersônico turbojato com nova fuselagem de asa voadora e revestimento stealth."
  CZE_strategic_bomber6: "Let-915E Výr" #Fictional
- CZE_strategic_bomber6_desc: "Scramjet / ramjet / turbojet Hybrid Engine voando com asas furtivas e hipersônico bombardeiro estratégico."
+ CZE_strategic_bomber6_desc: "Scramjet/ramjet/turbojet Hybrid Engine voando com asas furtivas e hipersônico bombardeiro estratégico."
 
 
  CZE_naval_plane1: "Let-10N" #Fictional
- CZE_naval_plane1_desc: "Vigilância naval tática turboélice / embarcação ASM."
+ CZE_naval_plane1_desc: "Vigilância naval tática turboélice/embarcação ASM."
  CZE_naval_plane2: "Let-110N" #Fictional
- CZE_naval_plane2_desc: "Vigilância naval estratégica turboélice / embarcação ASM."
+ CZE_naval_plane2_desc: "Vigilância naval estratégica turboélice/embarcação ASM."
  CZE_naval_plane3: "Let-310N Turbolet" #Fictional
- CZE_naval_plane3_desc: "Vigilância naval estratégica Turbofan / embarcação ASM."
+ CZE_naval_plane3_desc: "Vigilância naval estratégica Turbofan/embarcação ASM."
  CZE_naval_plane4: "Let-510N" #Fictional
- CZE_naval_plane4_desc: "Vigilância naval estratégica de turbojato / embarcação ASM."
+ CZE_naval_plane4_desc: "Vigilância naval estratégica de turbojato/embarcação ASM."
  CZE_naval_plane5: "Let-815NE" #Fictional
- CZE_naval_plane5_desc: "Turbojato de vigilância naval estratégica / embarcação ASM. Com nova fuselagem de asa voadora e revestimento stealth."
+ CZE_naval_plane5_desc: "Turbojato de vigilância naval estratégica/embarcação ASM. Com nova fuselagem de asa voadora e revestimento stealth."
  CZE_naval_plane6: "Let-915NE" #Fictional
- CZE_naval_plane6_desc: "Scramjet / ramjet / turbojet Hybrid Engine asa voadora vigilância naval hipersônica furtiva / nave ASM."
+ CZE_naval_plane6_desc: "Scramjet/ramjet/turbojet Hybrid Engine asa voadora vigilância naval hipersônica furtiva/nave ASM."
 
  ### Egito ###
  EGY_AS_Fighter1: "Helwan HA-300"
@@ -7098,8 +7098,8 @@ l_english:
  FRA_MR_Fighter1_short: "Mirage F1-E"
  FRA_MR_Fighter2: "Dassault Mirage 2000C"
  FRA_MR_Fighter2_short: "Mirage 2000C"
- FRA_MR_Fighter3: "Dassault Rafale B / C"
- FRA_MR_Fighter3_short: "Rafale B / C"
+ FRA_MR_Fighter3: "Dassault Rafale B/C"
+ FRA_MR_Fighter3_short: "Rafale B/C"
  FRA_MR_Fighter4: "Dassault Rafale F4"
  FRA_MR_Fighter4_short: "Rafale F4"
  FRA_MR_Fighter6: "Système de Combat Aérien du Futur" #Mesmo que a Alemanha
@@ -7161,8 +7161,8 @@ l_english:
  FRA_L_Strike_fighter5: "Dassault Omega Jet" #Fictional
  FRA_L_Strike_fighter5_short: "Omega Jet" #Fictional
 
- FRA_CV_L_Strike_fighter1: "SOCATA TB-30 Epsilon Marine" #Not a Jet / Fictional
- FRA_CV_L_Strike_fighter1_short: "TB-30 Epsilon Marine" #Not a Jet / Fictional
+ FRA_CV_L_Strike_fighter1: "SOCATA TB-30 Epsilon Marine" #Not a Jet/Fictional
+ FRA_CV_L_Strike_fighter1_short: "TB-30 Epsilon Marine" #Not a Jet/Fictional
  FRA_CV_L_Strike_fighter2: "Dassault Alpha Jet Marine" #Projeto
  FRA_CV_L_Strike_fighter2_short: "Alpha Jet Marine" #Projeto
  FRA_CV_L_Strike_fighter3: "EADS Mako HEAT Marine" #Projeto
@@ -7275,8 +7275,8 @@ l_english:
  ISR_AS_Fighter1_short: "Mirage IIICJ"
  ISR_AS_Fighter2: "F-4E"
  ISR_AS_Fighter2_short: "F-4E"
- ISR_AS_Fighter3: "F-15A / C Baz"
- ISR_AS_Fighter3_short: "F-15A / C Baz"
+ ISR_AS_Fighter3: "F-15A/C Baz"
+ ISR_AS_Fighter3_short: "F-15A/C Baz"
  ISR_AS_Fighter4: "F-22I"
  ISR_AS_Fighter4_short: "F-22I"
  ISR_AS_Fighter5: "F-22CI Raptor"
@@ -7403,8 +7403,8 @@ l_english:
  ITA_AS_Fighter7: "F-3000A Tempest ACOL"
  ITA_AS_Fighter7_short: "F-3000A ACOL"
 
- ITA_cas1: "G-91R / 1B"
- ITA_cas1_short: "Fiat G.91R / 1B"
+ ITA_cas1: "G-91R/1B"
+ ITA_cas1_short: "Fiat G.91R/1B"
  ITA_cas2: "A-11B Ghibli"
  ITA_cas2_short: "A-11B Ghibli"
  ITA_cas3: "A-11B ACOL"
@@ -7471,12 +7471,12 @@ l_english:
 
  ITA_CV_MR_Fighter1: "F4J Phantom II"
  ITA_CV_MR_Fighter1_short: "F4J Phantom II"
- ITA_CV_MR_Fighter2: "Boeing F / A-18C / D Hornet"
- ITA_CV_MR_Fighter2_desc: "O McDonnell Douglas F / A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F / A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F / A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
- ITA_CV_MR_Fighter2_short: "F / A-18C / D Hornet"
- ITA_CV_MR_Fighter3: "F / A-18E / F Super Hornet"
- ITA_CV_MR_Fighter3_desc: "Os Boeing F / A-18E e F / A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F / A-18 Hornet. O F / A-18E monoposto e as variantes de assento tandem F / A-18F são derivados maiores e mais avançados do Hornet F / A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
- ITA_CV_MR_Fighter3_short: "F / A-18E / F"
+ ITA_CV_MR_Fighter2: "Boeing F/A-18C/D Hornet"
+ ITA_CV_MR_Fighter2_desc: "O McDonnell Douglas F/A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F/A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F/A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
+ ITA_CV_MR_Fighter2_short: "F/A-18C/D Hornet"
+ ITA_CV_MR_Fighter3: "F/A-18E/F Super Hornet"
+ ITA_CV_MR_Fighter3_desc: "Os Boeing F/A-18E e F/A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F/A-18 Hornet. O F/A-18E monoposto e as variantes de assento tandem F/A-18F são derivados maiores e mais avançados do Hornet F/A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
+ ITA_CV_MR_Fighter3_short: "F/A-18E/F"
  ITA_CV_MR_Fighter4: "Lockheed Martin F-35C"
  ITA_CV_MR_Fighter4_short: "F-35C"
  ITA_CV_MR_Fighter5: "Lockheed Martin F-35C ACOL"
@@ -8142,8 +8142,8 @@ l_english:
 
  SIN_MR_Fighter2: "Falcão de combate F-16A"
  SIN_MR_Fighter2_short: "F-16A"
- SIN_MR_Fighter3: "Bloco F-16C / D 50/52"
- SIN_MR_Fighter3_short: "F-16C / D"
+ SIN_MR_Fighter3: "Bloco F-16C/D 50/52"
+ SIN_MR_Fighter3_short: "F-16C/D"
  SIN_MR_Fighter4: "F-35SG Lightning II"
  SIN_MR_Fighter4_short: "F-35SG"
 
@@ -8178,20 +8178,20 @@ l_english:
 
  TUR_CV_MR_Fighter1: "F4J Phantom II"
  TUR_CV_MR_Fighter1_short: "F4J Phantom II"
- TUR_CV_MR_Fighter2: "Boeing F / A-18C / D Hornet"
- TUR_CV_MR_Fighter2_desc: "O McDonnell Douglas F / A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F / A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F / A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
- TUR_CV_MR_Fighter2_short: "F / A-18C / D Hornet"
- TUR_CV_MR_Fighter3: "F / A-18E / F Super Hornet"
- TUR_CV_MR_Fighter3_desc: "Os Boeing F / A-18E e F / A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F / A-18 Hornet. O F / A-18E monoposto e as variantes de assento tandem F / A-18F são derivados maiores e mais avançados do Hornet F / A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
- TUR_CV_MR_Fighter3_short: "F / A-18E / F"
+ TUR_CV_MR_Fighter2: "Boeing F/A-18C/D Hornet"
+ TUR_CV_MR_Fighter2_desc: "O McDonnell Douglas F/A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F/A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F/A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
+ TUR_CV_MR_Fighter2_short: "F/A-18C/D Hornet"
+ TUR_CV_MR_Fighter3: "F/A-18E/F Super Hornet"
+ TUR_CV_MR_Fighter3_desc: "Os Boeing F/A-18E e F/A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F/A-18 Hornet. O F/A-18E monoposto e as variantes de assento tandem F/A-18F são derivados maiores e mais avançados do Hornet F/A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
+ TUR_CV_MR_Fighter3_short: "F/A-18E/F"
  TUR_CV_MR_Fighter4: "F-35C Lightning II"
  TUR_CV_MR_Fighter4_short: "F-35C Lightning II"
  TUR_CV_MR_Fighter5: "F-35C Lightning III"
  TUR_CV_MR_Fighter5_short: "F-35C Lightning III"
- TUR_CV_MR_Fighter6: "F / A-47B Black Widow" # X-47B
- TUR_CV_MR_Fighter6_short: "F / A-47B Black Widow" # X-47B
- TUR_CV_MR_Fighter7: "F / A-159 Hellcry" #Fictional
- TUR_CV_MR_Fighter7_short: "F / A-159 Hellcry" #Fictional
+ TUR_CV_MR_Fighter6: "F/A-47B Black Widow" # X-47B
+ TUR_CV_MR_Fighter6_short: "F/A-47B Black Widow" # X-47B
+ TUR_CV_MR_Fighter7: "F/A-159 Hellcry" #Fictional
+ TUR_CV_MR_Fighter7_short: "F/A-159 Hellcry" #Fictional
 
  TUR_MR_Fighter1: "F-4 Phantom II"
  TUR_MR_Fighter1_short: "F-4 Phantom II"
@@ -8313,20 +8313,20 @@ l_english:
 
  USA_CV_MR_Fighter1: "F4J Phantom II"
  USA_CV_MR_Fighter1_short: "F4J Phantom II"
- USA_CV_MR_Fighter2: "Boeing F / A-18C / D Hornet"
- USA_CV_MR_Fighter2_desc: "O McDonnell Douglas F / A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F / A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F / A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
- USA_CV_MR_Fighter2_short: "F / A-18C / D Hornet"
- USA_CV_MR_Fighter3: "F / A-18E / F Super Hornet"
- USA_CV_MR_Fighter3_desc: "Os Boeing F / A-18E e F / A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F / A-18 Hornet. O F / A-18E monoposto e as variantes de assento tandem F / A-18F são derivados maiores e mais avançados do Hornet F / A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
- USA_CV_MR_Fighter3_short: "F / A-18E / F"
+ USA_CV_MR_Fighter2: "Boeing F/A-18C/D Hornet"
+ USA_CV_MR_Fighter2_desc: "O McDonnell Douglas F/A-18 Hornet é um jato de combate multirole bimotor, supersônico, para todos os climas, com capacidade de porta-aviões, projetado tanto para caça quanto para avião de ataque (daí a designação F/A). Projetado por McDonnell Douglas (agora Boeing) e Northrop, o F/A-18 foi derivado do YF-17 deste último na década de 1970 para uso pela Marinha e Corpo de Fuzileiros Navais dos Estados Unidos. "
+ USA_CV_MR_Fighter2_short: "F/A-18C/D Hornet"
+ USA_CV_MR_Fighter3: "F/A-18E/F Super Hornet"
+ USA_CV_MR_Fighter3_desc: "Os Boeing F/A-18E e F/A-18F Super Hornet são variantes de caça multirole com capacidade para porta-aviões e bimotores baseados no McDonnell Douglas F/A-18 Hornet. O F/A-18E monoposto e as variantes de assento tandem F/A-18F são derivados maiores e mais avançados do Hornet F/A-18C e D. O Super Hornet tem um canhão rotativo M61 interno de 20 mm e pode transportar mísseis ar-ar e ar armas para a superfície. Combustível adicional pode ser transportado em até cinco tanques de combustível externos e a aeronave pode ser configurada como um tanque aerotransportado adicionando um sistema de reabastecimento aéreo externo. "
+ USA_CV_MR_Fighter3_short: "F/A-18E/F"
  USA_CV_MR_Fighter4: "F-35C Lightning II"
  USA_CV_MR_Fighter4_short: "F-35C Lightning II"
  USA_CV_MR_Fighter5: "F-35C Lightning III"
  USA_CV_MR_Fighter5_short: "F-35C Lightning III"
- USA_CV_MR_Fighter6: "F / A-47B Black Widow" # X-47B
- USA_CV_MR_Fighter6_short: "F / A-47B Black Widow" # X-47B
- USA_CV_MR_Fighter7: "F / A-159 Hellcry" #Fictional
- USA_CV_MR_Fighter7_short: "F / A-159 Hellcry" #Fictional
+ USA_CV_MR_Fighter6: "F/A-47B Black Widow" # X-47B
+ USA_CV_MR_Fighter6_short: "F/A-47B Black Widow" # X-47B
+ USA_CV_MR_Fighter7: "F/A-159 Hellcry" #Fictional
+ USA_CV_MR_Fighter7_short: "F/A-159 Hellcry" #Fictional
 
  USA_MR_Fighter1: "McDonnell Douglas F-4 Phantom II"
  USA_MR_Fighter1_short: "F-4 Phantom"
@@ -8648,7 +8648,7 @@ l_english:
  USA_attack_helicopter2_desc: "O Boeing AH-64 Apache é um helicóptero de ataque americano com dois eixos-eixo com trem de pouso tipo roda traseira e cabine tandem para uma tripulação de duas pessoas. Possui um conjunto de sensores montado no nariz para aquisição de alvos e sistemas de visão noturna. está armado com uma arma de corrente M230 de 30 mm (1,18 pol.) transportada entre o trem de pouso principal, sob a fuselagem dianteira da aeronave, e quatro pontos rígidos montados em postes de asa curta para transportar armamento e estoques, normalmente uma mistura de mísseis Hellfire AGM-114 e foguetes Hydra 70. O AH-64 tem redundância de sistemas significativa para melhorar a capacidade de sobrevivência em combate. "
  USA_attack_helicopter2_short: "AH-64 Apache"
  USA_attack_helicopter3: "AH-64D Apache Longbow"
- USA_attack_helicopter3_desc: "O AH-64D Apache Longbow está equipado com um cockpit de vidro e sensores avançados, sendo os mais notáveis o sistema de aquisição de alvo radar de controle de fogo (FCR) de ondas milimétricas AN / APG-78 Longbow e o interferômetro de frequência de radar (RFI ), alojado em uma cúpula localizada acima do rotor principal. A posição elevada do radome permite a detecção de alvos enquanto o helicóptero está atrás de obstáculos (por exemplo, terreno, árvores ou edifícios). O AN / APG-78 é capaz de rastrear simultaneamente até 128 alvos e engajando até 16 de uma vez; um ataque pode ser iniciado em 30 segundos. Um modem de rádio integrado com o conjunto de sensores permite que os dados sejam compartilhados com unidades terrestres e outros Apaches, permitindo-lhes atirar em alvos detectados por um único helicóptero. "
+ USA_attack_helicopter3_desc: "O AH-64D Apache Longbow está equipado com um cockpit de vidro e sensores avançados, sendo os mais notáveis o sistema de aquisição de alvo radar de controle de fogo (FCR) de ondas milimétricas AN/APG-78 Longbow e o interferômetro de frequência de radar (RFI ), alojado em uma cúpula localizada acima do rotor principal. A posição elevada do radome permite a detecção de alvos enquanto o helicóptero está atrás de obstáculos (por exemplo, terreno, árvores ou edifícios). O AN/APG-78 é capaz de rastrear simultaneamente até 128 alvos e engajando até 16 de uma vez; um ataque pode ser iniciado em 30 segundos. Um modem de rádio integrado com o conjunto de sensores permite que os dados sejam compartilhados com unidades terrestres e outros Apaches, permitindo-lhes atirar em alvos detectados por um único helicóptero. "
  USA_attack_helicopter3_short: "Apache AH-64D"
  USA_attack_helicopter4: "AH-64E Apache Guardian"
  USA_attack_helicopter4_desc: "Anteriormente conhecido como AH-64D Block III, em 2012, foi redesignado como AH-64E Guardian para representar suas capacidades aumentadas. O AH-64E apresenta conectividade digital aprimorada, o Sistema de Distribuição de Informação Tática Conjunta, T700-GE-701D mais poderoso motores com transmissão de engrenagem frontal atualizada para acomodar mais potência, capacidade de controlar veículos aéreos não tripulados (UAVs), capacidade IFR total e trem de pouso aprimorado. "
@@ -8676,7 +8676,7 @@ l_english:
  SWE_attack_helicopter2_desc: "O Boeing AH-64 Apache é um helicóptero de ataque americano com dois eixos-eixo com trem de pouso tipo roda traseira e cabine tandem para uma tripulação de duas pessoas. Possui um conjunto de sensores montado no nariz para aquisição de alvos e sistemas de visão noturna. está armado com uma arma de corrente M230 de 30 mm (1,18 pol.) transportada entre o trem de pouso principal, sob a fuselagem dianteira da aeronave, e quatro pontos rígidos montados em postes de asa curta para transportar armamento e estoques, normalmente uma mistura de mísseis Hellfire AGM-114 e foguetes Hydra 70. O AH-64 tem redundância de sistemas significativa para melhorar a capacidade de sobrevivência em combate. "
  SWE_attack_helicopter2_short: "AH-64 Apache"
  SWE_attack_helicopter3: "AH-64D Apache Longbow"
- SWE_attack_helicopter3_desc: "O AH-64D Apache Longbow está equipado com um cockpit de vidro e sensores avançados, sendo os mais notáveis o sistema de aquisição de alvo radar de controle de fogo (FCR) de ondas milimétricas AN / APG-78 Longbow e o interferômetro de frequência de radar (RFI ), alojado em uma cúpula localizada acima do rotor principal. A posição elevada do radome permite a detecção de alvos enquanto o helicóptero está atrás de obstáculos (por exemplo, terreno, árvores ou edifícios). O AN / APG-78 é capaz de rastrear simultaneamente até 128 alvos e engajando até 16 de uma vez; um ataque pode ser iniciado em 30 segundos. Um modem de rádio integrado com o conjunto de sensores permite que os dados sejam compartilhados com unidades terrestres e outros Apaches, permitindo-lhes atirar em alvos detectados por um único helicóptero. "
+ SWE_attack_helicopter3_desc: "O AH-64D Apache Longbow está equipado com um cockpit de vidro e sensores avançados, sendo os mais notáveis o sistema de aquisição de alvo radar de controle de fogo (FCR) de ondas milimétricas AN/APG-78 Longbow e o interferômetro de frequência de radar (RFI ), alojado em uma cúpula localizada acima do rotor principal. A posição elevada do radome permite a detecção de alvos enquanto o helicóptero está atrás de obstáculos (por exemplo, terreno, árvores ou edifícios). O AN/APG-78 é capaz de rastrear simultaneamente até 128 alvos e engajando até 16 de uma vez; um ataque pode ser iniciado em 30 segundos. Um modem de rádio integrado com o conjunto de sensores permite que os dados sejam compartilhados com unidades terrestres e outros Apaches, permitindo-lhes atirar em alvos detectados por um único helicóptero. "
  SWE_attack_helicopter3_short: "Apache AH-64D"
  SWE_attack_helicopter4: "AH-64E Apache Guardian"
  SWE_attack_helicopter4_desc: "Anteriormente conhecido como AH-64D Block III, em 2012, foi redesignado como AH-64E Guardian para representar suas capacidades aumentadas. O AH-64E apresenta conectividade digital aprimorada, o Sistema de Distribuição de Informação Tática Conjunta, T700-GE-701D mais poderoso motores com transmissão de engrenagem frontal atualizada para acomodar mais potência, capacidade de controlar veículos aéreos não tripulados (UAVs), capacidade IFR total e trem de pouso aprimorado. "
@@ -8818,8 +8818,8 @@ l_english:
 
  ISR_transport_helicopter1: "UH-1DI"
  ISR_transport_helicopter1_short: "UH-1DI"
- ISR_transport_helicopter2: "UH-60A / L Yanshuf"
- ISR_transport_helicopter2_short: "UH-60A / L Yanshuf"
+ ISR_transport_helicopter2: "UH-60A/L Yanshuf"
+ ISR_transport_helicopter2_short: "UH-60A/L Yanshuf"
  ISR_transport_helicopter3: "CH47G"
  ISR_transport_helicopter3_short: "CH47G"
  ISR_transport_helicopter4: "CH-53 Yas'ur 2000"

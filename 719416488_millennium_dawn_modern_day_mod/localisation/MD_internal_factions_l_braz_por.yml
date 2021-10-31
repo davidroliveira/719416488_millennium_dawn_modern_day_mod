@@ -154,7 +154,7 @@ l_english:
  chaebols_desc: "A Chaebol é uma forma sul-coreana de conglomerado empresarial. Eles são corporações multinacionais globais e possuem várias empresas internacionais. Hyundai, Samsung, LG e o Grupo SK são os maiores. Os sul-coreanos Chaebols são as maiores empresas do mundo em comparação com o tamanho da economia do país de origem e têm desempenhado um papel indispensável no desenvolvimento nacional da Coreia do Sul.\n"
 
  #Scripted Modifier Localization
- ## Proprietários de pequenas e médias empresas / The Donju / The Bazaar
+ ## Proprietários de pequenas e médias empresas/The Donju/The Bazaar
  small_medium_business_owners_dynamic_modifier: "£ pol_idea Proprietários de pequenas e médias empresas"
  the_donju_dynamic_modifier: "£ pol_idea The Donju"
  the_bazaar_dynamic_modifier: "£ pol_idea O Bazar"
@@ -368,7 +368,7 @@ l_english:
  raise_wages_labour_unions_decision: "Aumentar Salários"
  raise_wages_labour_unions_decision_desc: "O aumento dos salários no país deixará os grupos trabalhistas do país mais satisfeitos com o nosso governo."
 
- ## Telas de aumento / queda de opinião
+ ## Telas de aumento/queda de opinião
  ## Rise SMBO
  display_rise_opinion_smbo_hos_to_neg: "§Y [small_medium_business_owners_name_scl] §! - §GAumentar§! Opinião de [Root.GetLeader] de §RHostile§! Para §RNegative§!\n"
  display_rise_opinion_smbo_neg_to_indif: "§Y [small_medium_business_owners_name_scl] §! - §GAumentar§! Opinião de [Root.GetLeader] de §RNegativo§! Para §YIndifferent§!\n"
@@ -659,7 +659,7 @@ l_english:
  display_election_indifferent_landowners_status_tt: "§Y [landowners_name_scl] §! Está ajudando várias partes, mas permanecerá à margem.\n"
  display_election_positive_landowners_status_tt: "§Y [landowners_name_scl] §! Está fornecendo grandes quantias de financiamento de campanha para [Root.GetLeader]\n"
  display_election_enthusiastic_landowners_status_tt: "§Y [landowners_name_scl] §! Está fornecendo grandes quantias de financiamento de campanha para [Root.GetLeader]\n"
- ## Complexo Industrial-Militar // Indústria de Defesa
+ ## Complexo Industrial-Militar//Indústria de Defesa
  display_election_hostile_defense_industry_status_tt: "§YMilitary-Industrial-Complex§! Está fornecendo à oposição uma grande quantidade de fundos de campanha contra [Root.GetLeader]\n"
  display_election_negative_defense_industry_status_tt: "§YMilitary-Industrial-Complex§! Está fornecendo à oposição grandes quantias de fundos de campanha contra [Root.GetLeader]\n"
  display_election_indifferent_defense_industry_status_tt: "§YMilitary-Industrial-Complex§! Está ajudando várias partes, mas ficará em grande parte à margem.\n"

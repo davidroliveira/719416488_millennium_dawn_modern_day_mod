@@ -1137,7 +1137,7 @@ l_english:
  USA_Repeal_Obama_Care.0.a: "Congresso Cmon"
 
  USA_Repeal_Obama_Care.1.t: "Obamacare Repeal Reconciliation Act de 2017"
- USA_Repeal_Obama_Care.1.d: "§R A Lei de Reconciliação do Melhor Cuidado de 2017 não foi aprovada no Congresso! § O CBO avaliou nosso novo projeto de lei e concluiu que, em relação à lei atual, reduziria o déficit orçamentário em $ 473 bilhões em 10 anos (cerca de 5%), aumentaria o número de não segurados em 17 milhões em 2018 e 27 milhões em 2020, e aumentar os prêmios médios nos mercados (não baseados em grupos / não empregadores) em cerca de 25% em 2018 e em 50% em 2020. "
+ USA_Repeal_Obama_Care.1.d: "§R A Lei de Reconciliação do Melhor Cuidado de 2017 não foi aprovada no Congresso! § O CBO avaliou nosso novo projeto de lei e concluiu que, em relação à lei atual, reduziria o déficit orçamentário em $ 473 bilhões em 10 anos (cerca de 5%), aumentaria o número de não segurados em 17 milhões em 2018 e 27 milhões em 2020, e aumentar os prêmios médios nos mercados (não baseados em grupos/não empregadores) em cerca de 25% em 2018 e em 50% em 2020. "
  USA_Repeal_Obama_Care.1.a: "Congresso Cmon"
  USA_Repeal_Obama_Care.1.b: "Obama o quê?"
 
@@ -1254,7 +1254,7 @@ l_english:
  USA_industrial_outsourcing_decision: "Terceirização Industrial"
  USA_industrial_outsourcing_decision_desc: "As regulamentações fizeram com que o custo dos negócios nos Estados Unidos excedesse em muito seu valor. Talvez encorajar alguma terceirização pudesse melhorar o preço e a demanda para os trabalhadores americanos."
  USA_spurring_economic_growth_decision: "Estimular o crescimento econômico"
- USA_spurring_economic_growth_decision_desc: "A economia estagnou de alguma forma recentemente. Devemos introduzir alguma nova legislação para desregulamentar ou usar a política monetária / fiscal para aumentar o crescimento econômico."
+ USA_spurring_economic_growth_decision_desc: "A economia estagnou de alguma forma recentemente. Devemos introduzir alguma nova legislação para desregulamentar ou usar a política monetária/fiscal para aumentar o crescimento econômico."
  USA_bring_microsoft_to_court_decision: "Traga a Microsoft ao Tribunal"
  USA_bring_microsoft_to_court_decision_desc: "A Microsoft teve permissão para adquirir empresas de tecnologia menores sem contestação no ano passado. Alguns dos consultores econômicos estão sugerindo que levemos a Microsoft aos tribunais para evitar que se expandam ainda mais."
 
@@ -1279,8 +1279,8 @@ l_english:
  USA_congress_md_desc: "The Hill tem suas próprias regras e idéias. Teremos que trabalhar com eles para fazer as coisas acontecerem, mas há maneiras de garantir que tenhamos um Congresso solidário e solidário com o qual trabalhar."
  USA_congress_senate_support_header: "§HSenate Support§!"
  USA_congress_house_support_header: "§Suporte doméstico§!"
- USA_congress_senate_support_amount: "§G [? USA.senators_support] §! / §Y [? USA.senators_total] §!"
- USA_congress_house_support_amount: "§G [? USA.representatives_support] §! / §Y [? USA.representatives_total] §!"
+ USA_congress_senate_support_amount: "§G [? USA.senators_support] §!/§Y [? USA.senators_total] §!"
+ USA_congress_house_support_amount: "§G [? USA.representatives_support] §!/§Y [? USA.representatives_total] §!"
  USA_small_lobby_effort: "Pequeno esforço de lobby"
  USA_small_lobby_effort_desc: "Vale a pena ter um ouvido atento ao Capitol e garantir que algumas pessoas influentes saibam o que a administração está planejando."
  USA_medium_lobby_effort: "Esforço Médio de Lobby"

@@ -32,7 +32,7 @@ l_english:
  not_has_pp: "£ trigger_no Pelo menos £ pol_power_icon §Y100 Poder político§!"
  TT_game_over_warning: "§RJogo terminará ao selecionar isto§!\n"
 
- ## Gatilhos personalizados para arquivo com script - common / scripted_triggers / 01_political_triggers.txt
+ ## Gatilhos personalizados para arquivo com script - common/scripted_triggers/01_political_triggers.txt
  ruling_party_popularity_change_focus_TT: "A mudança de popularidade causada por este efeito será aplicada ao partido no poder."
  #Has X government - Para acionadores personalizados
  has_pro_western_autocrat_government_TT: "§Y [Western_Autocracy_L] §! Está no poder." # 0
@@ -727,12 +727,12 @@ l_english:
  possible2_tt: "§HCentro Financeiro§!"
  TT_NO_BUILDING_SLOTS: "Todos os nossos estados têm 0 §Ybuilding slots§ vazios!"
  TT_MAX_1_BUILDING_SLOTS: "Todos os nossos estados têm no máximo 1 §Ybuilding slot§ vazio!"
- cyber_gdp_requirement_0_tt: "Tem §Y4.000 $ PIB / C§! Ou superior"
- cyber_gdp_requirement_1_tt: "Tem §Y7.000 $ PIB / C§! Ou superior"
- cyber_gdp_requirement_2_tt: "Tem §Y15.000 $ PIB / C§! Ou superior"
- cyber_gdp_requirement_3_tt: "Tem §Y20.000 $ PIB / C§! Ou superior"
- cyber_gdp_requirement_4_tt: "Tem §Y30.000 $ PIB / C§! Ou superior"
- gdp_requirement_10_tt: "Tem §Y10.000 $ PIB / C§! Ou superior"
+ cyber_gdp_requirement_0_tt: "Tem §Y4.000 $ PIB/C§! Ou superior"
+ cyber_gdp_requirement_1_tt: "Tem §Y7.000 $ PIB/C§! Ou superior"
+ cyber_gdp_requirement_2_tt: "Tem §Y15.000 $ PIB/C§! Ou superior"
+ cyber_gdp_requirement_3_tt: "Tem §Y20.000 $ PIB/C§! Ou superior"
+ cyber_gdp_requirement_4_tt: "Tem §Y30.000 $ PIB/C§! Ou superior"
+ gdp_requirement_10_tt: "Tem §Y10.000 $ PIB/C§! Ou superior"
 
  #Taxa de imposto
  ## Reduzir a taxa de imposto
@@ -771,7 +771,7 @@ l_english:
  ETH_request_loans_TT: "Acrescente ao nosso tesouro e à nossa dívida §Y $ 25 bilhões§ !."
 
 
- # Myanmar / Burmas
+ # Myanmar/Burmas
  11_FortifyBangladesh_tt: "Adicionar §YForts§ de nível 3! Ao longo da fronteira de Bangladesh"
  11_FortifyThai_tt: "Adicionar §YForts§ Nível 3! Ao longo da fronteira com a Tailândia"
  11_FortifyIndia_tt: "Adicionar §YForts§ Nível 3! Ao longo da fronteira com a Índia"
@@ -1027,7 +1027,7 @@ l_english:
  CSTO_all_democratic_tt: "Cada membro CSTO é §YPro-Western§!"
  SCO_all_emerging_tt: "Cada membro SCO é §YEmerging§!"
  SCO_all_democratic_tt: "Cada membro SCO é §YPro-Western§!"
- lower_gdp_tt: "Tem um PIB / C inferior a §Y [CHI.GetNamewithFlag] §!"
+ lower_gdp_tt: "Tem um PIB/C inferior a §Y [CHI.GetNamewithFlag] §!"
  CHI_influence_central_asia_tt: "§Y [CHI.GetName] §! Tem mais influência na Ásia Central do que §Y [SOV.GetName] §!"
  USA_influence_lower_than_CHI_tt: "§Y [CHI.GetName] §! Tem mais influência do que §Y [USA.GetName] §! Em países africanos e asiáticos"
  USA_influence_lower_tt: "§Y [USA.GetName] §! Não é mais o principal influenciador em nenhum país africano ou asiático"
@@ -1503,7 +1503,7 @@ l_english:
  UKR_east_major_influence_greater_than_10_perecnt_TT: "Requer mais de §Y10% §! Influência de §Y [SOV.GetNameWithFlag] §! Ou §Y [CHI.GetNameWithFlag] §!"
 
  ### Dicas da Inglaterra
- ## Ganhos / Perdas de Grupo
+ ## Ganhos/Perdas de Grupo
  #Monarquistas
  ENG_gain_2_monarchist_support_TT: "£ eng_nationalist_monarchist §YHouse of Windsor§! Ganhos §G2% §! Suporte (popularidade relativa).\n"
  ENG_gain_5_monarchist_support_TT: "£ eng_nationalist_monarchist §YHouse of Windsor§! Ganhos §G5% §! Suporte (popularidade relativa).\n"

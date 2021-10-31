@@ -4,7 +4,7 @@ l_english:
  PRODUCTION_AVAILABLE_ARMS_FACTORIES_LABEL:00 "Indústrias militares disponíveis"
  PRODUCTION_AVAILABLE_FACTORIES_LABEL:00 "Indústrias civis disponíveis"
  PRODUCTION_PRODUCING_NO_FACTORIES:00 "§RNenhuma indústria atribuída§!"
- PRODUCTION_EFFICIENCY_DESC:00 "§Eficiência média da produção da indústria.\nEficiência da produção aumenta em $ VALUE | H = 2 $% / unidade produzida dividida igualmente nas indústrias ativas.§!"
+ PRODUCTION_EFFICIENCY_DESC:00 "§Eficiência média da produção da indústria.\nEficiência da produção aumenta em $ VALUE | H = 2 $%/unidade produzida dividida igualmente nas indústrias ativas.§!"
  PRODUCTION_MATERIALS_OIL:00 "Petróleo"
  PRODUCTION_MATERIALS_ALUMINIUM:00 "Metais leves"
  PRODUCTION_MATERIALS_CHROMIUM:00 "NÃO UTILIZADO"

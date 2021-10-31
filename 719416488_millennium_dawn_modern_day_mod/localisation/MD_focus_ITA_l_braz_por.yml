@@ -174,7 +174,7 @@ l_english:
  ITA_brennero_tunnel: "Túnel Brennero"
  ITA_brennero_tunnel_desc: "O Túnel da Base do Brenner é um projeto para construir um túnel ferroviário sob a passagem do Brennero, nos Alpes orientais, que reduziria muito o tempo de viagem entre a Itália e a Europa central."
  ITA_tav_torino_lione: "TAV Torino-Lione"
- ITA_tav_torino_lione_desc: "O (Treno ad Alta Velocità / Trem de alta velocidade) entre Torino e Lyon é um projeto há muitos anos. Envolve a escavação de um túnel sob os Alpes e tem sido amplamente contestado pelos comitês do NIMBY."
+ ITA_tav_torino_lione_desc: "O (Treno ad Alta Velocità/Trem de alta velocidade) entre Torino e Lyon é um projeto há muitos anos. Envolve a escavação de um túnel sob os Alpes e tem sido amplamente contestado pelos comitês do NIMBY."
  ITA_mose_venezia: "Venezia's Mose"
  ITA_mose_venezia_desc: "O MOSE (Módulo Sperimentale Elettromeccanico, Módulo Eletromecânico Experimental) é um sistema composto por barreiras móveis colocadas na entrada da lagoa veneziana, projetado para evitar inundações causadas por marés excepcionalmente altas."
  ITA_messina_strait_bridge: "Ponte sobre o estreito de Messina"
@@ -248,11 +248,11 @@ l_english:
  ITA_reform_the_judiciary: "Reforma do Judiciário"
  ITA_reform_the_judiciary_desc: "Nosso sistema judiciário é um dos mais lentos do mundo desenvolvido. Isso é um grande desserviço ao nosso povo e um fator negativo para os negócios. Precisamos simplificar nosso código para acelerar o sistema."
  ITA_refound_IRI: "Revive IRI"
- ITA_refound_IRI_desc: "O IRI (Instituto per la Ricostruzione Industriale / Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
+ ITA_refound_IRI_desc: "O IRI (Instituto per la Ricostruzione Industriale/Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
  ITA_refound_IRI_3: "Revive IRI"
- ITA_refound_IRI_3_desc: "O IRI (Instituto per la Ricostruzione Industriale / Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
+ ITA_refound_IRI_3_desc: "O IRI (Instituto per la Ricostruzione Industriale/Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
  ITA_refound_IRI_2: "Revive IRI"
- ITA_refound_IRI_2_desc: "O IRI (Instituto per la Ricostruzione Industriale / Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
+ ITA_refound_IRI_2_desc: "O IRI (Instituto per la Ricostruzione Industriale/Instituto de Reconstrução Industrial) está prestes a fechar. Podemos voltar atrás nesta decisão de manter uma velha ferramenta forte para unificar nossas intervenções na economia."
  ITA_sell_government_shares_in_companies: "Vender Ações do Governo em Empresas"
  ITA_sell_government_shares_in_companies_desc: "O governo tem participações significativas em muitas empresas italianas. Com a venda delas, podemos recuperar alguns fundos muito necessários e, ao mesmo tempo, reduzir a interferência do governo e aumentar a liberdade econômica."
  ITA_sell_government_shares_in_companies_2: "Vender Ações do Governo em Empresas"
@@ -846,7 +846,7 @@ l_english:
  mafia.28.o1: "Droga! Espero pegá-los da próxima vez."
 
 
- #Country Flags / Tooltips
+ #Country Flags/Tooltips
  mafia_foreign_investment_flag: "Máfia se infiltrando em projetos de investimento estrangeiro."
  italeave_referendum_leave: "Deixar itálico: §YDeixar§!\n"
  italeave_referendum_remain: "Deixar itálico: §YRemain§!\n"

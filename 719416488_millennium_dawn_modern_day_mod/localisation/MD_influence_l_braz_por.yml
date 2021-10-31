@@ -51,10 +51,10 @@ l_english:
  is_influencer_false_TT: "£ trigger_no é o 7 influenciador principal em [From.GetNameWithFlag]"
  aid_button_TT: "§HGive Economic Aid§!\nVamos enviar um presente monetário único para [From.GetNameWithFlag] em troca de influência e um impulso nas relações. O tamanho do presente é relativo à economia deles."
  aid_button_delayed_TT: "Requer:\n[aid_button_req]\n[aid_button_sizemod_check]\n[sent_aid_recently_check]\n\nEfeito:\n§H [Root.GetNameWithFlag] § !: Iniciar o evento §HGive Aid§!"
- aid_button_req_enable_TT: "£ trigger_yes é o 7 influenciador principal em [From.GetNameWithFlag]\n£ trigger_yes GDP / C> [From.GetNameWithFlag] GDP / C"
- aid_button_req_disable1_TT: "£ trigger_yes é o principal influenciador em [From.GetNameWithFlag]\n£ trigger_no GDP / C> [From.GetNameWithFlag] GDP / C"
- aid_button_req_disable2_TT: "£ trigger_no é o principal influenciador em [From.GetNameWithFlag]\n£ trigger_yes GDP / C> [From.GetNameWithFlag] GDP / C"
- aid_button_req_disable3_TT: "£ trigger_no é o 7 influenciador principal em [From.GetNameWithFlag]\n£ trigger_no GDP / C> [From.GetNameWithFlag] GDP / C"
+ aid_button_req_enable_TT: "£ trigger_yes é o 7 influenciador principal em [From.GetNameWithFlag]\n£ trigger_yes GDP/C> [From.GetNameWithFlag] GDP/C"
+ aid_button_req_disable1_TT: "£ trigger_yes é o principal influenciador em [From.GetNameWithFlag]\n£ trigger_no GDP/C> [From.GetNameWithFlag] GDP/C"
+ aid_button_req_disable2_TT: "£ trigger_no é o principal influenciador em [From.GetNameWithFlag]\n£ trigger_yes GDP/C> [From.GetNameWithFlag] GDP/C"
+ aid_button_req_disable3_TT: "£ trigger_no é o 7 influenciador principal em [From.GetNameWithFlag]\n£ trigger_no GDP/C> [From.GetNameWithFlag] GDP/C"
  aid_button_sizemod_check_true: "£ trigger_yes tem mais Indústrias Civis do que [From.GetNameWithFlag]"
  aid_button_sizemod_check_false: "£ trigger_no tem mais Indústrias Civis do que [From.GetNameWithFlag]"
  aid_button_recently_sent_true: "£ trigger_yes não enviou recentemente ajuda econômica para [FROM.GetNameWithFlag]\n"
@@ -67,7 +67,7 @@ l_english:
  aid_influence_gain_regional_power_TT: "6"
  aid_influence_gain_minor_power_TT: "5"
  aid_influence_gain_non_power_TT: "4"
- aid_military_button_TT: "§HAjuda Militar§!\nPodemos escolher enviar uma remessa única de armas ou outro equipamento para [From.GetNameWithFlag] para obter influência e aumentar as relações. No entanto, isso afetará negativamente nossa posição com qualquer um de seus inimigos.\n\nNOTA: Você só pode enviar APC / IFVs e Equipamento de Infantaria até que possamos encontrar uma maneira melhor de projetar o sistema. Desculpe! "
+ aid_military_button_TT: "§HAjuda Militar§!\nPodemos escolher enviar uma remessa única de armas ou outro equipamento para [From.GetNameWithFlag] para obter influência e aumentar as relações. No entanto, isso afetará negativamente nossa posição com qualquer um de seus inimigos.\n\nNOTA: Você só pode enviar APC/IFVs e Equipamento de Infantaria até que possamos encontrar uma maneira melhor de projetar o sistema. Desculpe! "
  aid_military_button_delayed_TT: "Requer:\n[military_aid_is_influencer_req]\n[military_aid_military_capable]\n[military_aid_has_purpose_for_aid_req]\n[sent_recently_sent_military_aid_check]\n\nEfeito:\n§H [ROOT.§GetNome]
  military_aid_military_capable_TT: "£ trigger_yes Um dos seguintes deve ser verdadeiro:\n[ROOT.GetNameWithFlag] tem uma ideia §YIndústria de defesa§!\n[ROOT.GetNameWithFlag] tem mais §YFábricas militares§! Do que 10"
  military_aid_military_capable_false_TT: "£ trigger_no Uma das seguintes opções deve ser verdadeira:\n[ROOT.GetNameWithFlag] tem uma ideia §YSetor de Defesa§!\n[ROOT.GetNameWithFlag] tem mais §YFábricas militares§! Do que 10"
@@ -316,7 +316,7 @@ l_english:
  decrease_ENG_influence_3_percent_TT: "Diminui a influência de §Y [ENG.GetNamewithFlag] §! Em §Y [THIS.GetNamewithFlag] §! Em cerca de §R ~ 3% §!\n"
  decrease_ENG_influence_4_percent_TT: "Diminui a influência de §Y [ENG.GetNamewithFlag] §! Em §Y [THIS.GetNamewithFlag] §! Em cerca de §R ~ 4% §!\n"
  decrease_ENG_influence_5_percent_TT: "Diminui §Y [ENG.GetNamewithFlag] §! Influência em §Y [THIS.GetNamewithFlag] §! Em cerca de §R ~ 5% §!\n"
- #Generic Persa / Iraniano ganho e perdas de influência
+ #Generic Persa/Iraniano ganho e perdas de influência
  improve_PER_influence_1_percent_TT: "Aumenta §Y [PER.GetNamewithFlag] §! Influência em §Y [THIS.GetNamewithFlag] §! Em cerca de §G ~ 1% §!\n"
  improve_PER_influence_2_percent_TT: "Aumenta §Y [PER.GetNamewithFlag] §! Influência em §Y [THIS.GetNamewithFlag] §! Em cerca de §G ~ 2% §!\n"
  improve_PER_influence_3_percent_TT: "Aumenta §Y [PER.GetNamewithFlag] §! Influência em §Y [THIS.GetNamewithFlag] §! Em cerca de §G ~ 3% §!\n"

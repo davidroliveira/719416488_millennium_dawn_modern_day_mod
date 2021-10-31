@@ -307,7 +307,7 @@ l_english:
  NIG_corvettes: "Barcos patrulha"
  NIG_corvettes_desc: "A Nigéria não tem uma grande presença naval, nem nunca terá. Barcos-patrulha e outros navios-farol serão muito mais eficientes para nosso limitado espaço de doca seca."
 
- # Flags / Tooltips / Custom Shit
+ # Flags/Tooltips/Custom Shit
  NIG_not_islamic_majority_trigger_TT: "Não se aproximou muito dos cristãos"
  NIG_not_christian_majority_trigger_TT: "Não se aproximou muito dos muçulmanos"
  NIG_has_christian_majority_trigger_TT: "Aproximou-se mais dos Cristãos"
