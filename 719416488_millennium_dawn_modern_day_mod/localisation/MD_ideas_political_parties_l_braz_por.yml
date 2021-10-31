@@ -1,4 +1,4 @@
-l_braz_por:
+﻿l_braz_por:
  ruling_party_communist: "Partido Comunista"
  ruling_party_socialist: "Partido Socialista"
  ruling_party_green: "Festa verde"
@@ -9,20 +9,20 @@ l_braz_por:
  ruling_party_national_conservative: "Partido nacionalista"
  ruling_party_national_authoritarian: "Partido da extrema direita"
  ruling_party_neo_national_socialist: "Partido Nacional Socialista"
- ruling_party_islamist: "Partido Isl�mico"
- ruling_party_fundamental_islamist: "Partido Isl�mico Fundamental"
+ ruling_party_islamist: "Partido Islâmico"
+ ruling_party_fundamental_islamist: "Partido Islâmico Fundamental"
  
  party_trait_communist: "Comunista"
  party_trait_socialist: "Socialista"
- party_trait_green: "Pol�tica Verde"
+ party_trait_green: "Política Verde"
  party_trait_social_democrat: "Social democrata"
  party_trait_social_liberal: "Social Liberal"
  party_trait_social_conservative: "Social Conservador"
- party_trait_libertarian: "Libert�rio"
+ party_trait_libertarian: "Libertário"
  party_trait_national_conservative: "Conservador Nacional"
- party_trait_national_authoritarian: "Autorit�rio Nacional"
+ party_trait_national_authoritarian: "Autoritário Nacional"
  party_trait_neo_national_socialist: "Neo-Nacional Socialista"
- party_trait_islamist: "Isl�mico"
+ party_trait_islamist: "Islâmico"
  party_trait_fundamental_islamist: "Islamista Fundamental"
  
  ### Partes localizadas ###
@@ -31,77 +31,77 @@ l_braz_por:
  ABK_ruling_party_communist: "Partido Comunista da Abkhazia"
  ABK_ruling_party_socialist: "Partido Socialista"
  ABK_ruling_party_green: "Festa verde"
- ABK_ruling_party_social_democrat: "Abkhazia democr�tica"
+ ABK_ruling_party_social_democrat: "Abkhazia democrática"
  ABK_ruling_party_social_liberal: "Partido Social Liberal"
  ABK_ruling_party_social_conservative: "Abkhazia Unida"
- ABK_ruling_party_libertarian: "Partido para o Desenvolvimento Econ�mico da Abkhazia"
- ABK_ruling_party_national_conservative: "F�rum para a Unidade Nacional da Abkhazia"
+ ABK_ruling_party_libertarian: "Partido para o Desenvolvimento Econômico da Abkhazia"
+ ABK_ruling_party_national_conservative: "Fórum para a Unidade Nacional da Abkhazia"
  ABK_ruling_party_national_authoritarian: "Partido da extrema direita"
  ABK_ruling_party_neo_national_socialist: "Partido Nacional Socialista"
- ABK_ruling_party_islamist: "Partido Isl�mico"
- ABK_ruling_party_fundamental_islamist: "Partido Isl�mico Fundamental"
+ ABK_ruling_party_islamist: "Partido Islâmico"
+ ABK_ruling_party_fundamental_islamist: "Partido Islâmico Fundamental"
  
- #Afeganist�o
- AFG_ruling_party_communist: "Hezb-e Komunist (Ma'uist) Afeganist�o"
+ #Afeganistão
+ AFG_ruling_party_communist: "Hezb-e Komunist (Ma'uist) Afeganistão"
  AFG_ruling_party_socialist: "Hezb-e Muttahed-e Melli"
  AFG_ruling_party_green: "Festa verde"
  AFG_ruling_party_social_democrat: "Afgan Millat Gund"
  AFG_ruling_party_social_liberal: "Hezb-e Kongra-ye Milli-ye Afghanestan"
- AFG_ruling_party_social_conservative: "Mahaz-e Milli-ye Islami-ye Afeganist�o"
+ AFG_ruling_party_social_conservative: "Mahaz-e Milli-ye Islami-ye Afeganistão"
  AFG_ruling_party_libertarian: "Hezb-e Jomhorikhahan-e Afghanistan"
- AFG_ruling_party_national_conservative: "Hezb-e Wahdat Islami Mardum-e Afeganist�o" # Interesse de Hazara
- AFG_ruling_party_national_authoritarian: "Nahzat-e Hambastagi-ye Melli-ye Afeganist�o" #Monarquista
+ AFG_ruling_party_national_conservative: "Hezb-e Wahdat Islami Mardum-e Afeganistão" # Interesse de Hazara
+ AFG_ruling_party_national_authoritarian: "Nahzat-e Hambastagi-ye Melli-ye Afeganistão" #Monarquista
  AFG_ruling_party_neo_national_socialist: "Partido Nacional Socialista"
  AFG_ruling_party_islamist: "Jamiat-e Islami"
  AFG_ruling_party_fundamental_islamist: "Hizb ut-Tahrir"
  
- #Finl�ndia
+ #Finlândia
  FIN_ruling_party_libertarian: "Kokoomus"
  FIN_ruling_party_social_liberal: "Keskusta"
  FIN_ruling_party_social_conservative: "Kristillisdemokraatit"
  FIN_ruling_party_social_democrat: "Sosiaalidemokraatit"
 
- # Pol�nia- 2017 Data de In�cio
- POL_ruling_party_communist: "Partido Comunista Polon�s"
- POL_ruling_party_socialist: "Partido Socialista Polon�s"
+ # Polônia- 2017 Data de Início
+ POL_ruling_party_communist: "Partido Comunista Polonês"
+ POL_ruling_party_socialist: "Partido Socialista Polonês"
  POL_ruling_party_green: "Os Verdes"
- POL_ruling_party_social_democrat: "Alian�a de Esquerda Democr�tica"
+ POL_ruling_party_social_democrat: "Aliança de Esquerda Democrática"
  POL_ruling_party_social_liberal: ".Moderno"
- POL_ruling_party_social_conservative: "Plataforma C�vica"
+ POL_ruling_party_social_conservative: "Plataforma Cívica"
  POL_ruling_party_libertarian: "Liberty Party"
- POL_ruling_party_national_conservative: "Lei e Justi�a"
- POL_ruling_party_national_authoritarian: "Pol�nia Unida"
- POL_ruling_party_neo_national_socialist: "Renascimento Nacional da Pol�nia"
- POL_ruling_party_islamist: "Partido Isl�mico"
- POL_ruling_party_fundamental_islamist: "Partido Isl�mico Fundamental"
+ POL_ruling_party_national_conservative: "Lei e Justiça"
+ POL_ruling_party_national_authoritarian: "Polônia Unida"
+ POL_ruling_party_neo_national_socialist: "Renascimento Nacional da Polônia"
+ POL_ruling_party_islamist: "Partido Islâmico"
+ POL_ruling_party_fundamental_islamist: "Partido Islâmico Fundamental"
 
- # Ucr�nia-2017 Data de In�cio
+ # Ucrânia-2017 Data de Início
 
- UKR_ruling_party_communist: "Partido Comunista da Ucr�nia"
- UKR_ruling_party_socialist: "Partido Socialista Polon�s"
- UKR_ruling_party_green: "Partido dos Verdes da Ucr�nia"
- UKR_ruling_party_social_democrat: "Bloco de Oposi��o"
+ UKR_ruling_party_communist: "Partido Comunista da Ucrânia"
+ UKR_ruling_party_socialist: "Partido Socialista Polonês"
+ UKR_ruling_party_green: "Partido dos Verdes da Ucrânia"
+ UKR_ruling_party_social_democrat: "Bloco de Oposição"
  UKR_ruling_party_social_liberal: "Solidariedade"
- UKR_ruling_party_social_conservative: "Uni�o Ucraniana-P�tria"
+ UKR_ruling_party_social_conservative: "União Ucraniana-Pátria"
  UKR_ruling_party_libertarian: "Partido Radical"
  UKR_ruling_party_national_conservative: "Frente do Povo"
  UKR_ruling_party_national_authoritarian: "Svoboda (liberdade)"
  UKR_ruling_party_neo_national_socialist: "National Corps"
- UKR_ruling_party_islamist: "Partido Isl�mico"
- UKR_ruling_party_fundamental_islamist: "Partido Isl�mico Fundamental"
+ UKR_ruling_party_islamist: "Partido Islâmico"
+ UKR_ruling_party_fundamental_islamist: "Partido Islâmico Fundamental"
 
  #Estados Unidos
 
- USA_ruling_party_communist: "Partido do Socialismo e Liberta��o"
+ USA_ruling_party_communist: "Partido do Socialismo e Libertação"
  USA_ruling_party_socialist: "Alternativa Socialista dos EUA"
  USA_ruling_party_green: "Green Party USA"
  USA_ruling_party_social_democrat: "Asa Progressiva do Partido Democrata"
- USA_ruling_party_social_liberal: "Asa Liberal do Partido Democr�tico"
+ USA_ruling_party_social_liberal: "Asa Liberal do Partido Democrático"
  USA_ruling_party_social_conservative: "Asa Conservadora do Partido Republicano"
- USA_ruling_party_libertarian: "Partido Libert�rio"
+ USA_ruling_party_libertarian: "Partido Libertário"
  USA_ruling_party_national_conservative: "Asa Populista do Partido Republicano"
- USA_ruling_party_national_authoritarian: "Partido da Constitui��o"
+ USA_ruling_party_national_authoritarian: "Partido da Constituição"
  USA_ruling_party_neo_national_socialist: "Movimento Nacional Socialista"
- USA_ruling_party_islamist: "Conselho de Rela��es Americano-Isl�micas"
+ USA_ruling_party_islamist: "Conselho de Relações Americano-Islâmicas"
  USA_ruling_party_fundamental_islamist: "Hizb ut-Tahrir America"
  

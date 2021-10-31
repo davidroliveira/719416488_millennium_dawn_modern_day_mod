@@ -1,385 +1,385 @@
-l_braz_por:
+ï»¿l_braz_por:
 
  ################
  ### foco ###
  ################
 
- ### Constituir a nova Nação Europeia ###
- USoE001: "Constituir a nova Nação Europeia"
- USoE001_desc: "A União Europeia unificada precisa se constituir como uma nova nação. A Constituição e os Tratados de Unificação são uma coisa, mas agora as pessoas precisam cumprir esse quadro jurídico com vida."
+ ### Constituir a nova NaÃ§Ã£o Europeia ###
+ USoE001: "Constituir a nova NaÃ§Ã£o Europeia"
+ USoE001_desc: "A UniÃ£o Europeia unificada precisa se constituir como uma nova naÃ§Ã£o. A ConstituiÃ§Ã£o e os Tratados de UnificaÃ§Ã£o sÃ£o uma coisa, mas agora as pessoas precisam cumprir esse quadro jurÃ­dico com vida."
  ### Um Corpo de Oficiais Europeus ###
  USoE002: "Um Corpo de Oficiais Europeu"
- USoE002_desc: "Na União, cada estado membro tinha seu próprio exército e mais tarde havia o EuroArmy. Precisamos criar um Corpo de Oficiais Europeu com doutrina e treinamento comuns."
- ### Partidos Políticos Europeus ###
- USoE003: "Partidos Políticos Europeus"
- USoE003_desc: "Uma nova nação precisa de novos partidos políticos. Os antigos partidos políticos dos Estados membros precisam se unificar."
+ USoE002_desc: "Na UniÃ£o, cada estado membro tinha seu prÃ³prio exÃ©rcito e mais tarde havia o EuroArmy. Precisamos criar um Corpo de Oficiais Europeu com doutrina e treinamento comuns."
+ ### Partidos PolÃ­ticos Europeus ###
+ USoE003: "Partidos PolÃ­ticos Europeus"
+ USoE003_desc: "Uma nova naÃ§Ã£o precisa de novos partidos polÃ­ticos. Os antigos partidos polÃ­ticos dos Estados membros precisam se unificar."
  ### Patriotismo Europeu ###
  USoE004: "Patriotismo Europeu"
- USoE004_desc: "Uma nova nação precisa de seu próprio patriotismo e símbolos nacionais."
+ USoE004_desc: "Uma nova naÃ§Ã£o precisa de seu prÃ³prio patriotismo e sÃ­mbolos nacionais."
  ### O Novo Grande Jogo ###
  USoE005: "O Novo Grande Jogo"
- USoE005_desc: "O Novo Grande Jogo acaba de começar e a Europa está atrasada, enquanto os EUA, China e Rússia já deram suas primeiras jogadas."
- ### O Coração e a Alma da Europa ###
- USoE006: "Coração e Alma da Europa"
- USoE006_desc: "A nova nação precisa definir seus valores e padrões. A Europa precisa de um coração e uma alma!"
+ USoE005_desc: "O Novo Grande Jogo acaba de comeÃ§ar e a Europa estÃ¡ atrasada, enquanto os EUA, China e RÃºssia jÃ¡ deram suas primeiras jogadas."
+ ### O CoraÃ§Ã£o e a Alma da Europa ###
+ USoE006: "CoraÃ§Ã£o e Alma da Europa"
+ USoE006_desc: "A nova naÃ§Ã£o precisa definir seus valores e padrÃµes. A Europa precisa de um coraÃ§Ã£o e uma alma!"
  ### Um jogo de esferas ###
  USoE100: "Um jogo de esferas"
- USoE100_desc: "Quando você joga o jogo das esferas, você vence ou morre. Não há meio-termo."
- ### Envolva a Águia ###
- USoE101: "Envolva a Águia"
- USoE101_desc: "O American Eagle precisa ser aterrado! Ele voou por muito tempo nos céus europeus."
+ USoE100_desc: "Quando vocÃª joga o jogo das esferas, vocÃª vence ou morre. NÃ£o hÃ¡ meio-termo."
+ ### Envolva a Ãguia ###
+ USoE101: "Envolva a Ãguia"
+ USoE101_desc: "O American Eagle precisa ser aterrado! Ele voou por muito tempo nos cÃ©us europeus."
  ### Briga com o Urso ###
  USoE102: "Briga com o Urso"
  USoE102_desc: "Precisamos atacar o Urso antes que ele nos ataque."
- ### Dance com o Dragão ###
- USoE103: "Dance com o Dragão"
- USoE103_desc: "A Dança com o Dragão é um jogo perigoso."
- ### Um Coração de Ferro ###
- USoE104: "Um Coração de Ferro"
- USoE104_desc: "Nos tempos antigos, os ferreiros forjavam um trono de ferro com as armas dos vilões derrotados. Em nossos dias, apenas declaramos que a Europa provou seu coração de ferro e agora é o governante mundial incontestado!"
- ### Coexistência pacífica ###
- USoE200: "Coexistência pacífica"
- USoE200_desc: "Existem espadas mais afiadas do que as de ferro. Por que pagar com sangue se você pode pagar com dinheiro?"
+ ### Dance com o DragÃ£o ###
+ USoE103: "Dance com o DragÃ£o"
+ USoE103_desc: "A DanÃ§a com o DragÃ£o Ã© um jogo perigoso."
+ ### Um CoraÃ§Ã£o de Ferro ###
+ USoE104: "Um CoraÃ§Ã£o de Ferro"
+ USoE104_desc: "Nos tempos antigos, os ferreiros forjavam um trono de ferro com as armas dos vilÃµes derrotados. Em nossos dias, apenas declaramos que a Europa provou seu coraÃ§Ã£o de ferro e agora Ã© o governante mundial incontestado!"
+ ### CoexistÃªncia pacÃ­fica ###
+ USoE200: "CoexistÃªncia pacÃ­fica"
+ USoE200_desc: "Existem espadas mais afiadas do que as de ferro. Por que pagar com sangue se vocÃª pode pagar com dinheiro?"
  ### America First ###
  USoE201: "America First"
  USoE201_desc: "Precisamos respeitar a doutrina do America First se quisermos que nossas doutrinas sejam respeitadas."
  ### Russosphere ###
  USoE202: "Russosfera"
- USoE202_desc: "A Rússia é a protetora de todo o povo russo. Essa é sua esfera de influência, que precisamos respeitar."
+ USoE202_desc: "A RÃºssia Ã© a protetora de todo o povo russo. Essa Ã© sua esfera de influÃªncia, que precisamos respeitar."
  ### Shinosphere ###
  USoE203: "Shinosphere"
- USoE203_desc: "A esfera de influência da China cobre o sudeste da Ásia e não nos incomoda. A China é nosso parceiro comercial, não nosso rival."
+ USoE203_desc: "A esfera de influÃªncia da China cobre o sudeste da Ãsia e nÃ£o nos incomoda. A China Ã© nosso parceiro comercial, nÃ£o nosso rival."
  ### Eurosphere ###
  USoE204: "Eurosfera"
- USoE204_desc: "Apaziguamos todas as superpotências do século 21, agora temos mãos livres para estabelecer a Eurosfera na Europa, Levante e Norte da África."
- ### Choque de Civilizações ###
- USoE300: "Choque de Civilizações"
- USoE300_desc: "The Clash of Civilizations foi uma tese do cientista político americano Samuel P. Huntington, de que as identidades culturais e religiosas das pessoas serão a principal fonte de conflito no mundo pós-Guerra Fria. As guerras futuras não serão travadas entre países, mas entre culturas. "
+ USoE204_desc: "Apaziguamos todas as superpotÃªncias do sÃ©culo 21, agora temos mÃ£os livres para estabelecer a Eurosfera na Europa, Levante e Norte da Ãfrica."
+ ### Choque de CivilizaÃ§Ãµes ###
+ USoE300: "Choque de CivilizaÃ§Ãµes"
+ USoE300_desc: "The Clash of Civilizations foi uma tese do cientista polÃ­tico americano Samuel P. Huntington, de que as identidades culturais e religiosas das pessoas serÃ£o a principal fonte de conflito no mundo pÃ³s-Guerra Fria. As guerras futuras nÃ£o serÃ£o travadas entre paÃ­ses, mas entre culturas. "
  ### O Resto do Oeste ###
  USoE301: "O resto do oeste"
- USoE301_desc: "A Europa é o resto do Ocidente. A América nos deixou em paz e isolados na doutrina América em Primeiro Lugar."
+ USoE301_desc: "A Europa Ã© o resto do Ocidente. A AmÃ©rica nos deixou em paz e isolados na doutrina AmÃ©rica em Primeiro Lugar."
  ### Cruz e Crescente ###
  USoE302: "Cruz e Crescente"
- USoE302_desc: "Na fronteira sudeste da Europa, a cruz se choca com o crescente. Quem vai prevalecer: a civilização ocidental ou islâmica?"
+ USoE302_desc: "Na fronteira sudeste da Europa, a cruz se choca com o crescente. Quem vai prevalecer: a civilizaÃ§Ã£o ocidental ou islÃ¢mica?"
  ### O Papa e o Patriarca ###
  USoE303: "O Papa e o Patriarca"
- USoE303_desc: "Desde o Grande Cisma de 1054, o papa e o patriarca ortodoxo seguiram caminhos diferentes. É hora de se unir novamente para defender a civilização ocidental."
+ USoE303_desc: "Desde o Grande Cisma de 1054, o papa e o patriarca ortodoxo seguiram caminhos diferentes. Ã‰ hora de se unir novamente para defender a civilizaÃ§Ã£o ocidental."
  ### Duas Cruzes ###
  USoE304: "Duas Cruzes"
- USoE304_desc: "Cristianismo oriental e ocidental precisam se unir contra o Islã."
+ USoE304_desc: "Cristianismo oriental e ocidental precisam se unir contra o IslÃ£."
  ### Eurasian Alliance ###
- USoE305: "Aliança Eurasiana"
- USoE305_desc: "Após a dissolução da OTAN, a Europa pode formar uma nova grande aliança com seu vizinho russo."
+ USoE305: "AlianÃ§a Eurasiana"
+ USoE305_desc: "ApÃ³s a dissoluÃ§Ã£o da OTAN, a Europa pode formar uma nova grande alianÃ§a com seu vizinho russo."
  ### Constantinopla ###
  USoE306: "Constantinopla"
- USoE306_desc: "Constantinopla faz parte do Ocidente. A Europa precisa libertá-la da influência islâmica."
- ### Antióquia ###
- USoE307: "Antióquia"
- USoE307_desc: "O Principado de Antioquia foi um dos estados cruzados criados durante a Primeira Cruzada. Pertence ao Ocidente e estará livre do Islã mais uma vez."
+ USoE306_desc: "Constantinopla faz parte do Ocidente. A Europa precisa libertÃ¡-la da influÃªncia islÃ¢mica."
+ ### AntiÃ³quia ###
+ USoE307: "AntiÃ³quia"
+ USoE307_desc: "O Principado de Antioquia foi um dos estados cruzados criados durante a Primeira Cruzada. Pertence ao Ocidente e estarÃ¡ livre do IslÃ£ mais uma vez."
  ### Tripoli ###
  USoE308: "Tripoli"
- USoE308_desc: "O condado de Trípoli (1109-1289) foi o último dos estados cruzados. Ele deve se erguer novamente. A Europa precisa libertar o Levante do Islã."
- ### Jerusalém ###
- USoE309: "Jerusalém"
- USoE309_desc: "A Europa precisa salvar a Cidade Santa da influência islâmica. O Reino de Jerusalém deve proteger os locais sagrados mais uma vez."
+ USoE308_desc: "O condado de TrÃ­poli (1109-1289) foi o Ãºltimo dos estados cruzados. Ele deve se erguer novamente. A Europa precisa libertar o Levante do IslÃ£."
+ ### JerusalÃ©m ###
+ USoE309: "JerusalÃ©m"
+ USoE309_desc: "A Europa precisa salvar a Cidade Santa da influÃªncia islÃ¢mica. O Reino de JerusalÃ©m deve proteger os locais sagrados mais uma vez."
  ### Cavaleiros de Malta ###
  USoE310: "Cavaleiros de Malta"
- USoE310_desc: "A Europa precisa libertar o norte da África da influência islâmica. A Europa seguirá o exemplo dos Cavaleiros de Malta."
- ### Ocidentalização árabe ###
- USoE311: "Ocidentalização árabe"
- USoE311_desc: "Alguns países da Península Arábica já têm laços estreitos com o Ocidente. A Europa precisa ocidentalizar totalmente a Península Arábica para ter uma vizinhança segura."
- ### Ocidentalização indiana ###
- USoE312: "Ocidentalização indiana"
- USoE312_desc: "Com o legado colonial, a Índia tem tradicionalmente laços estreitos com o Ocidente. A Europa deve aprofundar essa relação para ocidentalizar totalmente a Índia."
- ### A República da Pérsia ###
- USoE313: "A República da Pérsia"
- USoE313_desc: "O Irã é um dos maiores rivais do Ocidente no Oriente Médio. A Europa pode impedir a conquista do Irã pela hegemonia regional quando a Europa ocidentalizar o Irã na República da Pérsia."
+ USoE310_desc: "A Europa precisa libertar o norte da Ãfrica da influÃªncia islÃ¢mica. A Europa seguirÃ¡ o exemplo dos Cavaleiros de Malta."
+ ### OcidentalizaÃ§Ã£o Ã¡rabe ###
+ USoE311: "OcidentalizaÃ§Ã£o Ã¡rabe"
+ USoE311_desc: "Alguns paÃ­ses da PenÃ­nsula ArÃ¡bica jÃ¡ tÃªm laÃ§os estreitos com o Ocidente. A Europa precisa ocidentalizar totalmente a PenÃ­nsula ArÃ¡bica para ter uma vizinhanÃ§a segura."
+ ### OcidentalizaÃ§Ã£o indiana ###
+ USoE312: "OcidentalizaÃ§Ã£o indiana"
+ USoE312_desc: "Com o legado colonial, a Ãndia tem tradicionalmente laÃ§os estreitos com o Ocidente. A Europa deve aprofundar essa relaÃ§Ã£o para ocidentalizar totalmente a Ãndia."
+ ### A RepÃºblica da PÃ©rsia ###
+ USoE313: "A RepÃºblica da PÃ©rsia"
+ USoE313_desc: "O IrÃ£ Ã© um dos maiores rivais do Ocidente no Oriente MÃ©dio. A Europa pode impedir a conquista do IrÃ£ pela hegemonia regional quando a Europa ocidentalizar o IrÃ£ na RepÃºblica da PÃ©rsia."
  ### O Oeste contra o Resto ###
  USoE320: "O Ocidente contra o Resto"
- USoE320_desc: "A Europa e a América são as superpotências ocidentais que podem enfrentar todos os inimigos do mundo. Com a OTAN como base, o Ocidente pode impor seu domínio global."
- ### Ocidentalização asiática ###
- USoE321: "Ocidentalização asiática"
- USoE321_desc: "O Ocidente precisa se concentrar nas potências emergentes da Ásia. O Ocidente deve lutar ou ocidentalizá-las."
+ USoE320_desc: "A Europa e a AmÃ©rica sÃ£o as superpotÃªncias ocidentais que podem enfrentar todos os inimigos do mundo. Com a OTAN como base, o Ocidente pode impor seu domÃ­nio global."
+ ### OcidentalizaÃ§Ã£o asiÃ¡tica ###
+ USoE321: "OcidentalizaÃ§Ã£o asiÃ¡tica"
+ USoE321_desc: "O Ocidente precisa se concentrar nas potÃªncias emergentes da Ãsia. O Ocidente deve lutar ou ocidentalizÃ¡-las."
  ### Os Quatro Tigres ###
  USoE322: "Os Quatro Tigres"
- USoE322_desc: "Os Quatro Tigres Asiáticos de Hong Kong, Cingapura, Coréia do Sul e Taiwan sempre tiveram laços estreitos com o Ocidente e temem o dragão chinês emergente. Eles podem ser aliados viáveis do Ocidente na Ásia."
- ### Japão ###
- USoE323: "Japão"
- USoE323_desc: "Após o fim da Segunda Guerra Mundial, o Japão era um importante aliado do Ocidente na Ásia. O Ocidente precisa continuar esta parceria estreita."
+ USoE322_desc: "Os Quatro Tigres AsiÃ¡ticos de Hong Kong, Cingapura, CorÃ©ia do Sul e Taiwan sempre tiveram laÃ§os estreitos com o Ocidente e temem o dragÃ£o chinÃªs emergente. Eles podem ser aliados viÃ¡veis do Ocidente na Ãsia."
+ ### JapÃ£o ###
+ USoE323: "JapÃ£o"
+ USoE323_desc: "ApÃ³s o fim da Segunda Guerra Mundial, o JapÃ£o era um importante aliado do Ocidente na Ãsia. O Ocidente precisa continuar esta parceria estreita."
  ### China ###
  USoE324: "China"
- USoE324_desc: "A China é o maior rival do Ocidente na Ásia. Se o Ocidente puder ocidentalizar a China, não haverá competidor pela hegemonia ocidental na Ásia."
- ### Operação impensável 2.0 ###
- USoE325: "Operação impensável 2.0"
- USoE325_desc: "A Operação impensável foi um plano de guerra dos chefes do Estado-Maior britânico contra a União Soviética ordenado por Winston Churchill em maio de 1945. Junto com a ex-Wehrmacht alemã, os aliados ocidentais deveriam lançar um ataque surpresa contra a União Soviética. O Ocidente precisa revisar esse plano para se ajustar à configuração atual e agir em autodefesa preventiva contra a Rússia para evitar a hegemonia russa na Europa. "
+ USoE324_desc: "A China Ã© o maior rival do Ocidente na Ãsia. Se o Ocidente puder ocidentalizar a China, nÃ£o haverÃ¡ competidor pela hegemonia ocidental na Ãsia."
+ ### OperaÃ§Ã£o impensÃ¡vel 2.0 ###
+ USoE325: "OperaÃ§Ã£o impensÃ¡vel 2.0"
+ USoE325_desc: "A OperaÃ§Ã£o impensÃ¡vel foi um plano de guerra dos chefes do Estado-Maior britÃ¢nico contra a UniÃ£o SoviÃ©tica ordenado por Winston Churchill em maio de 1945. Junto com a ex-Wehrmacht alemÃ£, os aliados ocidentais deveriam lanÃ§ar um ataque surpresa contra a UniÃ£o SoviÃ©tica. O Ocidente precisa revisar esse plano para se ajustar Ã  configuraÃ§Ã£o atual e agir em autodefesa preventiva contra a RÃºssia para evitar a hegemonia russa na Europa. "
  ### A Tocha da Liberdade ###
  USoE400: "A Tocha da Liberdade"
- USoE400_desc: "A Europa precisa de levar adiante a Tocha da Liberdade! Os Estados Unidos da Europa são uma república democrática que respeita os direitos humanos e o Estado de direito."
+ USoE400_desc: "A Europa precisa de levar adiante a Tocha da Liberdade! Os Estados Unidos da Europa sÃ£o uma repÃºblica democrÃ¡tica que respeita os direitos humanos e o Estado de direito."
  ### Democracia Digital ###
  USoE401: "Democracia Digital"
- USoE401_desc: "A Europa precisa reformar suas instituições democráticas para a era digital. Com as mídias sociais e as redes sociais, as pessoas podem participar diretamente da legislação e do governo."
+ USoE401_desc: "A Europa precisa reformar suas instituiÃ§Ãµes democrÃ¡ticas para a era digital. Com as mÃ­dias sociais e as redes sociais, as pessoas podem participar diretamente da legislaÃ§Ã£o e do governo."
  ### Martelo e foice ###
  USoE402: "Martelo e foice"
  USoE402_desc: "Karl Marx e Friedrich Engels, os pais do socialismo e do marxismo, eram europeus. A Europa precisa continuar com esse legado."
  ### EUSSR ###
  USoE403: "EUSSR"
- USoE403_desc: "A esquerda europeia prendeu os capitalistas na União Europeia, agora o herdeiro espiritual de Karl Marx e Friedrich Engels têm o poder de estabelecer a EUSSR: a União Europeia das Repúblicas Socialistas Soviéticas."
+ USoE403_desc: "A esquerda europeia prendeu os capitalistas na UniÃ£o Europeia, agora o herdeiro espiritual de Karl Marx e Friedrich Engels tÃªm o poder de estabelecer a EUSSR: a UniÃ£o Europeia das RepÃºblicas Socialistas SoviÃ©ticas."
  ### AI Government ###
  USoE404: "AI Government"
- USoE404_desc: "A inteligência artificial evoluiu o suficiente para governar um país com mais eficiência do que políticos humanos ineficientes e possivelmente corruptos. O agente de IA do partido no poder assumirá o controle e governará o país com base nos valores do partido no poder."
+ USoE404_desc: "A inteligÃªncia artificial evoluiu o suficiente para governar um paÃ­s com mais eficiÃªncia do que polÃ­ticos humanos ineficientes e possivelmente corruptos. O agente de IA do partido no poder assumirÃ¡ o controle e governarÃ¡ o paÃ­s com base nos valores do partido no poder."
  ### O Futuro Verde ###
  USoE500: "O Futuro Verde"
- USoE500_desc: "Com a inegável mudança climática, não há futuro, mas um futuro verde para a Europa."
- ### Império Ambiental ###
- USoE501: "Império Ambiental"
- USoE501_desc: "A Europa precisa se tornar um Império Ambiental onde a economia e o meio ambiente não são contraditórios."
+ USoE500_desc: "Com a inegÃ¡vel mudanÃ§a climÃ¡tica, nÃ£o hÃ¡ futuro, mas um futuro verde para a Europa."
+ ### ImpÃ©rio Ambiental ###
+ USoE501: "ImpÃ©rio Ambiental"
+ USoE501_desc: "A Europa precisa se tornar um ImpÃ©rio Ambiental onde a economia e o meio ambiente nÃ£o sÃ£o contraditÃ³rios."
  ### Imperialismo Ambiental ###
  USoE502: "Imperialismo Ambiental"
- USoE502_desc: "A Europa é verde, mas o mundo ainda é escuro e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### América do Norte ###
- USoE503: "América do Norte"
- USoE503_desc: "A Europa é verde, mas a América do Norte ainda é escura e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### América do Sul ###
- USoE504: "América do Sul"
- USoE504_desc: "A Europa é verde, mas a América do Sul ainda é escura e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
+ USoE502_desc: "A Europa Ã© verde, mas o mundo ainda Ã© escuro e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### AmÃ©rica do Norte ###
+ USoE503: "AmÃ©rica do Norte"
+ USoE503_desc: "A Europa Ã© verde, mas a AmÃ©rica do Norte ainda Ã© escura e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### AmÃ©rica do Sul ###
+ USoE504: "AmÃ©rica do Sul"
+ USoE504_desc: "A Europa Ã© verde, mas a AmÃ©rica do Sul ainda Ã© escura e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
  ### Europa ###
  USoE505: "Europa"
- USoE505_desc: "A Europa é verde, mas os outros países europeus ainda são escuros e cinzentos. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### África ###
- USoE506: "África"
- USoE506_desc: "A Europa é verde, mas a África ainda é escura e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### Médio Oriente ###
- USoE507: "Médio Oriente"
- USoE507_desc: "A Europa é verde, mas o Oriente Médio ainda é escuro e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### Ásia ###
- USoE508: "Ásia"
- USoE508_desc: "A Europa é verde, mas a Ásia ainda é escura e cinzenta. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
+ USoE505_desc: "A Europa Ã© verde, mas os outros paÃ­ses europeus ainda sÃ£o escuros e cinzentos. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### Ãfrica ###
+ USoE506: "Ãfrica"
+ USoE506_desc: "A Europa Ã© verde, mas a Ãfrica ainda Ã© escura e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### MÃ©dio Oriente ###
+ USoE507: "MÃ©dio Oriente"
+ USoE507_desc: "A Europa Ã© verde, mas o Oriente MÃ©dio ainda Ã© escuro e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### Ãsia ###
+ USoE508: "Ãsia"
+ USoE508_desc: "A Europa Ã© verde, mas a Ãsia ainda Ã© escura e cinzenta. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
  ### Oceania ###
- USoE509: "Oceânia"
- USoE509_desc: "A Europa é verde, mas a Oceania ainda é escura e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
- ### Pacífico ###
- USoE510: "Pacífico"
- USoE510_desc: "A Europa é verde, mas o Pacífico ainda é escuro e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
+ USoE509: "OceÃ¢nia"
+ USoE509_desc: "A Europa Ã© verde, mas a Oceania ainda Ã© escura e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
+ ### PacÃ­fico ###
+ USoE510: "PacÃ­fico"
+ USoE510_desc: "A Europa Ã© verde, mas o PacÃ­fico ainda Ã© escuro e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
  ### A Cruz e a Coroa ###
  USoE600: "A Cruz e a Coroa"
- USoE600_desc: "A Europa precisa cumprir seu legado e se tornar um império novamente."
+ USoE600_desc: "A Europa precisa cumprir seu legado e se tornar um impÃ©rio novamente."
  ### Os novos cavaleiros ###
  USoE601: "Os novos cavaleiros"
- USoE601_desc: "Em um mundo hostil, os militares assumiram o controle da Europa para salvar seu povo de políticos corruptos e potências estrangeiras."
- ### General dos Exércitos Europeus ###
- USoE602: "General dos Exércitos Europeus"
- USoE602_desc: "O estado-maior geral decidiu que a Europa será liderada por um general do exército. Ele receberá o título de General dos Exércitos Europeus."
+ USoE601_desc: "Em um mundo hostil, os militares assumiram o controle da Europa para salvar seu povo de polÃ­ticos corruptos e potÃªncias estrangeiras."
+ ### General dos ExÃ©rcitos Europeus ###
+ USoE602: "General dos ExÃ©rcitos Europeus"
+ USoE602_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um general do exÃ©rcito. Ele receberÃ¡ o tÃ­tulo de General dos ExÃ©rcitos Europeus."
  ### Marechal do Ar da Europa ###
  USoE603: "Air Marshal of Europe"
- USoE603_desc: "O estado-maior geral decidiu que a Europa será liderada por um general da Força Aérea. Ele será premiado com o posto de Marechal da Força Aérea da Europa."
+ USoE603_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um general da ForÃ§a AÃ©rea. Ele serÃ¡ premiado com o posto de Marechal da ForÃ§a AÃ©rea da Europa."
  ### Fleet Admiral of Europe ###
  USoE604: "Almirante da Frota da Europa"
- USoE604_desc: "O estado-maior geral decidiu que a Europa será liderada por um almirante. Ele será premiado com o posto de almirante da frota da Europa."
- ### Império Europeu ###
- USoE605: "Império Europeu"
- USoE605_desc: "Mais uma vez, a Europa se tornou um Império e pode defender os interesses de seu povo em nível global."
+ USoE604_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um almirante. Ele serÃ¡ premiado com o posto de almirante da frota da Europa."
+ ### ImpÃ©rio Europeu ###
+ USoE605: "ImpÃ©rio Europeu"
+ USoE605_desc: "Mais uma vez, a Europa se tornou um ImpÃ©rio e pode defender os interesses de seu povo em nÃ­vel global."
  ### O Novo Imperador ###
  USoE620: "O Novo Imperador"
- USoE620_desc: "A Europa precisa de um novo imperador que conduza o continente ao longo do século 21".
+ USoE620_desc: "A Europa precisa de um novo imperador que conduza o continente ao longo do sÃ©culo 21".
  ### Escolha uma casa ###
  USoE621: "Escolha uma casa"
- USoE621_desc: "A Europa tem muitas casas grandes com uma história longa e gloriosa. Unido pela primeira vez, o continente precisa decidir qual casa deve governar no século 21."
+ USoE621_desc: "A Europa tem muitas casas grandes com uma histÃ³ria longa e gloriosa. Unido pela primeira vez, o continente precisa decidir qual casa deve governar no sÃ©culo 21."
  ### House of Savoy ###
- USoE622: "Casa de Sabóia"
- USoE622_desc: "A Casa de Sabóia é uma dinastia real que foi estabelecida em 1003 na região histórica de Sabóia. Por meio de uma expansão gradual, a família cresceu no poder de governar um pequeno condado alpino a noroeste da Itália para o governo absoluto do Reino da Sicília. Membros da casa governou a Sardenha, Itália, Albânia, Etiópia e, por um curto período, a Espanha. A casa também reivindica os títulos de reis de Chipre, Jerusalém e Armênia. "
+ USoE622: "Casa de SabÃ³ia"
+ USoE622_desc: "A Casa de SabÃ³ia Ã© uma dinastia real que foi estabelecida em 1003 na regiÃ£o histÃ³rica de SabÃ³ia. Por meio de uma expansÃ£o gradual, a famÃ­lia cresceu no poder de governar um pequeno condado alpino a noroeste da ItÃ¡lia para o governo absoluto do Reino da SicÃ­lia. Membros da casa governou a Sardenha, ItÃ¡lia, AlbÃ¢nia, EtiÃ³pia e, por um curto perÃ­odo, a Espanha. A casa tambÃ©m reivindica os tÃ­tulos de reis de Chipre, JerusalÃ©m e ArmÃªnia. "
  ### Casa de Wittelsbach ###
  USoE623: "Casa de Wittelsbach"
- USoE623_desc: "A Casa de Wittelsbach é uma dinastia germano-bávara, com ramos que governaram territórios incluindo: Baviera, Holanda, Zelândia, Colônia, Suécia, Romênia, Boêmia, Hungria, Dinamarca, Noruega, Grécia e o Sacro Império Romano. A linha de sucessão jacobita, que reconhece o direito de um monarca católico, reconhece Franz, príncipe hereditário da Baviera como o herdeiro legítimo como Francisco II. "
- ### Casa de Borbón-Anjou ###
- USoE624: "Casa de Borbón-Anjou"
- USoE624_desc: "A Casa de Borbón-Anjou é a casa real reinante do Reino da Espanha. No século 18, membros da dinastia Bourbon espanhola ocupavam tronos na Espanha, Nápoles, Sicília e Parma."
+ USoE623_desc: "A Casa de Wittelsbach Ã© uma dinastia germano-bÃ¡vara, com ramos que governaram territÃ³rios incluindo: Baviera, Holanda, ZelÃ¢ndia, ColÃ´nia, SuÃ©cia, RomÃªnia, BoÃªmia, Hungria, Dinamarca, Noruega, GrÃ©cia e o Sacro ImpÃ©rio Romano. A linha de sucessÃ£o jacobita, que reconhece o direito de um monarca catÃ³lico, reconhece Franz, prÃ­ncipe hereditÃ¡rio da Baviera como o herdeiro legÃ­timo como Francisco II. "
+ ### Casa de BorbÃ³n-Anjou ###
+ USoE624: "Casa de BorbÃ³n-Anjou"
+ USoE624_desc: "A Casa de BorbÃ³n-Anjou Ã© a casa real reinante do Reino da Espanha. No sÃ©culo 18, membros da dinastia Bourbon espanhola ocupavam tronos na Espanha, NÃ¡poles, SicÃ­lia e Parma."
  ### Casa de Bourbon ###
  USoE625: "Casa de Bourbon"
- USoE625_desc: "A Casa de Bourbon é uma dinastia europeia de origem francesa, um ramo da dinastia dos Capetos, a Casa Real da França. Os reis dos Bourbon governaram pela primeira vez a França e Navarra no século XVI."
+ USoE625_desc: "A Casa de Bourbon Ã© uma dinastia europeia de origem francesa, um ramo da dinastia dos Capetos, a Casa Real da FranÃ§a. Os reis dos Bourbon governaram pela primeira vez a FranÃ§a e Navarra no sÃ©culo XVI."
  ### House of Hanover ###
  USoE626: "Casa de Hanover"
- USoE626_desc: "A Casa de Hanover é uma casa real alemã que governou Hanover, Grã-Bretanha e Irlanda em várias épocas durante os séculos 17 a 20. A casa se originou em 1635 como um ramo cadete da Casa de Brunswick-Lüneburg, crescendo em prestígio até Hanover se tornou um eleitorado em 1692. "
- ### Casa de Glücksburg ###
- USoE627: "Casa de Glücksburg"
- USoE627_desc: "A Casa de Glücksburg, abreviada de Casa de Schleswig-Holstein-Sonderburg-Glücksburg, é um ramo dano-alemão da Casa de Oldenburg, cujos membros reinaram várias vezes na Dinamarca, Noruega, Grécia e vários estados do norte da Alemanha. "
+ USoE626_desc: "A Casa de Hanover Ã© uma casa real alemÃ£ que governou Hanover, GrÃ£-Bretanha e Irlanda em vÃ¡rias Ã©pocas durante os sÃ©culos 17 a 20. A casa se originou em 1635 como um ramo cadete da Casa de Brunswick-LÃ¼neburg, crescendo em prestÃ­gio atÃ© Hanover se tornou um eleitorado em 1692. "
+ ### Casa de GlÃ¼cksburg ###
+ USoE627: "Casa de GlÃ¼cksburg"
+ USoE627_desc: "A Casa de GlÃ¼cksburg, abreviada de Casa de Schleswig-Holstein-Sonderburg-GlÃ¼cksburg, Ã© um ramo dano-alemÃ£o da Casa de Oldenburg, cujos membros reinaram vÃ¡rias vezes na Dinamarca, Noruega, GrÃ©cia e vÃ¡rios estados do norte da Alemanha. "
  ### House of Windsor ###
  USoE628: "Casa de Windsor"
- USoE628_desc: "A Casa de Windsor é a casa real reinante do Reino Unido e de outros reinos da Comunidade. Em 1901, a Casa de Saxe-Coburgo e Gotha sucedeu à Casa de Hanover na monarquia britânica. Em 1917, o nome da casa real foi mudado do alemão Saxe-Coburg e Gotha para o inglês Windsor (do Castelo de Windsor) por causa da Primeira Guerra Mundial. "
+ USoE628_desc: "A Casa de Windsor Ã© a casa real reinante do Reino Unido e de outros reinos da Comunidade. Em 1901, a Casa de Saxe-Coburgo e Gotha sucedeu Ã  Casa de Hanover na monarquia britÃ¢nica. Em 1917, o nome da casa real foi mudado do alemÃ£o Saxe-Coburg e Gotha para o inglÃªs Windsor (do Castelo de Windsor) por causa da Primeira Guerra Mundial. "
  ### Casa de Orange-Nassau ###
  USoE629: "Casa de Orange-Nassau"
- USoE629_desc: "A Casa de Orange-Nassau é a atual casa reinante da Holanda. Uma filial da Casa Europeia de Nassau, a casa desempenhou um papel central na política e no governo da Holanda e da Europa, especialmente desde que William, o Silencioso, organizou o Revolta holandesa contra o domínio espanhol, que após a Guerra dos Oitenta Anos (1568-1648) levou a um estado holandês independente. "
+ USoE629_desc: "A Casa de Orange-Nassau Ã© a atual casa reinante da Holanda. Uma filial da Casa Europeia de Nassau, a casa desempenhou um papel central na polÃ­tica e no governo da Holanda e da Europa, especialmente desde que William, o Silencioso, organizou o Revolta holandesa contra o domÃ­nio espanhol, que apÃ³s a Guerra dos Oitenta Anos (1568-1648) levou a um estado holandÃªs independente. "
  ### Casa de Habsburgo-Lorraine ###
  USoE630: "Casa de Habsburg-Lorraine"
- USoE630_desc: "A Casa de Habsburgo-Lorena originou-se do casamento em 1736 de Francisco III, Duque de Lorena e Bar, e Maria Teresa da Áustria, posteriormente sucessivamente Rainha da Boêmia, Rainha da Hungria e Arquiduquesa da Áustria. Seus membros são a linhagem legítima sobrevivente da Casa dos Habsburgo e da Casa da Lorena, herdando seus bens patrimoniais e vocação para o Império. "
+ USoE630_desc: "A Casa de Habsburgo-Lorena originou-se do casamento em 1736 de Francisco III, Duque de Lorena e Bar, e Maria Teresa da Ãustria, posteriormente sucessivamente Rainha da BoÃªmia, Rainha da Hungria e Arquiduquesa da Ãustria. Seus membros sÃ£o a linhagem legÃ­tima sobrevivente da Casa dos Habsburgo e da Casa da Lorena, herdando seus bens patrimoniais e vocaÃ§Ã£o para o ImpÃ©rio. "
  ### Casa de Bonaparte ###
  USoE631: "Casa de Bonaparte"
- USoE631_desc: "A Casa de Bonaparte é uma antiga dinastia imperial e real europeia de origem italiana. Foi fundada em 1804 por Napoleão I. Napoleão virou o Grande Armée contra todas as grandes potências europeias e dominou a Europa continental através de uma série de vitórias militares. Ele instalou membros de sua família nos tronos de estados clientes, estendendo o poder da dinastia. "
+ USoE631_desc: "A Casa de Bonaparte Ã© uma antiga dinastia imperial e real europeia de origem italiana. Foi fundada em 1804 por NapoleÃ£o I. NapoleÃ£o virou o Grande ArmÃ©e contra todas as grandes potÃªncias europeias e dominou a Europa continental atravÃ©s de uma sÃ©rie de vitÃ³rias militares. Ele instalou membros de sua famÃ­lia nos tronos de estados clientes, estendendo o poder da dinastia. "
  ### House of Hohenzollern ###
  USoE632: "Casa de Hohenzollern"
- USoE632_desc: "A Casa de Hohenzollern é uma ex-dinastia real alemã cujos membros eram vários príncipes, eleitores, reis e imperadores de Hohenzollern, Brandenburg, Prússia, Império Alemão e Romênia. A família surgiu na área ao redor da cidade de Hechingen na Suábia durante século XI e recebeu o nome do Castelo Hohenzollern. "
- ### Escolha um palácio ###
- USoE633: "Escolha um palácio"
- USoE633_desc: "O novo imperador da Europa precisa de um palácio representativo para governar."
- ### Palácio Quirinal ###
- USoE634: "Palácio Quirinal"
- USoE634_desc: "O Palácio Quirinal é um edifício histórico em Roma, Itália, e serve como uma das três atuais residências oficiais do Presidente da República Italiana. O Palácio Quirinal foi escolhido por Napoleão para ser sua residência por excelência como Imperador. No entanto, é permanência nunca ocorreu por causa da derrota francesa em 1814 e a subsequente Restauração Europeia. "
+ USoE632_desc: "A Casa de Hohenzollern Ã© uma ex-dinastia real alemÃ£ cujos membros eram vÃ¡rios prÃ­ncipes, eleitores, reis e imperadores de Hohenzollern, Brandenburg, PrÃºssia, ImpÃ©rio AlemÃ£o e RomÃªnia. A famÃ­lia surgiu na Ã¡rea ao redor da cidade de Hechingen na SuÃ¡bia durante sÃ©culo XI e recebeu o nome do Castelo Hohenzollern. "
+ ### Escolha um palÃ¡cio ###
+ USoE633: "Escolha um palÃ¡cio"
+ USoE633_desc: "O novo imperador da Europa precisa de um palÃ¡cio representativo para governar."
+ ### PalÃ¡cio Quirinal ###
+ USoE634: "PalÃ¡cio Quirinal"
+ USoE634_desc: "O PalÃ¡cio Quirinal Ã© um edifÃ­cio histÃ³rico em Roma, ItÃ¡lia, e serve como uma das trÃªs atuais residÃªncias oficiais do Presidente da RepÃºblica Italiana. O PalÃ¡cio Quirinal foi escolhido por NapoleÃ£o para ser sua residÃªncia por excelÃªncia como Imperador. No entanto, Ã© permanÃªncia nunca ocorreu por causa da derrota francesa em 1814 e a subsequente RestauraÃ§Ã£o Europeia. "
  ### Castelo de Neuschwanstein ###
  USoE635: "Castelo de Neuschwanstein"
- USoE635_desc: "O Castelo de Neuschwanstein é um palácio renascentista do século 19 em uma colina escarpada no sudoeste da Baviera, Alemanha. O palácio foi encomendado pelo rei Ludwig II da Baviera. O castelo foi planejado para ser o lar do rei, até que ele morreu em 1886. foi aberto ao público logo após sua morte. Desde então, mais de 61 milhões de pessoas visitaram o Castelo de Neuschwanstein. "
- ### Palácio Real de Madrid ###
- USoE636: "Palácio Real de Madrid"
- USoE636_desc: "O Palácio Real de Madrid é a residência oficial da família real espanhola na cidade de Madrid, embora agora seja usado apenas para cerimônias do Estado. O palácio tem 135.000 metros quadrados de área e 3.418 quartos. É o maior palácio real em funcionamento e o maior em área útil da Europa. "
- ### Palácio de Versailles ###
- USoE637: "Palácio de Versailles"
- USoE637_desc: "O Palácio de Versalhes foi a principal residência real da França de 1682, sob Luís XIV, até o início da Revolução Francesa em 1789, sob Luís XVI. O palácio é agora um monumento histórico e Patrimônio Mundial da UNESCO, notável especialmente para o cerimonial Hall of Mirrors e os vastos jardins de Versalhes com fontes, canais e canteiros de flores geométricas e bosques. "
- ### Palácio de Buckingham ###
- USoE638: "Palácio de Buckingham"
- USoE638_desc: "O Palácio de Buckingham é a residência em Londres e a sede administrativa do monarca do Reino Unido. Localizado na cidade de Westminster, o palácio costuma ser o centro das ocasiões de estado e da hospitalidade real. Tem sido um ponto focal para o povo britânico em tempos de alegria e luto nacional. "
+ USoE635_desc: "O Castelo de Neuschwanstein Ã© um palÃ¡cio renascentista do sÃ©culo 19 em uma colina escarpada no sudoeste da Baviera, Alemanha. O palÃ¡cio foi encomendado pelo rei Ludwig II da Baviera. O castelo foi planejado para ser o lar do rei, atÃ© que ele morreu em 1886. foi aberto ao pÃºblico logo apÃ³s sua morte. Desde entÃ£o, mais de 61 milhÃµes de pessoas visitaram o Castelo de Neuschwanstein. "
+ ### PalÃ¡cio Real de Madrid ###
+ USoE636: "PalÃ¡cio Real de Madrid"
+ USoE636_desc: "O PalÃ¡cio Real de Madrid Ã© a residÃªncia oficial da famÃ­lia real espanhola na cidade de Madrid, embora agora seja usado apenas para cerimÃ´nias do Estado. O palÃ¡cio tem 135.000 metros quadrados de Ã¡rea e 3.418 quartos. Ã‰ o maior palÃ¡cio real em funcionamento e o maior em Ã¡rea Ãºtil da Europa. "
+ ### PalÃ¡cio de Versailles ###
+ USoE637: "PalÃ¡cio de Versailles"
+ USoE637_desc: "O PalÃ¡cio de Versalhes foi a principal residÃªncia real da FranÃ§a de 1682, sob LuÃ­s XIV, atÃ© o inÃ­cio da RevoluÃ§Ã£o Francesa em 1789, sob LuÃ­s XVI. O palÃ¡cio Ã© agora um monumento histÃ³rico e PatrimÃ´nio Mundial da UNESCO, notÃ¡vel especialmente para o cerimonial Hall of Mirrors e os vastos jardins de Versalhes com fontes, canais e canteiros de flores geomÃ©tricas e bosques. "
+ ### PalÃ¡cio de Buckingham ###
+ USoE638: "PalÃ¡cio de Buckingham"
+ USoE638_desc: "O PalÃ¡cio de Buckingham Ã© a residÃªncia em Londres e a sede administrativa do monarca do Reino Unido. Localizado na cidade de Westminster, o palÃ¡cio costuma ser o centro das ocasiÃµes de estado e da hospitalidade real. Tem sido um ponto focal para o povo britÃ¢nico em tempos de alegria e luto nacional. "
  ### Hofburg ###
  USoE639: "Hofburg"
- USoE639_desc: "O Hofburg é o antigo palácio imperial principal dos governantes da dinastia dos Habsburgos e hoje serve como residência oficial e local de trabalho do presidente da Áustria. Ele está localizado no centro de Viena e foi construído no século 13 e ampliado várias vezes depois disso. "
+ USoE639_desc: "O Hofburg Ã© o antigo palÃ¡cio imperial principal dos governantes da dinastia dos Habsburgos e hoje serve como residÃªncia oficial e local de trabalho do presidente da Ãustria. Ele estÃ¡ localizado no centro de Viena e foi construÃ­do no sÃ©culo 13 e ampliado vÃ¡rias vezes depois disso. "
  ### Sanssouci ###
  USoE640: "Sanssouci"
- USoE640_desc: "Sanssouci era o palácio de verão de Frederico, o Grande, rei da Prússia, em Potsdam, perto de Berlim. É frequentemente contado entre os rivais alemães de Versalhes. Enquanto Sanssouci tem um estilo rococó mais íntimo e é muito menor que seu equivalente barroco francês , também é notável pelos numerosos templos e loucuras do parque. "
- ### Um Novo Palácio ###
- USoE641: "Um novo palácio"
- USoE641_desc: "Um novo imperador precisa de um novo palácio, não de um monumento histórico. Vamos construir um novo palácio com arquitetura moderna em Bruxelas."
- ### Coroação ###
- USoE642: "Coroação"
- USoE642_desc: "A Europa precisa se preparar para a coroação do novo imperador. Mas, primeiro, precisa decidir qual coroa o imperador deve usar e quem deve fazer a coroação."
+ USoE640_desc: "Sanssouci era o palÃ¡cio de verÃ£o de Frederico, o Grande, rei da PrÃºssia, em Potsdam, perto de Berlim. Ã‰ frequentemente contado entre os rivais alemÃ£es de Versalhes. Enquanto Sanssouci tem um estilo rococÃ³ mais Ã­ntimo e Ã© muito menor que seu equivalente barroco francÃªs , tambÃ©m Ã© notÃ¡vel pelos numerosos templos e loucuras do parque. "
+ ### Um Novo PalÃ¡cio ###
+ USoE641: "Um novo palÃ¡cio"
+ USoE641_desc: "Um novo imperador precisa de um novo palÃ¡cio, nÃ£o de um monumento histÃ³rico. Vamos construir um novo palÃ¡cio com arquitetura moderna em Bruxelas."
+ ### CoroaÃ§Ã£o ###
+ USoE642: "CoroaÃ§Ã£o"
+ USoE642_desc: "A Europa precisa se preparar para a coroaÃ§Ã£o do novo imperador. Mas, primeiro, precisa decidir qual coroa o imperador deve usar e quem deve fazer a coroaÃ§Ã£o."
  ### A Coroa Imperial ###
  USoE643: "A Coroa Imperial"
- USoE643_desc: "O novo império é a continuação e o legado do Sacro Império Romano, então o imperador precisa usar a Coroa do Sacro Império Romano."
- ### Uma Nova Coroa Ecumênica ###
- USoE644: "Uma Nova Coroa Ecumênica"
- USoE644_desc: "Um novo império e um novo imperador precisam de uma nova coroa e não de uma relíquia histórica."
+ USoE643_desc: "O novo impÃ©rio Ã© a continuaÃ§Ã£o e o legado do Sacro ImpÃ©rio Romano, entÃ£o o imperador precisa usar a Coroa do Sacro ImpÃ©rio Romano."
+ ### Uma Nova Coroa EcumÃªnica ###
+ USoE644: "Uma Nova Coroa EcumÃªnica"
+ USoE644_desc: "Um novo impÃ©rio e um novo imperador precisam de uma nova coroa e nÃ£o de uma relÃ­quia histÃ³rica."
  ### Pelo Papa ###
  USoE645: "Pelo Papa"
- USoE645_desc: "O novo imperador pela graça de Deus precisa ser coroado pelo papa."
+ USoE645_desc: "O novo imperador pela graÃ§a de Deus precisa ser coroado pelo papa."
  ### Pelas pessoas ###
  USoE646: "Pelas pessoas"
- USoE646_desc: "O novo imperador precisa ser coroado pelo povo, então vamos convocar uma eleição para legitimar o governo de Sua Majestade."
- ### O Sagrado Império Europeu ###
- USoE647: "O Sagrado Império Europeu"
- USoE647_desc: "O imperador é coroado e o Sacro Império Europeu é estabelecido."
+ USoE646_desc: "O novo imperador precisa ser coroado pelo povo, entÃ£o vamos convocar uma eleiÃ§Ã£o para legitimar o governo de Sua Majestade."
+ ### O Sagrado ImpÃ©rio Europeu ###
+ USoE647: "O Sagrado ImpÃ©rio Europeu"
+ USoE647_desc: "O imperador Ã© coroado e o Sacro ImpÃ©rio Europeu Ã© estabelecido."
  ### Pax Occidentalis ###
  USoE700: "Pax Occidentalis"
- USoE700_desc: "A Europa adquiriu domínio global e pode impor a paz mundial. Esta era será chamada de Pax Occidentalis."
- ### Guardiões da Paz Mundial ###
- USoE701: "Guardiões da Paz Mundial"
- USoE701_desc: "Europa, América, Rússia e China estabeleceram suas esferas de influência. Cada superpotência impõe a paz em sua esfera e, portanto, eles são os guardiões da paz mundial."
+ USoE700_desc: "A Europa adquiriu domÃ­nio global e pode impor a paz mundial. Esta era serÃ¡ chamada de Pax Occidentalis."
+ ### GuardiÃµes da Paz Mundial ###
+ USoE701: "GuardiÃµes da Paz Mundial"
+ USoE701_desc: "Europa, AmÃ©rica, RÃºssia e China estabeleceram suas esferas de influÃªncia. Cada superpotÃªncia impÃµe a paz em sua esfera e, portanto, eles sÃ£o os guardiÃµes da paz mundial."
 
 
  #######################################
- ### líderes militares traço ###
+ ### lÃ­deres militares traÃ§o ###
  #######################################
 
- military_reorganization: "Reorganização Militar"
- military_reorganization_desc: "A reorganização das forças armadas torna os líderes ineficientes até que o processo seja concluído e novas doutrinas sejam aplicadas."
+ military_reorganization: "ReorganizaÃ§Ã£o Militar"
+ military_reorganization_desc: "A reorganizaÃ§Ã£o das forÃ§as armadas torna os lÃ­deres ineficientes atÃ© que o processo seja concluÃ­do e novas doutrinas sejam aplicadas."
 
  ###################
- ### ameaças ###
+ ### ameaÃ§as ###
  ###################
 
- USoE_clash_of_civilizations: "Choque de Civilizações"
- USoE_asian_westernization: "Ocidentalização asiática"
+ USoE_clash_of_civilizations: "Choque de CivilizaÃ§Ãµes"
+ USoE_asian_westernization: "OcidentalizaÃ§Ã£o asiÃ¡tica"
 
  ################
  ### Ideias ###
  ################
 
- USoE_heart_of_iron: "Um Coração de Ferro"
- USoE_heart_of_iron_desc: "Antigamente, os ferreiros forjavam um Trono de Ferro com as armas dos vilões derrotados. Em nossos dias, apenas declaramos que a Europa provou que é um Coração de Ferro e agora é o governante mundial incontestado!"
+ USoE_heart_of_iron: "Um CoraÃ§Ã£o de Ferro"
+ USoE_heart_of_iron_desc: "Antigamente, os ferreiros forjavam um Trono de Ferro com as armas dos vilÃµes derrotados. Em nossos dias, apenas declaramos que a Europa provou que Ã© um CoraÃ§Ã£o de Ferro e agora Ã© o governante mundial incontestado!"
  USoE_digital_democracy: "Democracia Digital"
- USoE_digital_democracy_desc: "A Europa precisa reformar suas instituições democráticas para a era digital. Com as mídias sociais e as redes sociais, as pessoas podem participar diretamente da legislação e do governo."
+ USoE_digital_democracy_desc: "A Europa precisa reformar suas instituiÃ§Ãµes democrÃ¡ticas para a era digital. Com as mÃ­dias sociais e as redes sociais, as pessoas podem participar diretamente da legislaÃ§Ã£o e do governo."
  USoE_AI_government: "AI Government"
- USoE_AI_government_desc: "A inteligência artificial evoluiu o suficiente para governar um país mais eficiente do que um político humano ineficiente e possivelmente corrupto. O agente de IA do partido no poder assumirá o controle e governará o país com base nos valores do partido no poder."
- USoE_knights_of_the_new_empire: "Cavaleiros do novo Império"
- USoE_knights_of_the_new_empire_desc: "Em um mundo hostil, os militares assumiram o controle da Europa para salvar seu povo de políticos corruptos e potências estrangeiras."
- USoE_knights_of_the_new_empire_army: "Cavaleiros do novo Império-General dos Exércitos Europeus"
- USoE_knights_of_the_new_empire_army_desc: "O estado-maior geral decidiu que a Europa será liderada por um general do exército. Ele receberá o título de General dos Exércitos Europeus."
- USoE_knights_of_the_new_empire_air_force: "Cavaleiros do novo Império-Marechal da Força Aérea da Europa"
- USoE_knights_of_the_new_empire_air_force_desc: "O estado-maior geral decidiu que a Europa será liderada por um general da Força Aérea. Ele será premiado com o posto de Marechal da Força Aérea da Europa."
- USoE_knights_of_the_new_empire_navy: "Cavaleiros do novo Império-Almirante da Frota da Europa"
- USoE_knights_of_the_new_empire_navy_desc: "O estado-maior geral decidiu que a Europa será liderada por um almirante. Ele será premiado com o posto de almirante da frota da Europa."
- USoE_holy_european_empire: "Sacro Império Europeu"
- USoE_holy_european_empire_desc: "O Imperador é coroado e o Sacro Império Europeu é estabelecido."
+ USoE_AI_government_desc: "A inteligÃªncia artificial evoluiu o suficiente para governar um paÃ­s mais eficiente do que um polÃ­tico humano ineficiente e possivelmente corrupto. O agente de IA do partido no poder assumirÃ¡ o controle e governarÃ¡ o paÃ­s com base nos valores do partido no poder."
+ USoE_knights_of_the_new_empire: "Cavaleiros do novo ImpÃ©rio"
+ USoE_knights_of_the_new_empire_desc: "Em um mundo hostil, os militares assumiram o controle da Europa para salvar seu povo de polÃ­ticos corruptos e potÃªncias estrangeiras."
+ USoE_knights_of_the_new_empire_army: "Cavaleiros do novo ImpÃ©rio-General dos ExÃ©rcitos Europeus"
+ USoE_knights_of_the_new_empire_army_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um general do exÃ©rcito. Ele receberÃ¡ o tÃ­tulo de General dos ExÃ©rcitos Europeus."
+ USoE_knights_of_the_new_empire_air_force: "Cavaleiros do novo ImpÃ©rio-Marechal da ForÃ§a AÃ©rea da Europa"
+ USoE_knights_of_the_new_empire_air_force_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um general da ForÃ§a AÃ©rea. Ele serÃ¡ premiado com o posto de Marechal da ForÃ§a AÃ©rea da Europa."
+ USoE_knights_of_the_new_empire_navy: "Cavaleiros do novo ImpÃ©rio-Almirante da Frota da Europa"
+ USoE_knights_of_the_new_empire_navy_desc: "O estado-maior geral decidiu que a Europa serÃ¡ liderada por um almirante. Ele serÃ¡ premiado com o posto de almirante da frota da Europa."
+ USoE_holy_european_empire: "Sacro ImpÃ©rio Europeu"
+ USoE_holy_european_empire_desc: "O Imperador Ã© coroado e o Sacro ImpÃ©rio Europeu Ã© estabelecido."
  USoE_pax_occidentalis: "Pax Occidentalis"
- USoE_pax_occidentalis_desc: "A Europa adquiriu domínio global e pode impor a paz mundial. Esta era será chamada de Pax Occidentalis."
- USoE_guardians_of_world_peace: "Guardiões da Paz Mundial"
- USoE_guardians_of_world_peace_desc: "Europa, América, Rússia e China estabeleceram sua esfera de influência. Cada superpotência impõe a paz em sua esfera e, portanto, eles são os Guardiões da Paz Mundial."
- USoE_environmental_sanctions: "Sanções Ambientais"
- USoE_environmental_sanctions_desc: "Sanções Ambientais da Europa."
+ USoE_pax_occidentalis_desc: "A Europa adquiriu domÃ­nio global e pode impor a paz mundial. Esta era serÃ¡ chamada de Pax Occidentalis."
+ USoE_guardians_of_world_peace: "GuardiÃµes da Paz Mundial"
+ USoE_guardians_of_world_peace_desc: "Europa, AmÃ©rica, RÃºssia e China estabeleceram sua esfera de influÃªncia. Cada superpotÃªncia impÃµe a paz em sua esfera e, portanto, eles sÃ£o os GuardiÃµes da Paz Mundial."
+ USoE_environmental_sanctions: "SanÃ§Ãµes Ambientais"
+ USoE_environmental_sanctions_desc: "SanÃ§Ãµes Ambientais da Europa."
 
  #################
  ### eventos ###
  #################
 
- USoEevent.1.t: "[FROM.GetName] oferece um pacto de não agressão"
- USoEevent.1.d: "[FROM.GetName] oferece um pacto de não agressão."
+ USoEevent.1.t: "[FROM.GetName] oferece um pacto de nÃ£o agressÃ£o"
+ USoEevent.1.d: "[FROM.GetName] oferece um pacto de nÃ£o agressÃ£o."
  USoEevent.1.a: "OK!"
- USoEevent.1.b: "Não!"
+ USoEevent.1.b: "NÃ£o!"
 
- USoEevent.2.t: "[FROM.GetName] oferece uma aliança"
- USoEevent.2.d: "[FROM.GetName] oferece uma aliança."
+ USoEevent.2.t: "[FROM.GetName] oferece uma alianÃ§a"
+ USoEevent.2.d: "[FROM.GetName] oferece uma alianÃ§a."
  USoEevent.2.a: "OK!"
- USoEevent.2.b: "Não!"
+ USoEevent.2.b: "NÃ£o!"
  
- USoEevent.3.t: "[FROM.GetName] oferece aliança ou ataque"
- USoEevent.3.d: "[FROM.GetName] oferece uma aliança ou eles vão nos atacar."
+ USoEevent.3.t: "[FROM.GetName] oferece alianÃ§a ou ataque"
+ USoEevent.3.d: "[FROM.GetName] oferece uma alianÃ§a ou eles vÃ£o nos atacar."
  USoEevent.3.a: "Ok, vamos nos aliar!"
- USoEevent.3.b: "Não, vamos lutar!"
+ USoEevent.3.b: "NÃ£o, vamos lutar!"
 
- USoEevent.4.t: "[FROM.GetName] oferece aliança ou ataque"
- USoEevent.4.d: "[FROM.GetName] oferece uma aliança ou eles vão nos atacar."
+ USoEevent.4.t: "[FROM.GetName] oferece alianÃ§a ou ataque"
+ USoEevent.4.d: "[FROM.GetName] oferece uma alianÃ§a ou eles vÃ£o nos atacar."
  USoEevent.4.a: "Ok, vamos nos aliar!"
- USoEevent.4.b: "Não, vamos lutar!"
+ USoEevent.4.b: "NÃ£o, vamos lutar!"
 
  USoEevent.5.t: "Imperialismo Ambiental em [FROM.GetName]-Sucesso!"
  USoEevent.5.d: "[FROM.GetName] aceitou nossas demandas ambientais."
  USoEevent.5.a: "OK!"
 
- USoEevent.6.t: "Imperialismo Ambiental em [FROM.GetName]-Sanções impostas!"
- USoEevent.6.d: "[FROM.GetName] não aceitou nossas demandas ambientais. Sanções são impostas!"
+ USoEevent.6.t: "Imperialismo Ambiental em [FROM.GetName]-SanÃ§Ãµes impostas!"
+ USoEevent.6.d: "[FROM.GetName] nÃ£o aceitou nossas demandas ambientais. SanÃ§Ãµes sÃ£o impostas!"
  USoEevent.6.a: "OK!"
 
- USoEevent.7.t: "Sanções ambientais violadas por [FROM.GetName]!"
- USoEevent.7.d: "[FROM.GetName] quebrou nossas sanções."
+ USoEevent.7.t: "SanÃ§Ãµes ambientais violadas por [FROM.GetName]!"
+ USoEevent.7.d: "[FROM.GetName] quebrou nossas sanÃ§Ãµes."
  USoEevent.7.a: "OK!"
 
  ############################
- ### Decisões USoE ###
+ ### DecisÃµes USoE ###
  ############################
 
  ### USoE Decision Category ###
  EU_USoE_category: "Os Estados Unidos da Europa"
- EU_USoE_category_desc: "Os estados membros da União Européia se uniram em um único superestado."
+ EU_USoE_category_desc: "Os estados membros da UniÃ£o EuropÃ©ia se uniram em um Ãºnico superestado."
 
  EU_USoE_capital_of_europe: "Capital da Europa"
- EU_USoE_capital_of_europe_desc: "Bruxelas é considerada a capital de facto da União Europeia, tendo uma longa história de acolhimento de várias das principais instituições da UE no seu bairro europeu. A UE não tinha capital oficial, mas Bruxelas acolheu as sedes oficiais da Comissão Europeia, Conselho da União Europeia e do Conselho Europeu, bem como uma sede (oficialmente a segunda sede, mas de facto a mais importante) do Parlamento Europeu. Vamos fazer de Bruxelas a capital da nova nação. "
+ EU_USoE_capital_of_europe_desc: "Bruxelas Ã© considerada a capital de facto da UniÃ£o Europeia, tendo uma longa histÃ³ria de acolhimento de vÃ¡rias das principais instituiÃ§Ãµes da UE no seu bairro europeu. A UE nÃ£o tinha capital oficial, mas Bruxelas acolheu as sedes oficiais da ComissÃ£o Europeia, Conselho da UniÃ£o Europeia e do Conselho Europeu, bem como uma sede (oficialmente a segunda sede, mas de facto a mais importante) do Parlamento Europeu. Vamos fazer de Bruxelas a capital da nova naÃ§Ã£o. "
 
  EU_USoE_westernize_decision: "Westernize [FROM.GetName]"
- EU_USoE_westernize_decision_desc: "Westernize [FROM.GetName] por diplomacia ou força, depende de [FROM.GetName]."
+ EU_USoE_westernize_decision_desc: "Westernize [FROM.GetName] por diplomacia ou forÃ§a, depende de [FROM.GetName]."
 
  EU_USoE_create_eurosphere_decision: "Crie o Euroshpere"
- EU_USoE_create_eurosphere_decision_desc: "[ROOT.GetNameWithFlag] espalhará sua influência para criar o Euroshpere."
+ EU_USoE_create_eurosphere_decision_desc: "[ROOT.GetNameWithFlag] espalharÃ¡ sua influÃªncia para criar o Euroshpere."
  
  ### Imperialismo Ambiental ###
 
  ### Imperialismo Ambiental ###
  EU_environmental_imperialism_category: "Imperialismo Ambiental"
- EU_environmental_imperialism_category_desc: "A Europa é verde, mas o mundo ainda é escuro e cinza. A Europa precisa espalhar suas políticas e tecnologias por todo o globo e lutar contra os impérios de energia fóssil que estão destruindo o planeta."
+ EU_environmental_imperialism_category_desc: "A Europa Ã© verde, mas o mundo ainda Ã© escuro e cinza. A Europa precisa espalhar suas polÃ­ticas e tecnologias por todo o globo e lutar contra os impÃ©rios de energia fÃ³ssil que estÃ£o destruindo o planeta."
 
 
  EU_USoE_environmental_imperialism_decision: "Exigir Reformas Ambientais"
- EU_USoE_environmental_imperialism_decision_desc: "Precisamos salvar o planeta. Se §Y [FROM.GetNameWithFlag] §! Não fizer as §Reformas ambientais§! Por eles mesmos, precisamos forçá-los a fazer isso. Eles precisam ter pelo menos um §YBiocombustível Refinaria§! Para cada estado que possuem. Se §Y [FROM.GetNameWithFlag] §! Não atender às nossas demandas dentro de um mês, imporemos §Sanções ambientais§! Sobre eles. "
+ EU_USoE_environmental_imperialism_decision_desc: "Precisamos salvar o planeta. Se Â§Y [FROM.GetNameWithFlag] Â§! NÃ£o fizer as Â§Reformas ambientaisÂ§! Por eles mesmos, precisamos forÃ§Ã¡-los a fazer isso. Eles precisam ter pelo menos um Â§YBiocombustÃ­vel RefinariaÂ§! Para cada estado que possuem. Se Â§Y [FROM.GetNameWithFlag] Â§! NÃ£o atender Ã s nossas demandas dentro de um mÃªs, imporemos Â§SanÃ§Ãµes ambientaisÂ§! Sobre eles. "
 
  EU_USoE_environmental_imperialism_mission: "Reformas Ambientais"
- EU_USoE_environmental_imperialism_mission_desc: "§YEurope§! Exige §Reformas Ambientais§! De nós para salvar o planeta. Se não construirmos ou reconstruirmos pelo menos uma §YRefinaria de Biocombustível§! Para cada estado que possuímos dentro de um mês, eles imporão §Sanções ambientais§§ ! sobre nós. "
- EU_USoE_environmental_imperialism_restructure_industry_decision: "Reconstrução de energia verde"
- EU_USoE_environmental_imperialism_restructure_industry_decision: "Para cumprir as exigências da § Reforma Ambiental§! Na Europa, precisamos reconstruir parte de nossa §Indústria Civil§! Para um produtor de energia renovável (§YBiofuel Refinery§!)."
- EU_USoE_break_environmental_sanctions_decision: "Quebre as Sanções Ambientais"
- EU_USoE_break_environmental_sanctions_decision_desc: "A Europa impôs Sanções Ambientais sobre nós. Precisamos quebrá-las com todos os meios-políticos e militares. Mas isso dará a [FROM.GetNameWithFlag] uma meta de guerra para nós. Portanto, precisamos nos aliar a outros países sancionados por [FROM.GetNameWithFlag ]. "
+ EU_USoE_environmental_imperialism_mission_desc: "Â§YEuropeÂ§! Exige Â§Reformas AmbientaisÂ§! De nÃ³s para salvar o planeta. Se nÃ£o construirmos ou reconstruirmos pelo menos uma Â§YRefinaria de BiocombustÃ­velÂ§! Para cada estado que possuÃ­mos dentro de um mÃªs, eles imporÃ£o Â§SanÃ§Ãµes ambientaisÂ§Â§ ! sobre nÃ³s. "
+ EU_USoE_environmental_imperialism_restructure_industry_decision: "ReconstruÃ§Ã£o de energia verde"
+ EU_USoE_environmental_imperialism_restructure_industry_decision: "Para cumprir as exigÃªncias da Â§ Reforma AmbientalÂ§! Na Europa, precisamos reconstruir parte de nossa Â§IndÃºstria CivilÂ§! Para um produtor de energia renovÃ¡vel (Â§YBiofuel RefineryÂ§!)."
+ EU_USoE_break_environmental_sanctions_decision: "Quebre as SanÃ§Ãµes Ambientais"
+ EU_USoE_break_environmental_sanctions_decision_desc: "A Europa impÃ´s SanÃ§Ãµes Ambientais sobre nÃ³s. Precisamos quebrÃ¡-las com todos os meios-polÃ­ticos e militares. Mas isso darÃ¡ a [FROM.GetNameWithFlag] uma meta de guerra para nÃ³s. Portanto, precisamos nos aliar a outros paÃ­ses sancionados por [FROM.GetNameWithFlag ]. "
 
  #Europa
  EU_USoE_environmental_imperialism_show_europe: "Imperialismo Ambiental na Europa"
@@ -387,43 +387,43 @@ l_braz_por:
  EU_USoE_environmental_imperialism_hide_europe: "Esconder o Imperialismo Ambiental na Europa"
  EU_USoE_environmental_imperialism_hide_europe_desc: "Esconder o Imperialismo Ambiental na Europa"
 
- #América do Norte
- EU_USoE_environmental_imperialism_show_north_america: "Imperialismo Ambiental na América do Norte"
- EU_USoE_environmental_imperialism_show_north_america_desc: "Imperialismo Ambiental na América do Norte"
- EU_USoE_environmental_imperialism_hide_north_america: "Esconder o Imperialismo Ambiental na América do Norte"
- EU_USoE_environmental_imperialism_hide_north_america_desc: "Esconder o Imperialismo Ambiental na América do Norte"
+ #AmÃ©rica do Norte
+ EU_USoE_environmental_imperialism_show_north_america: "Imperialismo Ambiental na AmÃ©rica do Norte"
+ EU_USoE_environmental_imperialism_show_north_america_desc: "Imperialismo Ambiental na AmÃ©rica do Norte"
+ EU_USoE_environmental_imperialism_hide_north_america: "Esconder o Imperialismo Ambiental na AmÃ©rica do Norte"
+ EU_USoE_environmental_imperialism_hide_north_america_desc: "Esconder o Imperialismo Ambiental na AmÃ©rica do Norte"
  
- #América do Sul
- EU_USoE_environmental_imperialism_show_south_america: "Imperialismo Ambiental na América do Sul"
- EU_USoE_environmental_imperialism_show_south_america_desc: "Imperialismo Ambiental na América do Sul"
- EU_USoE_environmental_imperialism_hide_south_america: "Esconder o Imperialismo Ambiental na América do Sul"
- EU_USoE_environmental_imperialism_hide_south_america_desc: "Esconder o Imperialismo Ambiental na América do Sul"
+ #AmÃ©rica do Sul
+ EU_USoE_environmental_imperialism_show_south_america: "Imperialismo Ambiental na AmÃ©rica do Sul"
+ EU_USoE_environmental_imperialism_show_south_america_desc: "Imperialismo Ambiental na AmÃ©rica do Sul"
+ EU_USoE_environmental_imperialism_hide_south_america: "Esconder o Imperialismo Ambiental na AmÃ©rica do Sul"
+ EU_USoE_environmental_imperialism_hide_south_america_desc: "Esconder o Imperialismo Ambiental na AmÃ©rica do Sul"
 
- #África
- EU_USoE_environmental_imperialism_show_africa: "Imperialismo Ambiental na África"
- EU_USoE_environmental_imperialism_show_africa_desc: "Imperialismo Ambiental na África"
- EU_USoE_environmental_imperialism_hide_africa: "Esconder o Imperialismo Ambiental na África"
- EU_USoE_environmental_imperialism_hide_africa_desc: "Esconder o Imperialismo Ambiental na África"
+ #Ãfrica
+ EU_USoE_environmental_imperialism_show_africa: "Imperialismo Ambiental na Ãfrica"
+ EU_USoE_environmental_imperialism_show_africa_desc: "Imperialismo Ambiental na Ãfrica"
+ EU_USoE_environmental_imperialism_hide_africa: "Esconder o Imperialismo Ambiental na Ãfrica"
+ EU_USoE_environmental_imperialism_hide_africa_desc: "Esconder o Imperialismo Ambiental na Ãfrica"
 
- #Ásia
- EU_USoE_environmental_imperialism_show_asia: "Imperialismo Ambiental na Ásia"
- EU_USoE_environmental_imperialism_show_asia_desc: "Imperialismo Ambiental na Ásia"
- EU_USoE_environmental_imperialism_hide_asia: "Esconder o Imperialismo Ambiental na Ásia"
- EU_USoE_environmental_imperialism_hide_asia_desc: "Esconder o Imperialismo Ambiental na Ásia"
+ #Ãsia
+ EU_USoE_environmental_imperialism_show_asia: "Imperialismo Ambiental na Ãsia"
+ EU_USoE_environmental_imperialism_show_asia_desc: "Imperialismo Ambiental na Ãsia"
+ EU_USoE_environmental_imperialism_hide_asia: "Esconder o Imperialismo Ambiental na Ãsia"
+ EU_USoE_environmental_imperialism_hide_asia_desc: "Esconder o Imperialismo Ambiental na Ãsia"
 
- #Médio Oriente
- EU_USoE_environmental_imperialism_show_middle_east: "Imperialismo Ambiental no Oriente Médio"
- EU_USoE_environmental_imperialism_show_middle_east_desc: "Imperialismo Ambiental no Oriente Médio"
- EU_USoE_environmental_imperialism_hide_middle_east: "Esconder o Imperialismo Ambiental no Oriente Médio"
- EU_USoE_environmental_imperialism_hide_middle_east_desc: "Esconder o Imperialismo Ambiental no Oriente Médio"
+ #MÃ©dio Oriente
+ EU_USoE_environmental_imperialism_show_middle_east: "Imperialismo Ambiental no Oriente MÃ©dio"
+ EU_USoE_environmental_imperialism_show_middle_east_desc: "Imperialismo Ambiental no Oriente MÃ©dio"
+ EU_USoE_environmental_imperialism_hide_middle_east: "Esconder o Imperialismo Ambiental no Oriente MÃ©dio"
+ EU_USoE_environmental_imperialism_hide_middle_east_desc: "Esconder o Imperialismo Ambiental no Oriente MÃ©dio"
 
- #Pacífico
- EU_USoE_environmental_imperialism_show_pacific: "Imperialismo Ambiental no Pacífico"
- EU_USoE_environmental_imperialism_show_pacific_desc: "Imperialismo Ambiental no Pacífico"
- EU_USoE_environmental_imperialism_hide_pacific: "Esconder o Imperialismo Ambiental no Pacífico"
- EU_USoE_environmental_imperialism_hide_pacific_desc: "Esconder o Imperialismo Ambiental no Pacífico"
+ #PacÃ­fico
+ EU_USoE_environmental_imperialism_show_pacific: "Imperialismo Ambiental no PacÃ­fico"
+ EU_USoE_environmental_imperialism_show_pacific_desc: "Imperialismo Ambiental no PacÃ­fico"
+ EU_USoE_environmental_imperialism_hide_pacific: "Esconder o Imperialismo Ambiental no PacÃ­fico"
+ EU_USoE_environmental_imperialism_hide_pacific_desc: "Esconder o Imperialismo Ambiental no PacÃ­fico"
 
- #Oceânia
+ #OceÃ¢nia
  EU_USoE_environmental_imperialism_show_oceania: "Imperialismo Ambiental na Oceania"
  EU_USoE_environmental_imperialism_show_oceania_desc: "Imperialismo Ambiental na Oceania"
  EU_USoE_environmental_imperialism_hide_oceania: "Esconder o Imperialismo Ambiental na Oceania"
@@ -436,131 +436,131 @@ l_braz_por:
  ####################
 
  ### dicas de efeito ###
- tooltip_USoE_capital: "Decisão §YCapital da Europa§! Torna-se disponível."
- tooltip_USoE_westernize_THIS: "torna-se alvo de §Ydecisão de desmatamento§! de §Y [ROOT.GetNameWithFlag] §!"
- tooltip_create_eurosphere: "§Y [ROOT.GetNameWithFlag] §! Espalha sua influência em todos os países vizinhos em §YEurope§ !, §YMiddle East§! E §YAfrica§! Com influência <50%."
- tooltip_USoE_environmental_imperialism: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§ !."
- tooltip_focus_USoE503: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em todos os §Ypotências regionais§! Na §YAmérica do Norte§ !."
- tooltip_focus_USoE504: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Na §Yamérica do Sul§ !."
- tooltip_focus_USoE505: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YEuropa§ !."
- tooltip_focus_USoE506: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YÁfrica§ !."
- tooltip_focus_USoE507: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YMédio Oriente§ !."
- tooltip_focus_USoE508: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YAsia§ !."
- tooltip_focus_USoE509: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YOceania§ !."
- tooltip_focus_USoE510: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! No §YPacífico§ !."
- tooltip_green_energy_reconstruction: "§YPara cada refinaria de biocombustível convertida§ !: custa$§R-1§! §Ybillion§! E §Y [THIS.Neutral_green_L] §! Ganham §G5% §! Suporte (para quando> 50%)."
- tooltip_EU_USoE_environmental_puppet: "§Y [ROOT.GetNameWithFlag] §! Será considerado como §YMonitor de ambiente§ !."
- tooltip_USoE403_effect: "§Y [THIS.anarchist_communism_L] §! Tamanhos de poder!"
- tooltip_USoE404_effect: "Define §YNível de corrupção§! Para §YNegligible Corrupção§ !."
- tooltip_USoE501_effect: "§Y [THIS.Neutral_green_L] §! Tamanhos de potência!"
- tooltip_USoE605_effect: "§Y [THIS.Nat_Autocracy_L] §! Tamanhos de poder!"
- tooltip_USoE645_effect: "O novo §YEmperor§! É coroado. §Y [THIS.Monarchist_L] §! Dimensiona o poder!"
- tooltip_USoE646_effect: "O novo §YEmperor§! É coroado. §Y [THIS.Monarchist_L] §! Dimensiona o poder!"
+ tooltip_USoE_capital: "DecisÃ£o Â§YCapital da EuropaÂ§! Torna-se disponÃ­vel."
+ tooltip_USoE_westernize_THIS: "torna-se alvo de Â§YdecisÃ£o de desmatamentoÂ§! de Â§Y [ROOT.GetNameWithFlag] Â§!"
+ tooltip_create_eurosphere: "Â§Y [ROOT.GetNameWithFlag] Â§! Espalha sua influÃªncia em todos os paÃ­ses vizinhos em Â§YEuropeÂ§ !, Â§YMiddle EastÂ§! E Â§YAfricaÂ§! Com influÃªncia <50%."
+ tooltip_USoE_environmental_imperialism: "Obtenha Â§YdecisÃµes do Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§ !."
+ tooltip_focus_USoE503: "Obtenha Â§YdecisÃµes sobre o Imperialismo AmbientalÂ§! Em todos os Â§YpotÃªncias regionaisÂ§! Na Â§YAmÃ©rica do NorteÂ§ !."
+ tooltip_focus_USoE504: "Obtenha Â§YdecisÃµes sobre o Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Na Â§YamÃ©rica do SulÂ§ !."
+ tooltip_focus_USoE505: "Obtenha Â§YdecisÃµes sobre o Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Em Â§YEuropaÂ§ !."
+ tooltip_focus_USoE506: "Obtenha Â§YdecisÃµes sobre o Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Em Â§YÃfricaÂ§ !."
+ tooltip_focus_USoE507: "Obtenha Â§YdecisÃµes do Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Em Â§YMÃ©dio OrienteÂ§ !."
+ tooltip_focus_USoE508: "Obtenha Â§YdecisÃµes do Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Em Â§YAsiaÂ§ !."
+ tooltip_focus_USoE509: "Obtenha Â§YdecisÃµes sobre o Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! Em Â§YOceaniaÂ§ !."
+ tooltip_focus_USoE510: "Obtenha Â§YdecisÃµes do Imperialismo AmbientalÂ§! Em cada Â§YpotÃªncia regional e acimaÂ§! No Â§YPacÃ­ficoÂ§ !."
+ tooltip_green_energy_reconstruction: "Â§YPara cada refinaria de biocombustÃ­vel convertidaÂ§ !: custa$Â§R-1Â§! Â§YbillionÂ§! E Â§Y [THIS.Neutral_green_L] Â§! Ganham Â§G5% Â§! Suporte (para quando> 50%)."
+ tooltip_EU_USoE_environmental_puppet: "Â§Y [ROOT.GetNameWithFlag] Â§! SerÃ¡ considerado como Â§YMonitor de ambienteÂ§ !."
+ tooltip_USoE403_effect: "Â§Y [THIS.anarchist_communism_L] Â§! Tamanhos de poder!"
+ tooltip_USoE404_effect: "Define Â§YNÃ­vel de corrupÃ§Ã£oÂ§! Para Â§YNegligible CorrupÃ§Ã£oÂ§ !."
+ tooltip_USoE501_effect: "Â§Y [THIS.Neutral_green_L] Â§! Tamanhos de potÃªncia!"
+ tooltip_USoE605_effect: "Â§Y [THIS.Nat_Autocracy_L] Â§! Tamanhos de poder!"
+ tooltip_USoE645_effect: "O novo Â§YEmperorÂ§! Ã‰ coroado. Â§Y [THIS.Monarchist_L] Â§! Dimensiona o poder!"
+ tooltip_USoE646_effect: "O novo Â§YEmperorÂ§! Ã‰ coroado. Â§Y [THIS.Monarchist_L] Â§! Dimensiona o poder!"
 
 
  ### 5% ###
- tooltip_USoE_Western_Autocracy_rise_5: "§Y [THIS.Western_Autocracy_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_conservatism_rise_5: "§Y [THIS.conservatism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_liberalism_rise_5: "§Y [THIS.liberalism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_socialism_rise_5: "§Y [THIS.socialism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Communist-State_rise_5: "§Y [THIS.Communist-State_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_anarchist_communism_rise_5: "§Y [THIS.anarchist_communism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Conservative_rise_5: "§Y [THIS.Conservative_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Autocracy_rise_5: "§Y [THIS.Autocracy_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Mod_Vilayat_e_Faqih_rise_5: "§Y [THIS.Mod_Vilayat_e_Faqih_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Vilayat_e_Faqih_rise_5: "§Y [THIS.Vilayat_e_Faqih_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Kingdom_rise_5: "§Y [THIS.Kingdom_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Caliphate_rise_5: "§Y [THIS.Caliphate_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_Muslim_Brotherhood_rise_5: "§Y [THIS.Neutral_Muslim_Brotherhood_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_Autocracy_rise_5: "§Y [THIS.Neutral_Autocracy_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_conservatism_rise_5: "§Y [THIS.Neutral_conservatism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_oligarchism_rise_5: "§Y [THIS.oligarchism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_Libertarian_rise_5: "§Y [THIS.Neutral_Libertarian_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_green_rise_5: "§Y [THIS.Neutral_green_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_neutral_Social_rise_5: "§Y [THIS.neutral_Social_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Neutral_Communism_rise_5: "§Y [THIS.Neutral_Communism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Nat_Populism_rise_5: "§Y [THIS.Nat_Populism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Nat_Fascism_rise_5: "§Y [THIS.Nat_Fascism_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Nat_Autocracy_rise_5: "§Y [THIS.Nat_Autocracy_L] §! Ganhe §G5% §! Suporte."
- tooltip_USoE_Monarchist_rise_5: "§Y [THIS.Monarchist_L] §! Ganhe §G5% §! Suporte."
+ tooltip_USoE_Western_Autocracy_rise_5: "Â§Y [THIS.Western_Autocracy_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_conservatism_rise_5: "Â§Y [THIS.conservatism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_liberalism_rise_5: "Â§Y [THIS.liberalism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_socialism_rise_5: "Â§Y [THIS.socialism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Communist-State_rise_5: "Â§Y [THIS.Communist-State_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_anarchist_communism_rise_5: "Â§Y [THIS.anarchist_communism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Conservative_rise_5: "Â§Y [THIS.Conservative_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Autocracy_rise_5: "Â§Y [THIS.Autocracy_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Mod_Vilayat_e_Faqih_rise_5: "Â§Y [THIS.Mod_Vilayat_e_Faqih_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Vilayat_e_Faqih_rise_5: "Â§Y [THIS.Vilayat_e_Faqih_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Kingdom_rise_5: "Â§Y [THIS.Kingdom_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Caliphate_rise_5: "Â§Y [THIS.Caliphate_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_Muslim_Brotherhood_rise_5: "Â§Y [THIS.Neutral_Muslim_Brotherhood_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_Autocracy_rise_5: "Â§Y [THIS.Neutral_Autocracy_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_conservatism_rise_5: "Â§Y [THIS.Neutral_conservatism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_oligarchism_rise_5: "Â§Y [THIS.oligarchism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_Libertarian_rise_5: "Â§Y [THIS.Neutral_Libertarian_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_green_rise_5: "Â§Y [THIS.Neutral_green_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_neutral_Social_rise_5: "Â§Y [THIS.neutral_Social_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Neutral_Communism_rise_5: "Â§Y [THIS.Neutral_Communism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Nat_Populism_rise_5: "Â§Y [THIS.Nat_Populism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Nat_Fascism_rise_5: "Â§Y [THIS.Nat_Fascism_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Nat_Autocracy_rise_5: "Â§Y [THIS.Nat_Autocracy_L] Â§! Ganhe Â§G5% Â§! Suporte."
+ tooltip_USoE_Monarchist_rise_5: "Â§Y [THIS.Monarchist_L] Â§! Ganhe Â§G5% Â§! Suporte."
 
  ### 10% ###
- tooltip_USoE_Western_Autocracy_rise_10: "§Y [THIS.Western_Autocracy_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_conservatism_rise_10: "§Y [THIS.conservatism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_liberalism_rise_10: "§Y [THIS.liberalism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_socialism_rise_10: "§Y [THIS.socialism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Communist-State_rise_10: "§Y [THIS.Communist-State_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_anarchist_communism_rise_10: "§Y [THIS.anarchist_communism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Conservative_rise_10: "§Y [THIS.Conservative_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Autocracy_rise_10: "§Y [THIS.Autocracy_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Mod_Vilayat_e_Faqih_rise_10: "§Y [THIS.Mod_Vilayat_e_Faqih_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Vilayat_e_Faqih_rise_10: "§Y [THIS.Vilayat_e_Faqih_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Kingdom_rise_10: "§Y [THIS.Kingdom_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Caliphate_rise_10: "§Y [THIS.Caliphate_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_Muslim_Brotherhood_rise_10: "§Y [THIS.Neutral_Muslim_Brotherhood_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_Autocracy_rise_10: "§Y [THIS.Neutral_Autocracy_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_conservatism_rise_10: "§Y [THIS.Neutral_conservatism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_oligarchism_rise_10: "§Y [THIS.oligarchism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_Libertarian_rise_10: "§Y [THIS.Neutral_Libertarian_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_green_rise_10: "§Y [THIS.Neutral_green_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_neutral_Social_rise_10: "§Y [THIS.neutral_Social_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Neutral_Communism_rise_10: "§Y [THIS.Neutral_Communism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Nat_Populism_rise_10: "§Y [THIS.Nat_Populism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Nat_Fascism_rise_10: "§Y [THIS.Nat_Fascism_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Nat_Autocracy_rise_10: "§Y [THIS.Nat_Autocracy_L] §! Ganhe §G10% §! Suporte."
- tooltip_USoE_Monarchist_rise_10: "§Y [THIS.Monarchist_L] §! Ganhe §G10% §! Suporte."
+ tooltip_USoE_Western_Autocracy_rise_10: "Â§Y [THIS.Western_Autocracy_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_conservatism_rise_10: "Â§Y [THIS.conservatism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_liberalism_rise_10: "Â§Y [THIS.liberalism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_socialism_rise_10: "Â§Y [THIS.socialism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Communist-State_rise_10: "Â§Y [THIS.Communist-State_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_anarchist_communism_rise_10: "Â§Y [THIS.anarchist_communism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Conservative_rise_10: "Â§Y [THIS.Conservative_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Autocracy_rise_10: "Â§Y [THIS.Autocracy_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Mod_Vilayat_e_Faqih_rise_10: "Â§Y [THIS.Mod_Vilayat_e_Faqih_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Vilayat_e_Faqih_rise_10: "Â§Y [THIS.Vilayat_e_Faqih_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Kingdom_rise_10: "Â§Y [THIS.Kingdom_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Caliphate_rise_10: "Â§Y [THIS.Caliphate_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_Muslim_Brotherhood_rise_10: "Â§Y [THIS.Neutral_Muslim_Brotherhood_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_Autocracy_rise_10: "Â§Y [THIS.Neutral_Autocracy_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_conservatism_rise_10: "Â§Y [THIS.Neutral_conservatism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_oligarchism_rise_10: "Â§Y [THIS.oligarchism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_Libertarian_rise_10: "Â§Y [THIS.Neutral_Libertarian_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_green_rise_10: "Â§Y [THIS.Neutral_green_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_neutral_Social_rise_10: "Â§Y [THIS.neutral_Social_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Neutral_Communism_rise_10: "Â§Y [THIS.Neutral_Communism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Nat_Populism_rise_10: "Â§Y [THIS.Nat_Populism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Nat_Fascism_rise_10: "Â§Y [THIS.Nat_Fascism_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Nat_Autocracy_rise_10: "Â§Y [THIS.Nat_Autocracy_L] Â§! Ganhe Â§G10% Â§! Suporte."
+ tooltip_USoE_Monarchist_rise_10: "Â§Y [THIS.Monarchist_L] Â§! Ganhe Â§G10% Â§! Suporte."
 
  ### 15% ###
- tooltip_USoE_Western_Autocracy_rise_15: "§Y [THIS.Western_Autocracy_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_conservatism_rise_15: "§Y [THIS.conservatism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_liberalism_rise_15: "§Y [THIS.liberalism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_socialism_rise_15: "§Y [THIS.socialism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Communist-State_rise_15: "§Y [THIS.Communist-State_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_anarchist_communism_rise_15: "§Y [THIS.anarchist_communism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Conservative_rise_15: "§Y [THIS.Conservative_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Autocracy_rise_15: "§Y [THIS.Autocracy_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Mod_Vilayat_e_Faqih_rise_15: "§Y [THIS.Mod_Vilayat_e_Faqih_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Vilayat_e_Faqih_rise_15: "§Y [THIS.Vilayat_e_Faqih_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Kingdom_rise_15: "§Y [THIS.Kingdom_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Caliphate_rise_15: "§Y [THIS.Caliphate_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_Muslim_Brotherhood_rise_15: "§Y [THIS.Neutral_Muslim_Brotherhood_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_Autocracy_rise_15: "§Y [THIS.Neutral_Autocracy_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_conservatism_rise_15: "§Y [THIS.Neutral_conservatism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_oligarchism_rise_15: "§Y [THIS.oligarchism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_Libertarian_rise_15: "§Y [THIS.Neutral_Libertarian_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_green_rise_15: "§Y [THIS.Neutral_green_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_neutral_Social_rise_15: "§Y [THIS.neutral_Social_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Neutral_Communism_rise_15: "§Y [THIS.Neutral_Communism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Nat_Populism_rise_15: "§Y [THIS.Nat_Populism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Nat_Fascism_rise_15: "§Y [THIS.Nat_Fascism_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Nat_Autocracy_rise_15: "§Y [THIS.Nat_Autocracy_L] §! Ganhe §G15% §! Suporte."
- tooltip_USoE_Monarchist_rise_15: "§Y [THIS.Monarchist_L] §! Ganhe §G15% §! Suporte."
+ tooltip_USoE_Western_Autocracy_rise_15: "Â§Y [THIS.Western_Autocracy_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_conservatism_rise_15: "Â§Y [THIS.conservatism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_liberalism_rise_15: "Â§Y [THIS.liberalism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_socialism_rise_15: "Â§Y [THIS.socialism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Communist-State_rise_15: "Â§Y [THIS.Communist-State_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_anarchist_communism_rise_15: "Â§Y [THIS.anarchist_communism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Conservative_rise_15: "Â§Y [THIS.Conservative_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Autocracy_rise_15: "Â§Y [THIS.Autocracy_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Mod_Vilayat_e_Faqih_rise_15: "Â§Y [THIS.Mod_Vilayat_e_Faqih_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Vilayat_e_Faqih_rise_15: "Â§Y [THIS.Vilayat_e_Faqih_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Kingdom_rise_15: "Â§Y [THIS.Kingdom_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Caliphate_rise_15: "Â§Y [THIS.Caliphate_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_Muslim_Brotherhood_rise_15: "Â§Y [THIS.Neutral_Muslim_Brotherhood_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_Autocracy_rise_15: "Â§Y [THIS.Neutral_Autocracy_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_conservatism_rise_15: "Â§Y [THIS.Neutral_conservatism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_oligarchism_rise_15: "Â§Y [THIS.oligarchism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_Libertarian_rise_15: "Â§Y [THIS.Neutral_Libertarian_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_green_rise_15: "Â§Y [THIS.Neutral_green_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_neutral_Social_rise_15: "Â§Y [THIS.neutral_Social_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Neutral_Communism_rise_15: "Â§Y [THIS.Neutral_Communism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Nat_Populism_rise_15: "Â§Y [THIS.Nat_Populism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Nat_Fascism_rise_15: "Â§Y [THIS.Nat_Fascism_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Nat_Autocracy_rise_15: "Â§Y [THIS.Nat_Autocracy_L] Â§! Ganhe Â§G15% Â§! Suporte."
+ tooltip_USoE_Monarchist_rise_15: "Â§Y [THIS.Monarchist_L] Â§! Ganhe Â§G15% Â§! Suporte."
 
  ### 20% ###
- tooltip_USoE_Western_Autocracy_rise_20: "§Y [THIS.Western_Autocracy_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_conservatism_rise_20: "§Y [THIS.conservatism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_liberalism_rise_20: "§Y [THIS.liberalism_L] §! Ganhe §G20% §! Apoio."
- tooltip_USoE_socialism_rise_20: "§Y [THIS.socialism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Communist-State_rise_20: "§Y [THIS.Communist-State_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_anarchist_communism_rise_20: "§Y [THIS.anarchist_communism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Conservative_rise_20: "§Y [THIS.Conservative_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Autocracy_rise_20: "§Y [THIS.Autocracy_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Mod_Vilayat_e_Faqih_rise_20: "§Y [THIS.Mod_Vilayat_e_Faqih_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Vilayat_e_Faqih_rise_20: "§Y [THIS.Vilayat_e_Faqih_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Kingdom_rise_20: "§Y [THIS.Kingdom_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Caliphate_rise_20: "§Y [THIS.Caliphate_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_Muslim_Brotherhood_rise_20: "§Y [THIS.Neutral_Muslim_Brotherhood_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_Autocracy_rise_20: "§Y [THIS.Neutral_Autocracy_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_conservatism_rise_20: "§Y [THIS.Neutral_conservatism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_oligarchism_rise_20: "§Y [THIS.oligarchism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_Libertarian_rise_20: "§Y [THIS.Neutral_Libertarian_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_green_rise_20: "§Y [THIS.Neutral_green_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_neutral_Social_rise_20: "§Y [THIS.neutral_Social_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Neutral_Communism_rise_20: "§Y [THIS.Neutral_Communism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Nat_Populism_rise_20: "§Y [THIS.Nat_Populism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Nat_Fascism_rise_20: "§Y [THIS.Nat_Fascism_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Nat_Autocracy_rise_20: "§Y [THIS.Nat_Autocracy_L] §! Ganhe §G20% §! Suporte."
- tooltip_USoE_Monarchist_rise_20: "§Y [THIS.Monarchist_L] §! Ganhe §G20% §! Suporte."
+ tooltip_USoE_Western_Autocracy_rise_20: "Â§Y [THIS.Western_Autocracy_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_conservatism_rise_20: "Â§Y [THIS.conservatism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_liberalism_rise_20: "Â§Y [THIS.liberalism_L] Â§! Ganhe Â§G20% Â§! Apoio."
+ tooltip_USoE_socialism_rise_20: "Â§Y [THIS.socialism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Communist-State_rise_20: "Â§Y [THIS.Communist-State_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_anarchist_communism_rise_20: "Â§Y [THIS.anarchist_communism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Conservative_rise_20: "Â§Y [THIS.Conservative_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Autocracy_rise_20: "Â§Y [THIS.Autocracy_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Mod_Vilayat_e_Faqih_rise_20: "Â§Y [THIS.Mod_Vilayat_e_Faqih_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Vilayat_e_Faqih_rise_20: "Â§Y [THIS.Vilayat_e_Faqih_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Kingdom_rise_20: "Â§Y [THIS.Kingdom_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Caliphate_rise_20: "Â§Y [THIS.Caliphate_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_Muslim_Brotherhood_rise_20: "Â§Y [THIS.Neutral_Muslim_Brotherhood_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_Autocracy_rise_20: "Â§Y [THIS.Neutral_Autocracy_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_conservatism_rise_20: "Â§Y [THIS.Neutral_conservatism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_oligarchism_rise_20: "Â§Y [THIS.oligarchism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_Libertarian_rise_20: "Â§Y [THIS.Neutral_Libertarian_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_green_rise_20: "Â§Y [THIS.Neutral_green_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_neutral_Social_rise_20: "Â§Y [THIS.neutral_Social_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Neutral_Communism_rise_20: "Â§Y [THIS.Neutral_Communism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Nat_Populism_rise_20: "Â§Y [THIS.Nat_Populism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Nat_Fascism_rise_20: "Â§Y [THIS.Nat_Fascism_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Nat_Autocracy_rise_20: "Â§Y [THIS.Nat_Autocracy_L] Â§! Ganhe Â§G20% Â§! Suporte."
+ tooltip_USoE_Monarchist_rise_20: "Â§Y [THIS.Monarchist_L] Â§! Ganhe Â§G20% Â§! Suporte."
 	
- ### Partidos políticos do USoE ###
+ ### Partidos polÃ­ticos do USoE ###
  ### veja MD_subideology_parties_l_english.yml

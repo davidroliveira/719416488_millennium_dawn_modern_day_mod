@@ -1,5 +1,5 @@
-l_braz_por:
+ï»¿l_braz_por:
  internet_station: "Mobile Radio Mast"
  internet_station_plural: "Mobile Radio Masts"
- internet_station_desc: "Os rádios móveis ou torres de rádio são estruturas altas usadas nos campos de telecomunicações e comunicação de rádio para enviar transmissões por grandes distâncias. Eles foram usados pela primeira vez no início dos anos 1900, quando a comunicação realmente começou a se manifestar. Ajudou a se expandir e se estender sinais de rádio por muito mais tempo, permitindo a comunicação de algumas centenas de metros a alguns quilômetros em nenhum momento. A invenção dessas torres permitiu que maiores fossem comunicáveis, permitindo um maior desenvolvimento em regiões mais rurais.\n\n§YMastos de rádio móveis§! melhore velocidade de construção local. "
- modifier_production_speed_internet_station_factor: "§YMaste de rádio móvel§! Velocidade de construção"
+ internet_station_desc: "Os rÃ¡dios mÃ³veis ou torres de rÃ¡dio sÃ£o estruturas altas usadas nos campos de telecomunicaÃ§Ãµes e comunicaÃ§Ã£o de rÃ¡dio para enviar transmissÃµes por grandes distÃ¢ncias. Eles foram usados pela primeira vez no inÃ­cio dos anos 1900, quando a comunicaÃ§Ã£o realmente comeÃ§ou a se manifestar. Ajudou a se expandir e se estender sinais de rÃ¡dio por muito mais tempo, permitindo a comunicaÃ§Ã£o de algumas centenas de metros a alguns quilÃ´metros em nenhum momento. A invenÃ§Ã£o dessas torres permitiu que maiores fossem comunicÃ¡veis, permitindo um maior desenvolvimento em regiÃµes mais rurais.\n\nÂ§YMastos de rÃ¡dio mÃ³veisÂ§! melhore velocidade de construÃ§Ã£o local. "
+ modifier_production_speed_internet_station_factor: "Â§YMaste de rÃ¡dio mÃ³velÂ§! Velocidade de construÃ§Ã£o"

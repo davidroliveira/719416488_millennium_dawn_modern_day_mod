@@ -1,53 +1,53 @@
-l_braz_por:
+Ôªøl_braz_por:
  terrain_chicago_illinois: "Chicago, Estados Unidos"
  terrain_berlin: "Berlim, Alemanha"
- terrain_aleppo_citadel_syria: "Aleppo, SÌria"
- terrain_jerusalem: "JerusalÈm, contestada"
- terrain_mecca: "Meca, Ar·bia Saudita"
- terrain_paris: "Paris, FranÁa"
+ terrain_aleppo_citadel_syria: "Aleppo, S√≠ria"
+ terrain_jerusalem: "Jerusal√©m, contestada"
+ terrain_mecca: "Meca, Ar√°bia Saudita"
+ terrain_paris: "Paris, Fran√ßa"
  terrain_rio_de_janiero: "Rio de Janeiro, Brasil"
  terrain_lisbon: "Lisboa, Portugal"
  terrain_london: "Londres, Inglaterra"
- terrain_moscow: "Moscou, R˙ssia"
+ terrain_moscow: "Moscou, R√∫ssia"
  terrain_hong_kong: "Hong Kong"
  terrain_singapore: "Cingapura"
  terrain_shanghai: "Xangai, China"
  terrain_fuzhou: "Fuzhou, China"
  terrain_beijing: "Pequim, China"
- terrain_athens: "Atenas, GrÈcia"
+ terrain_athens: "Atenas, Gr√©cia"
  terrain_istanbul: "Istambul, Turquia"
  #Argentina
  terrain_buenos_aires: "Buenos Aires, Argentina"
- terrain_cordoba: "CÛrdoba, Argentina"
- #BÈlgica
- terrain_brussels: "Bruxelas, BÈlgica"
+ terrain_cordoba: "C√≥rdoba, Argentina"
+ #B√©lgica
+ terrain_brussels: "Bruxelas, B√©lgica"
  #Belize
  terrain_belmopan: "Belmopan, Belize"
- #BolÌvia
- terrain_la_paz: "La Paz, BolÌvia"
- #Bulg·ria
- terrain_plovdiv: "Plovdiv, Bulg·ria"
- terrain_sofia: "Sofia, Bulg·ria"
+ #Bol√≠via
+ terrain_la_paz: "La Paz, Bol√≠via"
+ #Bulg√°ria
+ terrain_plovdiv: "Plovdiv, Bulg√°ria"
+ terrain_sofia: "Sofia, Bulg√°ria"
  #Brasil
- terrain_brasilia: "BrasÌlia, Brasil"
+ terrain_brasilia: "Bras√≠lia, Brasil"
  terrain_fortaleza: "Fortaleza, Brasil"
  terrain_manaus: "Manaus, Brasil"
  terrain_porto_algre: "Porto Algre, Brasil"
  terrain_recife: "Recife, Brasil"
  terrain_salvador: "Salvador, Brasil"
- terrain_sao_jose_dos_campos: "S„o JosÈ dos Campos, Brasil"
- terrain_sao_paulo: "S„o Paulo, Brasil"
- #Canad·
- # It·lia/Vaticano
- terrain_florence: "FlorenÁa, It·lia"
- terrain_venice: "Veneza, It·lia"
- terrain_milan: "Mil„o, It·lia"
- terrain_genoa: "GÍnova, It·lia"
- terrain_rome: "Roma, It·lia"
- terrain_naples: "N·poles, It·lia"
+ terrain_sao_jose_dos_campos: "S√£o Jos√© dos Campos, Brasil"
+ terrain_sao_paulo: "S√£o Paulo, Brasil"
+ #Canad√°
+ # It√°lia/Vaticano
+ terrain_florence: "Floren√ßa, It√°lia"
+ terrain_venice: "Veneza, It√°lia"
+ terrain_milan: "Mil√£o, It√°lia"
+ terrain_genoa: "G√™nova, It√°lia"
+ terrain_rome: "Roma, It√°lia"
+ terrain_naples: "N√°poles, It√°lia"
  terrain_vatican: "Cidade do Vaticano"
- terrain_cagilari: "Cagliari, It·lia"
- terrain_palermo: "Palermo, It·lia"
+ terrain_cagilari: "Cagliari, It√°lia"
+ terrain_palermo: "Palermo, It√°lia"
 
- #Ucr‚nia
- terrain_kiev: "Kiev, Ucr‚nia"
+ #Ucr√¢nia
+ terrain_kiev: "Kiev, Ucr√¢nia"

@@ -1,7 +1,7 @@
-l_braz_por:
+Ôªøl_braz_por:
 
- different_country_flags_category: "Mudar decis„o de bandeira"
- different_country_flags_category_desc: "Podemos mudar nossa bandeira para representar melhor o atual partido no poder em nosso paÌs. O atual partido no poder È o [Root.GetRulingParty]"
+ different_country_flags_category: "Mudar decis√£o de bandeira"
+ different_country_flags_category_desc: "Podemos mudar nossa bandeira para representar melhor o atual partido no poder em nosso pa√≠s. O atual partido no poder √© o [Root.GetRulingParty]"
 
  Reset_flag: "Mudar Sinalizador"
  Reset_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
@@ -12,7 +12,7 @@ l_braz_por:
  More_Special_flag: "Mudar Sinalizador"
  More_Special_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
- add_dynamic_flag: "VocÍ n„o deveria ser capaz de ver isso. Adiciona [? Original_tag.GetTag]"
+ add_dynamic_flag: "Voc√™ n√£o deveria ser capaz de ver isso. Adiciona [? Original_tag.GetTag]"
  add_dynamic_flag_desc: "Pare de trocar de tag com seu trapaceiro"
  Rebel_flag: "Mudar Sinalizador"
  Rebel_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
@@ -24,8 +24,8 @@ l_braz_por:
  SAF_Edgy_flag: "Mudar Sinalizador"
  SAF_Edgy_flag_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira ..."
  
- SER_flag_change: "Renomear para SÈrvia"
- SER_flag_change_desc: "Com a perda de Montenegro, devemos renomear nossa naÁ„o para SÈrvia".
+ SER_flag_change: "Renomear para S√©rvia"
+ SER_flag_change_desc: "Com a perda de Montenegro, devemos renomear nossa na√ß√£o para S√©rvia".
  
  USA_Reset_flag: "Mudar Sinalizador"
  USA_Reset_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
@@ -37,39 +37,39 @@ l_braz_por:
  DRC_NEW_flag: "Mudar Sinalizador"
  DRC_NEW_flag_desc: "Acho que um azul mais claro seria melhor."
  RWA_NEW_flag: "Mudar Sinalizador"
- RWA_NEW_flag_desc: "Nossa bandeira ficou associada ‡ brutalidade do genocÌdio de 1994. Seria melhor se ela fosse mudada."
+ RWA_NEW_flag_desc: "Nossa bandeira ficou associada √† brutalidade do genoc√≠dio de 1994. Seria melhor se ela fosse mudada."
  
  #Formables
  
  #UAR
- form_UAR_category: "Una os povos ·rabes"
- form_UAR_category_desc: "A Guerra dos Seis Dias pode ter desferido um grande golpe no pan-arabismo, mas È hora de reviver o sonho de um mundo ·rabe unido."
+ form_UAR_category: "Una os povos √°rabes"
+ form_UAR_category_desc: "A Guerra dos Seis Dias pode ter desferido um grande golpe no pan-arabismo, mas √© hora de reviver o sonho de um mundo √°rabe unido."
  
- UAR_integrate_LBA: "Integrar a LÌbia"
+ UAR_integrate_LBA: "Integrar a L√≠bia"
  UAR_integrate_LBA_desc: ""
- UAR_integrate_SYR: "Integrar a SÌria"
+ UAR_integrate_SYR: "Integrar a S√≠ria"
  UAR_integrate_SYR_desc: ""
- UAR_integrate_ALG: "Integrar a ArgÈlia"
+ UAR_integrate_ALG: "Integrar a Arg√©lia"
  UAR_integrate_ALG_desc: ""
  UAR_integrate_EGY: "Integrar Egito"
  UAR_integrate_EGY_desc: ""
- UAR_integrate_LEB: "Integrar o LÌbano"
+ UAR_integrate_LEB: "Integrar o L√≠bano"
  UAR_integrate_LEB_desc: ""
  UAR_integrate_IRQ: "Integrar o Iraque"
  UAR_integrate_IRQ_desc: ""
- UAR_integrate_MAU: "Integrar a Maurit‚nia"
+ UAR_integrate_MAU: "Integrar a Maurit√¢nia"
  UAR_integrate_MAU_desc: ""
  UAR_integrate_PAL: "Integrar Palastine"
  UAR_integrate_PAL_desc: ""
- UAR_integrate_TUN: "Integrar a TunÌsia"
+ UAR_integrate_TUN: "Integrar a Tun√≠sia"
  UAR_integrate_TUN_desc: ""
  UAR_integrate_SHA: "Integrar o Saara Ocidental"
  UAR_integrate_SHA_desc: ""
- UAR_integrate_SAU: "Integrar a Ar·bia Saudita"
+ UAR_integrate_SAU: "Integrar a Ar√°bia Saudita"
  UAR_integrate_SAU_desc: ""
- UAR_integrate_OMA: "Integrar Om„"
+ UAR_integrate_OMA: "Integrar Om√£"
  UAR_integrate_OMA_desc: ""
- UAR_integrate_UAE: "Integrar Emirados ¡rabes Unidos"
+ UAR_integrate_UAE: "Integrar Emirados √Årabes Unidos"
  UAR_integrate_UAE_desc: ""
  UAR_integrate_QAT: "Integrate Qatar"
  UAR_integrate_QAT_desc: ""
@@ -77,37 +77,37 @@ l_braz_por:
  UAR_integrate_BHR_desc: ""
  UAR_integrate_KUW: "Integrar Kuwait"
  UAR_integrate_KUW_desc: ""
- UAR_integrate_YEM: "Integrar IÍmen"
+ UAR_integrate_YEM: "Integrar I√™men"
  UAR_integrate_YEM_desc: ""
  UAR_integrate_MOR: "Integrar Marrocos"
  UAR_integrate_MOR_desc: ""
- UAR_integrate_SUD: "Integrar o Sud„o"
+ UAR_integrate_SUD: "Integrar o Sud√£o"
  UAR_integrate_SUD_desc: ""
  UAR_integrate_JOR: "Integrate Jordan"
  UAR_integrate_JOR_desc: ""
  
  MGB_update_flag: "Atualizar Bandeira do Magrebe"
- MGB_update_flag_desc: "Mudar a bandeira para repreender especificamente a regi„o do Magreb (nenhuma bandeira ideolÛgica no momento)."
- UAR_update_flag: "Atualizar Bandeira ¡rabe"
+ MGB_update_flag_desc: "Mudar a bandeira para repreender especificamente a regi√£o do Magreb (nenhuma bandeira ideol√≥gica no momento)."
+ UAR_update_flag: "Atualizar Bandeira √Årabe"
  UAR_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
  
- #B·ltico
- form_BLT_category: "Unificar o B·ltico"
- form_BLT_category_desc: "Os Estados B·lticos h· muito s„o o alvo de vizinhos mais fortes. … hora de nos unirmos para resistir a tais influÍncias."
+ #B√°ltico
+ form_BLT_category: "Unificar o B√°ltico"
+ form_BLT_category_desc: "Os Estados B√°lticos h√° muito s√£o o alvo de vizinhos mais fortes. √â hora de nos unirmos para resistir a tais influ√™ncias."
  
- BLT_integrate_LIT: "Integrar a Litu‚nia"
+ BLT_integrate_LIT: "Integrar a Litu√¢nia"
  BLT_integrate_LIT_desc: ""
- BLT_integrate_LAT: "Integrar a LetÙnia"
+ BLT_integrate_LAT: "Integrar a Let√¥nia"
  BLT_integrate_LAT_desc: ""
- BLT_integrate_EST: "Integrar a EstÙnia"
+ BLT_integrate_EST: "Integrar a Est√¥nia"
  BLT_integrate_EST_desc: ""
  
- BLT_update_flag: "Atualizar Bandeira do B·ltico"
+ BLT_update_flag: "Atualizar Bandeira do B√°ltico"
  BLT_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
- #AmÈrica Central
- form_FCA_category: "Unificar a AmÈrica Central"
+ #Am√©rica Central
+ form_FCA_category: "Unificar a Am√©rica Central"
  form_FCA_category_desc: "Texto de sabor"
  
  FCA_integrate_BLZ: "Integrar Belize"
@@ -118,52 +118,52 @@ l_braz_por:
  FCA_integrate_ELS_desc: ""
  FCA_integrate_HON: "Integrar Honduras"
  FCA_integrate_HON_desc: ""
- FCA_integrate_NIC: "Integrar a Nicar·gua"
+ FCA_integrate_NIC: "Integrar a Nicar√°gua"
  FCA_integrate_NIC_desc: ""
  FCA_integrate_COS: "Integrar Costa Rica"
  FCA_integrate_COS_desc: ""
- FCA_integrate_PAN: "Integrar Panam·"
+ FCA_integrate_PAN: "Integrar Panam√°"
  FCA_integrate_PAN_desc: ""
  
- FCA_update_flag: "Atualizar bandeira da AmÈrica Central"
+ FCA_update_flag: "Atualizar bandeira da Am√©rica Central"
  FCA_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
- #ColÙmbia
- form_GCL_category: "A Segunda Grande ColÙmbia"
+ #Col√¥mbia
+ form_GCL_category: "A Segunda Grande Col√¥mbia"
  form_GCL_category_desc: "Texto de sabor"
  
- GCL_integrate_COL: "Integrar ColÙmbia"
+ GCL_integrate_COL: "Integrar Col√¥mbia"
  GCL_integrate_COL_desc: ""
  GCL_integrate_VEN: "Integrar a Venezuela"
  GCL_integrate_VEN_desc: ""
  GCL_integrate_ECU: "Integrar Equador"
  GCL_integrate_ECU_desc: ""
  
- GCL_update_flag: "AtualizaÁ„o da bandeira da Gran Colombiana"
+ GCL_update_flag: "Atualiza√ß√£o da bandeira da Gran Colombiana"
  GCL_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
- #Escandin·via
- form_SCA_category: "Una os povos nÛrdicos"
+ #Escandin√°via
+ form_SCA_category: "Una os povos n√≥rdicos"
  form_SCA_category_desc: "Texto de sabor"
  
- SCA_integrate_SWE: "Integrar a SuÈcia"
+ SCA_integrate_SWE: "Integrar a Su√©cia"
  SCA_integrate_SWE_desc: ""
  SCA_integrate_DEN: "Integrar Dinamarca"
  SCA_integrate_DEN_desc: ""
  SCA_integrate_NOR: "Integrar a Noruega"
  SCA_integrate_NOR_desc: ""
- SCA_integrate_FIN: "Integrar Finl‚ndia"
+ SCA_integrate_FIN: "Integrar Finl√¢ndia"
  SCA_integrate_FIN_desc: ""
- SCA_integrate_ICE: "Integrar a Isl‚ndia"
+ SCA_integrate_ICE: "Integrar a Isl√¢ndia"
  SCA_integrate_ICE_desc: ""
- SCA_integrate_GRL: "Integrar a Groenl‚ndia"
+ SCA_integrate_GRL: "Integrar a Groenl√¢ndia"
  SCA_integrate_GRL_desc: ""
  
  SCA_update_flag: "Atualizar Bandeira Escandinava"
  SCA_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
  #Iberia
- form_IBR_category: "Unificar IbÈria"
+ form_IBR_category: "Unificar Ib√©ria"
  form_IBR_category_desc: "Texto de sabor"
  
  SCA_integrate_SPR: "Integrar Espanha"
@@ -171,7 +171,7 @@ l_braz_por:
  SCA_integrate_POR: "Integrar Portugal"
  SCA_integrate_POR_desc: ""
  
- SCA_update_flag: "Atualizar Bandeira IbÈrica"
+ SCA_update_flag: "Atualizar Bandeira Ib√©rica"
  SCA_update_flag_desc: "Hoje temos a possibilidade de mudar a nossa bandeira."
  
  #Caribe
@@ -183,10 +183,10 @@ l_braz_por:
  #Europa
  EFS_flag_category:
  EFS_flag_category_desc:
- EFS_flag_change: "Bandeira da FederaÁ„o Europeia"
- EFS_flag_change_desc: "Mudar a bandeira nacional para membro de repres·lia da FederaÁ„o Europeia."
+ EFS_flag_change: "Bandeira da Federa√ß√£o Europeia"
+ EFS_flag_change_desc: "Mudar a bandeira nacional para membro de repres√°lia da Federa√ß√£o Europeia."
  
  USoE_Flag_Reset_Flag_category:
  USoE_Flag_Reset_Flag_category_desc:
  USoE_reset_flag: "Redefinir sinalizador USoE"
- USoE_reset_flag_desc: "Alterar a bandeira USoE para a bandeira padr„o da UE (n„o pode ser desfeita)."
+ USoE_reset_flag_desc: "Alterar a bandeira USoE para a bandeira padr√£o da UE (n√£o pode ser desfeita)."

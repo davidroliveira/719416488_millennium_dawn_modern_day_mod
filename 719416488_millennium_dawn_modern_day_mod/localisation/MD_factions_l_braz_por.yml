@@ -1,26 +1,26 @@
-l_braz_por:
+﻿l_braz_por:
  CSTO: "CSTO"
  NATO: "NATO"
- PENINSULA_SHIELD: "Conselho de Coopera��o do Golfo"
- RESISTANCE_AXIS: "Eixo de resist�ncia"
+ PENINSULA_SHIELD: "Conselho de Cooperação do Golfo"
+ RESISTANCE_AXIS: "Eixo de resistência"
  SHANGHAI_PACT: "Pacto de Xangai"
- UNITED_ARAB_ALLIANCE: "Alian�a �rabe Unida"
+ UNITED_ARAB_ALLIANCE: "Aliança Árabe Unida"
 
  #English Factions
  british_commonwealth: "A comunidade"
- british_alliance: "Alian�a Anglo-Sax�nica"
+ british_alliance: "Aliança Anglo-Saxônica"
 
- #Ucr�nia
- UKR_baltic_black_sea_union_faction: "Uni�o B�ltico-Mar Negro"
+ #Ucrânia
+ UKR_baltic_black_sea_union_faction: "União Báltico-Mar Negro"
 
  #Estados Unidos
- monroe_alliance: "Alian�a Monroe"
+ monroe_alliance: "Aliança Monroe"
  freedom_league: "Liga da Liberdade"
  washington_pact: "Pacto de Washington"
 
- #Jap�o
- japanese_alliance_democratic: "Alian�a do Leste Asi�tico"
- east_asian_pact: "Pacto do Leste Asi�tico"
+ #Japão
+ japanese_alliance_democratic: "Aliança do Leste Asiático"
+ east_asian_pact: "Pacto do Leste Asiático"
  japanese_alliance_communist: "Esfera Vermelha da Prosperidade"
 
  #Brasil

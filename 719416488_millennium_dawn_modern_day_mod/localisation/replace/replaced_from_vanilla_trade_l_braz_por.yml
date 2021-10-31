@@ -1,8 +1,8 @@
-l_braz_por:
- TRADE_ALL_FACTORY_OUT_TITLE:00 "Todas as Indústrias para o Comércio"
- TRADE_ALL_FACTORY_OUT_DESC:00 "Tem certeza de que deseja que todas as suas indústrias produzam bens comerciais?\n\nVocê não poderá construir nenhum edifício!"
- TRADEOFFER_FACTORIES_DESC_LABEL:00 "Comprar valor:$VALUE|Y $\nPara Indústrias Civis:$CIC|Y$"
- LACK_OF_CIVIL_FACTORIES:00 "Por falta de Indústrias Civis."
- TRADE_CAN_TRADE_TOOLTIP:00 "Temos um total de$TOT|H$Indústrias civis.$VAL|H$são necessários para financiar nosso Orçamento do Governo, deixando-nos com$TRADE|H$disponíveis para o comércio.\n\nNote que você não pode negociar indústrias recebidos das exportações comerciais e que o comércio de indústrias impedirá que sejam usados para a construção. "
- TRADE_WARNING:00 "Este negócio usará indústrias que atualmente estão construindo edifícios."
- TRADE_CIV_FACTORIES:00 "Indústrias Civis"
+ï»¿l_braz_por:
+ TRADE_ALL_FACTORY_OUT_TITLE:00 "Todas as IndÃºstrias para o ComÃ©rcio"
+ TRADE_ALL_FACTORY_OUT_DESC:00 "Tem certeza de que deseja que todas as suas indÃºstrias produzam bens comerciais?\n\nVocÃª nÃ£o poderÃ¡ construir nenhum edifÃ­cio!"
+ TRADEOFFER_FACTORIES_DESC_LABEL:00 "Comprar valor:$VALUE|Y $\nPara IndÃºstrias Civis:$CIC|Y$"
+ LACK_OF_CIVIL_FACTORIES:00 "Por falta de IndÃºstrias Civis."
+ TRADE_CAN_TRADE_TOOLTIP:00 "Temos um total de$TOT|H$IndÃºstrias civis.$VAL|H$sÃ£o necessÃ¡rios para financiar nosso OrÃ§amento do Governo, deixando-nos com$TRADE|H$disponÃ­veis para o comÃ©rcio.\n\nNote que vocÃª nÃ£o pode negociar indÃºstrias recebidos das exportaÃ§Ãµes comerciais e que o comÃ©rcio de indÃºstrias impedirÃ¡ que sejam usados para a construÃ§Ã£o. "
+ TRADE_WARNING:00 "Este negÃ³cio usarÃ¡ indÃºstrias que atualmente estÃ£o construindo edifÃ­cios."
+ TRADE_CIV_FACTORIES:00 "IndÃºstrias Civis"

@@ -1,7 +1,7 @@
-l_braz_por:
- TRIGGER_HAS_VOLUNTEERS_MORE_THAN:00 "Tem$VALUE|H$forÁas de intervenÁ„o ou mais de$PAÕS2|H$"
- TRIGGER_HAS_VOLUNTEERS_LESS_THAN:00 "Tem menos de$VALUE|H$forÁas de intervenÁ„o de$PAÕS2|H$"
- TRIGGER_HAS_NOT_MILITARY_ACCESS_TO:00 "N„o possui bases militares em$COUNTRY|H$"
+Ôªøl_braz_por:
+ TRIGGER_HAS_VOLUNTEERS_MORE_THAN:00 "Tem$VALUE|H$for√ßas de interven√ß√£o ou mais de$PA√çS2|H$"
+ TRIGGER_HAS_VOLUNTEERS_LESS_THAN:00 "Tem menos de$VALUE|H$for√ßas de interven√ß√£o de$PA√çS2|H$"
+ TRIGGER_HAS_NOT_MILITARY_ACCESS_TO:00 "N√£o possui bases militares em$COUNTRY|H$"
  TRIGGER_HAS_MILITARY_ACCESS_TO:00 "Possui bases militares em$COUNTRY|H$"
- TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO:00 "N„o hospeda bases militares para$COUNTRY|H$"
+ TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO:00 "N√£o hospeda bases militares para$COUNTRY|H$"
  TRIGGER_GIVES_MILITARY_ACCESS_TO:00 "Hospeda bases militares para$COUNTRY|H$"
