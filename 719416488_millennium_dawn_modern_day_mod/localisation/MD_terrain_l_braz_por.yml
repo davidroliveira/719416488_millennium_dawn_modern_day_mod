@@ -31,4 +31,4 @@ l_english:
  water_arctic: "Águas Árticas"
  water_arctic_desc: ""
  UNIT_TERRAIN_MODIFIER: "Efeitos da unidade:"
- MOVEMENT_COST: "Custo de movimento neste tipo de terreno x $ VALUE|H $"
+ MOVEMENT_COST: "Custo de movimento neste tipo de terreno x$VALUE|H$"

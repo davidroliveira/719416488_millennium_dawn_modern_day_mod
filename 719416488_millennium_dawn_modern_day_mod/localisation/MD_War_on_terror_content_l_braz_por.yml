@@ -1,8 +1,8 @@
 l_english:
  ##### GUERRA AO TERROR ####
  #Dicas de ferramentas
- TT_OEF_SPENDING_REQUIREMENT: "Precisamos de pelo menos $ 0,5 §Hbilhões§! Em nosso tesouro!"
- TT_OEF_SPENDING_MINUS_0.5: "Subtraia $ 0,5 §Hbilhões§! De nossa tesouraria\n"
+ TT_OEF_SPENDING_REQUIREMENT: "Precisamos de pelo menos$0,5 §Hbilhões§! Em nosso tesouro!"
+ TT_OEF_SPENDING_MINUS_0.5: "Subtraia$0,5 §Hbilhões§! De nossa tesouraria\n"
  TT_REDUCE_RULING_COALITION_POPULARITY_10_PERCENT: "§Ro partido no poder e todos os membros da coalizão perderão 10% de popularidade relativa!\n§!"
  TT_OEF_INCREASED_CHANCE_OF_DETECTING_TERRORISTS: "§GIsso aumentará a probabilidade de descobrir uma conspiração terrorista!\n§!"
  TT_OEF_RAISE_POPULARITIES: "Aumentar a popularidade da §HRuling Coalition§! Em 10% e a popularidade do principal §OPartido de oposição§! Em 5%"

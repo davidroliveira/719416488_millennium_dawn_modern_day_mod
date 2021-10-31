@@ -2,9 +2,9 @@ l_english:
 
  #Tooltips
  ##Genérico
- TT_SYR_SPENDING_MINUS_0.5: "Subtraia §R $ 0,5§! §Rbilhões§! De nossa tesouraria\n"
- TT_SYR_SPENDING_MINUS_5: "Subtraia §R $ 5§! §Rbilhões§! De nossa tesouraria\n"
- TT_SYR_REVIVE_BAATHISM_COST: "Isso nos custará §R $ 1§! §Rbilhões§! Por país influenciado!\n"
+ TT_SYR_SPENDING_MINUS_0.5: "Subtraia §R$0,5§! §Rbilhões§! De nossa tesouraria\n"
+ TT_SYR_SPENDING_MINUS_5: "Subtraia §R$5§! §Rbilhões§! De nossa tesouraria\n"
+ TT_SYR_REVIVE_BAATHISM_COST: "Isso nos custará §R$1§! §Rbilhões§! Por país influenciado!\n"
  TT_SYR_RULING_PARTY_GAIN_5_POP: "O §YPartido no Governo§! Ganha §G5% §! Popularidade!\n"
  TT_SYR_RULING_PARTY_GAIN_10_POP: "O §YParte Governante§! Ganha §G10% §! Popularidade!\n"
  TT_SYR_RULING_PARTY_LOSE_10_POP: "O §YPartido no Governo§! Perde §R-10% §! Popularidade!\n"
@@ -67,17 +67,17 @@ l_english:
  TT_SYRIA_PRESENT_TO_INNER_CIRCLE: "Isso aumentará o apoio do candidato em §G10§!\n"
  TT_HAFEZ_NOT_DEAD: "Hafez al-Assad ainda está disponível para lidar com a sucessão\n"
  TT_SYRIA_GATHER_PUBLIC_SUPPORT: "Isso aumentará o apoio do candidato em §G5§!\n"
- TT_RIFAAT_SUPPORT_MONEY_COST: "Forneceremos §R $ 4§! Bilhões em financiamento para Rifaat\n"
+ TT_RIFAAT_SUPPORT_MONEY_COST: "Forneceremos §R$4§! Bilhões em financiamento para Rifaat\n"
  TT_TEMPORARY_LEADER: "[ROOT.GetLeader] deixará o cargo e será substituído por um presidente interino\n"
  TT_SYRIAN_ARAB_DEMOCRATIC_PARTY: "Nosso partido no poder agora se chamará §Partido Democrático HArab§!\n"
  TT_RESHUFFLE_PARTIES: "§RReparar nosso cenário político! §!\n"
 
  ## Ramo Econômico
- TT_LOAN_15_BILLION: "Nossa §Dívida Y§! Aumenta em §R $ 15 bilhões§ !!\n"
- TT_SYR_RENEGOTIATE_LOANS: "Reduza nossa §YDebt§! Em §G22.5 $ bilhões§!\n"
+ TT_LOAN_15_BILLION: "Nossa §Dívida Y§! Aumenta em §R$15 bilhões§ !!\n"
+ TT_SYR_RENEGOTIATE_LOANS: "Reduza nossa §YDebt§! Em §G22.5$bilhões§!\n"
  TT_SYR_HAS_TAKEN_LOANS: "Pegamos um empréstimo de outro país\n"
- TT_SYR_INVEST_IN_FINANCE: "Mova §Y $ 5 bilhões§! De nosso §YTreasury§! Para §YInternational Investments§!\n"
- TT_SYR_NATIONALISE_BANKS: "Adicione §Y $ 10 bilhões§! Ao nosso tesouro\n"
+ TT_SYR_INVEST_IN_FINANCE: "Mova §Y$5 bilhões§! De nosso §YTreasury§! Para §YInternational Investments§!\n"
+ TT_SYR_NATIONALISE_BANKS: "Adicione §Y$10 bilhões§! Ao nosso tesouro\n"
  TT_SYR_LOANS_NO_WTO: "40% da nossa §YDebt§! Está perdoada. Se nos juntarmos à OMC, 60% da nossa §YDebt§! Será perdoada\n"
  TT_SYR_LOANS_WTO: "Porque aderimos à OMC, 60% da nossa §YDebt§! Será perdoada\n"
  TT_SYR_ANIME: "§Animes encorajadores podem ter um impacto dramático em nossa população§!\n"
@@ -91,12 +91,12 @@ l_english:
  TT_SYR_ALIGN_GREECE: "\nA disposição de [GRE.GetName] em se aliar a nós é §Fraca§! por padrão\n\n[GRE.GetName] tem mais probabilidade de nos aliar se\n§G- Eles seguirem a Perspectiva Nacionalista\n- [ TUR.GetName] não é membro da OTAN§!\n\n[GRE.GetName] tem menos probabilidade de nos aliar se\n§R- Eles estão em guerra\n-Eles resolveram suas disputas de fronteira com [TUR. GetName]\n-Nós ou nosso fantoche, Chipre§!\n"
  TT_SYR_WEAKEN_IRAN: "Teremos acesso às §Ydecisões§! Para enfraquecer o Irã e recrutar milícias locais antes de invadi-las\n"
 
- TT_SYR_ARABISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, milícias árabes se levantarão e se juntarão a nós\nCustos de recrutamento: §R $ 1,5§! §Rbilhões§!\n"
- TT_SYR_LURISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes Lur declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R $ 7,5§! §Rbilhões§!\n"
- TT_SYR_AZERBAIJAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes azeris se juntarão ao exército azerbaijano e lutarão contra o Irã\nCustos de recrutamento: §R $ 22,5§! §Rbilhões§!\n"
- TT_SYR_TURKMENS_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes turquemenos se juntarão ao exército turcomenistão e lutarão contra o Irã\nCustos de recrutamento: §R $ 1,5§! §Rbilhões§!\n"
- TT_SYR_TABARISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, Gilak e os rebeldes Mazanderani declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R $ 9§! §Rbilhões§!\n"
- TT_SYR_BALOCHISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes Balochi declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R $ 3§! §Rbilhões§!\n"
+ TT_SYR_ARABISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, milícias árabes se levantarão e se juntarão a nós\nCustos de recrutamento: §R$1,5§! §Rbilhões§!\n"
+ TT_SYR_LURISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes Lur declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R$7,5§! §Rbilhões§!\n"
+ TT_SYR_AZERBAIJAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes azeris se juntarão ao exército azerbaijano e lutarão contra o Irã\nCustos de recrutamento: §R$22,5§! §Rbilhões§!\n"
+ TT_SYR_TURKMENS_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes turquemenos se juntarão ao exército turcomenistão e lutarão contra o Irã\nCustos de recrutamento: §R$1,5§! §Rbilhões§!\n"
+ TT_SYR_TABARISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, Gilak e os rebeldes Mazanderani declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R$9§! §Rbilhões§!\n"
+ TT_SYR_BALOCHISTAN_ARMED: "Quando fizermos §YOperation Eastern Whirlwind§ !, os rebeldes Balochi declararão independência e lutarão contra o Irã\nCustos de recrutamento: §R$3§! §Rbilhões§!\n"
 
  ##Diplomacia
  TT_SYR_ALIGN_PALESTINE: "\nA disposição de [PAL.GetName] para nos aliar é §Gstrong§! por padrão\n\n[PAL.GetName] tem mais probabilidade de nos aliar se\n§G- Seguirmos a mesma perspectiva§!\n\n[PAL.GetName] tem menos probabilidade de nos aliar se\n§R- Eles já forem aliados de outra pessoa\n§! "
@@ -111,7 +111,7 @@ l_english:
  TT_SYR_HEZ_DIPLOMACY: "Teremos acesso às decisões relacionadas ao Hezbollah\n"
  TT_SYR_INFILTRATE_HEZ: "Nossos agentes vão se infiltrar no Hezbollah\n"
  TT_SYR_DISCORD_HEZ: "Semearemos discórdia entre o Hezbollah e o Irã\n"
- TT_SYR_FORGIVE_SOVIET_DEBT: "Reduza nossa §YDebt§! Em §G $ 9,8 bilhões§!\n"
+ TT_SYR_FORGIVE_SOVIET_DEBT: "Reduza nossa §YDebt§! Em §G$9,8 bilhões§!\n"
  TT_SYR_FORGIVE_SOVIET_DEBT_COMPLETELY: "Nossa §YDebt§! Foi apagada!\n"
 
  #Focus tree loc

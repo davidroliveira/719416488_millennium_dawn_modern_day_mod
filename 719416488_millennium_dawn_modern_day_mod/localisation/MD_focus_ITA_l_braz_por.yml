@@ -1201,9 +1201,9 @@ l_english:
  ### Italian Space Tooltips
  ITA_expanded_space_program_TT: "Isso aumentará as despesas do nosso Programa de Espaço Científico em §R20§ !.\nO espírito ASI é modificado por:\nGanho diário de poder político §G0.05§!\nVelocidade de pesquisa §G + 2,5% §!"
  ITA_shrinked_space_program_TT: "Isso diminuirá as despesas de nosso Programa de Espaço Científico em §G20§ !.\nO espírito ASI é modificado por:\nGanho diário de poder político §R-0,05§!\nVelocidade de pesquisa §R-2,5% §!"
- ITA_peoples_support_campaigns_short_TT: "Nosso entusiasmo pelo programa espacial §Grises§! Em §Y7.5§! Mas perdemos §R $ 5,0 bilhões§! Devido aos custos da campanha.\n"
- ITA_peoples_support_campaigns_long_TT: "Nosso entusiasmo com o programa espacial §Grises§! Até §Y15§ !, mas perdemos §R $ 10,0 bilhões§! Devido aos custos da campanha.\n"
- ITA_rebalance_the_ASI_budget_TT: "Nosso entusiasmo pelo programa espacial §Grises§! Por §Y5§ !, devido à gestão eficaz dos fundos públicos. O reequilíbrio do orçamento da ASI nos custará §R $ 1,0 bilhão.§!\n"
+ ITA_peoples_support_campaigns_short_TT: "Nosso entusiasmo pelo programa espacial §Grises§! Em §Y7.5§! Mas perdemos §R$5,0 bilhões§! Devido aos custos da campanha.\n"
+ ITA_peoples_support_campaigns_long_TT: "Nosso entusiasmo com o programa espacial §Grises§! Até §Y15§ !, mas perdemos §R$10,0 bilhões§! Devido aos custos da campanha.\n"
+ ITA_rebalance_the_ASI_budget_TT: "Nosso entusiasmo pelo programa espacial §Grises§! Por §Y5§ !, devido à gestão eficaz dos fundos públicos. O reequilíbrio do orçamento da ASI nos custará §R$1,0 bilhão.§!\n"
  ITA_italian_space_TT: "§RO efeito deste foco será revelado quando for a hora certa ... §!"
  ITA_income_TT: "O Programa Espacial Comercial gerou uma receita de §G [? ITA_space_income_var] §! Bilhões."
  ITA_expenses_TT: "O Programa Espaço Científico exigiu §R [? ITA_space_expenses_var] §! Bilhões de fundos."

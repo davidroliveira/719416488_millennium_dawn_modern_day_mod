@@ -2288,7 +2288,7 @@ l_english:
  idea_USA_united_republic_desc: "Com a Décima Emenda revogada e o país reunido, o poder do Governo Federal agora é absoluto. O gigante realmente despertou."
  idea_USA_new_education_program: "Novo Programa de Educação"
  USA_usaid: "VOCÊ DISSE"
- USA_usaid_desc: "A Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID) é uma agência independente do governo federal dos Estados Unidos que é principalmente responsável pela administração da ajuda externa civil e da assistência ao desenvolvimento. Com um orçamento de mais de US $ 27 bilhões, a USAID é uma das maiores entidades oficiais de ajuda agências do mundo e é responsável por mais da metade de toda a ajuda externa dos EUA (que em termos absolutos de dólares é a mais alta do mundo). "
+ USA_usaid_desc: "A Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID) é uma agência independente do governo federal dos Estados Unidos que é principalmente responsável pela administração da ajuda externa civil e da assistência ao desenvolvimento. Com um orçamento de mais de US$27 bilhões, a USAID é uma das maiores entidades oficiais de ajuda agências do mundo e é responsável por mais da metade de toda a ajuda externa dos EUA (que em termos absolutos de dólares é a mais alta do mundo). "
 
  USA_american_economy_dynamic_modifier: "£ pol_idea A economia americana"
 
@@ -2368,9 +2368,9 @@ l_english:
 
  ### Idéias egípcias
  full_control_of_suez: "Autoridade do Canal de Suez"
- full_control_of_suez_desc: "O Canal de Suez é controlado e operado pela Autoridade do Canal de Suez. A receita da Autoridade somente com pedágios é de US $ 5 bilhões por ano. Embora o Canal de Suez seja, por tratados internacionais, aberto a embarcações civis e militares, ele pode ser facilmente usado para controlar o transporte entre a Ásia e a Europa "
+ full_control_of_suez_desc: "O Canal de Suez é controlado e operado pela Autoridade do Canal de Suez. A receita da Autoridade somente com pedágios é de US$5 bilhões por ano. Embora o Canal de Suez seja, por tratados internacionais, aberto a embarcações civis e militares, ele pode ser facilmente usado para controlar o transporte entre a Ásia e a Europa "
  partial_control_of_suez: "Autoridade do Canal de Suez-Propriedade Compartilhada"
- partial_control_of_suez_desc: "O Canal de Suez é controlado e operado pela Autoridade do Canal de Suez. A receita da Autoridade somente com pedágios é de US $ 5 bilhões por ano. Embora o Canal de Suez seja, por tratados internacionais, aberto a embarcações civis e militares, ele pode ser facilmente usado para controlar o transporte marítimo entre a Ásia e a Europa. O Canal de Suez está atualmente sob autoridade conjunta entre dois países "
+ partial_control_of_suez_desc: "O Canal de Suez é controlado e operado pela Autoridade do Canal de Suez. A receita da Autoridade somente com pedágios é de US$5 bilhões por ano. Embora o Canal de Suez seja, por tratados internacionais, aberto a embarcações civis e militares, ele pode ser facilmente usado para controlar o transporte marítimo entre a Ásia e a Europa. O Canal de Suez está atualmente sob autoridade conjunta entre dois países "
 
  ### Crime Syndicate Ideas
  crime_syndicate_4: "Sindicato do Crime"

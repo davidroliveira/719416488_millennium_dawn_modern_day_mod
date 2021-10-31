@@ -6381,12 +6381,12 @@ l_english:
  convoy_1: "Comboio"
  convoy_desc: "Comboios usados para o comércio internacional de bens e recursos. Também usados para transportar tropas e para realizar invasões navais."
  ACTUAL_EQUIPMENT_HEADER: "\n\nEquipamento:\n"
- ACTUAL_EQUIPMENT_ENTRY: "- $ NUM|Y0 $ de $ NAME|Y $"
- ACTUAL_EQUIPMENT_ENTRY_PERCENT: "- $ NUM|Y0% $ da produção de $ NAME|Y $"
- REQUESTED_REINFORCEMENT_DELIVERING_TO: "\nEntregando para $ UNIT|Y $ ($ PROG|G% $):"
- REQUESTED_REINFORCEMENT_DELIVERING_TO_BLOCKED: "\nEntregando para $ UNIT|Y $ ($ PROG|G% $ §RBlocked: sem fornecimento do capital§!):"
- REQUESTED_REINFORCEMENT_DELIVERING_TO_ENTRY: "\n$ NUM|Y0 $ de $ EQ|Y $"
- REQUESTED_REINFORCEMENT_DELIVERING_TO_MORE_ENTRIES: "\nE $ COUNT|H $ pede mais ..."
+ ACTUAL_EQUIPMENT_ENTRY: "- $NUM|Y0$de $NAME|Y$"
+ ACTUAL_EQUIPMENT_ENTRY_PERCENT: "- $NUM|Y0%$da produção de $NAME|Y$"
+ REQUESTED_REINFORCEMENT_DELIVERING_TO: "\nEntregando para$UNIT|Y$($ PROG|G% $):"
+ REQUESTED_REINFORCEMENT_DELIVERING_TO_BLOCKED: "\nEntregando para$UNIT|Y$($ PROG|G%$§RBlocked: sem fornecimento do capital§!):"
+ REQUESTED_REINFORCEMENT_DELIVERING_TO_ENTRY: "\n$NUM|Y0$de$EQ|Y$"
+ REQUESTED_REINFORCEMENT_DELIVERING_TO_MORE_ENTRIES: "\nE$COUNT|H$pede mais ..."
  REQUESTED_REINFORCEMENT_HEADER: "Pedidos de reforço:"
  UPGRADE_REINFORCEMENT_HEADER: "Solicitações de atualização:"
  TIMED_ACTIVITY_HEADER: "Solicitação de atividade:"
@@ -6395,15 +6395,15 @@ l_english:
  REQUESTED_REINFORCEMENT_COLLECTING_BLOCKED: "- §RReforço bloqueado: não há fornecimento de capital§!"
  REQUESTED_REINFORCEMENT_COLLECTING_AND_DELIVERY: "- Esperando que o equipamento seja §Hproduzido§! E §Hdelivered§ !:"
  REQUESTED_REINFORCEMENT_DELIVERY_NO_PROGRESS: "- Aguardando que o equipamento seja §Hdelivered§ !:"
- REQUESTED_REINFORCEMENT_COLLECTING_ENTRY: "- $ NUM|Y0 $/$ MAX|Y0 $ de $ NAME|Y $"
- REQUESTED_REINFORCEMENT_DELIVERY_ENTRY: "- $ NUM|Y0 $ de $ NAME|Y $"
- REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY: "- $ NUM|Y0 $/$ MAX|Y0 $ de $ NAME|Y $"
- REQUESTED_MANPOWER_DETAILS: "Os próximos $ NUM|Y $ de mão de obra chegarão em $ HR|Y $ horas.\nReforço de mão de obra total aproximadamente em $ D|Y $ dias."
+ REQUESTED_REINFORCEMENT_COLLECTING_ENTRY: "- $NUM|Y0 $/$ MAX|Y0$de $NAME|Y$"
+ REQUESTED_REINFORCEMENT_DELIVERY_ENTRY: "- $NUM|Y0$de $NAME|Y$"
+ REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY: "- $NUM|Y0 $/$ MAX|Y0$de $NAME|Y$"
+ REQUESTED_MANPOWER_DETAILS: "Os próximos $NUM|Y$de mão de obra chegarão em$HR|Y$horas.\nReforço de mão de obra total aproximadamente em$D|Y$dias."
  NOT_ENOUGH_MANPOWER_TO_REINFORCE: "Não há mão de obra suficiente para reforçar."
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE: "§RO reforço de força de trabalho não é possível no local atual.§!"
- ARCHETYPE_DESC_ENTRY: "- $ COUNT|0 $ $ NAME|H $"
+ ARCHETYPE_DESC_ENTRY: "-$COUNT|0$$ NAME|H$"
  OUTDATED_EQ: "Mostrar §equipamento desatualizado§!"
- EQUIPMENT_DESIGNER_DESC: "Desenhado por: $ DESIGNER|Y $"
+ EQUIPMENT_DESIGNER_DESC: "Desenhado por:$DESIGNER|Y$"
  EQUIPMENT_ARMOR: "Armaduras"
  EQUIPMENT_MOTORIZED: "Motorizado"
  EQUIPMENT_MECHANIZED: "Mecanizado"
@@ -6430,7 +6430,7 @@ l_english:
  EQUIPMENT_LAND: "Equipamento Terrestre"
  EQUIPMENT_NAVAL: "Equipamento Naval"
  EQUIPMENT_AIR: "Equipamento Aéreo"
- EQUIPMENT_VERSION: "Mk $ VERSÃO|0 $"
+ EQUIPMENT_VERSION: "Mk$VERSÃO|0$"
  UNIT_GENERIC_NAME_GENERIC_INFANTRY: "$NR$. $NAME$"
  UNIT_GENERIC_NAME_GER: "$NR$. $NAME$"
  UNIT_GENERIC_NAME_FRA: "$NR$ ème $NAME$"
@@ -8654,7 +8654,7 @@ l_english:
  USA_attack_helicopter4_desc: "Anteriormente conhecido como AH-64D Block III, em 2012, foi redesignado como AH-64E Guardian para representar suas capacidades aumentadas. O AH-64E apresenta conectividade digital aprimorada, o Sistema de Distribuição de Informação Tática Conjunta, T700-GE-701D mais poderoso motores com transmissão de engrenagem frontal atualizada para acomodar mais potência, capacidade de controlar veículos aéreos não tripulados (UAVs), capacidade IFR total e trem de pouso aprimorado. "
  USA_attack_helicopter4_short: "AH-64E Apache"
  USA_attack_helicopter5: "AH-66 Comanche"
- USA_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US $ 7 bilhões no programa. " # <= Não é um erro de digitação
+ USA_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US$7 bilhões no programa. " # <= Não é um erro de digitação
  USA_attack_helicopter5_short: "AH-66 Comanche"
 
  TUR_attack_helicopter1: "AH-1 Cobra"
@@ -8667,7 +8667,7 @@ l_english:
  TUR_attack_helicopter4: "T-130"
  TUR_attack_helicopter4_short: "T-130"
  TUR_attack_helicopter5: "AH-66 Comanche"
- TUR_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US $ 7 bilhões no programa. " # <= Não é um erro de digitação
+ TUR_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US$7 bilhões no programa. " # <= Não é um erro de digitação
  TUR_attack_helicopter5_short: "AH-66 Comanche"
 
  SWE_attack_helicopter1: "AH-1 Cobra"
@@ -8682,7 +8682,7 @@ l_english:
  SWE_attack_helicopter4_desc: "Anteriormente conhecido como AH-64D Block III, em 2012, foi redesignado como AH-64E Guardian para representar suas capacidades aumentadas. O AH-64E apresenta conectividade digital aprimorada, o Sistema de Distribuição de Informação Tática Conjunta, T700-GE-701D mais poderoso motores com transmissão de engrenagem frontal atualizada para acomodar mais potência, capacidade de controlar veículos aéreos não tripulados (UAVs), capacidade IFR total e trem de pouso aprimorado. "
  SWE_attack_helicopter4_short: "AH-64E Apache"
  SWE_attack_helicopter5: "AH-66 Comanche"
- SWE_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US $ 7 bilhões no programa. " # <= Não é um erro de digitação
+ SWE_attack_helicopter5_desc: "O Boeing-Sikorsky RAH-66 Comanche é um helicóptero de reconhecimento e ataque armado furtivo projetado para o Exército dos Estados Unidos. Após décadas de desenvolvimento, durante 2004, o programa RAH-66 foi cancelado antes do início da produção em massa, ponto em que quase os EUA Já foram gastos US$7 bilhões no programa. " # <= Não é um erro de digitação
  SWE_attack_helicopter5_short: "AH-66 Comanche"
 
  ##################### Helicópteros de transporte ########################

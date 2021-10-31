@@ -286,15 +286,15 @@ l_english:
  AC_construction_target_CIC_decision: "[From.GetName]: Construindo [From.AC_GetConstructionType]."
  AC_construction_target_CIC_decision_desc: "Selecionar esta missão cancelará o projeto de construção.\n\nClique com o botão direito para ver o estado de destino."
 
- AC_construction_INF: "Infraestrutura\n\n§YCusto básico por edifício: §! §R $ 2,5 bilhões§!"
- AC_construction_AIR: "Base aérea\n\n§YCusto básico por edifício: §! §R $ 1,5 bilhões§!"
- AC_construction_AA: "SAM-Site\n\n§YBase cost per building: §! §R $ 1,5 bilhão§!"
- AC_construction_RAD: "Estação de inteligência\n\n§YCusto básico por edifício: §! §R $ 1,5 bilhões§!"
+ AC_construction_INF: "Infraestrutura\n\n§YCusto básico por edifício: §! §R$2,5 bilhões§!"
+ AC_construction_AIR: "Base aérea\n\n§YCusto básico por edifício: §! §R$1,5 bilhões§!"
+ AC_construction_AA: "SAM-Site\n\n§YBase cost per building: §! §R$1,5 bilhão§!"
+ AC_construction_RAD: "Estação de inteligência\n\n§YCusto básico por edifício: §! §R$1,5 bilhões§!"
 
- AC_construction_MIC: "Indústria militar\n\n§YCusto básico por edifício: §! §R $ 6 bilhões§!"
- AC_construction_CIC: "Indústria civil\n\n§YCusto básico por edifício: §! §R $ 6 bilhões§!"
- AC_construction_NIC: "Estaleiro naval\n\n§YBase custo por edifício: §! §R $ 6 bilhões§!"
- AC_construction_REF: "Refinaria de biocombustível\n\n§YCusto básico por edifício: §! §R $ 1 bilhão§!"
+ AC_construction_MIC: "Indústria militar\n\n§YCusto básico por edifício: §! §R$6 bilhões§!"
+ AC_construction_CIC: "Indústria civil\n\n§YCusto básico por edifício: §! §R$6 bilhões§!"
+ AC_construction_NIC: "Estaleiro naval\n\n§YBase custo por edifício: §! §R$6 bilhões§!"
+ AC_construction_REF: "Refinaria de biocombustível\n\n§YCusto básico por edifício: §! §R$1 bilhão§!"
 
  AC_assigned_factories_button_tt: "Selecione quantas de suas fábricas civis deseja atribuir a este projeto de construção.\n\n§YFábricas disponíveis para projetos: §! §G [? Root.num_of_civilian_factories_available_for_projects] §!\n\n§LShift-click para adicionar ou remover 5.§! "
 

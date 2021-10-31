@@ -244,7 +244,7 @@ l_english:
  EU_tutorial.82.a: "Próxima página"
 
  EU_tutorial.83.t: "Capítulo 8.3-Aderindo ao Euro"
- EU_tutorial.83.d: "Depois de se tornar um membro da UE, o país também pode aderir ao Euro se certos critérios forem atendidos. O país precisa de pelo menos um Ciclo Econômico de Crescimento Estável, um PIB/C de pelo menos 10.000 $ e um Nível de Corrupção de 5 ou menos."
+ EU_tutorial.83.d: "Depois de se tornar um membro da UE, o país também pode aderir ao Euro se certos critérios forem atendidos. O país precisa de pelo menos um Ciclo Econômico de Crescimento Estável, um PIB/C de pelo menos 10.000$e um Nível de Corrupção de 5 ou menos."
  EU_tutorial.83.a: "Próximo Capítulo"
 
  EU_tutorial.90.t: "Capítulo 9-Eventos da UE"
@@ -1727,11 +1727,11 @@ l_english:
  EU_news.33.a: "OK!"
 
  EU_news.45.t: "Reduzir Programa OMT"
- EU_news.45.d: "O BCE reduziu seu programa OMT.\n§ Limite de tamanho YOMT§ !: Adicionar §R- $ 200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §G- 5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\n"
+ EU_news.45.d: "O BCE reduziu seu programa OMT.\n§ Limite de tamanho YOMT§ !: Adicionar §R-$200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §G- 5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\n"
  EU_news.45.a: "OK!"
 
  EU_news.46.t: "Expandir Programa OMT"
- EU_news.46.d: "O BCE expandiu seu programa OMT.\n§ Limite de tamanho YOMT§ !: Adicione §G + $ 200§! Bilhões.\nTodos os estados membros com §Y taxas de juros§! <§R4.0% § !: Adicione §R + 5 % §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicione §G-5% §! Euroscepticismo.\n"
+ EU_news.46.d: "O BCE expandiu seu programa OMT.\n§ Limite de tamanho YOMT§ !: Adicione §G +$200§! Bilhões.\nTodos os estados membros com §Y taxas de juros§! <§R4.0% § !: Adicione §R + 5 % §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicione §G-5% §! Euroscepticismo.\n"
  EU_news.46.a: "OK!"
 
  ### Notícias EDU ###
@@ -3839,12 +3839,12 @@ l_english:
  ECB_Outright_Monetary_Transactions_desc: "Comece compras (transações diretas) em mercados secundários de títulos soberanos até que todos os estados membros tenham uma taxa de juros abaixo de 4% ou o limite de tamanho OMT seja alcançado."
 
  tooltip_ECB_Start_OMT_effect: "§Programa YOMT§! Fica disponível."
- tooltip_ECB_expand_OMT_limit_effect: "§Limite de tamanho YOMT§ !: Adicionar §G + $ 200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §G-5% §! Euroscepticismo.\n"
- tooltip_ECB_reduce_OMT_limit_effect: "§ Limite de tamanho YOMT§ !: Adicionar §R- $ 200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §G-5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\n"
+ tooltip_ECB_expand_OMT_limit_effect: "§Limite de tamanho YOMT§ !: Adicionar §G +$200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §G-5% §! Euroscepticismo.\n"
+ tooltip_ECB_reduce_OMT_limit_effect: "§ Limite de tamanho YOMT§ !: Adicionar §R-$200§! Bilhões.\nTodos os estados membros com §Y taxa de juros§! <§R4.0% § !: Adicionar §G-5% §! Euroscepticismo.\nTodos os estados membros com §Y taxa de juros§!> §R4.0% § !: Adicionar §R + 5% §! Euroscepticismo.\n"
 
- tooltip_ECB_Outright_Monetary_Transactions_available: "§Limite de tamanho YOMT§!> $ 0."
+ tooltip_ECB_Outright_Monetary_Transactions_available: "§Limite de tamanho YOMT§!>$0."
  tooltip_ECB_Outright_Monetary_Transactions_complete_effect: "Todos os estados membros com §Y taxa de juros§!> §R4,0% § !: A dívida é reduzida até §Y taxa de juros§! <§R4,0% §! E §Limite de tamanho de GOMT§!> §BOMT Valor total§ !.\n"
- tooltip_ECB_Outright_Monetary_Transactions_remove_effect: "Todos os estados membros com §Conta BOMT§!> $ 0: §RAdicionar§! §Conta BOMT§! Em débito.\n"
+ tooltip_ECB_Outright_Monetary_Transactions_remove_effect: "Todos os estados membros com §Conta BOMT§!>$0: §RAdicionar§! §Conta BOMT§! Em débito.\n"
 
  ### ECB_OMT_YES ###
  ALB_ECB_OMT_YES: "[ALB.GetNameWithFlag]: [? ALB.debt|§Y]-[? ALB.interest_rate|§R]-[? ALB.OMT_account|§C]\n"
@@ -4938,7 +4938,7 @@ l_english:
  ############################################################### ####################
  ############################################################### ####################
 
- ### Word to Excel formula: ") ^ t = verketten ("
+ ### Word to Excel formula: ") ^ t=verketten ("
 
  ### EU_voting_scripted_localisation.txt ###
   

@@ -448,7 +448,7 @@ l_english:
  tooltip_focus_USoE508: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YAsia§ !."
  tooltip_focus_USoE509: "Obtenha §Ydecisões sobre o Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! Em §YOceania§ !."
  tooltip_focus_USoE510: "Obtenha §Ydecisões do Imperialismo Ambiental§! Em cada §Ypotência regional e acima§! No §YPacífico§ !."
- tooltip_green_energy_reconstruction: "§YPara cada refinaria de biocombustível convertida§ !: custa $ §R-1§! §Ybillion§! E §Y [THIS.Neutral_green_L] §! Ganham §G5% §! Suporte (para quando> 50%)."
+ tooltip_green_energy_reconstruction: "§YPara cada refinaria de biocombustível convertida§ !: custa$§R-1§! §Ybillion§! E §Y [THIS.Neutral_green_L] §! Ganham §G5% §! Suporte (para quando> 50%)."
  tooltip_EU_USoE_environmental_puppet: "§Y [ROOT.GetNameWithFlag] §! Será considerado como §YMonitor de ambiente§ !."
  tooltip_USoE403_effect: "§Y [THIS.anarchist_communism_L] §! Tamanhos de poder!"
  tooltip_USoE404_effect: "Define §YNível de corrupção§! Para §YNegligible Corrupção§ !."

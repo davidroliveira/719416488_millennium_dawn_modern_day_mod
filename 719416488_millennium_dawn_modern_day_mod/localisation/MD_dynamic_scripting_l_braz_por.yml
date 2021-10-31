@@ -2,9 +2,9 @@ l_english:
 
  ### Idioma para exibir países dinamicamente abaixo do texto normal do evento-feito de forma original para exibir como as nações votam em organizações supranacionais, mas pode ser estendido para qualquer uso
 
- #Normalmente usado assim em uma seção imediata ou de opção-custom_effect_tooltip = script.0.newline
+ #Normalmente usado assim em uma seção imediata ou de opção-custom_effect_tooltip=script.0.newline
 
- #But using custom effects the code is shortened to: nova linha = sim
+ #But using custom effects the code is shortened to: nova linha=sim
  #Palavras comuns
  script.0.yes: "§GYes: §!"
  script.0.no: "§RNo: §!"

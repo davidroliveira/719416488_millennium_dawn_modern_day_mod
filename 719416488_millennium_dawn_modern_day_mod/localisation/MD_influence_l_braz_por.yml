@@ -60,7 +60,7 @@ l_english:
  aid_button_recently_sent_true: "£ trigger_yes não enviou recentemente ajuda econômica para [FROM.GetNameWithFlag]\n"
  aid_button_recently_sent_false: "£ trigger_no não enviou recentemente ajuda econômica para [FROM.GetNameWithFlag]\n"
  influence_0_TT: "§HTreasury§ !:-$ [? From.gift_sum] bilhões\n"
- influence_from_0_TT: "§HTreasury§ !: + $ [? Gift_sum] bilhões\n"
+ influence_from_0_TT: "§HTreasury§ !: +$[? Gift_sum] bilhões\n"
  aid_influence_gain_superpower_TT: "10"
  aid_influence_gain_great_power_TT: "8"
  aid_influence_gain_major_power_TT: "7"

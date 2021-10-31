@@ -876,7 +876,7 @@ l_english:
  gcc.24.b: "Nós nos recusamos a apoiar a adesão deste país!"
 
  gcc.25.t: "GCC estende convite formalmente para [FROM.GetName]"
- gcc.25.d: "O Conselho de Cooperação do Golfo, antes limitado aos seis membros fundadores de [BHR.GetNameDef], [KUW.GetNameDef], [OMA.GetNameDef], [QAT.GetNameDef], [SAU.GetNameDef] e [UAE.GetNameDef], mudou-se para aceitar um novo estado membro. O Secretário-Geral do GCC anunciou hoje que [FROM.GetName] foi formalmente convidado para iniciar um processo de adesão que culminará na adesão ao GCC, uma vez que certos requisitos econômicos sejam atendidos. [FROM.GetName] irá supostamente, será necessário demonstrar progresso no desenvolvimento ao atingir um PIB per capita de US $ 10.000. Os atuais membros do GCC se comprometeram a ajudar [FROM.GetName] a atingir essa meta, investindo em sua economia. "
+ gcc.25.d: "O Conselho de Cooperação do Golfo, antes limitado aos seis membros fundadores de [BHR.GetNameDef], [KUW.GetNameDef], [OMA.GetNameDef], [QAT.GetNameDef], [SAU.GetNameDef] e [UAE.GetNameDef], mudou-se para aceitar um novo estado membro. O Secretário-Geral do GCC anunciou hoje que [FROM.GetName] foi formalmente convidado para iniciar um processo de adesão que culminará na adesão ao GCC, uma vez que certos requisitos econômicos sejam atendidos. [FROM.GetName] irá supostamente, será necessário demonstrar progresso no desenvolvimento ao atingir um PIB per capita de US$10.000. Os atuais membros do GCC se comprometeram a ajudar [FROM.GetName] a atingir essa meta, investindo em sua economia. "
  gcc.25.a: "O Conselho se expande ..."
 
  gcc.26.t: "Ofertas de [FROM.GetName] para hospedar exercícios conjuntos GCC"
