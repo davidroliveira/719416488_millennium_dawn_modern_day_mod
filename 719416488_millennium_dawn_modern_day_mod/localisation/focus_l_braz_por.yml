@@ -3,7 +3,7 @@ l_english:
  generic_focus: "Foco Nacional"
  NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE: "Os ramos são mutuamente exclusivos."
  NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Mutuamente exclusivo com"
- NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$ FOCUS | Y $"
+ NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$ FOCUS|Y $"
  NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Este foco atualmente não tem efeito. Mudanças na situação mundial podem afetar isso."
  continuous_naval_production: "Produção Naval"
  continuous_naval_production_desc: "Concentrando recursos em nossos estaleiros e isentando os construtores de navios qualificados do serviço militar, podemos reduzir drasticamente o tempo de produção dos navios."

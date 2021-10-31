@@ -696,7 +696,7 @@ l_english:
  bankrupcy.1.d: "O problema da dívida de [From.GetName] piorou tanto que eles, realisticamente, não têm chance de pagar ou mesmo de pagar os juros. Com a possibilidade real de uma falência, foi em circunstâncias desesperadoras que [From.GetAdjective ] líder [From.GetLeader] viajou para [Root.GetName] para implorar a ajuda de [Root.GetLeader].\n\n[From.GetNameWithFlag] está nos pedindo para refinanciar uma grande parte de sua dívida a um preço baixo taxa de juros. Se fizermos isso, acalmaremos outros credores internacionais, reduzindo drasticamente os custos de empréstimo de [From.GetName], tornando sua grande dívida administrável.\n\nEmbora perderemos dinheiro com isso, eles ficarão seriamente nossa dívida, com nossa influência sobre eles quadruplicando durante a noite. "
  bankrupcy.1.a: "Conceda [From.GetNameWithFlag] o resgate"
  bankrupcy.1.b: "Desculpe, não podemos pagar"
- bankrupcy_bailout_sum_TT: "Tesouro: §R-$ [? Bailout_sum | 3] bilhões§!\n"
+ bankrupcy_bailout_sum_TT: "Tesouro: §R-$ [? Bailout_sum|3] bilhões§!\n"
  bankrupcy_bailout_influence_TT: "[From.GetNameWithFlag]: [Root.GetNameWithFlag] §Yinfluence§! Multiplicado §G3x§!\n[From.GetNameWithFlag]: Independência do estrangeiro §Yinfluence§! §Greduced§!\n"
 
  #evento de volta para aquele que pede o resgate
@@ -726,7 +726,7 @@ l_english:
 
  remove_civilian_industry_effect_tt: "Perder [? Fator_de_redução |% R0] de fábricas civis.\n"
  migrate_industry_to_random_effect_tt: "§R [? Fator_de_redução |% 0] §! Das fábricas civis movidas para §Y [local_de_relocação.Fator_de_redução] §!.\n"
- factories_migrated_to_us_tt: "[? From.ind_factories | Y0] fábricas civis realocadas de §Y [From.GetNameDef] §! Para §Y [Root.GetNameDef] §!.\n"
+ factories_migrated_to_us_tt: "[? From.ind_factories|Y0] fábricas civis realocadas de §Y [From.GetNameDef] §! Para §Y [Root.GetNameDef] §!.\n"
 
  ### Guerra e sistema anti-intimidação ###
  war.0.t: "[From.GetName] vai para a guerra!"
@@ -3092,7 +3092,7 @@ l_english:
 
  #Overlord Notícias/Eventos Country
  overlord.1.t: "Integração de [FROM.GetName]"
- overlord.1.d: "[FROM.GetName] tem sido nosso estado fantoche por muito tempo. Não é mais uma parceria viável permitir que eles tenham autonomia. Este dia em [GetYear] marca um dia que há muito desejamos. [FROM.GetName] foi integrado à nossa grande nação. Eles agora se tornarão cidadãos de [ROOT.GetAdjective] e receberão os mesmos cuidados e tratamento que qualquer outro cidadão em nossa nação. É um dia glorioso para nós e para o povo de [FROM.GetName].\nNOTA: A anexação de outra nação soberana nos força a assumir todas as suas dívidas, tesouros e investimentos internacionais à medida que se fundem conosco.\n\nVocê ganha o seguinte: [? ROOT.treasury | Y] Tesouro, [? ROOT.debt | R] Dívida, [? ROOT.int_investments] Investimentos internacionais "
+ overlord.1.d: "[FROM.GetName] tem sido nosso estado fantoche por muito tempo. Não é mais uma parceria viável permitir que eles tenham autonomia. Este dia em [GetYear] marca um dia que há muito desejamos. [FROM.GetName] foi integrado à nossa grande nação. Eles agora se tornarão cidadãos de [ROOT.GetAdjective] e receberão os mesmos cuidados e tratamento que qualquer outro cidadão em nossa nação. É um dia glorioso para nós e para o povo de [FROM.GetName].\nNOTA: A anexação de outra nação soberana nos força a assumir todas as suas dívidas, tesouros e investimentos internacionais à medida que se fundem conosco.\n\nVocê ganha o seguinte: [? ROOT.treasury|Y] Tesouro, [? ROOT.debt|R] Dívida, [? ROOT.int_investments] Investimentos internacionais "
  overlord.1.a: "Maravilhoso"
  overlord.1.a_tt: "Ganhamos §YCores§! Em §B [FROM.GetName] §!\n"
 

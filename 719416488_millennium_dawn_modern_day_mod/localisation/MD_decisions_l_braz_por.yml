@@ -2119,7 +2119,7 @@ l_english:
  #Decisões da Ucrânia
  ### Estabilidade da Ucrânia/Decisões da Revolução
  UKR_stability_of_ukraine_decision_category: "Estabilidade na Ucrânia"
- UKR_stability_of_ukraine_decision_category_desc: "A Ucrânia é um país jovem. Ela passou por muitas coisas na vida. Ela está turbulenta e começando a se aproximar do limite. Os falantes de russo no Oriente falam de sedição. Os do Ocidente desejam estabelecer laços com a Europa. O país está no limite, e os próximos dias definirão um país e seu povo.\n\n§GSe a chance de revolta atingir as últimas 15, ocorrerá uma revolução.§!\n\n£ estabilidade_texticon §YEstabilidade do regime (SOR): §! [? UKR.UKR_stability_of_ukraine_var | 20]%\n£ generic_anarchist_communism_small §YChances of Revolt (COR): §! [? UKR.UKR_chance_of_collapse_var | -9,0] "
+ UKR_stability_of_ukraine_decision_category_desc: "A Ucrânia é um país jovem. Ela passou por muitas coisas na vida. Ela está turbulenta e começando a se aproximar do limite. Os falantes de russo no Oriente falam de sedição. Os do Ocidente desejam estabelecer laços com a Europa. O país está no limite, e os próximos dias definirão um país e seu povo.\n\n§GSe a chance de revolta atingir as últimas 15, ocorrerá uma revolução.§!\n\n£ estabilidade_texticon §YEstabilidade do regime (SOR): §! [? UKR.UKR_stability_of_ukraine_var|20]%\n£ generic_anarchist_communism_small §YChances of Revolt (COR): §! [? UKR.UKR_chance_of_collapse_var|-9,0] "
  UKR_help_decision_event: "Evento de Ajuda"
  UKR_help_decision_event_desc: "Clique aqui se precisar de mais informações sobre o sistema."
  UKR_decision_support_campaigns: "Campanhas de Apoio"

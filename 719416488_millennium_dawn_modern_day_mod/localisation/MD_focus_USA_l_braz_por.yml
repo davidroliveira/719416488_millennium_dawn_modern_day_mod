@@ -1220,7 +1220,7 @@ l_english:
 
  #Asteriod Categoria de decisão de mineração
  USA_asteroid_mining_decision: "[ROOT.GetAdjective] Mineração de asteróides"
- USA_asteroid_mining_decision_desc: "Os asteróides fornecem uma indústria de mineração extremamente lucrativa com recursos incomuns na Terra.\n\nContagem de minerais de esteróides: [? Global.asteroid_mineral_count | 0Y]\nTaxa de mineração de esteróides: [? Asteroid_mining_rate | 0Y]\nTaxa de mineração de asteróides globais: [? .asteroid_mining_rate | 0Y]\n\nSe não houver mais minerais, você não terá mais lucros com a Mineração de Asteróides. "
+ USA_asteroid_mining_decision_desc: "Os asteróides fornecem uma indústria de mineração extremamente lucrativa com recursos incomuns na Terra.\n\nContagem de minerais de esteróides: [? Global.asteroid_mineral_count|0Y]\nTaxa de mineração de esteróides: [? Asteroid_mining_rate|0Y]\nTaxa de mineração de asteróides globais: [? .asteroid_mining_rate|0Y]\n\nSe não houver mais minerais, você não terá mais lucros com a Mineração de Asteróides. "
  USA_asteroid_mining_mission: "Lucros da mineração de asteróides"
  USA_pull_small_asteroid_into_orbit: "Puxe um pequeno asteróide para a órbita"
  USA_pull_small_asteroid_into_orbit_desc: "A arte de colocar um asteróide em órbita é nova. É importante pressionarmos isso para beneficiar nosso país. Os recursos são imensos e inimanegáveis.\n\nDevemos começar aos poucos antes de começar a aumentar no tamanho."
@@ -1238,7 +1238,7 @@ l_english:
 
  # Decisões Econômicas Americanas
  USA_american_economic_decisions_category: "A economia americana"
- USA_american_economic_decisions_category_desc: "A economia americana é a maior e uma das economias mais fortes do mundo. No entanto, isso não significa que não tenha seus pontos fracos. É baseada principalmente em serviços, já que a maioria das empresas americanas procura em outro lugar por mão de obra mais barata. A economia também está intimamente ligada à política americana. Fazer negócios na América é caro, mas extremamente lucrativo. §YWall Street§! também é parcialmente culpado. Os homens e mulheres de negócios em Nova York são alguns dos indivíduos mais poderosos da América. É melhor mantê-los sob controle e do lado positivo do governo, ou então.\n\n§YForça de Wall Street: §! [? USA.USA_strength_of_wall_street_var | 17.0] de 50\n§YForça das regulamentações: §! [? USA.USA_economic_regulation_var | 45,0] de 100 "
+ USA_american_economic_decisions_category_desc: "A economia americana é a maior e uma das economias mais fortes do mundo. No entanto, isso não significa que não tenha seus pontos fracos. É baseada principalmente em serviços, já que a maioria das empresas americanas procura em outro lugar por mão de obra mais barata. A economia também está intimamente ligada à política americana. Fazer negócios na América é caro, mas extremamente lucrativo. §YWall Street§! também é parcialmente culpado. Os homens e mulheres de negócios em Nova York são alguns dos indivíduos mais poderosos da América. É melhor mantê-los sob controle e do lado positivo do governo, ou então.\n\n§YForça de Wall Street: §! [? USA.USA_strength_of_wall_street_var|17.0] de 50\n§YForça das regulamentações: §! [? USA.USA_economic_regulation_var|45,0] de 100 "
  USA_resource_steel_factories_decision: "Expandir as fábricas de aço"
  USA_resource_steel_factories_decision_desc: "Grande parte da indústria siderúrgica americana foi terceirizada nos últimos 40-50 anos. Pode ser de nosso interesse retomar parte do trabalho aqui e investir em nossas siderúrgicas!"
  USA_resource_aluminimum_prospecting_decision: "Explorar Depósitos de Bauxita"
@@ -1668,7 +1668,7 @@ l_english:
  russia_investigation1_desc: "A Investigação Russa é a investigação sobre se Donald Trump foi conivente com a Rússia\n\nSe a Investigação Russa diminuir ainda mais sua proeminência, então ela concluirá que Trump não é culpado de conluio."
 
  #Tooltips
- isis_subsidies_tt: "Adicionar §Y $ [? Isis_subsidies | 0] Bilhões§! Ao nosso Tesouro\n"
+ isis_subsidies_tt: "Adicionar §Y $ [? Isis_subsidies|0] Bilhões§! Ao nosso Tesouro\n"
 
  add_Nat_Populism_pop_0.0025_tt: "Mudança na popularidade do populismo de direita: §G0,25% §!\n"
  add_Nat_Populism_pop_0.0028_tt: "Mudança na popularidade do populismo de direita: §G0,28% §!\n"
@@ -1836,8 +1836,8 @@ l_english:
  asteroid_mining_first_mine_tt: "Isso definirá a Contagem de Minerais de Asteróides para 100; se chegar a 0, a mineração cessará até que mais asteróides sejam trazidos."
  asteroid_mining_opportunity_tt: "Seremos capazes de minerar asteróides\n"
 
- asteroid_mining_mined_tt: "Contagem de mineral de asteróide: §R-[? Asteroid_mining_rate | 0] §!\n"
- asteroid_mining_revenue_tt: "Adicionar §Y $ [? Asteroid_mining_rate | 0] Bilhões§! Ao nosso Tesouro\n"
+ asteroid_mining_mined_tt: "Contagem de mineral de asteróide: §R-[? Asteroid_mining_rate|0] §!\n"
+ asteroid_mining_revenue_tt: "Adicionar §Y $ [? Asteroid_mining_rate|0] Bilhões§! Ao nosso Tesouro\n"
  asteroid_mining_not_enough_tt: "§RNão há minerais suficientes nos asteróides ao redor da Terra para fornecer sua receita de asteróides§!\n"
  asteroid_mining_small_asteroid_tt: "Contagem de mineral de asteróide: §G + 4§! Para §G + 10§!\nPoder político: §Y0§! Para §G + 15§!\nMove um pequeno asteróide na órbita da Terra\n"
  asteroid_mining_moderate_asteroid_tt: "Contagem de mineral de asteróide: §G + 10§! Para §G + 20§!\nPoder político: §Y0§! Para §G + 30§!\nMove um asteróide de tamanho moderado para a órbita da Terra\n"

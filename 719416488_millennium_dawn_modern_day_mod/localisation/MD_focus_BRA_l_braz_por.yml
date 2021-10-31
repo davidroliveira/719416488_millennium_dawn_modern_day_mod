@@ -1104,7 +1104,7 @@ l_english:
  BRA_nationalist_claims_URG_desc: "Ao longo do período de 1816 e 1828, batizando-a de Cisplatina. Agora, após o glorioso retorno de nosso Império, devemos reclamar essas terras!"
  #Workers Party Alignment-categoria de decisão
  BRA_workers_party_alignment_decision_category: "Alinhamento do Partido dos Trabalhadores"
- BRA_workers_party_alignment_decision_category_desc: "Lula e o Partido dos Trabalhadores chegaram ao poder. Cumpriremos nossas promessas ou voltaremos aos nossos caminhos socialistas? Quando chegarmos aos 100, cumprimos todas as nossas promessas. Por outro lado, 0 significa que seguimos sem nenhuma Valor partido dos trabalhadores: [? BRA.BRA_brazilian_party_alignment | -50] "
+ BRA_workers_party_alignment_decision_category_desc: "Lula e o Partido dos Trabalhadores chegaram ao poder. Cumpriremos nossas promessas ou voltaremos aos nossos caminhos socialistas? Quando chegarmos aos 100, cumprimos todas as nossas promessas. Por outro lado, 0 significa que seguimos sem nenhuma Valor partido dos trabalhadores: [? BRA.BRA_brazilian_party_alignment|-50] "
  BRA_decision_support_radicals: "Apoie os radicais"
  BRA_decision_support_radicals_desc: "Radicais são os únicos a apoiar."
  BRA_decision_support_reformists: "Apoie os Reformistas"
@@ -1131,7 +1131,7 @@ l_english:
  BRA_decision_reduce_fires_tt: "Isso custará §Y $ 10 bilhões§! Dólares"
  # Guerra nos cartéis
  BRA_war_on_the_cartels_decision_category: "Guerra contra as drogas"
- BRA_war_on_the_cartels_decision_category_desc: "Os cartéis se tornaram uma praga em nosso país. Eles tomaram o campo e doutrinaram as mentes de nossos jovens. Eles trazem conflito, corrupção e morte. Devemos remover essas gangues de nosso país para restaurar um senso de paz e estabilidade para o povo. Não podemos permitir que eles assumam o controle total ou o Brasil certamente irá falhar. Se sua influência chegar a 100, tudo estará perdido. [? BRA.BRA_cartel_influence | -45] "
+ BRA_war_on_the_cartels_decision_category_desc: "Os cartéis se tornaram uma praga em nosso país. Eles tomaram o campo e doutrinaram as mentes de nossos jovens. Eles trazem conflito, corrupção e morte. Devemos remover essas gangues de nosso país para restaurar um senso de paz e estabilidade para o povo. Não podemos permitir que eles assumam o controle total ou o Brasil certamente irá falhar. Se sua influência chegar a 100, tudo estará perdido. [? BRA.BRA_cartel_influence|-45] "
  #Lava-jato
  #BRA_car_wash_decision_category: "Operação Lava Jato"
  #BRA_car_wash_decision_category_desc: "WIP"
