@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  HIDE_MONEY_TOOLTIP: "Clique para ocultar a interface de dinheiro"
  SHOW_MONEY_TOOLTIP: "Clique para mostrar a interface de dinheiro"
  TREASURY_TOOLTIP: "Temos$[? Tesouraria] §Hbilhões§! Na tesouraria.\nNosso saldo diário é de$[? Treasury_rate|+] §Hbilhões§ !."

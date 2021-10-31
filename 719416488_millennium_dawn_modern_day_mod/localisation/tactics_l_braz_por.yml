@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  TACTIC_ATTACKER: "(Atacante)"
  TACTIC_DEFENDER: " (Defensor)"
  TACTIC_DESC: "O líder de cada lado escolherá uma tática para a batalha que afetará como ela se desenrola. Um líder com maior habilidade ou reconhecimento mais avançado tem uma chance maior de escolher uma contra-tática que anule a de seu oponente."

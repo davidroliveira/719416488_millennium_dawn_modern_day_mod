@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  EMBARGO_COUNTRY_TITLE: "Embargo"
  EMBARGO_COUNTRY_ACTION_DESC: "Embarcar neste país fará com que não mantenhamos mais relações comerciais ou outras relações econômicas com este país."
  EMBARGO_TOOLTIP: "Não está embarcando §Y [This.GetNameWithFlag] §!\n"

@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  TRADE_ALL_FACTORY_OUT_TITLE:00 "Todas as Indústrias para o Comércio"
  TRADE_ALL_FACTORY_OUT_DESC:00 "Tem certeza de que deseja que todas as suas indústrias produzam bens comerciais?\n\nVocê não poderá construir nenhum edifício!"
  TRADEOFFER_FACTORIES_DESC_LABEL:00 "Comprar valor:$VALUE|Y $\nPara Indústrias Civis:$CIC|Y$"

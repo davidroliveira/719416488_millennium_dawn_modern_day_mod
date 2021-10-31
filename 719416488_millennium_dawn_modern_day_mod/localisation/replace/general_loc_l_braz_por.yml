@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  #Changed lines (summary: General -> Tenente General, Marechal de Campo -> General, alguns casos em que generais foram usados em geral, mudou de General -> Comandante)
  cc_leader:00 "Tenente General"
  MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE:11 "Tenente General Tamanho Máximo do Exército"

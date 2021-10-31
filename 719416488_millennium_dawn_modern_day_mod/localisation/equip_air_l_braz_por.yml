@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  # isso evita que o local do equipamento de ar vanilla seja carregado
 
  AIR_CATEGORY_UNKNOWN: "??? ($VAL$)"

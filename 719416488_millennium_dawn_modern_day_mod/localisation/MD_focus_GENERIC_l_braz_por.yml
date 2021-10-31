@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  GENERIC_political_reform: "Reforma política"
  GENERIC_political_reform_desc: "Para evitar a estagnação de nossas cenas políticas domésticas, o governo deve manter o país e seu povo politicamente engajados e ativos. A legislação deve ser elaborada, funcionários do governo nomeados, planos de financiamento aprovados e projetos públicos planejados. O governo [Root.GetAdjective] não pode tornar-se complacente em seu esforço para modernizar e fortalecer o país. "
  GENERIC_cabinet_reform: "Reforma do Gabinete"

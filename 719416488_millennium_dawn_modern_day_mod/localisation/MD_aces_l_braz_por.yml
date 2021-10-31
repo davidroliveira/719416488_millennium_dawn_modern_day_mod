@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  MD_ace_promoted.1.t: "Ace Pilot Promovido"
  MD_ace_promoted.1.d: "Poucos assumem tantos riscos quanto os bravos pilotos da força aérea [Root.GetAdjective]. [From.GetName] [From.GetSurname], um piloto habilidoso conhecido pelo indicativo [From.GetCallsign], distinguiu [From.GetHerselfHimself] ] em não apenas retornar com vida, mas pilotar [From.GetHerHis] [From.GetWing] com imensa habilidade. Recentemente, [From.GetName] estava em uma missão na [From.GetMissionRegion] e foi fundamental para o sucesso deste encontro crítico .\n\nSoltou-se como um exemplo brilhante de coragem de [Root.GetAdjective], a recente promoção de [From.GetName] foi amplamente divulgada. Embora as pessoas possam ver a guerra como mais um inferno do que glória, muitos ficam felizes em ver que ainda há heróis para apoiar. "
  MD_ace_promoted.1.a: "Quem atreve-se ganha."

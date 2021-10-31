@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  EFFECT_REMOVE_FM_LEADER: "$NAME|H$deixa de ser um general.\n"
  EFFECT_REMOVE_CC_LEADER: "$NAME|H$deixa de ser tenente-general.\n"
  EFFECT_CREATE_FM_LEADER: "$NAME|H$torna-se um general.\n"

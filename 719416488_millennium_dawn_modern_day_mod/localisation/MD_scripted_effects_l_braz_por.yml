@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  TT_GENERIC_GAIN_5_INFLUENCE: "Iremos ganhar §G5§! §Yinfluência§! Em [THIS.GetName]\n"
  TT_GENERIC_GAIN_10_INFLUENCE: "Ganharemos §G10§! §Yinfluência§! Em [ESTE.NomeGet]\n"
  TT_GENERIC_GAIN_20_INFLUENCE: "Iremos ganhar §G20§! §Yinfluência§! Em [ESTE.NomeGet]\n"

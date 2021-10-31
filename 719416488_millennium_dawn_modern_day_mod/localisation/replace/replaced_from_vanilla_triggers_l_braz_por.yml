@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  TRIGGER_HAS_VOLUNTEERS_MORE_THAN:00 "Tem$VALUE|H$forças de intervenção ou mais de$PAÍS2|H$"
  TRIGGER_HAS_VOLUNTEERS_LESS_THAN:00 "Tem menos de$VALUE|H$forças de intervenção de$PAÍS2|H$"
  TRIGGER_HAS_NOT_MILITARY_ACCESS_TO:00 "Não possui bases militares em$COUNTRY|H$"

@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  md4_border_conflict_initiate_incident: "Etapa de incidente na fronteira [From.From.GetName]"
  md4_border_conflict_incident_warning_defender: "Incidente na fronteira [From.From.GetName] para [From.GetNameDef]"
  md4_border_conflict_incident_warning_defender_desc: "§WMove divisões para §H [From.From.GetName] §! §!"

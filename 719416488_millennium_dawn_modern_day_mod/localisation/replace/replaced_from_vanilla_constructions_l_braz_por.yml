@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP:00 "Clique em um ícone de Indústria Civil ou Indústria Militar para iniciar a conversão."
  CONSTRUCTION_CONVERT_IC_TOOLTIP:00 "§YConvert§!\nConverter indústria civil em indústria militar e vice-versa"
  CONSTRUCTION_FACTORIES_AMOUNT:00 "Quantidade de Indústrias"

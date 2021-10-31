@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  NATO.1.t: "[From.GetNameDef] e NATO"
  NATO.1.d: "[From.GetNameDef] é um membro da OTAN. Se declararmos guerra a eles, eles terão a opção de convocar outros membros da OTAN para a guerra. Isso significa que é muito provável que acabemos em guerra com os maioria da OTAN. "
  NATO.1.a: "Observado"

@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
 
  different_country_flags_category: "Mudar decisão de bandeira"
  different_country_flags_category_desc: "Podemos mudar nossa bandeira para representar melhor o atual partido no poder em nosso país. O atual partido no poder é o [Root.GetRulingParty]"

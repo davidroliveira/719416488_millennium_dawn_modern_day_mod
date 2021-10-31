@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  ## Decisões genéricas para TODOS-classificado de MD_decisions_l_english.yml # 11/21/2020
  ##### Influenciar as decisões #####
  influence_desicions: "[Root.GetAdjective] [GetYear] Relatório sobre influência estrangeira"

@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  AC_DECISIONS: "Projetos de construção"
  AC_DECISIONS_desc: "Nossos projetos de construção em países estrangeiros. Atualmente temos $$ [? ROOT.int_investments] §Hbillion§! Em investimentos internacionais."
 

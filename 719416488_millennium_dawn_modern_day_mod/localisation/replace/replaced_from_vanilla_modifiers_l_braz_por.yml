@@ -1,4 +1,4 @@
-l_english:
+l_braz_por:
  MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR: "Max Industries in a State"
  MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR_DESC: "Modifica o número de slots de construção compartilhados em todos os estados."
  MODIFIER_GLOBAL_BUILDING_SLOTS: "Max Industries in a State"
