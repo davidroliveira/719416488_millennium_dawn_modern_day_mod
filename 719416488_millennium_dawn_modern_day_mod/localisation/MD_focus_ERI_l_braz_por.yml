@@ -1,0 +1,15 @@
+l_english:
+ #Convite a árvore de investidores estrangeiros
+ ERI_eritrea_puppet_federation: "A Segunda Federação"
+ ERI_eritrea_puppet_federation_desc: "Pela segunda vez em nossa história, estávamos sujeitos à Etiópia. Na primeira vez não deu certo, mas será que desta vez dará certo?"
+ ERI_eritrea_puppet_federation_assembly: "Assembleia Representativa da Eritreia"
+ ERI_eritrea_puppet_federation_assembly_desc: "WIP"
+ ERI_eritrea_puppet_federation_constitution: "Escrever uma Constituição"
+ ERI_eritrea_puppet_federation_constitution_desc: "WIP"
+ ERI_eritrea_puppet_federation_appoint_chief_executive: "Nomear o Executivo Principal"
+ ERI_eritrea_puppet_federation_appoint_chief_executive_desc: "É hora de votar em nosso representante oficial para substituir o atual Governo de Transição. Embora estivéssemos em uma federação com a Etiópia novamente, precisamos de um homem forte no topo para lutar por nossos direitos."
+ appoint_chief_executive_tt: "§YUm novo CEO será nomeado.§"
+ ERI_eritrea_puppet_federation_christian: "Chefe do Executivo Ahmed Nasser"
+ ahmed_nasser_cf: "Ahmed Nasser é o novo CEO"
+ ERI_eritrea_puppet_federation_muslim: "Chefe Executivo Hussein Kelifay"
+ hussein_kelifay_cf: "Hussein Kelifay é o novo CEO"

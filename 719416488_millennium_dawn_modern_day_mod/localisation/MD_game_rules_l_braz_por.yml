@@ -1,0 +1,199 @@
+l_english:
+ MD_RULES: "Regras do Millennium Dawn"
+
+ RULE_REMOVE_MICRO_STATES: "Rremove Micro States"
+ RULE_YES_RULE_REMOVE_MICRO_STATES_DESC: "A remoção dos microestados deve ajudar no desempenho das máquinas de baixo custo. \ NA maioria das nações do Caribe está anexada ao Reino Unido, Bahamas aos EUA, Trinidad a Venezeula e todos os micro estados da Europa ao seu benfeitor mais próximo."
+ RULE_NO_RULE_REMOVE_MICRO_STATES_DESC: "Remover microestados deve ajudar no desempenho de máquinas de baixo custo. \ N"
+
+ RULE_DISABLE_NUKES: "Habilitar Nukes"
+ RULE_YES_DISABLE_NUKES_DESC: "Nukes serão permitidos. \ N"
+ RULE_NO_DISABLE_NUKES_DESC: "Nukes não serão permitidos. \ N \ nAtivar este recurso não é recomendado, pois a IA e outras coisas podem se tornar estranhas. Este é apenas um porto normal para nukes."
+
+ RULE_DISABLE_NATO: "Desativar NATO"
+ RULE_YES_DISABLE_NATO_DESC: "A OTAN será desativada ao carregar no jogo"
+ RULE_NO_DISABLE_NATO_DESC: "A OTAN continuará sendo uma facção"
+
+ RULE_DISABLE_EU: "Desativar a UE"
+ RULE_YES_DISABLE_EU_DESC: "Todos os países serão removidos da União Europeia"
+ RULE_NO_DISABLE_EU_DESC: "A União Europeia existirá tal como está"
+
+ RULE_DISABLE_ANTI_BULLY: "Desativar o cansaço público da guerra"
+ RULE_YES_ANTI_BULLY_DESC: "Desativa o sistema de cansaço público da guerra, permitindo que você seja um guerreiro sem penalidades"
+ RULE_NO_ANTI_BULLY_DESC: "O sistema público de cansaço da guerra será ativado"
+
+ RULE_SALAFIST_BRANCH: "Habilitar Filial Salafist"
+ RULE_YES_SALAFIST_BRANCH_DESC: "Habilita o ramo Salafista na árvore genérica de todas as nações"
+ RULE_NO_SALAFIST_BRANCH_DESC: "O ramo salafista na árvore genérica das nações sunitas"
+
+ RULE_MD_CHAOS_MODE: "Ativar MD Chaos Mode Beta v0.1"
+ RULE_YES_MD_CHAOS_MODE_DESC: "Ativa o modo MD Chaos"
+ RULE_NO_MD_CHAOS_MODE_DESC: "Modo MD Chaos desativado"
+
+ RULE_ENABLE_DIVISION_LIMITER: "Habilitar Limitador de Divisão AI"
+ RULE_NO_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão AI desativado \ n \ nPor padrão, o AI não será limitado no número de unidades que pode produzir. Se você deseja limitar as divisões por motivos de desempenho, habilite-me!"
+ RULE_YES_ENABLE_DIVISION_LIMITER_DESC: "Limitador de divisão de IA habilitado \ n \ nQuando eu estiver habilitado, a IA terá menos probabilidade de produzir unidades permitindo uma experiência mais dinâmica para permitir que o jogador jogue com relativa paz!"
+ RULE_OPTION_POTATO_EDITION: "Potato Edition"
+ RULE_POTATO_EDITION_DIVISION_LIMITER_DESC: "Limitador de divisão AI Potato Edition habilitado \ n \ nAinda limita ainda mais a AI por motivos de desempenho. \ N"
+
+ RULE_ALLOW_CHEAT_DECISIONS: "Permitir decisões fraudulentas"
+ RULE_YES_ALLOW_CHEAT_DECISIONS_DESC: "Decisões de trapaça habilitadas"
+ RULE_NO_ALLOW_CHEAT_DECISIONS_DESC: "Decisões de trapaça desativadas"
+
+ RULE_ALLOW_TOGGLING_CHEAT_DECISIONS: "§Y (Multijogador) §! Permitir a alternância de decisões de trapaça globalmente"
+ RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (Opcional) §! \ N \ n Alternância de decisões globais de trapaça habilitada \ n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá em pop-up informando qual nação a alterna. \ n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §! \ n \ n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
+ RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC: "§Y (opcional) §! \ N \ n Alternância de decisões de trapaça globais desativadas \ n§YNOTA: §! Qualquer nação no mundo pode alternar as decisões de trapaça e os efeitos são §Yglobal§ !. Um evento aparecerá informando qual nação a alterna. \ n§YVocê deve certificar-se de que tem permissão para usar a decisão em um jogo multijogador! §! \ n \ n§YNOTA: §! Você também precisa ativar a regra de jogo \ "Permitir decisões de trapaça \" se você quiser usar cheats! "
+
+ RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Permitir Chamada de Forças de Intervenção"
+ RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTA: Isso não é equilibrado e é apenas uma medida temporária para fazer o que você quiser. Quaisquer problemas com voluntários e outros não são da nossa preocupação.§! Permite que você convoque as Forças de Intervenção dos países. \ N"
+ RULE_NO_ALLOW_INTERVENTION_FORCES: "§YPadrão§ !. Não permite que você convoque forças de intervenção de conflitos estrangeiros."
+
+ RULE_OPTION_MD_DEFAULT: "Comportamento AI padrão"
+ RULE_OPTION_MD_DEFAULT_AI_DESC: "A IA escolherá os focos aleatoriamente com uma ligeira ênfase nas escolhas históricas. O estado mundial e o status do país afetarão levemente as escolhas"
+ AI_CHAOS: "Comportamento Caótico de IA"
+ AI_CHAOS_DESC: "A IA sempre escolherá um foco completamente aleatório de todos os seus focos disponíveis atualmente. Todos os focos são iguais, confusão máxima garantida."
+ RULE_OPTION_RANDOM: "Random AI Behavior"
+ RULE_OPTION_RANDOM_DESC: "Um caminho não caótico será escolhido aleatoriamente para a IA seguir."
+
+ ### Regras do jogo de IA do país
+ RUS_AI_BEHAVIOR: "@SOV Federação Russa"
+ RULE_OPTION_PUTIN: "Rússia Unida"
+ RULE_OPTION_PUTIN_AI_DESC: "A Federação Russa buscará seguir a política externa do Rússia Unida e capacitá-los."
+ RULE_OPTION_PEACEFUL_REFORM: "Reforma da Rússia"
+ RULE_OPTION_PEACEFUL_REFORM_AI_DESC: "A Rússia buscará criar formas liberais e buscar maiores laços com o Ocidente."
+ RULE_OPTION_THE_RED_MENACE: "A Ameaça Vermelha"
+ RULE_OPTION_THE_RED_MENACE_AI_DESC: "A Rússia começará a se inclinar para políticas marxistas e tentará restaurar a §YUnião Soviética§! \ N"
+ RULE_OPTION_RISE_OF_RUSSIA: "A ascensão da Rússia"
+ RULE_OPTION_RISE_OF_RUSSIA_AI_DESC: "A Rússia começará a se inclinar para políticas nacionalistas e buscará uma política externa agressiva com o objetivo de proclamar §YA maior Rússia§!. \ N"
+
+ USA_AI_BEHAVIOR: "@USA Estados Unidos da América"
+ RULE_OPTION_STATUS_QUO: "Status quo"
+ RULE_OPTION_STATUS_QUO_AI_DESC: "Os Estados Unidos buscarão manter seu status quo e manter o país sob controle."
+ RULE_OPTION_POLITICAL_REFORM: "Reforma política"
+ RULE_OPTION_POLITICAL_REFORM_AI_DESC: "Os Estados Unidos começarão a buscar reformas cada vez maiores no sistema político do país. Em última análise, permitindo que partidos menores participem das eleições em maior número. \ N"
+ RULE_OPTION_POLITICAL_REVOULUTION: "Revolução Política"
+ RULE_OPTION_POLITICAL_REVOULUTION_AI_DESC: "O fogo da revolução será aceso nas pessoas. Ela pode seguir um de dois caminhos: Nacionalismo e a ascensão dos populistas de direita nos Estados Unidos, ou a ascensão dos Estados comunistas da América."
+
+ #Nigéria
+ NIG_AI_BEHAVIOR: "@NIG República Federal da Nigéria"
+ RULE_OPTION_RISE_OF_BOKO_HARAM: "Ascensão do Boko Haram"
+ RULE_OPTION_RISE_OF_BOKO_HARAM_AI_DESC: "Pressiona a Nigéria para permitir que Boko Haram assuma o controle do país."
+ RULE_OPTION_PDP_EMPOWERED: "Partido Democrático Popular"
+ RULE_OPTION_PDP_EMPOWERED_AI_DESC: "O Partido Democrático do Povo é um dos maiores partidos da Nigéria. Ele defende principalmente o fim cristão do espectro religioso e as ideologias não alinhadas."
+ RULE_OPTION_ANPP_EMPOWERED: "Festa do Povo da Nigéria"
+ RULE_OPTION_ANPP_EMPOWERED_AI_DESC: "O Partido do Povo de Toda a Nigéria (ou Congresso Democrático Progressivo em 2017) é o principal partido da oposição em 2000 na Nigéria. É importante notar que eles se assemelham muito à social-democracia na Europa e pressionam por grandes reformas no país da Nigéria."
+
+ #França
+ FRA_AI_BEHAVIOR_MD: "@FRA República Francesa"
+ RULE_OPTION_FRA_HISTORICAL: "Comportamento histórico da IA"
+ RULE_OPTION_FRA_HISTORICAL_DESC: "A França permanecerá ocidental e um dos líderes da UE. A França tentará trazer a União Européia para uma maior centralização, enquanto também mantém sua influência em suas antigas colônias."
+ RULE_OPTION_FRA_EGALITE: "Égalité"
+ RULE_OPTION_FRA_EGALITE_DESC: "A França vai escolher a Égalité e caminhar para o marxismo"
+ RULE_OPTION_FRA_FRATERNITE: "Fraternité"
+ RULE_OPTION_FRA_FRATERNITE_DESC: "A França escolherá Fraternité e terá como objetivo dominar a Europa"
+
+ #China
+ PRC_AI_BEHAVIOR: "@CHI República Popular da China"
+ RULE_OPTION_CHINESE_HEGEMONY: "Hegemonia Chinesa"
+ RULE_OPTION_CHINESE_HEGEMONY_AI_DESC: "A China buscará o domínio em seu esperma de influência e no mundo em geral, buscando usurpar a posição da América como o único hegemon global. Ela se recusará a ceder à pressão externa para abandonar seus valores sociais e políticos únicos em favor daqueles que se conformam à ordem internacional liberal dominada pelo Ocidente. Embora a China raramente busque a guerra diretamente e, em vez disso, busque ganhar influência por outros meios, ela não se esquivará da guerra se se sentir obrigada a usar a força. "
+ RULE_OPTION_A_LONG_PEACE: "Ascensão Pacífica"
+ RULE_OPTION_A_LONG_PEACE_AI_DESC: "A China vai preferir a diplomacia e a cooperação ao confronto, procurando desenvolver-se ao mesmo tempo em que se conforma constantemente às regras existentes da ordem internacional, em vez de tentar derrubá-la. Também fará movimentos em direção à liberalização política e economicamente."
+ RULE_OPTION_RED_DAWN: "Red Dawn"
+ RULE_OPTION_RED_DAWN_AI_DESC: "A China buscará retornar às suas raízes maoístas, revertendo as reformas econômicas de Deng Xiaoping e fazendo escolhas de política externa com base na ideologia e não na estratégia. A guerra é inevitável enquanto a China busca revolucionar a ordem internacional em sua própria imagem, uma imagem impulsionada pelo comunismo universalista em vez de por valores chineses específicos. "
+
+ #Japão
+ JAP_AI_BEHAVIOR: "@JAP Japan"
+ RULE_OPTION_RED_STAR_OVER_TOKYO: "Red Star over Tokyo"
+ RULE_OPTION_RED_STAR_OVER_TOKYO_AI_DESC: "No passado, a perspectiva de um Japão comunista não era uma possibilidade inimaginável. Nos anos seguintes, essa possibilidade pareceu desaparecer com o Japão abraçando um sistema econômico totalmente capitalista. Mas o crescimento milagroso que esse sistema uma vez produziu agora estagnou. Desigualdade está desenfreada e o povo do Japão está começando a aceitar a possibilidade de que uma mudança no atual estado de coisas seja necessária ... "
+ RULE_OPTION_RETURN_OF_THE_EMPIRE: "O Retorno do Império"
+ RULE_OPTION_RETURN_OF_THE_EMPIRE_AI_DESC: "Antes o Japão era uma grande nação. Ele focalizou todo o continente asiático e chegou perto de alcançar seu merecido status. Agora o Japão está fraco e sujeito à vontade de potências estrangeiras. O Japão tentará se recuperar para o que era e restabelecer um império na Ásia Oriental. "
+
+ #Myanmar
+ BRM_AI_BEHAVIOR: "União @BRM de Mianmar"
+ RULE_OPTION_BEACON_OF_DEMOCRACY: "Farol da Democracia"
+ RULE_OPTION_BEACON_OF_DEMOCRACY_AI_DESC: "Mianmar buscará reformas sem compromisso, levando rapidamente o NLD ao poder. Em vez de fazer concessões ao Tatmadaw, Mianmar vai mobilizar vários apoiadores da liberalização política, incluindo grupos rebeldes étnicos, com o objetivo de acabar com a influência dos militares na política de uma vez por todas tudo."
+ RULE_OPTION_AN_IRON_FIST: "Um punho de ferro"
+ RULE_OPTION_AN_IRON_FIST_AI_DESC: "Aplicável apenas à data de início de 2000, esta regra do jogo obrigará Mianmar a permanecer uma ditadura e, em vez de responder positivamente à pressão por reformas como fez historicamente, reagirá com repressão e totalitarismo. Além disso, a fim de distrair de sua perda de legitimidade - o governo militar buscará a guerra não apenas com os grupos rebeldes do país, mas também com seus vizinhos ".
+
+ #Suécia
+ SWE_AI_BEHAVIOR: "@SWE Reino da Suécia"
+ RULE_OPTION_NORTHERN_AMBITION: "Ambição do Norte"
+ RULE_OPTION_NORTHERN_AMBITION_AI_DESC: "A extrema direita sueca verá um aumento na popularidade que culminará na tentativa de estabelecer um Império Sueco no Norte da Europa."
+
+ #Síria
+ SYR_AI_BEHAVIOR: "@SYR República Árabe Síria"
+ RULE_OPTION_SYR_HISTORICAL: "IA histórica"
+ RULE_OPTION_SYR_HISTORICAL_DESC: "Hafez al-Assad será sucedido por seu filho mais velho, Bashar al-Assad. Bashar manterá a Síria como um país alinhado à Rússia com um foco equilibrado de diplomacia, militar e economia"
+ RULE_OPTION_SYR_IRON_LADY: "Senhora de Ferro da Síria"
+ RULE_OPTION_SYR_IRON_LADY_DESC: "Hafez al-Assad será sucedido por sua filha Bushra al-Assad. Bushra terá uma abordagem mais neutra entre as grandes potências, com foco na diplomacia e na economia"
+ RULE_OPTION_SYR_SYRIAN_SAVAGE: "Syrian Savage"
+ RULE_OPTION_SYR_SYRIAN_SAVAGE_DESC: "Hafez al-Assad será sucedido pelo filho mais novo Maher al-Assad. Maher tentará formar a Grande Síria e conquistar um novo poder no Oriente Médio. Ele se concentrará na expansão militar e econômica"
+ RULE_OPTION_SYR_NEW_ASSAD: "Novo al-Assad"
+ RULE_OPTION_SYR_NEW_ASSAD_DESC: "Hafez al-Assad será sucedido por seu irmão Rifaat al-Assad após a Primavera de Damasco. Rifaat se concentrará em uma política pró-saudita com foco na diplomacia e na economia"
+ RULE_OPTION_SYR_DAMASCUS_SPRING: "Primavera de Damasco"
+ RULE_OPTION_SYR_DAMASCUS_SPRING_DESC: "A Síria será ultrapassada pelo movimento da Primavera de Damasco e transformada em uma democracia"
+
+ #Bahrain
+ BHR_AI_BEHAVIOR: "@BHR Bahrain"
+ RULE_OPTION_DAY_OF_RAGE: "Dia da Fúria"
+ RULE_OPTION_DAY_OF_RAGE_AI_DESC: "O povo do Bahrein, no espírito dos protestos antigovernamentais dos anos 90, pressionará por uma maior liberalização política, culminando no estabelecimento de um estado xiita totalmente democrático. Esta nova república xiita se alinhará com o Irã."
+
+ #Arábia Saudita
+ SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Global Jihad - GCC First"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "A Arábia Saudita tentará reformar sua economia e unificar o GCC como um superestado. Então, a monarquia saudita será derrubada por um levante da Al-Qaeda, levando ao estabelecimento de um estado islâmico radical que busca espalhar sua ideologia fundamentalista por meio de violentos meios."
+ RULE_OPTION_GLOBAL_JIHAD: "Jihad Global"
+ RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "A monarquia saudita será derrubada por um levante da Al-Qaeda, levando ao estabelecimento de um estado islâmico radical que busca espalhar sua ideologia fundamentalista por meios violentos."
+ RULE_OPTION_ISLAMIC_AWAKENING: "Despertar Islâmico"
+ RULE_OPTION_ISLAMIC_AWAKENING_AI_DESC: "O Sahwa, ou Movimento do Despertar, influenciado pela Irmandade Muçulmana, irá pressionar com sucesso a monarquia saudita a dar lugar a uma democracia islâmica pluralista."
+ RULE_OPTION_RETURN_OF_THE_BAATH: "Retorno do Baath"
+ RULE_OPTION_RETURN_OF_THE_BAATH_AI_DESC: "A Arábia Saudita se liberalizará gradualmente, proporcionando uma oportunidade para a ideologia única do nacionalismo socialista árabe do partido Baath ganhar uma posição no país. A Arábia Baathista buscará então expulsar as tropas estrangeiras do Oriente Médio, bem como expandir seu próprio território. "
+ RULE_OPTION_SHIA_REVIVAL: "Revivificação Shia"
+ RULE_OPTION_SHIA_REVIVAL_AI_DESC: "Os xiitas da Arábia Saudita vão aproveitar a oportunidade apresentada pela liberalização política para assumir o controle da Arábia Saudita, alinhando o país com o Irã e a Rússia."
+
+ #REINO UNIDO
+ BRI_AI_BEHAVIOR: "@ENG Reino Unido"
+ RULE_OPTION_EUROPEAN_FUTURE: "Um futuro europeu"
+ RULE_OPTION_EUROPEAN_FUTURE_AI_DESC: "O Reino Unido não é mais o que era. A Grã-Bretanha não pode mais alegar ser uma superpotência global. Mas isso não significa que o povo britânico não deva mais desempenhar um papel no cenário mundial, com o projeto europeu proporcionando esperança para o preservação do lugar da Grã-Bretanha no mundo como parte de uma comunidade mais ampla de nações comprometidas com um conjunto compartilhado de ideais. "
+ RULE_OPTION_RED_REPUBLIC: "A República Vermelha"
+ RULE_OPTION_RED_REPUBLIC_AI_DESC: "Durante toda a sua história, a Grã-Bretanha foi subjugada por monarcas, aristocratas e nobres. O sistema de classes britânico é um dos mais infames do mundo, com os trabalhadores pobres da Grã-Bretanha sofrendo à medida que os ricos enriquecem. em formação. "
+ RULE_OPTION_RULE_BRITANNIA: "Governar Britannia"
+ RULE_OPTION_RULE_BRITANNIA_AI_DESC: "Outrora, esta ilha com cepas era conhecida e temida em todo o mundo. O monarca britânico presidia o império sobre o qual o sol nunca se punha. Agora, no entanto, a posição internacional da Grã-Bretanha entrou em declínio. Um mero lacaio dos Estados Unidos, uma sombra de seu antigo eu. Chegou a hora de o Império Britânico ser restaurado. "
+
+ #Grécia
+ GRE_AI_BEHAVIOR: "@GRE Grécia"
+ RULE_HELLENIC_REPUBLIC: "Histórico"
+ RULE_HELLENIC_REPUBLIC_DESC: "A Grécia manterá a democracia e tentará resolver a crise da dívida grega por meio de medidas de austeridade"
+ RULE_OPTION_KKE: "KKE"
+ RULE_OPTION_KKE_DESC: "Depois que o descontentamento com o governo crescer devido aos problemas causados pela crise da dívida, o povo fortalecerá o Partido Comunista da Grécia e tentará criar um estado comunista"
+ RULE_OPTION_GOLDEN_DAWN: "Golden Dawn"
+ RULE_OPTION_GOLDEN_DAWN_DESC: "Depois que o descontentamento com o governo crescer devido aos problemas causados pela crise da dívida, o povo fortalecerá o partido Nacionalista Golden Dawn e tentará criar um poderoso Estado grego"
+
+ #Canadá
+ CAN_AI_BEHAVIOR: "@CAN Canada"
+ RULE_NORTH_AMERICAN_STATUS_QUO: "Status Quo da América do Norte"
+ RULE_NORTH_AMERICAN_STATUS_QUO_DESC: "O Status Quo da América do Norte fará com que o Canadá permaneça na OTAN e relativamente no mesmo lugar com a OTAN e os EUA."
+ RULE_NATIONALIST_CANADA: "Canadá Nacionalista"
+ RULE_NATIONALIST_CANADA_DESC: "O Canadá se tornará nacionalista e buscará dominar a América do Norte"
+ RULE_STAND_ALONE_CANADA: "Estar sozinho"
+ RULE_STAND_ALONE_CANADA_DESC: "Neutralidade armada é neutralidade"
+
+ #Edgy Flags
+ RULE_ALLOW_MULTIPLE_FORMABLES: "Permitir vários do mesmo formável"
+ RULE_ALLOW_MULTIPLE_FORMABLES_BLOCKED_DESC: "Permitir apenas que um determinado formável seja formado por uma nação."
+ RULE_ALLOW_MULTIPLE_FORMABLES_ALLOWED_DESC: "Permita que o mesmo formável seja formado por qualquer nação que reúna as condições (pode ter sindicatos árabes rivais). As bandeiras são colocadas então é provável que sejam únicas, porém não garantidas."
+
+ #Ideologias aleatórias
+ MD_RANDOM_RULES: "Regras do Randomizer"
+ RULE_RANDOM_IDEOLOGIES: "Randomize Outlooks"
+ RULE_RANDOM_IDEOLOGIES_NO_DESC: "Todas as nações mantêm suas perspectivas históricas"
+ RULE_RANDOM_IDEOLOGIES_YES_DESC: "Todas as nações agora têm uma perspectiva aleatória"
+
+ #Random Religions
+ RULE_RANDOM_RELIGION: "Randomizar religiões"
+ RULE_RANDOM_RELIGION_NO_DESC: "Todas as nações mantêm suas religiões históricas"
+ RULE_RANDOM_RELIGION_YES_DESC: "Todas as nações têm suas religiões aleatórias"
+
+ #Internal Factions
+ RULE_RANDOM_INTERNAL_FACTIONS: "Randomize Factions Internas"
+ RULE_RANDOM_INTERNAL_FACTIONS_NO_DESC: "Todas as nações mantêm suas facções internas históricas"
+ RULE_RANDOM_INTERNAL_FACTIONS_YES_DESC: "Todas as nações têm facções internas aleatórias"

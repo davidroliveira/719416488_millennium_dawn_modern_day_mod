@@ -1,0 +1,43 @@
+l_english:
+ EMBARGO_COUNTRY_TITLE: "Embargo"
+ EMBARGO_COUNTRY_ACTION_DESC: "Embarcar neste país fará com que não mantenhamos mais relações comerciais ou outras relações econômicas com este país."
+ EMBARGO_TOOLTIP: "Não está embarcando §Y [This.GetNameWithFlag] §! \ N"
+ EMBARGO_SEND_DESC: "[Root.EMBARGO_SCRIPTED_LOCALIZATION]"
+ EMBARGO_SEND_DESC_USA: "Embarcar §Y [This.GetNameWithFlag] §! Reduzirá a influência e opinião do comércio com §Y [This.GetNameWithFlag] §! Por §R100§ !. Se eles também tiverem §YUSAID§! Será revogado. \ N \ nEste não limita o país de encontrar recursos por outros meios ... "
+ EMBARGO_SEND_DESC_EVERYONE: "Embarcar §Y [This.GetNameWithFlag] §! Reduzirá a influência comercial e a opinião com §Y [This.GetNameWithFlag] §! Por §R100§!. \ N \ nIsso não limita o país de encontrar recursos por outros meios .. . "
+
+ LIFT_EMBARGO_COUNTRY_TITLE: "Levantar Embargo"
+ LIFT_EMBARGO_COUNTRY_ACTION_DESC: "O levantamento do embargo a este país nos permitirá normalizar as relações econômicas e os laços comerciais."
+ LIFT_EMBARGO_TOOLTIP: "Elevadores §Y [This.GetNameWithFlag] §! 'S Embargo"
+ LIFT_EMBARGO_SEND_DESC: "Levantar o embargo de §Y [This.GetNameWithFlag] §! Aumentará a influência e as relações comerciais em §G100§ !. No entanto, §Y [This.GetNameWithFlag] §! Receberá a opinião §R-50§! Devido a ter sido recentemente embargado. \ n "
+ ## Retirado do mod de Yard1
+ RECALL_VOLUNTEERS_TITLE: "Recall Intervention Force"
+ RECALL_VOLUNTEERS_ACTION_DESC: "Em um momento, podemos escolher chamar de volta nossa força de intervenção."
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y [This.GetNameWithFlag] §! §R deve ter forças de intervenção ativas de nós que possamos retirar.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y [This.GetNameWithFlag] §! Deve ter forças de intervenção ativas de nós que possamos retirar."
+ RECALL_VOLUNTEERS_SEND_DESC: "A luta §Y [This.GetNameWithFlag] §! Se encontra não é mais nossa luta. É hora de retirarmos nossas forças do conflito. \ N \ n§YEsta ação retirará nossas Forças de Intervenção de §Y [This. GetNameWithFlag] §! "
+
+ #ACORDO COMERCIAL
+ base_trade_condition: "Base Relectuance Against Trade Agreement"
+ condition_two: "Relectuância de tipo governamental"
+ condition_three: "Relectuância da opinião"
+ condition_four: "Reletuância de ambos serem membros da OTAN"
+ condition_five: "Reletuância de ambos serem membros da UE"
+ condition_six: "Relectuância de estarem juntos na facção"
+ trade_condition_has_same_government: "Nações têm o mesmo governo"
+ trade_has_positive_relations: "Tem Relações Positivas"
+
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_TITLE: "Proposta de Acordo Comercial"
+ PROPOSE_IMPROVED_TRADE_AGREEMENT_ACTION_DESC: "A proposta de um acordo comercial com esta nação deve ser um acordo mutuamente benéfico. Trazendo maior prosperidade para a nossa nação e a deles. \ N \ nA seguir estão os fatores que determinam como a IA reagirá ao acordo: \ nO mesmo governo, opinião, influência, Facção, Membro da UE, Membro da OTAN. \ N "
+ PROPOSE_TRADE_AGREEMENT_TOOLTIP: "Não está atualmente em um acordo comercial com §Y [This.GetNameWithFlag] §! \ N"
+ PROPOSAL_MISSING_TOOLTIP: "Não está considerando uma oferta de §Y [This.GetNameWithFlag] §! \ N"
+ PROPOSE_TRADE_AGREEMENT_DESC: "Um acordo comercial entre nossas duas nações aumentará a influência do comércio em §G50§! E a opinião com §Y [This.GetNameWithFlag] §! Por §G25§! Caso seja aceito. As duas nações também receberão §G ~ 1% §! Influência uns sobre os outros. "
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_TT: "[THIS.GetNameWithFlag] Aceitou o Contrato!"
+ PROPOSE_TRADE_AGREEMENT_ACCEPT_DESC: "[THIS.GetNameWithFlag] aceitou o acordo que produz os seguintes efeitos: \ n \ nAumento da influência do comércio de §G50§! \ NAumento de influência de §G25§! \ NAumento da influência de cerca de §G ~ 1% §! \ N"
+ PROPOSE_TRADE_AGREEMENT_REJECT_TT: "[THIS.GetNameWithFlag] Rejeitou o Acordo!"
+ PROPOSE_TRADE_AGREEMENT_REJECT_DESC: "Infelizmente [THIS.GetNameWithFlag] rejeitou nosso acordo comercial. Talvez outro dia possamos assinar um acordo."
+
+ CANCEL_TRADE_AGREEMENT_TITLE: "Fim do Acordo Comercial"
+ CANCEL_TRADE_AGREEMENT_ACTION_DESC: "Terminar o acordo comercial com esta nação causará tensões entre as nossas nações."
+ CANCEL_TRADE_AGREEMENT_TOOLTIP: "Está atualmente em um acordo comercial com §Y [This.GetNameWithFlag] §! \ N"
+ CANCEL_TRADE_AGREEMENT_DESC: "O término do acordo comercial tem os seguintes efeitos: \ n \ nA influência do comércio diminui em §R50§! \ NReduz a posição em §R25§! Com um modificador de opinião de §R15§! Devido à quebra do acordo \ n"

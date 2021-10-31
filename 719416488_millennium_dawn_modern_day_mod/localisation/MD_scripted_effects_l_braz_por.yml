@@ -1,0 +1,13 @@
+l_english:
+ TT_GENERIC_GAIN_5_INFLUENCE: "Iremos ganhar §G5§! §Yinfluência§! Em [THIS.GetName] \ n"
+ TT_GENERIC_GAIN_10_INFLUENCE: "Ganharemos §G10§! §Yinfluência§! Em [ESTE.NomeGet] \ n"
+ TT_GENERIC_GAIN_20_INFLUENCE: "Iremos ganhar §G20§! §Yinfluência§! Em [ESTE.NomeGet] \ n"
+ TT_GENERIC_GAIN_30_INFLUENCE: "Iremos ganhar §G30§! §Yinfluência§! Em [ESTE.NomedoGet] \ n"
+ TT_GENERIC_GAIN_40_INFLUENCE: "Iremos ganhar §G40§! §Yinfluência§! Em [ESTE.NomeGet] \ n"
+ TT_GENERIC_GAIN_50_INFLUENCE: "Iremos ganhar §G50§! §Yinfluência§! Em [ESTE.NomeGet] \ n"
+ TT_GENERIC_LOSE_5_INFLUENCE: "Perderemos §R5§! §Yinfluência§! Em [ESTE.GetName] \ n"
+ TT_GENERIC_LOSE_10_INFLUENCE: "Vamos perder §R10§! §Yinfluência§! Em [ESTE.NomeGet] \ n"
+ TT_GENERIC_LOSE_20_INFLUENCE: "Vamos perder §R20§! §Yinfluência§! Em [ESTE.GetName] \ n"
+ TT_GENERIC_LOSE_30_INFLUENCE: "Perderemos §R30§! §Yinfluência§! Em [ESTE.GetName] \ n"
+ TT_GENERIC_LOSE_40_INFLUENCE: "Perderemos §R40§! §Yinfluência§! Em [THIS.GetName] \ n"
+ TT_GENERIC_LOSE_50_INFLUENCE: "Perderemos §R50§! §Yinfluência§! Em [ESTE.GetName] \ n"

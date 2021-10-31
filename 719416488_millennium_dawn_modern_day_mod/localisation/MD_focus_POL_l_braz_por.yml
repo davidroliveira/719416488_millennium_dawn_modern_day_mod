@@ -1,0 +1,538 @@
+l_english:
+
+ POL_prepare_for_october_elections: "Prepare-se para as eleições de outubro"
+ POL_prepare_for_october_elections_desc: "Em 1995, Aleksander Kwasniewski ganhou as eleições. Cinco anos se passaram rapidamente e agora as próximas eleições estão se aproximando. Com o início dos preparativos para as eleições de outubro, poderíamos apoiar nosso candidato ao próximo presidente da Polônia."
+
+ POL_abolish_the_elections: "Abolir as Eleições"
+ POL_abolish_the_elections_desc: "Por uma década, nossa nação foi uma república, onde as pessoas podiam eleger um novo presidente. Agora, quando as próximas eleições estiverem bem próximas, poderíamos simplesmente parar de organizá-la. As pessoas não ficarão felizes, mas teremos a chance de nomear novos e melhor governo para a Polônia. "
+ 
+ POL_kwasniewski: "Reformas de Kwasniewski"
+ POL_kwasniewski_desc: "Aleksander Kwasniewski governou nosso país desde sua vitória nas eleições de 1995. Ele quer fortalecer os laços com o Ocidente e ingressar na UE. Mas ele também precisa reformar a economia polonesa."
+
+ POL_korwin_mikke: "Korwin-Mikke"
+ POL_korwin_mikke_desc: "Janusz Korwin-Mikke é um conservador com suas próprias ideias de reformar a Polônia. Se ele se tornar presidente, fortalecerá o poder presidencial e também manterá a Polônia longe do oeste e do leste."
+
+ POL_lepper: "Polônia de Lepper"
+ POL_lepper_desc: "Andrzej Lepper quer reconstruir a Polônia depois de se tornar o novo presidente. Ele quer fortalecer o poder presidencial e se alinhar aos países do leste. Mas ele também precisa reformar a economia polonesa."
+ 
+ POL_reform_polish_state: "Reforma do Estado Polonês"
+ POL_reform_polish_state_desc: "Após a queda da URSS, a Polônia ainda tem uma economia fraca e muitos sistemas antigos. Agora é a nossa hora de intensificar e tornar a nação polonesa melhor a cada dia."
+
+ POL_reform_banking_system: "Reformar o sistema bancário"
+ POL_reform_banking_system_desc: "Mesmo que os comunistas tenham caído, ainda temos nossa dívida e nossos bancos ainda não foram reformados. É nossa tarefa melhorar os sistemas bancários para ter uma chance de pagar nossos empréstimos e dívidas."
+
+ POL_take_the_money_001_tooltip: "Ganharemos §Y $ 10 bilhões§W em nossa tesouraria.§."
+
+ POL_repay_debt_001_tooltip: "Vamos reduzir nossa dívida em §Y $ 10 bilhões§W.§."
+
+ POL_reform_education: "Reforma da Educação"
+ POL_reform_education_desc: "A educação é muito importante no século XXI. Precisamos de uma sociedade inteligente para desenvolver nossas cidades, tecnologias e até mesmo o exército, para proteger nossa nação".
+
+ POL_higher_education_tooltip: "§G Orçamento superior§W será gasto em §YEducação§W.§."
+
+ POL_free_trade_tooltip: "A economia polonesa se concentrará em §Gprivatização§W e §Glivre comércio§W.§."
+
+ POL_interventionism_trade_tooltip: "A economia polonesa denunciará §Rprivatização§W e §R livre comércio§W e se concentrará em §Gintervencionismo§W.§."
+
+ POL_protectionism_trade_tooltip: "O governo polonês irá §Fechar§W seu comércio com §Países estrangeiros§W e vai abraçar totalmente §Gprotecionismo§W.§."
+
+ POL_question_of_polish_economy: "Questão da Economia Polonesa"
+ POL_question_of_polish_economy_desc: "Apoiamos a política comercial intervencionista desde o fim da Segunda Guerra Mundial. Devemos decidir que caminho seguiremos para reformar com eficiência outras partes de nossa economia e sociedade."
+
+ POL_pro_european_policy: "Nomear Política Pró-Europeia"
+ POL_pro_european_policy_desc: "A União Européia é uma união econômica de países, onde os mais ricos ajudam os pobres. Se nos juntarmos, certamente teremos alguns benefícios!"
+
+ POL_abandon_nato: "Sair da OTAN"
+ POL_abandon_nato_desc: "O mundo ocidental capitalista é uma ameaça real para a Polônia. Se alguém decidir nos atacar, provavelmente não nos ajudará. Talvez devêssemos abandonar nossos 'amigos' e nos concentrar em uma nova diplomacia?"
+
+ POL_diplomacy_towards_brics: "Diplomacia para os BRICS"
+ POL_diplomacy_towards_brics_desc: "Os países orientais são muito melhores do que os capitalistas ocidentais. Devemos apoiar sua política e talvez eles nos ajudem em nosso desenvolvimento."
+ 
+ POL_strengthen_presidental_power: "Fortalecer o Poder Presidencial"
+ POL_strengthen_presidental_power_desc: "Desde a queda do comunismo e desde que Lech Walesa venceu as eleições, somos uma república parlamentar. Muitos de nós dizem que não devemos dar todo o poder a uma pessoa, mas alguns partidos querem estabelecer uma república, totalmente controlada pelo presidente . "
+
+ POL_agrarian_reform: "Reforma Agrícola"
+ POL_agrarian_reform_desc: "De acordo com o partido de Lepper, a Polónia deve concentrar a sua indústria na agricultura para obter os melhores benefícios. Podemos ajudar os nossos agricultores estabelecendo o Conselho Nacional da Agricultura, que os ajudará e protegerá os seus direitos e privilégios."
+
+ POL_change_army_law_001_tooltip: "§G Orçamento superior§W será gasto em §Ymilitar§W.§."
+
+ POL_professional_army: "Exército Profissional Polonês"
+ POL_professional_army_desc: "Não defenderemos nossa nação de ameaças estrangeiras sem um exército profissional. Precisamos começar os treinamentos para melhorar a força de nosso exército."
+
+ POL_civilian_army: "Exército Civil Polonês"
+ POL_civilian_army_desc: "Temos que dar ao nosso povo o direito de se defender e dar-lhes armas legais. Isso certamente aumentará a quantidade de civis armados, mas eles terão menos experiência do que nosso exército nacional".
+
+ POL_higher_army_budget: "Orçamento Superior do Exército"
+ POL_higher_army_budget_desc: "Aumentar o orçamento do nosso exército é o passo básico para melhorar a eficiência de nossas tropas. Sem um orçamento certo, não seremos capazes de obter o equipamento necessário para eles, então temos que expandir o apoio financeiro para o exército."
+
+ POL_death_penalty: "Pena de morte"
+ POL_death_penalty_desc: "Se alguém comete um crime, só podemos prendê-lo pelo resto da vida. Mas podemos ganhar disciplina e respeito se expandirmos a lei e a polícia, restaurando a pena de morte."
+
+ POL_support_polish_traditions: "Fortalecer as Tradições Polonesas"
+ POL_support_polish_traditions_desc: "A Polónia é católica desde o ano 966. Tivemos muitas crises, mas a nossa religião e tradições ainda estão vivas. Se somos um verdadeiro país cristão, temos que fortalecer as tradições de base como a família e a fé."
+
+ POL_open_gddkia: "Abrir GDDKiA"
+ POL_open_gddkia_desc: "A Direção Geral de Estradas e Rodovias Nacionais (GDDKiA) é a administração central criada para administrar as estradas e rodovias nacionais. Já está pronta para ser inaugurada, então talvez devêssemos fazê-lo agora?"
+
+ POL_founding_of_central_anticorruption_bureau: "Fundação do Bureau Central de Combate à Corrupção"
+ POL_founding_of_central_anticorruption_bureau_desc: "Nossa corrupção é muito alta, mas não significa que não vai crescer mais. Temos que estabelecer uma instituição que tente combater a alta corrupção na Polônia."
+
+ POL_help_from_brics: "Ajuda da Rússia"
+ POL_help_from_brics_desc: "A Rússia é nosso vizinho do norte e também é uma nação forte. Precisamos obter apoio estrangeiro para erradicar nossa corrupção. Talvez seja a hora de pedir ajuda a eles?"
+
+ POL_help_from_germany: "Ajuda da Alemanha"
+ POL_help_from_germany_desc: "Nosso vizinho ocidental faz parte da UE. Precisamos de mais ajuda com nossa corrupção, mas a Rússia provavelmente não vai nos ajudar. Estamos na UE, então podemos enviar nossos diplomatas a Berlim."
+
+ POL_join_the_sco: "Junte-se ao SCO"
+ POL_join_the_sco_desc: "A Organização de Cooperação de Xangai é uma organização política, econômica e de segurança da Eurásia. Devemos nos juntar a ela depois de apoiar o BRICS, para que possamos expandir nosso desenvolvimento e economia."
+
+ POL_expand_rural_roads: "Expandir Estradas Rurais"
+ POL_expand_rural_roads_desc: "Nossas regiões rurais do país não são bem desenvolvidas. Elas têm estradas pequenas e muito antigas, e não muitas ferrovias. Precisamos focar nessas regiões para melhorar nossa economia lá."
+
+ POL_expand_highways: "Expandir rodovias"
+ POL_expand_highways_desc: "Se quisermos melhorar a eficiência de nossos reforços e entregas, obviamente temos que expandir nossas rodovias."
+
+ POL_silesian_industry: "Indústria da Silésia"
+ POL_silesian_industry_desc: "Depois da Segunda Guerra Mundial, a região mais industrializada da Polônia foi a Silésia. Ainda há muito espaço para mais fábricas e edifícios industriais, então ainda podemos expandir a indústria da Silésia."
+
+ POL_industrial_expansion: "Expansão Industrial"
+ POL_industrial_expansion_desc: "Nossa indústria é muito pior do que outras nações europeias. Precisamos reformá-la para iniciar a modernização das fábricas. Se fizermos isso, poderemos construir fábricas mais eficientes na Polônia."
+
+ POL_further_silesian_industry: "Maior expansão industrial na Silésia"
+ POL_further_silesian_industry_desc: "Agora, quando começamos a expandir a indústria na Silésia, devemos continuar para obter maiores benefícios com a produção."
+
+ POL_economy_revitalization: "Revitalização de nossa economia"
+ POL_economy_revitalization_desc: "A economia polonesa tem se recuperado lentamente após a queda do comunismo. Para continuar este crescimento, precisamos revitalizar nossa economia."
+ 
+ POL_arms_factories: "Fábricas de armas polonesas"
+ POL_arms_factories_desc: "Para melhorar a posição de nosso exército, precisamos continuar investindo em novas fábricas militares."
+ 
+ POL_more_arms_factories: "Maior Indústria de Armas"
+ POL_more_arms_factories_desc: "Nossa tentativa de armar nosso exército está indo bem até agora. Para garantir um sucesso geral, precisamos investir mais na indústria de armas."
+ 
+ POL_heavy_industry: "Indústria Polonesa Pesada"
+ POL_heavy_industry_desc: "Nunca devemos esquecer o passado. Devemos fazer um novo esforço na indústria militar. Com este projeto, vamos garantir que a Polônia nunca mais saia do mapa!"
+ 
+ POL_new_shipyards: "Novos Estaleiros"
+ POL_new_shipyards_desc: "Nossa força naval é fraca. Um investimento na indústria naval garantiria nossa capacidade de proteger o Mar Báltico, se necessário"
+ 
+ POL_more_shipyards: "Mais Estaleiros"
+ POL_more_shipyards_desc: "Nossos esforços na indústria naval foram significativos, mas para garantir o plano original, precisamos colocar um esforço final."
+ 
+ POL_idea_expanded_railway: "Infraestrutura Melhorada"
+ POL_idea_expanded_railway_desc: "Nossos esforços na modernização de nossa infraestrutura foram bem-sucedidos! Isso certamente ajudará nosso setor a crescer ainda mais rápido."
+ 
+ POL_expand_railway: "Expanda o sistema ferroviário"
+ POL_expand_railway_desc: "Estamos perto de modernizar nossa infraestrutura. Nossos esforços têm sido admiráveis, mas temos que fazer um esforço final para garantir um novo e excelente sistema ferroviário polonês."
+ 
+ POL_new_work_places: "Novos Locais de Trabalho"
+ POL_new_work_places_desc: "Nossa taxa de desemprego neste estágio atual precisa ser alterada. Precisamos abrir empregos para o povo da Polônia o mais rápido possível"
+ 
+ POL_polish_politics: "Promessa ao nosso pessoal"
+ POL_polish_politics_desc: "Para obter apoio político, devemos prometer mudanças ao nosso povo. Devemos prometer recuperação econômica e crescimento!"
+ 
+ POL_voice_of_people: "O Espírito Polonês"
+ POL_voice_of_people_desc: "O espírito polonês está mais forte do que nunca! O povo de nossa grande nação permaneceu forte e está pronto para reconstruir a Polônia juntos."
+ 
+ POL_polish_parliament: "Parlamento polonês"
+ POL_polish_parliament_desc: "Novas eleições parlamentares podem nos ajudar a ganhar mais estabilidade."
+ 
+ POL_new_factories: "Novas Fábricas"
+ POL_new_factories_desc: "Apresentar mais fábricas ao nosso povo certamente ajudará tanto na taxa de desemprego quanto na economia como um todo."
+ 
+ POL_silesian_industry_expansion: "Expansão da Indústria da Silésia"
+ POL_silesian_industry_expansion_desc: "A região da Silésia é muito valiosa para nossa nação. Investir em mais indústria nesta região certamente beneficiaria a economia"
+ 
+ POL_further_silesian_industry_expansion: "Desenvolvimento da Silésia"
+ POL_further_silesian_industry_expansion_desc: "Nossos investimentos na Silésia estão dando bons resultados. Investir mais no setor na região impulsionaria ainda mais nossa economia."
+ 
+ POL_arms_factories_silesia: "Fábricas de armas na Silésia"
+ POL_arms_factories_silesia_desc: "A região da Silésia deu um grande exemplo em investimento e desenvolvimento. Também poderíamos nos beneficiar de fábricas militares na região em crescimento."
+ 
+ POL_increase_steel_production_silesia: "Produção de aço na Silésia"
+ POL_increase_steel_production_silesia_desc: "A Silésia é uma região rica em minerais e recursos. Nossa economia certamente poderia se beneficiar se investíssemos em fábricas de recursos nesta região."
+ 
+ POL_increase_light_metals_production_silesia: "Metais leves na silésia"
+ POL_increase_light_metals_production_silesia_desc: "A Silésia tem um grande potencial na indústria de recursos. Investir na produção de metais leves pode impulsionar nossa economia."
+ 
+ POL_idea_gddkia: "GDDKiA"
+ POL_idea_gddkia_desc: "A administração GDDKiA está ajudando significativamente no desenvolvimento da infraestrutura polonesa."
+ 
+ POL_reform_state: "Começar as reformas"
+ POL_reform_state_desc: "A Polônia precisa de reformas. Precisamos mudar muitas coisas na Polônia para alcançar o Ocidente."
+ 
+ POL_reform_banking: "Reformar o sistema bancário"
+ POL_reform_banking_desc: "Nosso sistema bancário precisa de uma reforma. Quanto mais rápido conseguirmos reformá-lo, melhor. A reforma desse sistema agradará nosso povo e ajudará nossa economia."
+ 
+ POL_idea_reformed_state: "Reformas"
+ POL_idea_reformed_state_desc: "Estamos iniciando um grande programa de reforma na Polônia. Isso foi muito bem recebido pelo povo polonês."
+ 
+ POL_idea_need_of_reform: "Precisando de Reformas"
+ POL_idea_need_of_reform_desc: "A Polónia precisa profundamente de reformas. Estamos muito atrás do Ocidente neste estágio atual. Vamos trabalhar duro para alcançá-la!"
+ 
+ POL_idea_revanchism: "Rewanchizm"
+ POL_idea_revanchism_desc: "Uma das nossas principais prioridades para a Polónia agora é o revanchismo. Vamos tornar a Polónia grande. Mais do que nunca, conquistaremos as terras próximas e estabeleceremos a supremacia."
+ 
+ POL_idea_bank_need_reform: "Necessidade de uma reforma bancária"
+ POL_idea_bank_need_reform_desc: "O sistema bancário polonês precisa de uma revisão. Isso está nos impedindo de fazer nosso setor crescer ainda mais."
+ 
+ POL_idea_reformed_bank: "Sistema Bancário Reformado"
+ POL_idea_reformed_bank_desc: "Reformamos nosso sistema de assinatura bancária, que foi um grande sucesso, fez nosso povo feliz e ajudou nossa economia a crescer!"
+ 
+ POL_education_reform: "Reforma da Educação"
+ POL_education_reform_desc: "Nosso sistema educacional precisa de uma reforma. Não apenas para agradar às pessoas, mas também para atender às nossas próprias necessidades."
+ 
+ POL_reform_industrial_system: "Reformar o sistema industrial"
+ POL_reform_industrial_system_desc: "Nosso sistema industrial precisa de uma reforma. Essa reforma não só traria empregos para o povo da Polônia. Também ajudaria no crescimento de nossa economia."
+ 
+ POL_idea_need_industrial_reform: "Necessidade de uma Reforma Industrial"
+ POL_idea_need_industrial_reform_desc: "Nossa nação precisa de uma Reforma Industrial o mais rápido possível. Atualmente, não podemos construir nossa indústria com eficiência suficiente."
+ 
+ POL_idea_reformed_industry: "Indústria Reformada"
+ POL_idea_reformed_industry_desc: "Reformamos com sucesso nossa indústria. Isso trouxe empregos para nosso povo e os satisfez. Também impulsionou o crescimento de nossa economia."
+ 
+ POL_new_solutions: "Novo rumo"
+ POL_new_solutions_desc: "É hora de seguir um novo caminho. Um caminho do nacionalismo, Um caminho do povo e da nação!"
+ 
+ POL_idea_nationalist_rise: "Ascensão do Nacionalismo"
+ POL_idea_nationalist_rise_desc: "A ideologia nacionalista está crescendo na Polônia. É claro que eles estão cansados de a Polônia ser uma nação fraca."
+ 
+ POL_idea_poland_first: "Polônia Primeiro"
+ POL_idea_poland_first_desc: "Nossa nação está agora na liderança de um governo nacionalista. Este governo prometeu que a Polônia virá de agora em diante em primeiro lugar."
+ 
+ POL_nationalist_propaganda: "Propaganda Nacionalista"
+ POL_nationalist_propaganda_desc: "Para convencer o povo da Polônia de nossas idéias, precisamos iniciar uma campanha de propaganda."
+ 
+ POL_change_political_course: "Discursos Nacionalistas"
+ POL_change_political_course_desc: "Se queremos que as pessoas se convertam aos nossos pontos de vista, precisamos iniciar discursos em todo o país. Precisamos explicar como nosso povo poderia estar vivendo em uma Polônia melhor. Uma Polônia sob o nacionalismo!"
+ 
+ POL_boycott_current_government: "Riot's Against The Government"
+ POL_boycott_current_government_desc: "Organizar motins contra o atual governo da Polônia certamente desestabilizará sua posição. Isso é crucial para o nosso movimento."
+ 
+ POL_new_future: "Nowa Przyszlosc"
+ POL_new_future_desc: "É hora de seguir em frente e construir um novo futuro para a Polônia e para o povo polonês!"
+ 
+ POL_complete_reform: "Finalize as reformas"
+ POL_complete_reform_desc: "Nosso programa de reforma foi amplamente bem-sucedido. Alcançamos novos patamares para nossa nação. Agora estamos nos estágios finais de nossa reforma!"
+ 
+ POL_build_new_universities: "Construir novas escolas"
+ POL_build_new_universities_desc: "Agora que alcançamos a maioria política, é hora de aumentarmos nossos gastos com educação nacional."
+ 
+ POL_cabinet_reform: "Reforma do Gabinete"
+ POL_cabinet_reform_desc: "Nosso gabinete político ainda não é totalmente adequado para nossos objetivos políticos. Reformá-lo nos custará em termos de corrupção, mas certamente valerá a pena."
+ 
+ POL_controll_media: "Controle a mídia"
+ POL_controll_media_desc: "A mídia tem um grande efeito em nossa população. Sua força precisa ser contida e utilizada por nós e somente por nós."
+ 
+ POL_national_army: "Exército Nacional"
+ POL_national_army_desc: "É hora de fazermos exercícios militares ao redor da Polônia. Devemos manter o exército com o máximo de força."
+ 
+ POL_polish_national_state: "Polskie Milicje"
+ POL_polish_national_state_desc: "Novas milícias polonesas estão sendo criadas. Elas nos apóiam totalmente e certamente ajudarão em conflitos futuros."
+ 
+ POL_democracy: "Demokracja"
+ POL_democracy_desc: "Desde a queda do comunismo na Polônia, temos nos recuperado muito sob o sistema democrático. Devemos trabalhar mais para impor a democracia na Polônia e garantir a liberdade de nosso povo!"
+ 
+ POL_pis: "§BPiS§!"
+ POL_pis_desc: "O partido Lei e Justiça é um partido conservador que prometeu libertar a Polônia da influência comunista do passado e reconstruí-la como uma república."
+ 
+ POL_farmers: "Agricultores"
+ POL_farmers_desc: "Os agricultores e a agricultura são uma grande parte da economia polaca e já o são há séculos. Eles merecem ser ouvidos!"
+ 
+ POL_po: "§YPO§!"
+ POL_po_desc: "A Plataforma Cívica é um partido conservador libertário que é pró-UE e prometeu melhorar a qualidade de vida do povo polonês."
+ 
+ POL_abortion_ban: "Aborto Estrito"
+ POL_abortion_ban_desc: "O aborto é um ato moralmente errado, não podemos permitir que seja usado com a frequência com que é atualmente. Devemos restringir a lei e salvar todas as vidas inocentes que estão sendo tiradas!"
+ 
+ POL_family: "500+"
+ POL_family_desc: "Nosso tão aguardado programa 500+ está pronto para ser entregue ao povo! Vamos ajudar todos aqueles que lutam financeiramente, ao mesmo tempo que fortalecemos nossa posição política."
+ 
+ POL_defense: "Defesa"
+ POL_defense_desc: "Nosso orçamento militar atual é muito baixo! Nossa história mostra que nossa nação está sempre vulnerável a invasões estrangeiras! Sob o PiS, isso nunca mais acontecerá!"
+ 
+ POL_lustration: "Lustracja"
+ POL_lustration_desc: "A lustração é necessária na Polônia! Precisamos realizar uma série de expurgos em nosso governo atual, que ainda fede ao comunismo do passado e sua influência."
+ 
+ POL_loosen_abortion: "Aborto Livre"
+ POL_loosen_abortion_desc: "O aborto precisa ser afrouxado! As mulheres são donas de seus próprios corpos e precisam ser capazes de escolher quando e como o capítulo da maternidade começa para elas."
+ 
+ POL_schools: "Escolas"
+ POL_schools_desc: "O sistema educacional na Polônia tem muito potencial. Precisamos investir mais dinheiro nele e garantir que todos os poloneses tenham as melhores chances na vida!"
+ 
+ POL_hospitals: "Cuidados de saúde"
+ POL_hospitals_desc: "Depois que o comunismo caiu, a Polônia começou a reformar o sistema de saúde e enquanto a expectativa de vida crescia, o sistema como um todo ainda precisa de financiamento."
+ 
+ POL_seniors: "Idosos"
+ POL_seniors_desc: "Os idosos na Polônia foram roubados de muitas coisas. Eles merecem muito mais e vamos garantir que eles recebam o apoio de que precisam!"
+ 
+ POL_new_jobs: "Novos empregos"
+ POL_new_jobs_desc: "É hora de reduzir o desemprego. Vamos fornecer mais empregos para os desempregados poloneses!"
+ 
+ POL_maintain_the_course: "Manter o progresso"
+ POL_maintain_the_course_desc: "Fizemos um grande progresso. É hora de continuar nosso caminho para o desenvolvimento da Polônia."
+ 
+ POL_reaffirm_nato_membership: "Conversa com a OTAN"
+ POL_reaffirm_nato_membership_desc: "Precisamos continuar as negociações com a OTAN e todos os membros. Um relacionamento mais forte nos ajudará a garantir uma defesa mais forte contra uma possível invasão."
+ 
+ POL_nato_military_aid: "Ajuda Militar"
+ POL_nato_military_aid_desc: "A OTAN ofereceu construir uma fábrica de armas militares na Polônia. Eles cobrirão os custos e nos ajudarão a construir nosso próprio equipamento!"
+ 
+ POL_request_weapons_from_usa: "Armas dos EUA"
+ POL_request_weapons_from_usa_desc: "Os Estados Unidos nos ofereceram 1.500 unidades da American M4 Carabine. Este é um ótimo negócio para um estoque de equipamentos de qualidade!"
+ 
+ POL_nato_military_trainings: "Treinamento da OTAN"
+ POL_nato_military_trainings_desc: "A OTAN ofereceu-se para realizar sessões de treinamento sem militares. Esta é uma grande oportunidade para nossas forças terrestres!"
+ 
+ POL_nato_air_exercises: "Exercícios Aéreos"
+ POL_nato_air_exercises_desc: "A experiência da OTAN é necessária quando se trata de nossa força aérea. Eles nos ajudarão a melhorar nossa força aérea e suas capacidades."
+ 
+ POL_fortify_russian_border: "Fortes de Kaliningrado"
+ POL_fortify_russian_border_desc: "Nossa fronteira com a Rússia é preocupante. Ao longo de toda a nossa história, essa fronteira provou ser perigosa. É hora de tomar medidas e fortalecer a fronteira!"
+ 
+ POL_nato_divisions: "Tropas da OTAN"
+ POL_nato_divisions_desc: "A OTAN ofereceu implantar uma divisão na Grande Polônia. Esta divisão garantirá a defesa da Polônia contra invasores em potencial."
+ 
+ POL_polish_nato_restructures: "Táticas da OTAN"
+ POL_polish_nato_restructures_desc: "As táticas de defesa da OTAN devem ser adotadas em nossas táticas para fornecer a melhor defesa militar para a Polônia."
+ 
+ POL_idea_nato_training: "Táticas da OTAN"
+ POL_idea_nato_training_desc: "As táticas recentemente adotadas pela OTAN fornecem um impulso para a defesa potencial de nossa nação."
+ 
+ POL_idea_strict_abortion: "Aborto Estrito"
+ POL_idea_strict_abortion_desc: "Nossas leis de aborto recentemente restritas proporcionaram um grande impulso ao crescimento populacional às custas de nossa postura política."
+ 
+ POL_idea_loose_abortion: "Leis de Aborto Afrouxadas"
+ POL_idea_loose_abortion_desc: "Abrimos novas possibilidades para as mulheres polonesas ao custo de diminuir nosso crescimento populacional."
+ 
+ POL_idea_european_companies: "Empresas Européias"
+ POL_idea_european_companies_desc: "As empresas recém-convidadas têm ajudado muito a nossa economia. Estão acelerando nossos esforços de construção!"
+ 
+ POL_idea_defensive_army: "Exército Defensivo"
+ POL_idea_defensive_army_desc: "Nossos últimos investimentos militares nos proporcionaram uma capacidade maior de defender as terras de nossa nação."
+ 
+ POL_radicalcamp: "Falanga"
+ POL_radicalcamp_desc: "O National Radical Camp é um movimento falangista e tem crescido em popularidade desde a nossa mudança para o nacionalismo."
+ 
+ POL_monarchy: "Korona"
+ POL_monarchy_desc: "A monarquia polonesa foi abolida após a partição da Polônia. Muitos de nossos monarcas eram nobres e grandes líderes. A Polônia estava em seu ponto mais forte durante os tempos de monarca. É hora de retornar à monarquia?"
+ 
+ POL_prepare_to_join_eu: "Preparações da UE"
+ POL_prepare_to_join_eu_desc: "Precisamos fazer preparativos para ingressar na União Europeia."
+ 
+ POL_accesion_treaty: "Liberdade de movimento irrestrita"
+ POL_accesion_treaty_desc: "Depois de ingressar na §Y [EUU.GetFlag] União Europeia§! Existiam disposições transitórias sobre a liberdade de circulação dos trabalhadores na União Europeia. Isto tem de acabar agora, os trabalhadores polacos precisam dos mesmos direitos que os seus colegas europeus."
+ 
+ POL_befriend_european_powers: "Relações Européias"
+ POL_befriend_european_powers_desc: "Precisamos garantir relações positivas com os atuais membros europeus, isso pode facilitar nossa entrada."
+ 
+ POL_improve_trade_relations_with_eu: "Relações Comerciais"
+ POL_improve_trade_relations_with_eu_desc: "Precisamos expandir nossas relações comerciais com o resto do mundo. Isso garantiria que possamos vender nossos recursos a todas as nações que poderiam estar potencialmente interessadas."
+ 
+ POL_join_eu: "Melhorar as relações com as instituições da UE"
+ POL_join_eu_desc: "É hora de nos aproximarmos das poderosas instituições da UE e dos Estados membros que as apóiam."
+ 
+ POL_european_economic_cooperation: "Cooperação Econômica"
+ POL_european_economic_cooperation_desc: "A UE está disposta a investir na Polônia e nos apoiar financeiramente."
+ 
+ POL_skip_euro: "Investir em fábricas europeias"
+ POL_skip_euro_desc: "Temos acesso ao Mercado Único Europeu. Devemos investir em alguns projetos da §YFábrica Civil§ !."
+ 
+ POL_introduce_euro: "Investir nas estradas europeias"
+ POL_introduce_euro_desc: "Temos acesso ao Mercado Único Europeu. Devemos investir em alguns projetos de §YInfraestrutura§ !."
+ 
+ POL_invite_european_automotives: "Fábricas da UE"
+ POL_invite_european_automotives_desc: "A UE está disposta a abrir fábricas em toda a Polônia. Isso nos trará crescimento e diminuirá o desemprego."
+ 
+ POL_european_investments: "Investimento Europeu"
+ POL_european_investments_desc: "A UE está disposta a nos dar mais investimentos financeiros. Isso terá um tributo político sobre nós, mas aumentará nosso crescimento."
+ 
+ POL_invite_famous_european_brands: "Convidar empresas da UE"
+ POL_invite_famous_european_brands_desc: "Precisamos nos abrir para as empresas gigantes da UE. Eles certamente estariam interessados em desenvolver ainda mais suas marcas na Polônia."
+ 
+ POL_european_infrastructure_investments: "Estradas da UE"
+ POL_european_infrastructure_investments_desc: "A Polônia não é conhecida por ter um bom sistema de infraestrutura. A UE está disposta a desenvolver ainda mais a infraestrutura de nossa nação."
+ 
+ POL_closer_ties_with_neighbours: "Influência Regional"
+ POL_closer_ties_with_neighbours_desc: "Estabelecer mais influência na região é um passo para retornar a Polônia a uma posição significativa na Europa e também no mundo."
+ 
+ POL_visegrad_trade_cooperation: "Nações Visegrad"
+ POL_visegrad_trade_cooperation_desc: "As nações de Visegrado são provavelmente os aliados mais próximos da Polônia. Mantivemos relações muito boas e fomos parceiros para nos libertarmos da União Soviética."
+ 
+ POL_baltics_trade_cooperation: "Nações Bálticas"
+ POL_baltics_trade_cooperation_desc: "Os países bálticos (especialmente a Lituânia) têm uma longa história com nossa nação. Muitos de nossos anos foram passados juntos sob a comunidade."
+ 
+ POL_balkan_trade_cooperation: "Nações dos Balcãs"
+ POL_balkan_trade_cooperation_desc: "As nações dos Bálcãs sempre estiveram próximas da Polônia. Muitas de nossas guerras foram travadas juntas e elas tiveram um papel significativo na expulsão dos otomanos da Europa."
+ 
+ POL_develop_visegrad: "Desenvolva o Visegrad"
+ POL_develop_visegrad_desc: "Desenvolver as nações de Visegrad custará muito dinheiro, mas com certeza valerá a pena no final."
+ 
+ POL_develop_baltics: "Desenvolva o Báltico"
+ POL_develop_baltics_desc: "O desenvolvimento das nações bálticas custará uma grande quantidade de dinheiro, mas certamente valerá a pena no final."
+ 
+ POL_develop_balkans: "Desenvolver os Balcãs"
+ POL_develop_balkans_desc: "O desenvolvimento das nações dos Bálcãs custará uma grande quantia de dinheiro, mas certamente valerá a pena no final."
+ 
+ POL_invite_neighbourhood_companies: "Fábricas Estrangeiras"
+ POL_invite_neighbourhood_companies_desc: "Nosso esforço em desenvolver nossos países vizinhos nos custou muito dinheiro, mas agora está valendo a pena. Os empregos criados nesses países resultaram em um grande crescimento de nossa indústria."
+ 
+ POL_old_sphere: "Esfera Velha"
+ POL_old_sphere_desc: "Agora que restauramos a monarquia, podemos começar a pensar em restaurar nossa antiga esfera."
+ 
+ POL_lithuanian_politics: "Política Lituana"
+ POL_lithuanian_politics_desc: "Investir dinheiro para influenciar a política lituana certamente nos dará mais poder em seus assuntos."
+ 
+ POL_buy_lit_industry: "Indústria Lituana"
+ POL_buy_lit_industry_desc: "A compra de setores da indústria lituana custará muito dinheiro, mas certamente nos dará mais poder em seus negócios."
+ 
+ POL_lit_aid: "Ajuda da Lituânia"
+ POL_lit_aid_desc: "Enviar ajuda para desenvolver a Lituânia definitivamente nos daria mais influência sobre sua nação e seus assuntos."
+ 
+ POL_return_of_plc: "Reunificação"
+ POL_return_of_plc_desc: "Agora que influenciamos a Lituânia a ponto de termos um papel importante nos negócios deles, enviaremos uma oferta de reunificação."
+ 
+ POL_form_plc: "Forma Polônia-Lituânia"
+ POL_form_plc_desc: "É hora da Lituânia se integrar ao Reino da Polônia. Seu estado fantoche é fraco e seria muito mais benéfico sob nosso controle direto."
+ 
+ POL_liberal_monarch: "Abordagem Liberal"
+ POL_liberal_monarch_desc: "Uma abordagem liberal para as novas políticas da monarquia certamente melhoraria a visão de nossa nação aos olhos do povo e de outras nações. Embora esse caminho tornasse mais difícil prosseguir com a guerra."
+ 
+ POL_new_schools: "Novas Escolas"
+ POL_new_schools_desc: "Novas escolas não serão apenas benéficas para a própria nação, mas também para nossa reputação e popularidade."
+ 
+ POL_monarch_new_jobs: "Luta contra o desemprego"
+ POL_monarch_new_jobs_desc: "A taxa de desemprego na Polônia não é grande. Oferecer novos empregos para as pessoas aumentará nossa popularidade, mas também fortalecerá nossa economia."
+ 
+ POL_monarch_welfare: "Políticas de Bem-Estar"
+ POL_monarch_welfare_desc: "Novas políticas de bem-estar social aumentarão nossa popularidade, mas também possivelmente aumentarão os gastos em nosso país."
+ 
+ POL_monarch_healthcare: "Melhor Saúde"
+ POL_monarch_healthcare_desc: "A saúde polonesa não é a pior do mundo, mas pode melhorar. Aumentar os gastos fortaleceria nossa posição."
+ 
+ POL_multichristianity: "Unidade Religiosa"
+ POL_multichristianity_desc: "A Polônia tem uma maioria católica, mas abrir nossos braços para todas as outras igrejas do cristianismo nos daria mais estabilidade."
+ 
+ POL_nationalist_monarch: "Abordagem Nacionalista"
+ POL_nationalist_monarch_desc: "Uma abordagem mais nacionalista não seria ideal para a população da Polônia, mas certamente aumentaria a força de nossa nação e nossas capacidades na guerra."
+ 
+ POL_monarch_factories: "Empregos militares"
+ POL_monarch_factories_desc: "Construir novas fábricas nos ajudaria a produzir mais equipamentos para nossa nação."
+ 
+ POL_conscription: "Recrutamento"
+ POL_conscription_desc: "Mudar a lei de recrutamento em nossa nação é necessário para nossos planos de conquista."
+ 
+ POL_monarch_army: "Gastos militares"
+ POL_monarch_army_desc: "Precisamos aumentar os gastos de nossos militares se quisermos ter alguma chance de enfrentar as grandes potências."
+ 
+ POL_expansion_policies: "Intervencionismo"
+ POL_expansion_policies_desc: "Mudar nossas políticas regionais facilitaria o processo de justificar a guerra para nosso povo e para o resto do mundo."
+ 
+ POL_catholicism: "Catolicismo"
+ POL_catholicism_desc: "A verdadeira fé é tudo de que precisamos. As outras religiões heréticas não são necessárias na Polônia. Fazer do catolicismo a religião oficial nos daria mais poder, mas enfraqueceria ligeiramente nossa posição."
+ 
+ POL_old_land: "Terra Velha"
+ POL_old_land_desc: "Agora é hora de recuperar nossa terra perdida e tomar novas terras para nossa nação!"
+ 
+ POL_kourland: "Courland"
+ POL_kourland_desc: "Nossas antigas terras na região da Letônia agora são reivindicadas por nós. É hora de reivindicar nossas antigas terras!"
+ 
+ POL_ukranian_lands: "Galicia-Volhynia"
+ POL_ukranian_lands_desc: "A Comunidade costumava consistir em grande parte de terras ucranianas. É hora de reclamar nossa antiga terra!"
+ 
+ POL_grodno: "Rússia Branca"
+ POL_grodno_desc: "Bielo-Rússia costumava ser parte da Polônia. É hora de recuperar nossas antigas terras!"
+ 
+ POL_moscow: "Powrót Do Moskwy"
+ POL_moscow_desc: "A Rússia desempenhou um grande papel na queda da Polônia. Eles também detêm algumas de nossas antigas terras na Prússia. É hora de nos vingarmos e recuperar nossas antigas terras!"
+ 
+ POL_revanchism: "Revanchismo"
+ POL_revanchism_desc: "Nossa visão de uma Polônia maior só pode ser alcançada se buscarmos o ato de Revanchismo."
+ 
+ POL_attacklit: "Wilno"
+ POL_attacklit_desc: "Wilno fazia parte da Polônia antes das mudanças na fronteira soviética. É hora de recuperar nossas terras perdidas."
+ 
+ POL_attackukraine: "Lwów"
+ POL_attackukraine_desc: "Lwów costumava ser uma das principais cidades polonesas. Esta região foi tirada de nós pelos soviéticos. É hora de recuperar nossas terras perdidas."
+ 
+ POL_attackgermany: "Zemsta"
+ POL_attackgermany_desc: "É hora de nos vingarmos dos alemães. O que sua nação fez a nós e à nossa é imperdoável. É hora de vingar os poloneses caídos."
+ 
+ POL_attackbelarus: "Bielo-Rússia Ocidental"
+ POL_attackbelarus_desc: "O oeste da Bielorrússia fez parte da Polônia por séculos. É hora de recuperar nossa terra perdida"
+ 
+ POL_attackrussia: "Revenge For 1939"
+ POL_attackrussia_desc: "A Rússia foi tão responsável quanto a Alemanha pela queda da Polônia em 1939. É hora de recuperar nossa terra perdida e obter nossa vingança."
+ 
+ POL_polish_military: "Forças Armadas Polonesas"
+ POL_polish_military_desc: "É hora de começar a modernizar nossas forças armadas."
+ 
+ POL_land_forces: "Wojska Ladowe"
+ POL_land_forces_desc: "As Forças Terrestres Polonesas são um ramo militar das Forças Armadas Polonesas. É hora de começar a modernizá-las."
+ 
+ POL_polish_guns: "Armas polonesas"
+ POL_polish_guns_desc: "É hora de começar a pesquisar armas de fabricação polonesa"
+ 
+ POL_armour: "Armadura Polonesa"
+ POL_armour_desc: "Devemos começar a pesquisar tanques poloneses e parar de depender de tanques estrangeiros."
+ 
+ POL_doctrine: "Novas Táticas"
+ POL_doctrine_desc: "Pesquisar novas doutrinas é um passo fundamental para fortalecer nossas Forças Terrestres."
+ 
+ POL_mechanized: "IFV"
+ POL_mechanized_desc: "Novos IFVs certamente fortaleceriam nossas Forças Terrestres"
+ 
+ POL_drones: "Drones"
+ POL_drones_desc: "Novos drones de fabricação polonesa serviriam muito bem às nossas Forças Terrestres."
+ 
+ POL_grom: "GROM"
+ POL_grom_desc: "Novos equipamentos para nossas forças especiais como GROM são necessários."
+ 
+ POL_defensive_army: "Exército Defensivo"
+ POL_defensive_army_desc: "A doutrina defensiva que desenvolvemos recentemente é estrategicamente viável. Isso nos ajudará a defender nossa nação."
+ 
+ POL_airforce: "Wojska Lotnicze"
+ POL_airforce_desc: "A Força Aérea Polonesa precisa de algumas atualizações e modernização."
+ 
+ POL_jets: "Jatos poloneses"
+ POL_jets_desc: "Nossas aeronaves podem ser consideradas desatualizadas em muitas áreas. Um novo esforço de pesquisa deve ser feito se quisermos modernizar nossa força aérea."
+ 
+ POL_airdoctrine: "Doutrina do Ar"
+ POL_airdoctrine_desc: "Precisamos treinar nossos pilotos com novas doutrinas aéreas. Dessa forma, podemos ter certeza de que nossas batalhas aéreas serão travadas com eficiência."
+ 
+ POL_airbase: "Nova Base Aérea"
+ POL_airbase_desc: "Se quisermos proteger nossos céus contra invasores estrangeiros em potencial, precisamos construir mais bases aéreas para nossas aeronaves."
+ 
+ POL_bomber: "Bombardeiros poloneses"
+ POL_bomber_desc: "Novos projetos de bombardeiros poloneses certamente fortaleceriam nossa força aérea e apoiariam nossas tropas terrestres."
+ 
+ POL_airfactory2: "Fábricas de aeronaves"
+ POL_airfactory2_desc: "Construir novas fábricas com o propósito de fabricar aeronaves seria perfeito para aprimorar nossa força aérea."
+ 
+ POL_airfactory: "Novas fábricas militares"
+ POL_airfactory_desc: "Novas fábricas militares não apenas nos ajudarão a construir novas aeronaves, mas também poderão ser utilizadas para outros equipamentos."
+ 
+ POL_navy: "Marynarka Wojenna"
+ POL_navy_desc: "A Marinha polonesa é um braço militar das Forças Armadas polonesas. É bastante fraca e devemos ter tempo para melhorá-la."
+ 
+ POL_frigate: "Destruidores Poloneses"
+ POL_frigate_desc: "Uma das classes de navios mais importantes são os destruidores. Devemos aumentar a pesquisa que está sendo feita neles e desenvolver classes de marca polonesa."
+ 
+ POL_frigate2: "Fragatas Polonesas"
+ POL_frigate2_desc: "O desenvolvimento de novas fragatas de fabricação polonesa deve estar no topo de nossa prioridade quando se trata de melhorar a marinha."
+ 
+ POL_new_port: "Produção Naval"
+ POL_new_port_desc: "Para produzir mais navios para a nossa marinha, precisamos investir em estaleiros navais".
+ 
+ POL_new_dockyard: "Estaleiros"
+ POL_new_dockyard_desc: "Precisamos continuar nosso investimento em estaleiros se quisermos uma marinha realmente respeitável."
+ 
+ POL_submarine: "Submarinos poloneses"
+ POL_submarine_desc: "Os submarinos são muito importantes para a nossa marinha. Novos modelos poloneses precisam ser desenvolvidos."
+ 
+ POL_submarine2: "Okrety Podwodne"
+ POL_submarine2_desc: "Nossos esforços submarinos precisam ser continuados para garantir uma marinha forte para nossa nação."
+ 
+ POL_carriers: "Transportadoras polonesas"
+ POL_carriers_desc: "Juntamente com os esforços de nossa força aérea, novos porta-aviões poloneses podem ser o fator decisivo para possíveis batalhas futuras na água."
+ 

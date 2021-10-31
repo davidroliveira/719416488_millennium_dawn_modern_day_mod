@@ -1,0 +1,5 @@
+l_english:
+ BUY_EQUIPMENT_TOOLTIP: "Compre equipamentos de [From.GetNameDef]."
+ BUY_EQUIPMENT_TOOLTIP_DELAYED: "§GREQUISITOS:"
+ 
+ EP_COST_TOOLTIP: "Custo de aquisição deste equipamento"

@@ -1,0 +1,8 @@
+l_english:
+ TRADE_ALL_FACTORY_OUT_TITLE:00 "Todas as Indústrias para o Comércio"
+ TRADE_ALL_FACTORY_OUT_DESC:00 "Tem certeza de que deseja que todas as suas indústrias produzam bens comerciais? \ N \ nVocê não poderá construir nenhum edifício!"
+ TRADEOFFER_FACTORIES_DESC_LABEL:00 "Comprar valor: $ VALUE | Y $ \ nPara Indústrias Civis: $ CIC | Y $"
+ LACK_OF_CIVIL_FACTORIES:00 "Por falta de Indústrias Civis."
+ TRADE_CAN_TRADE_TOOLTIP:00 "Temos um total de $ TOT | H $ Indústrias civis. $ VAL | H $ são necessários para financiar nosso Orçamento do Governo, deixando-nos com $ TRADE | H $ disponíveis para o comércio. \ N \ nNote que você não pode negociar indústrias recebidos das exportações comerciais e que o comércio de indústrias impedirá que sejam usados para a construção. "
+ TRADE_WARNING:00 "Este negócio usará indústrias que atualmente estão construindo edifícios."
+ TRADE_CIV_FACTORIES:00 "Indústrias Civis"

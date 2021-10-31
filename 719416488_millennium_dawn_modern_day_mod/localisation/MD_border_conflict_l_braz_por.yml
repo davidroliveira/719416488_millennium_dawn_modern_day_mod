@@ -1,0 +1,96 @@
+l_english:
+ md4_border_conflict_initiate_incident: "Etapa de incidente na fronteira [From.From.GetName]"
+ md4_border_conflict_incident_warning_defender: "Incidente na fronteira [From.From.GetName] para [From.GetNameDef]"
+ md4_border_conflict_incident_warning_defender_desc: "§WMove divisões para §H [From.From.GetName] §! §!"
+ md4_border_conflict_escalation_warning_defender: "Incidente na fronteira [From.From.GetName] para [From.GetNameDef]"
+ md4_border_conflict_escalation_warning_defender_desc: "§WMaintain divisões em §H [From.From.GetName] §! \ N§H [From.GetNameDef] §! Pode escalar para um §HBorder Conflict§! § !."
+ escalation_possible_tooltip_for_defender: "§H [From.GetNameDef] §! Pode escalar o incidente para um §HBorder Conflict§!. \ NNós perderemos instantaneamente se não tivermos divisões no estado \ n"
+ effects_if_border_conflict_is_lost: "§HE afeta se o conflito de fronteira for perdido§!: \ N"
+ from_cannot_escalate: "§H [From.GetNameDef] §! Não pode mais ser escalado para um §HBorder Conflict§!. \ N \ n"
+ md4_escalate_incident_to_border_conflict: "Escalar para conflito de fronteira com [From.GetName]"
+ md4_border_incident_forgotten: "Incidente em [From.From.GetName] esquecido"
+ md4_border_incident_delay_until_new_incident_120: "Não é possível encenar um novo incidente contra §H [From.GetName] §! Por §H120§! Dias. \ N"
+ md4_border_incident_delay_until_new_incident_180: "Não é possível encenar um novo incidente contra §H [From.GetName] §! Por §H180§! Dias. \ N"
+ md4_border_conflict_time_until_cancelled: "Sem progresso em [From.From.GetName]"
+ md4_border_conflict_back_out_of_conflict: "Retirar-se do conflito"
+ md4_border_conflict_escalate_conflict: "Escalar Conflito"
+ md4_border_conflict_escalate_to_war: "Escalar para a guerra"
+ defensive_border_conflict_won: "Conflito defensivo de fronteira ganho"
+ not_initiated_border_incident_with_FROM: "Não iniciou um incidente de fronteira com [From.GetNameDef]"
+ not_initiated_border_incident_with_ROOT: "Não iniciou um incidente de fronteira com [Root.GetNameDef]"
+ at_least_one_division_in_state: "Pelo menos §H1§! Divisão no Estado"
+ in_45_days: "Em 45 dias: \ n"
+ border_incident_active: "Os estados não têm um incidente de fronteira ativo"
+ 
+ ### ^^^ Estas são para decisões ^^^ ###
+
+#### # # ### # # ### ##
+## # # # ## # # #
+### # # ## # ## # #
+## # # # # # # #
+#### # ### # # # ##
+ md4_border_conflict_won_attacker.1.t: "Vitória em [seu_estado.GetName]"
+ md4_border_conflict_won_attacker.1.desc: "O confronto nas fronteiras entre [nosso_estado.GetName] e [seu_estado.GetName] viu nossas forças ganharem uma vitória clara sobre as forças de [seu_país.GetLeader]. As forças de [seu_país.GetAdjetivo] voltaram a se reagrupar, e nossos forças tomaram o controle da área disputada. "
+ md4_border_conflict_won_attacker.1.a: "Mostramos a eles nossa força!"
+ md4_border_conflict_won_defender.1.t: "Vitória em [seu_estado.GetName]"
+ md4_border_conflict_won_defender.1.desc: "O confronto nas fronteiras entre [nosso_estado.GetName] e [seu_estado.GetName] viu nossas forças ganharem uma vitória clara sobre as forças de [seu_país.GetLeader]. As forças de [seu_país.GetAdjetivo] voltaram a se reagrupar, e nossos forças tomaram o controle da área disputada. "
+ md4_border_conflict_won_defender.1.a: "Mostramos a eles nossa força!"
+ md4_border_conflict_lost_attacker.1.t: "Derrota em [our_state.GetName]"
+ md4_border_conflict_lost_attacker.1.desc: "Forças sob o comando de [seu_estado.GetLeader] conseguiram nos empurrar para fora da área disputada entre [nosso_estado.GetName] e [seu_estado.GetName]. Nossas forças recuaram em boa ordem e estão se reorganizando, se quisermos renovar o batalha no futuro. "
+ md4_border_conflict_lost_attacker.1.a: "Devemos contra-atacar o mais rápido possível!"
+ md4_border_conflict_lost_defender.1.t: "Derrota em [our_state.GetName]"
+ md4_border_conflict_lost_defender.1.desc: "Forças sob o comando de [seu_estado.GetLeader] conseguiram nos empurrar para fora da área disputada entre [nosso_estado.GetName] e [seu_estado.GetName]. Nossas forças recuaram em boa ordem e estão se reorganizando, se quisermos renovar o batalha no futuro. "
+ md4_border_conflict_lost_defender.1.a: "Devemos contra-atacar o mais rápido possível!"
+ md4_border_conflict_canceled_attacker.1.t: "Impasse em [seu_estado.GetName]"
+ md4_border_conflict_canceled_attacker.1.desc: "A luta na área [nosso_estado.GetName] - [seu_estado.GetName] foi interrompida porque ambos os lados provaram ser incapazes de desalojar o outro. Pouco território foi conquistado por qualquer um dos lados. Escuteiros relatam que o [seu_país.GetAdjetivo ] soldados do outro lado estão cavando em terreno defensivo. Parece que eles pretendem manter o território que possuem, mas provavelmente não irão empurrar contra nossas linhas. "
+ md4_border_conflict_canceled_attacker.1.a: "Nós vamos voltar."
+ md4_border_conflict_canceled_defender.1.t: "Impasse em [seu_estado.GetName]"
+ md4_border_conflict_canceled_defender.1.desc: "A luta na área [nosso_estado.GetName] - [seu_estado.GetName] foi interrompida porque ambos os lados provaram ser incapazes de desalojar o outro. Pouco território foi conquistado por qualquer um dos lados. Escuteiros relatam que o [seu_país.GetAdjetivo ] soldados do outro lado estão cavando em terreno defensivo. Parece que eles pretendem manter o território que possuem, mas provavelmente não irão empurrar contra nossas linhas. "
+ md4_border_conflict_canceled_defender.1.a: "Nós vamos voltar."
+ md4_border_incident_defender_warning.1.t: "[From.GetNameDefCap] ameaça nossa fronteira"
+ md4_border_incident_defender_warning.1.desc: "No início de ontem, soldados de [seu_país.GetAdjective] foram vistos cruzando a fronteira de [estado_do_assinador.GetName] para [defender_estado.GetNome]. Durante a noite, mais forças de [seu_país.GetAdjetivo] invadiram a área e estabeleceram posições defensivas dentro nosso território. \ n \ nIsso segue uma série de escaramuças menores e violações de fronteira por forças sob o comando de [seu_país.GetLeader] ao longo de nossa fronteira compartilhada. \ n \ nDesta vez, no entanto, está claro que o [seu_país.GetAdjetivo ] as forças estão aqui para ficar. Devemos enviar forças para a região o mais rápido possível para verificar seu avanço. "
+ md4_border_incident_defender_warning.1.a: "Mobilize todas as forças disponíveis!"
+ md4_border_conflict_escalate_to_war.1.t: "[From.GetNameDefCap] está se mobilizando para a guerra"
+ md4_border_conflict_escalate_to_war.1.desc: "Relatórios de reconhecimento indicam que as forças de [From.GetAdjective] estão se aglomerando dentro de [seu_estado.GetName] para uma grande operação para se aprofundar em [nosso_estado.GetName]. Dada a quantidade de recursos [From.GetLeader] está disposto a gastar nesta aventura , está claro que isso não é mais uma mera disputa sobre a localização exata de uma linha de demarcação. \ n \ nUma guerra em escala total está no horizonte. "
+ md4_border_conflict_escalate_to_war.1.a: "Devemos estar prontos para enfrentá-los!"
+
+ ### Conflito Turquia-Rojava em Afrin
+ TUR_ob_win.1.t: "Operação Olive Branch bem-sucedida!"
+ TUR_ob_win.1.desc: "As forças do Exército Turco e Sírio Livre tomaram a região de Afrin dos terroristas YPG e PKK após o rápido cerco que se seguiu ao lançamento da operação. Sem Afrin, as forças curdas provavelmente não serão capazes de realizar grandes ataques nas proximidades de seus antiga fortaleza, embora a luta não termine aqui, pois o PKK, PYD e YPG estão insones e continuarão sua luta por talvez uma eternidade. "
+ TUR_ob_win.1.a: "A verdadeira ameaça ainda não foi abordada ..."
+ 
+ TUR_ob_win.2.t: "Forças turcas são repelidas!"
+ TUR_ob_win.2.desc: "Os demônios turcos nos rotulam como terroristas, então marcham para nossa terra na tentativa de matar centenas de combatentes curdos que estão lutando por uma Síria democrática, livre da ameaça do Daesh e livre da opressão curda. Afrin foi deixado intocado pelas mãos dos turcos como o YPG lutou com unhas e dentes para manter os turcos em sua própria fronteira, uma linha que eles nunca deveriam ter cruzado. Eles podem tentar tudo o que quiserem para cometer genocídio contra o povo curdo, mas enquanto continuarmos a luta contra a opressão, Turquia nunca vai ganhar. "
+ TUR_ob_win.2.a: "A luta não acaba aqui ..."
+ 
+ TUR_ob_lose.1.t: "Falha na Operação Olive Branch!"
+ TUR_ob_lose.1.desc: "O impulso para Afrin resultou em um fracasso estratégico, já que os terroristas curdos conseguiram conter nossas forças e expulsá-los da região. Por enquanto, as forças curdas permanecem no controle de seu reduto em Afrin e podem lançar ataques terroristas dentro de nossas fronteiras à vontade. Não podemos aceitar isso e devemos repensar nossa estratégia imediatamente se quisermos combater esses terroristas. "
+ TUR_ob_lose.1.a: "A luta não acabou..."
+ TUR_ob_lose.2.t: "Afrin cai para as forças turcas!"
+ TUR_ob_lose.2.desc: "Os turcos tiveram sucesso em sua missão de combater um oponente que nada tem a ver com a dissidência interna que cresce constantemente em seu próprio país. Deixamos claro desde o início que tudo o que queremos é um Curdistão livre de opressão, e uma nação democrática onde o povo pode ser ouvido. Isso é demais para os turcos, se eles querem lutar contra o oponente errado, então deixe assim, mas se Daesh conseguir vencer esta luta em todo o Levante, o sangue corre nas mãos da Turquia . "
+ TUR_ob_lose.2.a: "Eles nunca vão parar de lutar, e nem nós devemos."
+ 
+ TUR_ob_warn.1.t: "[From.GetLeader] Anuncia Campanha Anti-Curda"
+ TUR_ob_warn.1.desc: "[From.GetLeader] anunciou que as forças turcas serão enviadas para a região de Afrin em uma tentativa de estrangular as forças terroristas antes que possam nascer na região. O YPG está lutando contra o Daesh há quanto tempo? Os turcos nunca o farão entendem que o povo curdo quer apenas o que é certo para seu povo, mas infelizmente eles vêem isso como terrorismo. Se eles acreditarem que isso é algo que devem fazer, então, pela boa graça de Deus, estaremos lá para enfrentar suas forças com fé e coragem, e nos defenderemos até a morte. "
+ TUR_ob_warn.1.a: "Devemos estar prontos."
+ 
+ ## Crimeia Rússia ##
+ 
+ SOV_ob_win.1.t: "Homenzinhos verdes"
+ SOV_ob_win.1.desc: "Homenzinhos verdes"
+ SOV_ob_win.1.a: "Homenzinhos verdes"
+ 
+ SOV_ob_win.2.t: "Homenzinhos verdes"
+ SOV_ob_win.2.desc: "Homenzinhos verdes"
+ SOV_ob_win.2.a: "Homenzinhos verdes"
+ 
+ SOV_ob_lose.1.t: "Homenzinhos verdes"
+ SOV_ob_lose.1.desc: "Homenzinhos verdes"
+ SOV_ob_lose.1.a: "Homenzinhos verdes"
+ SOV_ob_lose.2.t: "Homenzinhos verdes"
+ SOV_ob_lose.2.desc: "Homenzinhos verdes"
+ SOV_ob_lose.2.a: "Homenzinhos verdes"
+ 
+ SOV_ob_warn.1.t: "[From.GetLeader] Anuncia Pequenos Homens Verdes"
+ SOV_ob_warn.1.desc: "[From.GetLeader] Pequenos Homens Verdes"
+ SOV_ob_warn.1.a: "Homenzinhos verdes"
