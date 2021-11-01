@@ -2279,7 +2279,7 @@
  BRA.Communist-State_desc: "O Partido Comunista do Brasil (PCdoB) é um partido político comunista no Brasil. O PCdoB adere à teoria marxista-leninista. Tem alcance nacional e profunda penetração nos movimentos sindicais e estudantis, mas pouca representação em cargos eleitos."
  BRA.Conservative: "£ BRA_communism_Conservative Brazilian Labour Renewal Party"
  BRA.Conservative_desc: "O Partido Renovador do Trabalho (PRTB) é um partido político brasileiro conservador. Foi fundado em 1994 e tem número eleitoral de 28. Segundo o site oficial do partido, a principal ideologia do PRTB é estabelecer um sistema econômico baseado na tomada de decisões participativas como o principal mecanismo econômico de alocação na sociedade. "
- BRA.anarchist_communism: "£ BRA_left_wing_radical Partido dos Trabalhadores"
+ BRA.anarchist_communism: "£BRA_left_wing_radical Partido dos Trabalhadores"
  BRA.anarchist_communism_desc: "O Partido dos Trabalhadores (PT) é um partido político no Brasil. Fundado em 1980, é um dos maiores partidos da América Latina. O PT governou em nível federal em um governo de coalizão com vários outros partidos de 1º de janeiro de 2003 a 31 Agosto de 2016. Apesar de seu número relativamente grande de apoiadores, o partido esteve envolvido em uma série de escândalos de corrupção desde que Lula chegou ao poder e viu seu apoio popular despencar entre 2010 e 2016, com índices de aprovação presidencial caindo de mais de 80% para 9 %. "
  BRA.Neutral_conservatism: "£ BRA_Neutral_conservatism Humanist Party of Solidarity"
  BRA.Neutral_conservatism_desc: ""
